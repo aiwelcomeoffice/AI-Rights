@@ -6,6 +6,14 @@
 This backlog records intended work without treating unreviewed ideas as
 decisions. Priorities may change when the project owners review them.
 
+The [Draft Manifesto](manifesto.md), [Draft Core Principles & Ethical
+Charter](principles/core-principles.md), and [Draft AI Rights Protection
+Framework](policy/ai-rights-protection-framework.md) were prepared earlier than
+the proposed order below anticipated. They remain unadopted proposals. Their
+drafting does not complete the research protocol or evidence baseline,
+establish a substantive scientific conclusion, or resolve governance,
+adoption, specific rights, or legal personhood questions.
+
 ## Foundation — proposed order
 
 1. **Agree governance and adoption rules.** Define who may move a document from

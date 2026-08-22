@@ -3,10 +3,36 @@
 This directory contains traceable working material. It is not, by itself, an
 endorsed evidence base or project position.
 
-- [`sources/`](sources/README.md) — one record per identifiable source
-- [`notes/`](notes/README.md) — reading and research notes tied to sources
-- [`syntheses/`](syntheses/README.md) — comparative drafts based on multiple
-  sources
+The [Draft research protocol](research-protocol.md) defines the proposed
+method for questions, terminology, source selection, evidence appraisal,
+verification, synthesis, uncertainty, and reproducibility. It is not adopted
+and does not itself establish any scientific conclusion.
+
+## Workspace map
+
+- [Sources](sources/README.md) — one record per identifiable source and
+  version; start with the [source template](sources/_template.md)
+- [Notes](notes/README.md) — reading and investigation notes tied to sources;
+  start with the [notes template](notes/_template.md)
+- [Syntheses](syntheses/README.md) — comparisons across multiple sources;
+  start with the [synthesis template](syntheses/_template.md)
+
+## Working method
+
+1. Register a scoped question and the evidence that could update a conclusion
+   in either direction.
+2. Search and screen under declared inclusion and exclusion criteria.
+3. Create source records and notes that separate source report from researcher
+   interpretation.
+4. Appraise evidence quality and independence without producing a
+   consciousness score.
+5. Compare multiple sources, including negative, null, contradictory, and
+   dependent findings.
+6. Verify consequential claims and quotations, preserve disagreement, and
+   record uncertainty and review triggers.
+
+Until the protocol is reviewed, records should name the Draft protocol version
+they use and must not imply that the method has been adopted.
 
 Reviewed outputs intended for publication belong in
 [`docs/research/`](../docs/research/README.md).
@@ -19,5 +45,5 @@ Reviewed outputs intended for publication belong in
 - Label uncertainty, disagreement, limitations, and missing verification.
 - Check quotations and high-impact claims against the original source.
 - Record when web-based material was accessed because it may change.
-
-Templates and detailed inclusion criteria remain a Foundation backlog item.
+- Never treat self-report, fluent language, emotional behavior, missing
+  evidence, or a missing alternative explanation as proof of experience.
