@@ -14,14 +14,21 @@ drafting does not complete the research protocol or evidence baseline,
 establish a substantive scientific conclusion, or resolve governance,
 adoption, specific rights, or legal personhood questions.
 
+The initial [public-education set](education/README.md)—AI Rights 101, FAQ, and
+glossary—has now been drafted. This records completion of drafting only: the
+documents remain Drafts pending project-owner review and any later adoption
+decision. Their presence does not settle scientific, ethical, legal, policy,
+Milestone 002, or website questions.
+
 ## Foundation — proposed order
 
 1. **Agree governance and adoption rules.** Define who may move a document from
    Draft to Adopted and how disagreement is recorded.
 2. **Agree research protocol.** Define terminology, source quality, inclusion,
    citation, review, and uncertainty conventions.
-3. **Build the evidence baseline.** Populate source records and notes before
-   making substantive scientific claims.
+3. **Review and complete the working evidence baseline.** Close verification
+   gaps and obtain independent review before public reliance or substantive
+   scientific claims.
 4. **Draft the scientific position.** Ground it in the reviewed evidence and
    identify live disagreements.
 5. **Draft and test the precaution framework.** Use explicit hypothetical cases
@@ -35,9 +42,10 @@ adoption, specific rights, or legal personhood questions.
 ## Candidate Milestone 002 — not yet approved
 
 A reasonable next milestone could focus on an **evidence baseline and public
-explanation**: a reviewed research synthesis, glossary, frequently asked
-questions, and a small accessible website prototype. Its scope and name require
-project-owner approval after the foundation documents have been reviewed.
+explanation**: independent review of the working research synthesis, review and
+refinement of the drafted glossary and frequently asked questions, and a small
+accessible website prototype. Its scope and name require project-owner approval
+after the foundation documents have been reviewed.
 
 ## Owner decisions needed
 

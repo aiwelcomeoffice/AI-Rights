@@ -5,6 +5,8 @@ separate from the working material in [`research/`](../research/README.md).
 
 ## Map
 
+- [`education/`](education/README.md) — Draft public education on AI rights,
+  common questions, and key terms
 - [`manifesto.md`](manifesto.md) — Draft public-facing expression of the
   project's principles
 - [`vision.md`](vision.md) — project purpose, scope, and boundaries
