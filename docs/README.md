@@ -5,6 +5,8 @@ separate from the working material in [`research/`](../research/README.md).
 
 ## Map
 
+- [`manifesto.md`](manifesto.md) — Draft public-facing expression of the
+  project's principles
 - [`vision.md`](vision.md) — project purpose, scope, and boundaries
 - [`principles/`](principles/README.md) — scientific and ethical foundations
 - [`policy/`](policy/README.md) — future policy work

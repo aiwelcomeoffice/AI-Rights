@@ -65,6 +65,7 @@ ethical charter, or policy position.
 
 Start with:
 
+- [Draft manifesto](docs/manifesto.md)
 - [Project vision](docs/vision.md)
 - [Principles and their status](docs/principles/README.md)
 - [Research workspace](research/README.md)
