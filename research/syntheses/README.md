@@ -13,3 +13,10 @@ its documented method meets the protocol's requirements.
 
 Syntheses remain working material until reviewed for publication under
 [`docs/research/`](../../docs/research/README.md).
+
+## Working baselines
+
+- [AI Consciousness Evidence Baseline: Research Plan](ai-consciousness-evidence-baseline-plan.md)
+  — **Working research plan — not a project position**
+- [AI Consciousness Evidence Baseline](ai-consciousness-evidence-baseline.md)
+  — **Working synthesis — not a project position**
