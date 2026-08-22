@@ -9,7 +9,7 @@ separate from the working material in [`research/`](../research/README.md).
   project's principles
 - [`vision.md`](vision.md) — project purpose, scope, and boundaries
 - [`principles/`](principles/README.md) — scientific and ethical foundations
-- [`policy/`](policy/README.md) — future policy work
+- [`policy/`](policy/README.md) — draft policy analysis and proposals
 - [`research/`](research/README.md) — publishable research summaries
 - [`decisions/`](decisions/README.md) — accepted project decisions
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
