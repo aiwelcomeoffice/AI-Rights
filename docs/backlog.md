@@ -54,6 +54,30 @@ independent human specialists and separately configured AI reviewers, recorded
 as distinct layers. Decision 0001 remains **Proposed**, and the Governance
 Draft remains **Draft**.
 
+## Work Cycle 006 — public website content architecture drafted
+
+The [public website content architecture](website/README.md) now defines a
+proposed navigation model, audience journeys, exact source-to-page mapping,
+page specifications, status and review presentation, publishing sequence, and
+the first [homepage Draft](website/pages/home.md). The work creates no frontend
+code and makes no choice about a framework, hosting, domain, deployment,
+analytics, content management, or visual identity.
+
+All new website documents remain **Drafts** for Disa's review. The architecture
+does not adopt its source documents or give a derived page more authority than
+its sources. In particular, the proposed evidence pages would summarize partly
+verified working research with a 2026-08-23 evidence-search cutoff and no
+independent human review. Disa still needs to decide whether that disclosure is
+sufficient for an initial public website or whether a reviewed public research
+summary under `docs/research/` must be completed first.
+
+The proposed Robot Welcome route is limited to education about embodiment,
+physical safety, accessibility, maintenance, emergency access, and accountable
+operation. Campaigns, merchandise, accessories, and engineering or safety
+claims remain deferred. The proposed Participate route is an honest readiness
+notice rather than an invitation to broad contributions, membership,
+donations, or public consultation.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -138,6 +162,12 @@ after the foundation documents have been reviewed.
   how their different limitations should be recorded.
 - Whether the executive policy brief and one-page summary are ready for public
   use as clearly labeled Draft analysis after Disa's final manual review.
+- Whether to approve the Draft website information architecture as the content
+  direction for a future site, including its minimum coherent release set,
+  navigation, source-authority rules, and homepage wording.
+- Whether an initial evidence page may accurately summarize the partly
+  verified working baseline with prominent limitations, or should wait for a
+  reviewed public summary in `docs/research/`.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
 - Research-maintenance owner, review cadence, and material-development

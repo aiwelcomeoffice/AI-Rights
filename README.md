@@ -79,6 +79,7 @@ Start with:
 - [Principles and their status](docs/principles/README.md)
 - [Research workspace](research/README.md)
 - [Draft governance and adoption process](docs/governance/README.md)
+- [Draft public website content architecture](docs/website/README.md)
 - [Project backlog](docs/backlog.md)
 - [Decision records](docs/decisions/README.md)
 

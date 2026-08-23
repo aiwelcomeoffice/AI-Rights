@@ -17,6 +17,8 @@ separate from the working material in [`research/`](../research/README.md).
   and accountability process
 - [`decisions/`](decisions/README.md) — proposed and resolved project decision
   records
+- [`website/`](website/README.md) — Draft public website information
+  architecture, source map, page specifications, and homepage content
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
 
 For a concise policy entry point, start with the [one-page policy
