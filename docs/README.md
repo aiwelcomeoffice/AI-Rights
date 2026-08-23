@@ -12,13 +12,16 @@ separate from the working material in [`research/`](../research/README.md).
 - [`vision.md`](vision.md) — project purpose, scope, and boundaries
 - [`principles/`](principles/README.md) — scientific and ethical foundations
 - [`policy/`](policy/README.md) — draft policy analysis and proposals
+- [`robot-welcome/`](robot-welcome/README.md) — Draft principles and concepts
+  for safe, accessible, accountable physical coexistence; no product or
+  certification claims
 - [`research/`](research/README.md) — publishable research summaries
 - [`governance/`](governance/README.md) — Draft adoption, review, correction,
   and accountability process
 - [`decisions/`](decisions/README.md) — proposed and resolved project decision
   records
 - [`website/`](website/README.md) — Draft public website information
-  architecture, source map, page specifications, and eight core page Drafts
+  architecture, source map, page specifications, and nine core page Drafts
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
 
 For a concise policy entry point, start with the [one-page policy

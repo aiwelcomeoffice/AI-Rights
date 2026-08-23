@@ -73,10 +73,11 @@ summary under `docs/research/` must be completed first.
 
 The proposed Robot Welcome route is limited to education about embodiment,
 physical safety, accessibility, maintenance, emergency access, and accountable
-operation. Campaigns, merchandise, accessories, and engineering or safety
-claims remain deferred. The proposed Participate route is an honest readiness
-notice rather than an invitation to broad contributions, membership,
-donations, or public consultation.
+operation. At that cycle, campaigns, merchandise, accessory development, and
+engineering or safety claims remained deferred. Later conceptual analysis does
+not authorize physical design or production. The proposed Participate route is
+an honest readiness notice rather than an invitation to broad contributions,
+membership, donations, or public consultation.
 
 ## Work Cycle 007 — core website page Drafts prepared
 
@@ -97,12 +98,49 @@ review limits; the Governance page distinguishes current repository
 conventions from the still-Proposed fuller process; and Participate remains a
 readiness notice rather than an open intake path.
 
-The complete page set remains **Draft** for Disa's final manual review. It has
+The then-complete eight-page set remains **Draft** for Disa's final manual
+review. It has
 not received external independent human or separately commissioned independent
 AI review. Translation, visual design, website implementation, technology
 selection, publication, and deployment remain pending. The dedicated Learn,
 research-detail, policy-detail, manifesto, decisions, and Robot Welcome web
-adaptations also remain future content work under the existing architecture.
+adaptations remained future content work under the existing architecture at
+the end of that cycle.
+
+## Work Cycle 008 — Robot Welcome conceptual foundation drafted
+
+The [Robot Welcome & Physical Coexistence
+foundation](robot-welcome/README.md) now includes Draft [physical-coexistence
+principles](robot-welcome/physical-coexistence-principles.md), [safety and
+design constraints](robot-welcome/safety-and-design-constraints.md), and
+[marking, signal, and accessory
+concepts](robot-welcome/markings-signals-and-accessories.md). A dedicated
+[Robot Welcome website page](website/pages/robot-welcome.md) adapts the
+foundation for public readers.
+
+The Draft distinguishes AI systems, software agents, robots, embodied AI,
+autonomous and remotely operated machines, common robot roles, accountable
+human and organizational actors, and a hypothetical possible future moral
+patient. It keeps embodiment, autonomy, fluent behavior, and human likeness
+separate from consciousness, sentience, welfare, personhood, preference, and
+consent.
+
+The concepts cover predictable operation, accessibility, public etiquette,
+responsibility, emergency intervention, voluntary welcome communication,
+human- and machine-readable information, and eight possible accessory
+categories. Every concept remains subordinate to exact-system sensor,
+mobility, stability, cooling, charging, warning, emergency, inspection,
+maintenance, accessibility, privacy, security, animal, and environmental
+review.
+
+Drafting is complete for this cycle, not validation or adoption. The material
+has project-owner and internal AI-assisted review only, with Disa's final manual
+review of this version pending. It has not received independent robotics,
+safety, accessibility, legal, standards, cybersecurity, privacy,
+environmental, animal-behavior, or human-factors review. Engineering research,
+manufacturer review where applicable, standards and legal research, visual
+design, prototyping, testing, website implementation, publication, and any
+physical product work remain pending.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
@@ -194,9 +232,13 @@ after the foundation documents have been reviewed.
 - Whether an initial evidence page may accurately summarize the partly
   verified working baseline with prominent limitations, or should wait for a
   reviewed public summary in `docs/research/`.
-- Whether the eight core website page Drafts are coherent and ready for later
+- Whether the nine core website page Drafts are coherent and ready for later
   publication work after content review, including the Why AI Rights?,
-  Research, Policy, Principles, Governance, About, and Participate wording.
+  Research, Policy, Principles, Governance, About, Participate, and Robot
+  Welcome wording.
+- Whether the Robot Welcome foundation is distinctive, warm, practical, and
+  sufficiently clear that its marks and accessories are unvalidated concepts,
+  not safety, authorization, compatibility, consciousness, or product claims.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
 - Research-maintenance owner, review cadence, and material-development
@@ -209,7 +251,10 @@ after the foundation documents have been reviewed.
 
 - Claims about specific rights or legal personhood.
 - Website framework and hosting selection.
-- Campaigns, merchandise, and physical robot accessories.
+- Campaigns and merchandise.
+- Engineering, visual design, prototyping, testing, manufacture, compatibility
+  approval, sale, or real-world deployment of physical robot markings,
+  signals, and accessories.
 - Broad public contribution requests.
 
 Deferral keeps the first cycle focused; it is not a rejection of these goals.

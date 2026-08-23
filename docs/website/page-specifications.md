@@ -107,6 +107,7 @@ The following website-ready files have been drafted from these specifications:
 - [Status and review](pages/governance.md)
 - [About](pages/about.md)
 - [Participate](pages/participate.md)
+- [Robot Welcome](pages/robot-welcome.md)
 
 They remain **Drafts** pending Disa's final manual review. Independent review,
 translation, visual design, implementation, publication, and deployment remain
@@ -585,13 +586,21 @@ created and reviewed; a specification is not a placeholder promise to publish.
   specialists, public readers, and policymakers.
 - **Reader question:** How can physical interaction be welcoming, safe,
   accessible, and accountable without assuming a robot is conscious?
-- **Page objective:** Establish practical coexistence principles and defer
-  unvalidated products, accessories, and safety claims.
+- **Page objective:** Establish practical coexistence principles and explain
+  carefully bounded marking, signal, and accessory concepts while deferring
+  product development and every unvalidated safety or compatibility claim.
 - **Required sections:** Robots and AI are not identical; embodiment is not
-  experience; responsible interaction; accessibility; sensor/mobility/cooling/
-  maintenance/emergency clearance; accountable roles; incident and emergency
-  response; concept and engineering boundaries; future questions.
-- **Primary sources:** [Core Principle
+  experience; reasons for respectful practice; responsible interaction;
+  accessibility; sensor/mobility/cooling/maintenance/emergency clearance;
+  accountable roles; incident and emergency response; welcome-marking and
+  information boundaries; accessory concepts; public etiquette; possible
+  future preferences; concept and engineering boundaries; future questions.
+- **Primary sources:** [Robot Welcome
+  foundation](../robot-welcome/README.md), [Physical Coexistence
+  Principles](../robot-welcome/physical-coexistence-principles.md), [Safety and
+  Design Constraints](../robot-welcome/safety-and-design-constraints.md),
+  [Markings, Signals, and Accessory
+  Concepts](../robot-welcome/markings-signals-and-accessories.md), [Core Principle
   10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world),
   [AI Rights 101 robot
   section](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing),
@@ -600,16 +609,23 @@ created and reviewed; a specification is not a placeholder promise to publish.
   [accountability](../policy/ai-rights-protection-framework.md#accountability-without-a-responsibility-gap)
   and [emergency
   intervention](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention).
-- **Status and review notice:** Draft synthesis; no engineering validation,
-  standards certification, product programme, or consciousness finding.
+- **Status and review notice:** Draft public adaptation; project-owner and
+  internal AI-assisted review only, with Disa's final manual review pending;
+  no independent robotics, safety, accessibility, legal, standards,
+  cybersecurity, privacy, environmental, animal-behavior, or human-factors
+  review; no engineering validation, certification, product programme,
+  compatibility claim, or consciousness finding.
 - **Primary call to action:** Learn more.
-- **Related pages:** AI Rights 101, FAQ, principles, protection framework.
+- **Related pages:** AI Rights 101, FAQ, Why AI Rights?, principles, policy,
+  protection framework, and status and review.
 - **Accessibility considerations:** Include disabled people and varied
   interaction modes in examples; describe safe clearances in text; avoid
   human-like imagery as a status cue.
 - **Misunderstanding and safeguard:** Warm design may be mistaken for sentience
-  or safety certification. State both limits prominently; keep merchandise and
-  accessories deferred.
+  or safety certification. State both limits prominently; keep welcome,
+  identity, warning, authorization, certification, and legal status distinct;
+  present accessories only as unvalidated concepts and defer every product or
+  manufacturing step.
 
 ### 19. About
 

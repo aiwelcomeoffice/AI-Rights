@@ -171,15 +171,17 @@ prepared first.
 | Draftable from accessible sources | Home; Why AI Rights?; Learn pages; Policy; Executive brief; Principles; Manifesto; About | Preserve source status and review notices; Disa reviews page adaptation |
 | Draftable with prominent working-research disclosure | Research; Evidence baseline; Sources and limitations | Keep cutoff, method, verification, access, reviewer, and non-systematic limits visible |
 | Draftable as a guided technical layer | Research methods; Protection framework; Status and review; Decisions | Summarize navigation and purpose; link detail rather than flattening it |
-| Needs a new focused page Draft, but has adequate source sections | Robot Welcome | Limit scope to physical coexistence, accountability, accessibility, safety, and emergency access |
+| Focused Draft prepared; specialist review remains pending | Robot Welcome | Keep physical coexistence, accountability, accessibility, safety, emergency access, etiquette, and marking or accessory concepts distinct from engineering validation and product claims |
 | Informational notice only | Participate | Do not invite broad contributions, consultation, membership, or donations yet |
 | Not ready to become substantive pages | Scientific position, dignity charter, and precaution framework as standalone claims | They remain Scaffolds; show them only as work still to be developed |
 
 ## Deferred areas
 
 - **Campaigns:** future area; no navigation entry or call to action.
-- **Merchandise and physical accessories:** future concepts only; no shop,
-  product claim, or safety claim.
+- **Merchandise and physical accessory development:** conceptual analysis is
+  available, but visual design, engineering, prototyping, testing,
+  manufacturing, compatibility approval, sales, product claims, and safety
+  claims remain deferred.
 - **Broad participation, membership, and public consultation:** no signup or
   submission workflow until governance, moderation, review ownership, and a
   code of conduct are ready.

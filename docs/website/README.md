@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Scope:** Content structure and eight core website page Drafts; no
+- **Scope:** Content structure and nine core website page Drafts; no
   implementation or publication decision
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -43,13 +43,15 @@ work cycle.
   and license
 - [Participate Draft](pages/participate.md) — honest readiness notice and
   follow-work path
+- [Robot Welcome Draft](pages/robot-welcome.md) — responsible physical
+  coexistence, conceptual markings and accessories, and explicit safety and
+  scientific boundaries
 
-These eight pages form the current core website-ready Draft set. The Learn
+These nine pages form the current core website-ready Draft set. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
 executive-brief and protection-framework adaptations, manifesto adaptation,
-decisions index, and Robot Welcome page remain specifications rather than
-completed website pages. No Draft is an instruction to publish before its
-review dependencies are met.
+and decisions index remain specifications rather than completed website pages.
+No Draft is an instruction to publish before its review dependencies are met.
 
 ## Source audit
 
@@ -64,6 +66,9 @@ Drafts or, in the case of the vision, a Scaffold:
   Charter](../principles/core-principles.md);
 - the [one-page policy summary](../policy/one-page-policy-summary.md) and
   [executive policy brief](../policy/executive-policy-brief.md); and
+- the [Robot Welcome & Physical Coexistence
+  foundation](../robot-welcome/README.md) and its Draft principles, safety
+  constraints, and concept catalogue; and
 - the [project vision](../vision.md), used for scope and intent but not as an
   adopted position.
 
@@ -154,7 +159,8 @@ page Drafts do not resolve whether the working evidence baseline is ready for
 public reliance or whether a reviewed summary must first be prepared under
 `docs/research/`.
 
-Campaigns, merchandise, product sales, broad contribution requests, and
-physical robot accessories remain deferred. The proposed Participate page is
-an honest readiness notice and follow-work path, not an open call for
-membership or contributions.
+Campaigns, merchandise, product sales, broad contribution requests, and the
+engineering, prototyping, manufacture, compatibility approval, testing, or sale
+of physical robot accessories remain deferred. The Robot Welcome foundation
+contains concepts only. The proposed Participate page is an honest readiness
+notice and follow-work path, not an open call for membership or contributions.

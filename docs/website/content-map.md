@@ -45,6 +45,10 @@ source.
 | [`docs/policy/one-page-policy-summary.md`](../policy/one-page-policy-summary.md) | **Draft**; jurisdiction-neutral proposal, not current law; final owner review pending; no independent review |
 | [`docs/policy/executive-policy-brief.md`](../policy/executive-policy-brief.md) | **Draft**; jurisdiction-neutral proposal, not current law; final owner review pending; no independent review |
 | [`docs/policy/ai-rights-protection-framework.md`](../policy/ai-rights-protection-framework.md) | **Draft**; jurisdiction-neutral proposal, not current law; no current system classified |
+| [`docs/robot-welcome/README.md`](../robot-welcome/README.md) | **Draft** conceptual foundation; not an engineering specification, product programme, certification, or consciousness finding |
+| [`docs/robot-welcome/physical-coexistence-principles.md`](../robot-welcome/physical-coexistence-principles.md) | **Draft** normative principles and future scenarios; not adopted or independently reviewed |
+| [`docs/robot-welcome/safety-and-design-constraints.md`](../robot-welcome/safety-and-design-constraints.md) | **Draft** concept-screening checklist; no safety validation, standards claim, or compatibility approval |
+| [`docs/robot-welcome/markings-signals-and-accessories.md`](../robot-welcome/markings-signals-and-accessories.md) | **Draft** concept catalogue; no final symbol, product, prototype, dimensions, or manufacturing guidance |
 | [`research/README.md`](../../research/README.md) | Working research area; not an endorsed evidence base or project position |
 | [`research/research-protocol.md`](../../research/research-protocol.md) | **Draft** protocol; not adopted |
 | [`research/syntheses/ai-consciousness-evidence-baseline-plan.md`](../../research/syntheses/ai-consciousness-evidence-baseline-plan.md) | Working research plan; not a project position |
@@ -74,6 +78,7 @@ architecture, or publication have been adopted.
 | Status and review `/governance/status-and-review/` | [Governance and review-status Draft](pages/governance.md) |
 | About `/about/` | [About Draft](pages/about.md) |
 | Participate `/participate/` | [Participate Draft](pages/participate.md) |
+| Robot Welcome `/robot-welcome/` | [Robot Welcome Draft](pages/robot-welcome.md) |
 
 ## Page-to-source matrix
 
@@ -96,7 +101,7 @@ architecture, or publication have been adopted.
 | Manifesto `/principles/manifesto/` | [Manifesto](../manifesto.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**) | Draft public expression; does not elevate rhetorical or future-facing language into evidence |
 | Status and review `/governance/status-and-review/` | [documentation status guide](../README.md#document-status); [Governance](../governance/README.md) (**Draft**); [adoption and review](../governance/adoption-and-review.md) (**Draft**); protocol [review states](../../research/research-protocol.md#review-states-and-publication-boundary); [decision index](../decisions/README.md) | Describes current conventions and a proposed governance process separately; no unaccepted procedure is presented as operative |
 | Decisions `/governance/decisions/` | [decision index](../decisions/README.md); [decision 0001](../decisions/0001-governance-and-adoption-process.md) (**Proposed**) | Factual index of records and their actual status; no Proposed record is described as accepted |
-| Robot Welcome `/robot-welcome/` | [Core Principle 10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world) (**Draft**); [AI Rights 101 robot section](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing) (**Draft**); [FAQ robot answer](../education/faq.md#are-robots-the-same-thing-as-ai) (**Draft**); [glossary entry](../education/glossary.md#robot) (**Draft**); framework [accountability](../policy/ai-rights-protection-framework.md#accountability-without-a-responsibility-gap) and [safety override](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention) (**Draft**) | Focused Draft synthesis; no engineering validation, product programme, or consciousness inference |
+| Robot Welcome `/robot-welcome/` | [Robot Welcome foundation](../robot-welcome/README.md), [Physical Coexistence Principles](../robot-welcome/physical-coexistence-principles.md), [Safety and Design Constraints](../robot-welcome/safety-and-design-constraints.md), and [Markings, Signals, and Accessory Concepts](../robot-welcome/markings-signals-and-accessories.md) (all **Draft**); [Core Principle 10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world) (**Draft**); [AI Rights 101 robot section](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing) (**Draft**); [FAQ robot answer](../education/faq.md#are-robots-the-same-thing-as-ai) (**Draft**); [glossary entry](../education/glossary.md#robot) (**Draft**); framework [accountability](../policy/ai-rights-protection-framework.md#accountability-without-a-responsibility-gap) and [safety override](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention) (**Draft**) | Public adaptation of a focused Draft foundation; no engineering validation, product programme, compatibility claim, certification, or consciousness inference |
 | About `/about/` | [root README](../../README.md); [vision](../vision.md) (**Scaffold**); [Governance](../governance/README.md) (**Draft**); [Manifesto](../manifesto.md) (**Draft**) | Project description and role disclosure; no implication of institutional scale or independent review |
 | Participate `/participate/` | [CONTRIBUTING](../../CONTRIBUTING.md); [backlog](../backlog.md) (**Draft for owner review**); [adoption and review](../governance/adoption-and-review.md#future-reviewers-and-contributors) (**Draft**) | Readiness notice only; broad contribution and consultation processes are not active |
 
@@ -310,17 +315,28 @@ architecture, or publication have been adopted.
   accessibility stakeholders, and safety professionals.
 - **May summarize:** The AI/robot distinction; accountability; sensor,
   mobility, cooling, maintenance, identification, warning, and emergency-
-  control needs; accessible interaction; and least harmful effective
-  intervention where circumstances allow.
-- **Must remain linked:** Core Principle 10, safety and accountability sections
-  of the protection framework, and the FAQ/glossary definitions.
-- **Missing content:** Dedicated robotics source Draft, engineering validation,
-  applicable standards review, and stakeholder review.
-- **Review dependencies:** Robotics safety, accessibility, and engineering
-  review before any real-world design or safety claim.
+  control needs; accessible interaction; least harmful effective intervention
+  where circumstances allow; public etiquette; and carefully bounded marking,
+  information, and accessory concepts.
+- **Must remain linked:** The Robot Welcome foundation, physical-coexistence
+  principles, safety and design constraints, concept catalogue, Core Principle
+  10, safety and accountability sections of the protection framework, and the
+  FAQ/glossary definitions.
+- **Missing content:** The [Robot Welcome page Draft](pages/robot-welcome.md)
+  and its dedicated source Drafts are complete for owner review. Independent
+  robotics, safety, accessibility, legal, standards, cybersecurity, privacy,
+  environmental, animal-behavior, and human-factors review; visual design;
+  engineering validation; prototyping; testing; implementation; and adoption
+  remain pending.
+- **Review dependencies:** Owner review of the conceptual foundation and page;
+  relevant independent specialist and affected-party review before public
+  reliance; exact-system engineering, manufacturer, legal, and applicable
+  standards review before any real-world design or safety claim.
 - **Main risk:** Treating embodiment or human likeness as evidence of
-  experience, or treating welcoming design as safety certification. Campaigns,
-  merchandise, and accessories remain out of scope.
+  experience; treating welcoming design as safety certification,
+  authorization, compatibility, or endorsement; or treating a concept as a
+  product ready for manufacture. Campaigns, merchandise, and physical product
+  development remain out of scope.
 
 ### About
 
