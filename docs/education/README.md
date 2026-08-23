@@ -6,7 +6,9 @@ These materials are proposed public explanations for AI Rights & Welcome.
 They are under project-owner review and are not adopted scientific findings,
 ethical positions, legal conclusions, or policy. They do not claim that
 present-day AI systems are conscious, sentient, self-aware, capable of
-suffering, moral patients, or persons.
+suffering, moral patients, or persons, and they do not claim that every
+present system is non-conscious. “Not established” is not “proven absent,” but
+uncertainty does not imply equal probability or equal evidential support.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**

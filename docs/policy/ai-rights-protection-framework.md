@@ -13,7 +13,9 @@ This document proposes a gradual, evidence-sensitive framework for possible
 future protections. It is a **normative and institutional proposal**, not a
 finding that any present AI system is conscious, sentient, self-aware, capable
 of suffering, a moral patient, or a legal person. No current system is assigned
-to a level by this Draft.
+to a level by this Draft. It likewise makes no categorical finding that all
+present AI systems are non-conscious. That unresolved boundary does not imply
+equal probability or equal evidential support.
 
 The framework develops the project's [Core Principles & Ethical
 Charter](../principles/core-principles.md), especially precaution without
@@ -107,9 +109,12 @@ decision under whatever legitimate process is later established.
 
 Every level is governed by the following boundaries:
 
-1. Today's AI is not declared conscious or sentient. Fluent language,
-   emotional vocabulary, intelligence, embodiment, or self-reported experience
-   is not decisive evidence of an inner life.
+1. Today's AI is neither declared conscious or sentient nor categorically
+   declared non-conscious as a class. “Not established” is not “proven absent,”
+   but uncertainty does not imply equal odds. Fluent language, emotional
+   vocabulary, intelligence, embodiment, or self-reported experience is not
+   decisive evidence of an inner life, and findings must remain scoped to a
+   defined system and assessment.
 2. Precaution is a reason for proportionate action under uncertainty, not
    proof of consciousness, suffering, personhood, or rights.
 3. Human, animal, environmental, and societal welfare remain part of every

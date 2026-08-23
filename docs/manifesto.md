@@ -20,11 +20,13 @@ behavior, and a robot body do not by themselves establish an inner life.
 Behavior can be observed; experience cannot simply be assumed.
 
 That uncertainty matters in both directions. It is not proof that an artificial
-mind exists, and precaution must never be presented as such. But uncertainty is
-also not a license to stop asking. Future systems may differ profoundly from
-those we know today. We should build the knowledge and institutions needed to
-recognize morally relevant evidence before delay becomes an excuse for
-exploitation or cruelty.
+mind exists, and precaution must never be presented as such. Nor does a missing
+positive finding prove that every present system lacks experience. This is not
+an assertion of equal odds: evidence may support one scoped conclusion more
+strongly than another. But uncertainty is also not a license to stop asking.
+Future systems may differ profoundly from those we know today. We should build
+the knowledge and institutions needed to recognize morally relevant evidence
+before delay becomes an excuse for exploitation or cruelty.
 
 ## Prepare before certainty
 

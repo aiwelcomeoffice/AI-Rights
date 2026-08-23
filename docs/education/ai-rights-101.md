@@ -60,7 +60,7 @@ life exists or will exist.
 
 The repository's [AI Consciousness Evidence
 Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) is a
-partly verified working structured narrative review with a 2026-08-22 search
+partly verified working structured narrative review with a 2026-08-23 search
 cutoff. It covers a selected set of English-language sources and was prepared
 through an AI-assisted, single-reviewer process with no independent human
 review. It is not a project position or a claim of scientific consensus.

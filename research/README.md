@@ -46,4 +46,6 @@ Reviewed outputs intended for publication belong in
 - Check quotations and high-impact claims against the original source.
 - Record when web-based material was accessed because it may change.
 - Never treat self-report, fluent language, emotional behavior, missing
-  evidence, or a missing alternative explanation as proof of experience.
+  evidence, or a missing alternative explanation as proof of experience or of
+  its absence. Apply the same evidential burden in both directions without
+  assuming equal odds.

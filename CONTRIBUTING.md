@@ -10,9 +10,11 @@ small, reviewable, and directly connected to an agreed project task.
    scientific hypothesis, a philosophical argument, or a normative position.
 3. Cite reliable sources for factual and research claims. If a claim has not
    yet been verified, mark it clearly instead of guessing.
-4. Avoid implying that current AI is conscious, sentient, suffering, emotional,
-   or a person unless the text is explicitly discussing that proposition as an
-   open question.
+4. Avoid implying either that a present AI is conscious, sentient, suffering,
+   emotional, or a person, or that all present AI is non-conscious, unless the
+   text presents a scoped, adequately supported conclusion or explicitly
+   discusses the proposition as an open question. “Not established” is not
+   “proven absent,” and uncertainty does not imply equal odds.
 5. Consider AI welfare, AI safety, and human accountability together.
 
 ## Change style

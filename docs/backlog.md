@@ -20,6 +20,33 @@ documents remain Drafts pending project-owner review and any later adoption
 decision. Their presence does not settle scientific, ethical, legal, policy,
 Milestone 002, or website questions.
 
+## Corrective research cycle 002 — drafted, not independently reviewed
+
+The repository-wide scientific boundary now states epistemic symmetry
+explicitly: present AI consciousness is not established, categorical
+non-consciousness is also not established for all systems, and this does not
+imply equal odds or equal evidential support. Findings must remain scoped to a
+defined system, version, configuration, context, target property, method, and
+date.
+
+The working [AI Consciousness Evidence
+Baseline](../research/syntheses/ai-consciousness-evidence-baseline.md) now
+includes source records and notes for Berg, de Lucena, and Rosenblatt (2025) on
+self-referential experience-report behavior and Berg (2026) on the proposed
+identity between learning evaluation and feeling. These post hoc additions
+expand self-report and valence/learning coverage but do **not** change the
+baseline conclusion: no present AI consciousness or sentience finding is
+established, no categorical absence finding is established for all present
+systems, and the status of any precisely defined contemporary system remains
+unresolved. The synthesis, records, and notes remain partly verified working
+research rather than adopted positions.
+
+Before public reliance, the cycle still needs independent consciousness-
+science, philosophy-of-mind, and AI architecture/evaluation review; reproduction
+and statistical appraisal of the 2025 preprint; full appraisal of directly
+competing self-report literature; verification of disclosures and review
+status; and owner review of the symmetry wording.
+
 ## Foundation — proposed order
 
 1. **Agree governance and adoption rules.** Define who may move a document from
@@ -27,8 +54,8 @@ Milestone 002, or website questions.
 2. **Agree research protocol.** Define terminology, source quality, inclusion,
    citation, review, and uncertainty conventions.
 3. **Review and complete the working evidence baseline.** Close verification
-   gaps and obtain independent review before public reliance or substantive
-   scientific claims.
+   gaps—including those recorded in corrective cycle 002—and obtain independent
+   review before public reliance or substantive scientific claims.
 4. **Draft the scientific position.** Ground it in the reviewed evidence and
    identify live disagreements.
 5. **Draft and test the precaution framework.** Use explicit hypothetical cases

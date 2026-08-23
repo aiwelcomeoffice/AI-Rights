@@ -23,7 +23,14 @@ remain unendorsed research material.
 AI Rights & Welcome does **not** currently claim that present-day AI systems
 are conscious, sentient, self-aware, capable of suffering, moral patients,
 moral persons, or legal persons. Lack of evidence does not prove either the
-presence or absence of an inner life.
+presence or absence of an inner life. It likewise does not support a
+categorical conclusion that all present AI systems are non-conscious. “Not
+established” is not “proven absent.” This epistemic symmetry does not imply
+equal probability or equal evidential support: uncertainty is not positive
+evidence, and a negative result is informative only to the extent that its
+method could detect the defined target property. Every inference must be
+scoped to a defined system, version, configuration, context, property, method,
+and date; “AI” is not a homogeneous population.
 
 A system's output, behavior, architecture, internal state, or apparent
 preference may be an object of study. None is automatically evidence of

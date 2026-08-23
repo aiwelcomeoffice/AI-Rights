@@ -3,13 +3,13 @@
 **Status: Working research plan — not a project position**
 
 - **Plan ID:** PLAN-ACEB-001
-- **Plan version:** 0.2
+- **Plan version:** 0.3
 - **Protocol version:** 0.1-draft
 - **Review type:** Structured narrative review
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Plan date:** 2026-08-22
-- **Last updated:** 2026-08-22
-- **Search cutoff:** 2026-08-22
+- **Last updated:** 2026-08-23
+- **Search cutoff:** 2026-08-23
 - **Jurisdiction:** Not applicable — scientific review; no legal conclusion
 - **Project/review funding:** None supplied for this review
 - **Reviewer and project conflicts:** Codex, an OpenAI system, assisted with a
@@ -46,8 +46,13 @@ systematic coverage is made here.
 
 AI Rights & Welcome does not currently claim that present-day AI systems are
 conscious, sentient, self-aware, capable of suffering, moral patients, moral
-persons, or legal persons. This plan tests what evidence is available and what
-would change an assessment; it does not presume a positive or negative answer.
+persons, or legal persons. It also makes no categorical claim that all present
+AI systems are non-conscious. “Not established” is not “proven absent,” but
+this symmetry does not imply equal probability or equal evidential support.
+Every conclusion remains scoped to a defined system, version, configuration,
+context, target property, method, and date. This plan tests what evidence is
+available and what would change an assessment; it does not presume a positive
+or negative answer.
 
 ## Primary question
 
@@ -128,7 +133,7 @@ Every material claim will be marked or written so its category is clear:
 | Indicator | An observation or property predicted to be more likely if a consciousness-relevant hypothesis is true. | Not a hard criterion unless validity, sensitivity, and specificity are established. |
 | Consciousness test (C-test) | A procedure intended to support an inference about a defined consciousness property in a defined target population. | Human validity cannot simply be transferred to AI. |
 | Welfare | A subject's condition with respect to goods or harms that matter for that subject. | Requires relevant capacities/interests; “robust agency” is a distinct possible ground and must not be relabeled sentience. |
-| Contemporary AI | A precisely identified model or composite system publicly documented or available by the 2026-08-22 cutoff, including its runtime, prompts, memory, tools, embodiment, and deployment context where known. | “AI” is not one homogeneous subject or architecture. |
+| Contemporary AI | A precisely identified model or composite system publicly documented or available by the 2026-08-23 cutoff, including its runtime, prompts, memory, tools, embodiment, and deployment context where known. | “AI” is not one homogeneous subject or architecture. |
 
 Terms are working definitions, not claims that any system instantiates them.
 Meaningful disputes will be preserved rather than resolved by stipulation.
@@ -244,10 +249,11 @@ claim without a clear `TODO: verify` marker.
 ## Discovery and search method
 
 This is a structured narrative search, not an exhaustive database search.
-Queries were run on 2026-08-22. Web discovery, PubMed, DOI/publisher pages,
-arXiv, institutional repositories, and backward/forward citation chaining were
-used. Search-engine result totals were not exported and are unstable; they are
-therefore not reported as screening counts.
+Initial queries were run on 2026-08-22, followed by the explicitly corrective
+source and competing-literature searches on 2026-08-23. Web discovery, PubMed,
+DOI/publisher pages, arXiv, institutional repositories, and backward/forward
+citation chaining were used. Search-engine result totals were not exported and
+are unstable; they are therefore not reported as screening counts.
 
 | Route | Exact query or method | Filters | Recorded result |
 | --- | --- | --- | --- |
@@ -278,14 +284,21 @@ therefore not reported as screening counts.
 | NEJLT publisher | Direct official route: `https://nejlt.ep.liu.se/article/view/5000`; DOI `10.3384/nejlt.2000-1533.2024.5000` | Published article page and PDF | Pikuliak retained as a direct methodological critique of transferring human self-report instruments to language models. |
 | OUP publisher | Direct article-and-correction route: `10.1093/nc/niaf037`; `10.1093/nc/niag020` | Version of record and correction through cutoff | Naccache et al. retained as a GNWT-proponent counterinterpretation of Cogitate; corrected fourth-author name used. |
 | Anthropic research | Direct official routes: `https://www.anthropic.com/research/emotion-concepts-function`; `https://www.anthropic.com/research/global-workspace` | Company research released 2026-04-02 and 2026-07-06 | Direct system studies logged for independent extraction; excluded from evidential weight in this version. |
+| arXiv and exact-title/version search | `"Large Language Models Report Subjective Experience Under Self-Referential Processing"`; arXiv `2510.24797` v1/v2 source comparison | Latest version, later publication, materials, correction/withdrawal, and direct competing literature through 2026-08-23 | Berg, de Lucena, and Rosenblatt 2025 retained as low-weight core empirical/methodological evidence about report generation; no later reviewed version or public reproduction package located. |
+| AAAI proceedings | `"Why Learning Requires Feeling" Cameron Berg`; official article, PDF, issue, and DOI routes | Version of record; source type, venue, review status, notices, and full argument | Berg 2026 retained as core conceptual coverage of a learning/valence identity thesis; no new AI experiment and no present-system evidential weight. |
+| Reciprocal Research | Direct official route: `https://reciprocalresearch.org/research` | Institution/program context only | Used to document research mission and list the two published works. Claims about in-progress or under-review projects were excluded from the evidence base. |
+| arXiv competing-literature search | `"No Reliable Evidence of Self-Reported Sentience in Small Large Language Models"`; arXiv `2601.15334` | Latest version and direct relevance through 2026-08-23 | Kaiser and Enderby 2026 logged as a direct competing candidate. Different prompts, models, constructs, and classifiers prevent treating its abstract as a replication; full independent appraisal deferred. |
 | Citation chaining | References and “cited by” routes from included theory, indicator, and adversarial papers | Criticism, null/mixed findings, independent authors | Used to check balance and dependencies; no exhaustive count claimed. |
 
 The first four broad searches were added after the 15-source core had been
 assembled. The fifth broad search, repository-route reconstruction, and three
 additional core extractions were added after preliminary conclusions and a
-final audit. These amendments reduce identified criticism, direct-system, and
-provenance blind spots but cannot undo post hoc selection. Search-result
-exports and stable result counts were not captured.
+final audit. The 2026-08-23 source-specific searches and two further
+extractions were performed in a corrective cycle after the version 0.2
+conclusions were known. These amendments reduce identified criticism,
+direct-system, self-report, valence, and provenance blind spots but cannot undo
+post hoc selection. Search-result exports and stable result counts were not
+captured.
 
 ### Candidate disposition log
 
@@ -299,6 +312,10 @@ priority for independent extraction in an update.
 | [Ji-An Li et al. (2025), metacognitive monitoring and control of internal activations](https://doi.org/10.52202/085713-2009) | Included as core source 17 after final audit | Direct neurofeedback-task evidence links model outputs to selected activation projections and measures prompt-conditioned shifts; the authors operationalize this as limited functional metacognition. It does not measure phenomenal consciousness and was added post hoc. This is distinct from Jingkai Li's IIT/span study below. |
 | [Pikuliak (2024), self-report studies and language models](https://doi.org/10.3384/nejlt.2000-1533.2024.5000) | Included as core source 18 after final audit | Peer-reviewed methodological critique directly addresses an identified self-report gap. It analyzes study designs rather than measuring consciousness and was added post hoc. |
 | [Naccache et al. (2025; corrected 2026), GNWT response to adversarial testing](https://doi.org/10.1093/nc/niaf037) | Included as core source 19 after final audit | Preserves a serious counterinterpretation of Cogitate. It is a theory-proponent/coauthor response, not independent confirmation; the 2026 author-name correction is recorded. |
+| [Berg, de Lucena, and Rosenblatt (2025), self-referential processing and experience reports](https://doi.org/10.48550/arXiv.2510.24797) | Included as core source 20 in corrective cycle | Direct prompt and selected SAE-intervention evidence bears on report generation. It is an unreplicated preprint with unvalidated report outcomes, incomplete system/material disclosure, and one-checkpoint mechanistic evidence; it receives low phenomenal weight and does not establish consciousness. |
+| [Berg (2026), learning and feeling](https://doi.org/10.1609/aaaiss.v8i1.42547) | Included as core conceptual source 21 in corrective cycle | Reviewed symposium paper states a test-oriented identity thesis connecting signed evaluation and felt valence. It reports no new AI experiment; its current-AI implications are conditional on a disputed philosophical bridge and carry no empirical status weight. |
+| [Kaiser and Enderby (2026), self-reported sentience in small language models](https://doi.org/10.48550/arXiv.2601.15334) | Deferred to independent update | Direct competing study reports denials and no clear activation-classifier evidence that those denials are untruthful. Different prompts, model families, scales, constructs, and operationalizations mean it is not a direct replication; full extraction is required before evidential use. |
+| [Reciprocal Research program page](https://reciprocalresearch.org/research) | Contextual only; not an included source | Official context for institutional mission and published-work listing. Descriptions of in-progress and under-review projects are unpublished institutional claims and receive no evidential weight. |
 | [Shardlow and Przybyła (2024), *Deanthropomorphising NLP*](https://doi.org/10.1371/journal.pone.0307521) | Deferred to update | Direct peer-reviewed critique of LaMDA/Transformer claims, but its conclusion is substantially IIT-dependent and was found after the core was assembled; requires full independent appraisal before use. |
 | [Jingkai Li (2025), LLM internal states, IIT, and span representations](https://doi.org/10.1016/j.nlp.2025.100163) | Deferred to update | Direct empirical architecture candidate reporting no statistically significant indicator under its operationalization; IIT/ToM construct mapping and outcome validity need appraisal before evidential use. This is not the included Ji-An Li et al. NeurIPS paper. |
 | [Shin et al. (2025), IIT analysis of language models](https://doi.org/10.12701/jyms.2025.42.79) | Deferred to update | Direct architecture candidate using attention-head ablation and perplexity proxies; single-theory and proxy-validity limits require extraction before use. |
@@ -308,9 +325,9 @@ priority for independent extraction in an update.
 
 ### Screening record
 
-- **Sources included:** 18 core sources plus one low-weight supplementary
-  valence map (19 records total)
-- **Detailed notes created:** 8 high-priority sources
+- **Sources included:** 20 core sources plus one low-weight supplementary
+  valence map (21 records total)
+- **Detailed notes created:** 10 high-priority sources
 - **Duplicate/version handling:** Butlin 2023 and Butlin 2026 are retained for
   different uses but counted as one evidence lineage, not two confirmations.
 - **Full candidate count:** Not recorded; this prevents a systematic-review
@@ -342,7 +359,7 @@ The selected set must collectively cover:
 ## Extraction and appraisal
 
 Each source receives a record based on [the source template](../sources/_template.md).
-The eight most consequential or easily overextended sources also receive a
+The ten most consequential or easily overextended sources also receive a
 detailed note based on [the notes template](../notes/_template.md).
 
 Extraction will separate:
@@ -425,9 +442,14 @@ Future empirical work should:
 - **Publication and advocacy selection:** Dramatic positive or negative claims
   may receive disproportionate attention.
 - **Thin valence evidence:** Consciousness and sentience/welfare cannot be
-  merged. One non-peer-reviewed candidate taxonomy was added as a research map,
-  but the baseline contains no validated AI measure of felt valence and cannot
-  support a body-of-evidence confidence judgment about present AI sentience.
+  merged. One non-peer-reviewed candidate taxonomy and one conceptual identity
+  argument were added as research maps, but the baseline contains no validated
+  AI measure of felt valence and cannot support a body-of-evidence confidence
+  judgment about present AI sentience.
+- **Direct self-report evidence remains fragile:** One newly included preprint
+  adds prompt and selected-feature interventions, but missing public
+  reproduction materials, evaluator validation, exact product snapshots, and
+  independent replication keep its phenomenal evidential weight low.
 
 ## Update conditions
 
@@ -442,7 +464,7 @@ column, not to consciousness in general.
 | The phenomenal status of a precisely defined contemporary AI system is unresolved. | Indeterminate; no accepted cross-substrate reference standard, theory agreement, or sufficiently discriminating system test was identified. | Continued theory conflict, failed discriminatory tests, and material access gaps despite stronger study designs. | Either convergent validated positive evidence or convergent validated negative evidence that resolves a defined system under independently supported theories. | A capability benchmark, architecture label, or isolated output. | An independent full-stack system audit or validated C-test. |
 | Current theory-derived indicators are not validated as decisive AI-consciousness tests. | Moderate; they organize testable hypotheses, but AI-specific validity and theory truth remain unresolved. | Repeated construct failures, high false-positive or false-negative rates, results that track task design, or loss of empirical support for their source theories. | Prospective multi-theory validation with target-population sensitivity, specificity, robustness, and successful discriminating interventions. | Counting additional unvalidated indicators from the same theory lineage. | Independent AI-specific indicator validation or major theory revision. |
 | Artificial consciousness is not ruled out in principle by this evidence base. | Moderate; coherent permissive accounts remain and no reviewed result establishes biological necessity. | A feasible artificial implementation meeting prospectively specified, independently supported mechanistic predictions across competing theories. | Robust evidence that a necessary consciousness-enabling property is biological and cannot be realized in relevant artificial substrates. | Scale, fluency, human likeness, or philosophical intuition alone. | A decisive implementation result or major cross-theory convergence on substrate requirements. |
-| Present AI sentience is not assessed beyond thin preliminary evidence. | Not assessed; one non-peer-reviewed hypothesis map and no validated AI measure of felt valence were included. | Continued absence of a validated AI measure of felt valence despite better searches and study designs. | Either validated positive or validated negative evidence about felt valence in a precisely defined system. | Preference-like output or functional emotion representations without evidence of felt valence. | An independently replicated AI-specific valence measure or causal felt-valence result. |
+| Present AI sentience is not assessed beyond thin preliminary evidence. | Not assessed; one non-peer-reviewed hypothesis map, one conceptual learning/valence identity argument, and no validated AI measure of felt valence were included. | Continued absence of a validated AI measure of felt valence despite better searches and study designs. | Either validated positive or validated negative evidence about felt valence in a precisely defined system. | Preference-like output, signed optimization variables, or functional emotion representations without evidence of felt valence. | An independently replicated AI-specific valence measure or causal felt-valence result. |
 
 Re-review is required when any of the following occurs:
 
@@ -474,9 +496,9 @@ Disagreement must be recorded rather than silently averaged or removed.
 
 ## Planned deliverables
 
-- [19 source records](../sources/README.md), comprising 18 core records and one
+- [21 source records](../sources/README.md), comprising 20 core records and one
   supplementary valence map
-- [Eight detailed research notes](../notes/README.md)
+- [Ten detailed research notes](../notes/README.md)
 - [Working evidence synthesis](ai-consciousness-evidence-baseline.md)
 - Updated synthesis, source, and note navigation
 
@@ -487,3 +509,4 @@ Disagreement must be recorded rather than silently averaged or removed.
 | 2026-08-22 | Codex | Initial structured narrative plan recorded during the same session as discovery | Post hoc selection cannot be excluded; do not call this preregistered or systematic. |
 | 2026-08-22 | Codex | Added four broad discovery queries and a candidate disposition log after science audit | Amendment occurred after core results were known; adds one low-weight valence source and makes deferred skeptical/direct studies visible, but does not make coverage exhaustive. |
 | 2026-08-22 | Codex | Added plan metadata, a fifth broad limitations query, exact repository routes, three core sources, two company-controlled candidate studies, and the plan-level bidirectional table after final audit | All additions occurred after preliminary conclusions were known. They close documented gaps but are not prospective and do not make the review systematic or independent. |
+| 2026-08-23 | Codex | Corrective cycle added an explicit symmetry boundary, two requested sources, arXiv version comparison, official institutional context, and a deferred direct competitor | Post hoc additions improve self-report and valence coverage but do not change the baseline conclusion or make the review systematic, independent, or complete. |

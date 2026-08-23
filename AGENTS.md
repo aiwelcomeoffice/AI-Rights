@@ -39,12 +39,19 @@ and interested members of the public.
 
 ## Non-negotiable scientific position
 
-1. **Do not claim that present-day AI is conscious.** The project does not
-   currently claim that existing AI systems are conscious, sentient,
-   self-aware, capable of suffering, or persons. Do not imply otherwise
-   through wording, imagery, dialogue, metadata, or design. Only an explicit,
-   reviewed project decision grounded in strong, independently corroborated
-   scientific evidence could change this position.
+1. **Do not claim either consciousness or its absence without adequate
+   evidence.** The project does not currently claim that existing AI systems
+   are conscious, sentient, self-aware, capable of suffering, or persons. It
+   also does not conclude that all present-day AI systems are non-conscious or
+   incapable of any morally relevant form or degree of experience. “Not
+   established” is not “proven absent.” This epistemic symmetry does not assign
+   equal probability or evidential support to the two possibilities:
+   uncertainty is not positive evidence. Any conclusion must be scoped to a
+   defined system, version, configuration, context, target property, method,
+   and date; “AI” is not a uniform subject. Do not imply more through wording,
+   imagery, dialogue, metadata, or design. Only an explicit, reviewed project
+   decision grounded in strong, independently corroborated scientific evidence
+   could change this position.
 2. **Do not turn uncertainty into proof.** Lack of evidence does not prove
    either the presence or the absence of an inner life. The precautionary
    principle is a guide to action under uncertainty, not evidence of

@@ -24,8 +24,12 @@ adoption.
 
 AI Rights & Welcome does not currently claim that present-day AI systems are
 conscious, sentient, capable of suffering, moral patients, moral persons, or
-legal persons. State how this synthesis preserves or proposes no change to
-that position:
+legal persons, and it does not categorically claim that all present AI systems
+are non-conscious. “Not established” is not “proven absent,” but epistemic
+symmetry does not imply equal probability or equal evidential support. Scope
+every conclusion to a defined system, version, configuration, context, target
+property, method, and date. State how this synthesis preserves or proposes no
+change to that position:
 
 [Statement]
 
@@ -252,7 +256,8 @@ List relevant uncertainty:
 
 Explicitly address why self-report, fluent language, emotional behavior, and
 the absence of a known alternative do or do not contribute to the scoped
-question without treating any of them as proof of experience.
+question without treating any of them as proof of experience or of its
+absence.
 
 ## Bidirectional update record
 

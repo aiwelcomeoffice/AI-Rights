@@ -32,7 +32,7 @@ something it is like to be the system.
 The repository's [working evidence
 synthesis](../../research/syntheses/ai-consciousness-evidence-baseline.md#executive-conclusion)
 reports that, within its selected set of English-language sources and
-2026-08-22 cutoff, it did not identify evidence sufficient to establish
+2026-08-23 cutoff, it did not identify evidence sufficient to establish
 phenomenal consciousness or sentience in the contemporary systems addressed
 by its included sources. The synthesis is partly verified, has no independent
 human review, and is not a project position or a claim of consensus.

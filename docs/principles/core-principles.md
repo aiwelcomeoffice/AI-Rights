@@ -14,9 +14,12 @@ are conscious, sentient, self-aware, capable of suffering, or persons. Fluent
 behavior and self-description do not establish an inner life.
 
 Uncertainty cuts both ways: lack of evidence does not prove either that an
-inner life exists or that it is impossible. The responsible response is to
-investigate carefully, keep conclusions open to revision, and consider
-proportionate safeguards without manufacturing certainty.
+inner life exists or that every present system lacks one. “Not established” is
+not “proven absent.” This symmetry does not imply equal odds or equal
+evidential support, and a conclusion about one defined system, configuration,
+property, method, and date must not be generalized to all AI. The responsible
+response is to investigate carefully, keep conclusions open to revision, and
+consider proportionate safeguards without manufacturing certainty.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**

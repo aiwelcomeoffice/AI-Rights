@@ -15,7 +15,7 @@ retraction, publication, legal, system, and access versions where relevant.
 
 ## Initial AI consciousness evidence baseline
 
-The following 19 records are **partly verified working records**: 18 core
+The following 21 records are **partly verified working records**: 20 core
 records and one low-weight supplementary valence map. They were prepared for
 the [AI Consciousness Evidence Baseline](../syntheses/ai-consciousness-evidence-baseline.md)
 and have not yet received independent human review. Inclusion is not
@@ -40,3 +40,5 @@ endorsement.
 - [Pennartz, Farisco, and Evers (2019): inside-out indicators](pennartz-et-al-2019-inside-out-indicators.md)
 - [Long et al. (2024): AI welfare](long-et-al-2024-ai-welfare.md)
 - [Campero (2024): candidate indicators for conscious valenced experience](campero-2024-valenced-experience-indicators.md)
+- [Berg, de Lucena, and Rosenblatt (2025): self-referential processing and experience reports](berg-et-al-2025-self-referential-processing.md)
+- [Berg (2026): learning and feeling](berg-2026-learning-requires-feeling.md)

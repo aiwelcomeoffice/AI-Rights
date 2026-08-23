@@ -11,10 +11,14 @@ systems, and robots.
 
 The project does **not** claim that today's AI systems are conscious, sentient,
 capable of suffering, or persons. Those remain open scientific and
-philosophical questions. Our starting point is more modest: if future systems
-could develop morally relevant experiences, preferences, interests, or forms
-of wellbeing, people should begin examining appropriate protections before
-the answers become urgent.
+philosophical questions. Nor does the project claim that every present-day
+system is non-conscious. “Not established” is not “proven absent,” but this
+uncertainty does not imply equal probability or evidential support. Conclusions
+must be tied to defined systems, configurations, target properties, methods,
+and dates. Our starting point is more modest: if future systems could develop
+morally relevant experiences, preferences, interests, or forms of wellbeing,
+people should begin examining appropriate protections before the answers
+become urgent.
 
 ## Core approach
 

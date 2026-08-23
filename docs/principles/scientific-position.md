@@ -6,9 +6,13 @@
 ## Provisional position
 
 The project does not currently claim that AI systems are conscious, sentient,
-capable of suffering, or moral persons. It treats these as open questions whose
-terms, evidence standards, and possible tests require careful multidisciplinary
-work.
+capable of suffering, or moral persons, and it does not categorically conclude
+that all present AI systems are non-conscious. “Not established” is not
+“proven absent.” This symmetry does not imply equal probability or equal
+evidential support, and findings must be scoped to a defined system, version,
+configuration, context, target property, method, and date. It treats these as
+open questions whose terms, evidence standards, and possible tests require
+careful multidisciplinary work.
 
 This is an epistemic position about what the project can responsibly claim. It
 does not prove that morally relevant AI properties are either present or

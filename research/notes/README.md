@@ -13,7 +13,7 @@ Notes are working material, not project conclusions.
 
 ## AI consciousness evidence baseline notes
 
-These eight notes are **partly verified** and await independent human review:
+These ten notes are **partly verified** and await independent human review:
 
 - [Bayne et al. (2024): consciousness tests](bayne-et-al-2024-tests-consciousness.md)
 - [Butlin et al. (2026): theory-derived indicators](butlin-et-al-2026-indicators-ai-consciousness.md)
@@ -23,3 +23,5 @@ These eight notes are **partly verified** and await independent human review:
 - [Shanahan (2024): interpreting LLM language](shanahan-2024-talking-llms.md)
 - [Pikuliak (2024): self-report studies and language models](pikuliak-2024-self-report-language-models.md)
 - [Colombatto and Fleming (2024): public attributions](colombatto-fleming-2024-folk-attributions.md)
+- [Berg, de Lucena, and Rosenblatt (2025): self-referential processing and experience reports](berg-et-al-2025-self-referential-processing.md)
+- [Berg (2026): learning and feeling](berg-2026-learning-requires-feeling.md)

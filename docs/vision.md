@@ -10,9 +10,12 @@ questions about possible AI moral status before the answers become urgent.
 It aims to combine scientific humility with moral seriousness and practical
 preparation.
 
-The project does not assume that current AI systems are conscious or sentient.
-It asks what evidence would matter, what uncertainty permits or requires, and
-how precautionary protection could coexist with safety and human control.
+The project does not assume that current AI systems are conscious or sentient,
+and it does not assume that every present system is non-conscious. “Not
+established” is not “proven absent,” but unresolved status does not imply equal
+odds or equal evidential support. It asks what evidence would matter, what
+uncertainty permits or requires, and how precautionary protection could
+coexist with safety and human control.
 
 ## Intended character
 
