@@ -64,6 +64,50 @@ consciousness or sentience claim and no categorical negative verdict. The
 project instead seeks evidence that could update a scoped conclusion in either
 direction.
 
+## Can AI development move faster than consciousness research?
+
+Yes. Experiments, review, publication, replication, and synthesis take time,
+so published work may examine systems older than those currently deployed.
+Methods may lag as well. A failure to detect a property is informative only
+when the method could detect the defined property in the relevant system.
+
+This research and measurement lag can make an older conclusion less applicable
+to a later system. It does not provide positive or negative evidence about
+consciousness by itself.
+
+## Does rapid capability progress make AI consciousness more likely?
+
+Not by itself. Greater fluency, benchmark performance, memory, tool use,
+autonomy, or speed may be important capabilities, but none automatically
+establishes consciousness, sentience, valence, welfare, or moral status.
+
+Rapid change may create more uncertainty about whether earlier findings still
+apply. Increased uncertainty is not positive evidence of an inner life.
+
+## Does a conclusion about an older model apply to a newer version?
+
+Not automatically. Even when a product name stays the same, model weights,
+training, system instructions, context handling, memory, tools, modalities,
+safety tuning, inference settings, or surrounding software may change. A
+responsible conclusion identifies the system, version, configuration, study
+conditions, method, and date it covers.
+
+A material change should trigger reassessment. It does not mean that every
+software update creates a morally different entity or automatically changes a
+system's protections or status.
+
+## How does the project keep its research current?
+
+The Draft research process uses dated search cutoffs, versioned records, stated
+limitations, scheduled review where one has been set, and event-based review
+triggers. A new search should be recorded as a new search; editing a document
+must not silently move its evidence cutoff.
+
+The project does not yet claim continuous monitoring or an adopted repository-
+wide review cadence. Assigning maintenance owners and deciding a cadence remain
+owner decisions, while material new evidence, methods, system changes,
+corrections, or disclosures can still justify earlier review.
+
 ## Why discuss rights before consciousness has been proven?
 
 Discussion is not recognition. Society can clarify vocabulary, research

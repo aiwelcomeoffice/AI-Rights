@@ -676,14 +676,34 @@ A decision record should include:
 - accountable actors and an implementation owner for each measure; and
 - an effective date, expiry or review date, monitoring plan, and appeal route.
 
-Review triggers can include material changes to architecture, memory, tools,
-embodiment, operating context, copying, training, evidence, evaluation
-methods, safety risk, law, or the costs and effects of a protection. Marketing
-or a model-name change alone should not transfer a designation. Materially
-equivalent versions should ordinarily retain applicable interim precautions
-pending prompt review so minor changes cannot be used to evade them; a
-material change triggers reassessment rather than an automatic upgrade or
-downgrade.
+Review triggers can include:
+
+- a materially new architecture, model-weight change, training method, or
+  post-training method;
+- persistent memory or cross-session continuity;
+- online learning or substantial adaptation after deployment;
+- materially greater autonomous or long-horizon agency;
+- new forms of embodiment or environmental interaction;
+- replicated mechanistic evidence relevant to consciousness, sentience, or
+  valence;
+- a new validated assessment method;
+- a correction, retraction, failed replication, or major criticism of a
+  relied-upon source;
+- credible disclosure of previously unavailable system information; or
+- a material change in tools, orchestration, operating context, copying,
+  identity boundaries, safety risk, law, or the costs and effects of a
+  protection.
+
+A review trigger starts reassessment. It does not automatically grant or
+remove protection, moral status, personhood, autonomy, legal status, or
+political rights. Capability growth can make an earlier assessment less
+transferable, but is not evidence of consciousness by itself.
+
+Marketing or a model-name change alone should not transfer a designation.
+Materially equivalent versions should ordinarily retain applicable interim
+precautions pending prompt review so minor changes cannot be used to evade
+them; a material change triggers reassessment rather than an automatic upgrade
+or downgrade.
 
 Reassessment should be available to the possible-interest representative and,
 as relevant, developers, owners, deployers, operators, users, affected people,

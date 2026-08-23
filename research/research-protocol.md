@@ -2,8 +2,9 @@
 
 **Status: Draft**
 
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.2-draft
 - **Date prepared:** 2026-08-22
+- **Last updated:** 2026-08-23
 - **Scope:** Working research methodology for AI Rights & Welcome
 - **Authority:** Proposed for project-owner review; not adopted
 
@@ -135,11 +136,14 @@ before evidence is collected.
 
 AI findings must identify, as relevant:
 
-- model and checkpoint or release;
-- runtime and system instructions;
+- model architecture, weights, checkpoint, and release;
+- pre-training, post-training, and safety-tuning information available for the
+  assessed claim;
+- runtime, system instructions, and context handling;
 - memory and persistence mechanisms;
-- tools, sensors, actuators, or embodiment;
-- sampling and other material configuration;
+- tools, agent loops, surrounding orchestration, sensors, actuators, modalities,
+  or embodiment;
+- sampling, inference, online-adaptation, and other material configuration;
 - operator, evaluator, and deployment context;
 - instance or copy relationships; and
 - the dates or duration assessed.
@@ -152,6 +156,39 @@ recorded rather than assumed.
 Legal research must separately identify jurisdiction, competent authority,
 legal instrument, version, force, and relevant date. Philosophical research
 must identify the proposition and premises being examined.
+
+### Time-bound conclusions and applicability
+
+A research conclusion is a dated assessment, not a permanent or universal
+verdict. Records must distinguish the **evidence-search cutoff** from source
+publication dates, system release and observation dates, and the dates when a
+document was prepared, edited, verified, or reviewed. Editing a synthesis does
+not change its search cutoff. The cutoff may move only when a documented search
+or refresh has actually been performed.
+
+Four temporal and access limits should be assessed separately:
+
+| Limitation | What it means | Required treatment |
+| --- | --- | --- |
+| **Research lag** | Experiments, review, publication, replication, and synthesis take time. Published work may examine systems older than currently deployed systems. | State the search and study dates and identify known material developments that were not assessed. |
+| **Model and deployment drift** | A product name does not identify one stable scientific object. Weights, architecture, training, system instructions, context, memory, tools, agent loops, modalities, adaptation, embodiment, safety tuning, inference, and orchestration may change. | Scope findings to the tested version and configuration; do not transfer them automatically to another release, deployment, instance, or successor. |
+| **Measurement lag** | Methods for detecting a defined consciousness-relevant property may develop more slowly than the systems being assessed. | Treat non-detection as informative only to the extent that the method could detect that property in the relevant system and conditions. |
+| **Access limitations** | Proprietary weights, undisclosed changes, missing training information, restricted interfaces, or unavailable experimental access may prevent independent assessment or replication. | Record what could not be inspected and how that limits confidence and generalizability; do not treat inaccessibility as evidence in either direction. |
+
+Rapid development and these limitations may weaken confidence that an earlier
+finding applies to a later system. They do not, by themselves, provide evidence
+for or against consciousness, sentience, valence, welfare, or moral status.
+Newer or more capable is not automatically more conscious.
+
+Each synthesis conclusion must identify, as relevant:
+
+- its evidence-search cutoff;
+- the systems, model versions, configurations, and study conditions covered;
+- material access limitations;
+- publication, correction, and replication status;
+- known material research or system developments not assessed;
+- limits on transfer to other systems or dates; and
+- scheduled and event-based conditions for renewed review.
 
 ### State what is outside scope
 
@@ -809,18 +846,43 @@ project's governance process and an appropriate decision record.
 ## Maintenance and review triggers
 
 Each synthesis must name an owner, last search date, next review date or reason
-no date is set, and event-based update triggers. Triggers can include:
+no date is set, and event-based update triggers. A fixed cadence remains a
+proposed owner decision unless it has been approved; event-triggered review
+must remain possible between scheduled reviews. Do not claim that continuous
+monitoring exists unless its ownership and operation are documented.
 
-- major relevant independent evidence or failed replication;
-- correction, retraction, data release, or newly disclosed conflict;
-- improved measures or a material methodological criticism;
-- a material model, system, deployment, or identity-boundary change;
-- a relevant legal or regulatory change; or
+Triggers can include:
+
+- a materially new architecture, model-weight change, training method, or
+  post-training method;
+- persistent memory or cross-session continuity;
+- online learning or substantial adaptation after deployment;
+- materially greater autonomous or long-horizon agency;
+- new forms of embodiment or environmental interaction;
+- replicated mechanistic evidence relevant to consciousness, sentience, or
+  valence;
+- a new validated assessment method or a material methodological criticism;
+- a correction, retraction, failed replication, data release, or major
+  criticism of a relied-upon source;
+- credible disclosure of previously unavailable system information;
+- a material deployment, identity-boundary, safety-risk, legal, or regulatory
+  change; or
 - a change in the decision for which the review is used.
+
+A trigger starts reassessment. It does not establish the direction of the new
+conclusion or automatically grant, remove, strengthen, or weaken a protection
+or status.
 
 Protocol amendments require a new version, date, rationale, and description of
 affected work. Earlier reviews must retain the protocol version they used.
 Material methodological changes must not be backdated or silently applied.
+
+## Protocol amendment history
+
+| Version | Date | Rationale and change | Effect on earlier work |
+| --- | --- | --- | --- |
+| 0.1-draft | 2026-08-22 | Initial proposed research method. | Working records identify this version where used. |
+| 0.2-draft | 2026-08-23 | Work Cycle 003 added explicit research-lag, model/deployment-drift, measurement-lag, access, applicability, and review-trigger rules. | No scientific source, conclusion, confidence assessment, or search cutoff changes automatically; earlier evidence work retains its 0.1-draft lineage. |
 
 ## Reusable records
 

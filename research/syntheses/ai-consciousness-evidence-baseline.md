@@ -3,8 +3,9 @@
 **Status: Working synthesis — not a project position**
 
 - **Synthesis ID:** SYN-ACEB-001
-- **Synthesis version:** 0.3
-- **Protocol version:** 0.1-draft
+- **Synthesis version:** 0.4
+- **Protocol version:** 0.1-draft for evidence search and appraisal;
+  temporal-scope presentation aligned with 0.2-draft
 - **Synthesis type:** Structured narrative review
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Independent reviewers:** None yet; material limitation
@@ -149,6 +150,47 @@ proportionate decision processes—not as proof in either direction.
   assign a body-of-evidence confidence judgment to present AI sentience.
 - The review does not answer moral status, legal personhood, political rights,
   ownership, liability, or safety policy.
+
+### Temporal scope and applicability
+
+This baseline is a dated snapshot, not a standing assessment of every system
+available at or after its cutoff. The **2026-08-23 search cutoff** records when
+evidence discovery stopped. **Last updated** records document revision and is a
+separate field. This methodological revision added no scientific sources,
+performed no new evidence search, and did not move the cutoff.
+
+The conclusions cover only the included sources and the systems, versions,
+configurations, study conditions, and methods those sources actually address.
+A shared product or model-family name does not make deployments scientifically
+identical. Changes to weights or architecture, pre-training or post-training,
+system instructions, context handling, memory, tools and agent loops,
+multimodal processing, online adaptation, embodiment, safety tuning, inference
+settings, or surrounding orchestration may limit transfer to another version.
+
+The evidence also has temporal and access limits:
+
+- **Research lag:** experimentation, review, publication, replication, and
+  synthesis take time, so an included source may already concern an older
+  system by the time it is read.
+- **Measurement lag:** available methods may be unable to detect the defined
+  property in a relevant artificial system. A non-detection is informative
+  only to the extent that the method had the required validity and sensitivity.
+- **Access limitations:** proprietary weights, undisclosed changes, missing
+  training information, incomplete system boundaries, and restricted
+  experimental access constrain independent assessment and replication.
+
+Known but unassessed items within the cutoff are recorded in the exclusions,
+candidate dispositions, limitations, and update triggers below. Developments
+after the cutoff were not searched for or assessed in this revision; their
+absence from this document is not evidence that none exist.
+
+These limits can reduce confidence that an older conclusion applies to a newer
+or materially changed system. They do not change the executive conclusion or
+confidence assessment for its stated scope, and they are not positive or
+negative evidence about experience. “Not established at the recorded cutoff”
+does not mean “impossible now.” Newer or more capable does not automatically
+mean more conscious. A material change triggers reassessment, not an automatic
+scientific, moral, or legal reclassification.
 
 ## Terminology register
 
@@ -1184,6 +1226,7 @@ What could change each layer:
 | 2026-08-22 | Codex | Initial 15-core-source structured narrative baseline plus one supplementary valence map | Establishes a working research boundary; no project position. |
 | 2026-08-22 | Codex | Final-audit amendment added three core sources, explicit search/repository provenance, two deferred company-controlled studies, and GNWT counterinterpretation | Expands the baseline to 18 core sources plus one supplement; conclusions remain provisional and non-adopted. |
 | 2026-08-23 | Codex | Corrective cycle added epistemic-symmetry scope, Berg et al. 2025, Berg 2026, arXiv version provenance, and a deferred direct competitor | Expands the baseline to 20 core sources plus one supplement; self-report and valence coverage improve, but the scientific conclusion remains unchanged and unadopted. |
+| 2026-08-23 | Codex | Work Cycle 003 clarified research lag, model and deployment drift, measurement lag, access limits, and time-bounded applicability without a new evidence search | Methodological scope and update policy improved; sources, executive conclusion, confidence assessment, and 2026-08-23 search cutoff remain unchanged. |
 
 ## Sources
 

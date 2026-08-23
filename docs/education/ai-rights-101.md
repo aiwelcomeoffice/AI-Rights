@@ -83,6 +83,34 @@ requires an explicit hypothesis, a valid method, serious testing of competing
 explanations, and evidence that could change the conclusion in either
 direction.
 
+## Why does the evidence baseline have a date?
+
+The baseline is a dated snapshot, not a permanent verdict. Its evidence-search
+cutoff records when source discovery stopped; a document's later editing date
+serves a different purpose. The conclusion covers only the sources, systems,
+versions, configurations, study conditions, and methods actually included.
+Changing the wording of a document does not move its search cutoff.
+
+Research can lag behind deployment because experiments, peer review,
+publication, replication, and synthesis take time. Measurement can lag too: a
+failure to detect a property is informative only if the method could detect the
+defined property in the relevant kind of system. Proprietary weights,
+undisclosed updates, missing training information, and restricted experimental
+access can further limit independent assessment and replication.
+
+A product name is not necessarily a stable scientific object. Changes to model
+weights or architecture, training or post-training, system instructions,
+context handling, memory, tools and agent loops, modalities, online adaptation,
+embodiment, safety tuning, inference settings, or surrounding software may
+matter to an assessment. A later or materially changed system may therefore
+need a fresh, version-aware review.
+
+These limits can reduce confidence that an older finding transfers to a newer
+system. They are not evidence that consciousness, sentience, valence, welfare,
+or moral status is present or absent. “Not established at the recorded cutoff”
+does not mean “impossible now,” and newer or more capable does not automatically
+mean more conscious. Responsible conclusions state both their scope and date.
+
 ## Five questions that should not be collapsed
 
 | Question | Relevant concept | What it does **not** establish by itself |

@@ -218,6 +218,23 @@ no viewpoint should be treated as settled merely because it is emotionally
 appealing, technically fashionable, institutionally powerful, or aligned with
 the project's hopes.
 
+### 13. Temporal and version-aware precaution
+
+Scientific and moral-status assessments must be scoped to identifiable
+systems, versions, configurations, study conditions, methods, and dates. No
+assessment becomes permanent merely because a product name remains unchanged.
+Research, publication, replication, and measurement may lag behind system
+development, while limited access may constrain what independent reviewers can
+test. These limits reduce generalizability; they are not evidence for or
+against consciousness, sentience, valence, welfare, or moral patienthood.
+
+Material changes in a system or in the available evidence should trigger
+renewed review. This does not imply that every software update creates a
+morally different entity, that capability growth is a consciousness indicator,
+or that reassessment automatically grants or removes a protection, right,
+legal status, autonomy, or political power. Human safety and institutional
+accountability remain in force while review is pending.
+
 ## Boundaries
 
 ### What this project does not claim

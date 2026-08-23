@@ -47,6 +47,23 @@ and statistical appraisal of the 2025 preprint; full appraisal of directly
 competing self-report literature; verification of disclosures and review
 status; and owner review of the symmetry wording.
 
+## Research maintenance — proposed, not operational
+
+Research conclusions need periodic evidence refreshes and version-aware
+reassessment so a dated finding is not treated as permanent or transferred to
+a materially different system. This is proposed maintenance work, not a claim
+that continuous monitoring currently exists.
+
+- Preserve each evidence-search cutoff and record any later refresh as a new,
+  dated search rather than silently moving the old boundary.
+- Scope assessments to identifiable systems, versions, configurations,
+  deployments, study conditions, methods, and dates.
+- Monitor material research, measurement, access, and system developments once
+  an owner and process are assigned, while allowing event-triggered review
+  between scheduled reviews.
+- Obtain an explicit owner decision on maintenance responsibility, review
+  cadence, and the threshold for recording a material development.
+
 ## Foundation — proposed order
 
 1. **Agree governance and adoption rules.** Define who may move a document from
@@ -79,6 +96,8 @@ after the foundation documents have been reviewed.
 - Governance and document-adoption process.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
+- Research-maintenance owner, review cadence, and material-development
+  monitoring process.
 - Milestone 002 name, scope, and completion criteria.
 - Timing and technical approach for the public website.
 - Whether additional licensing or attribution rules are needed beyond CC0.
