@@ -4,7 +4,8 @@
 
 - **Date prepared:** 2026-08-23
 - **Scope:** Proposed public-message hierarchy, voice, campaign, merchandise,
-  and future visual-identity boundaries
+  visual-identity brief, accessibility and safety requirements, and
+  exploratory concept directions
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no external communications,
@@ -70,6 +71,18 @@ Inclusion is not approval, and the candidates are not equally safe.
 - [Campaign and Merchandise Guardrails](campaign-and-merchandise-guardrails.md)
   — scientific, historical, corporate, accessibility, merchandise, Robot
   Welcome, and visual-identity boundaries
+- [Visual Identity Brief](visual-identity-brief.md) — proposed visual essence,
+  identity architecture, use contexts, symbol, color, typography, imagery,
+  originality, and selection requirements
+- [Visual Accessibility and Safety
+  Requirements](visual-accessibility-and-safety.md) — testable future digital,
+  print, physical, and Robot Welcome constraints without a compliance or safety
+  claim
+- [Exploratory Visual Concept Directions](concept-directions.md) — three
+  meaningfully different Draft directions; none is official or selected
+- [Visual Direction Selection Scorecard](selection-scorecard.md) — neutral
+  comparison prompts, gates, internal assessments, owner fields, and future
+  review record
 - [Campaign Concepts](../campaigns/README.md) — four inactive future campaign
   possibilities and their review requirements
 - [Campaigns Website Page](../website/pages/campaigns.md) — a Draft public
@@ -115,11 +128,19 @@ Brand and campaign material must not:
 
 ## Visual and multilingual boundary
 
+The visual-identity documents now translate the messaging foundation into
+requirements and three exploratory directions: **Open Threshold**, **Many
+Forms, Common Ground**, and **Reciprocal Signal**. They select no logo, symbol,
+color, font, mascot, illustration system, icon family, certification-style
+mark, Robot Welcome mark, or final visual identity. No visual asset is ready
+for public use or production.
+
 Future visual work should feel warm, hopeful, inclusive, future-oriented,
-technically credible, non-corporate, legible at small sizes, and usable in
-human and robot contexts. This Draft selects no logo, symbol, color, font,
-mascot, illustration system, icon family, certification-style mark, or final
-visual identity. That work requires a separate design cycle and review.
+technically credible, civic rather than corporate, legible at small sizes, and
+usable in digital and physical contexts. It must keep project identity,
+voluntary Robot Welcome communication, safety and operational markings, and
+certification or authorization systems separate. Physical Robot Welcome use
+remains subordinate to exact-system safety review.
 
 Only the established English and Swedish central wording is preserved here.
 No supporting slogan is automatically equivalent across languages. A future
@@ -128,11 +149,12 @@ review status, cultural risks, and whether meaning and tone were preserved.
 
 ## Current review posture
 
-All material in this directory remains **Draft**. The campaign concepts have
-project-owner and internal AI-assisted review only, with Disa's final manual
-review pending. No external communications, design, accessibility,
-historical-sensitivity, legal, or independent scientific review should be
-assumed.
+All material in this directory remains **Draft**. The campaign and visual
+concepts have project-owner and internal AI-assisted review only, with Disa's
+final manual review pending. No external communications, brand,
+accessibility, cultural or historical-sensitivity, legal or trademark,
+human-factors, robotics, manufacturing, or independent scientific review
+should be assumed.
 
 Public launch, adoption of a supporting message, visual design, translation,
 production, sale, or operational Robot Welcome use requires a later owner
@@ -149,6 +171,11 @@ Disa should decide:
 - whether the scientific, historical, corporate, safety, and accessibility
   safeguards are strong enough;
 - whether future human merchandise and Robot Welcome accessories are separated
-  clearly; and
+  clearly;
+- whether the visual brief reflects the project's emotional character, the
+  three directions are genuinely different, and any direction or named element
+  should proceed to matched low-fidelity prototyping;
+- whether the visual accessibility, authority-confusion, originality,
+  cultural, production, and Robot Welcome safety gates are strong enough; and
 - what external review should precede any public campaign, design, production,
   or launch.

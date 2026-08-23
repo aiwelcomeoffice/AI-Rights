@@ -50,6 +50,13 @@ work cycle.
   inactive future campaign possibilities, and scientific, historical,
   corporate, accessibility, and review safeguards
 
+The website content work now also has a Draft [visual identity
+brief](../brand/visual-identity-brief.md), [visual accessibility and safety
+requirements](../brand/visual-accessibility-and-safety.md), three [exploratory
+concept directions](../brand/concept-directions.md), and a [selection
+scorecard](../brand/selection-scorecard.md). These are future design inputs,
+not an approved identity or authorization to implement the site.
+
 These ten pages form the current core website-ready Draft set. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
 executive-brief and protection-framework adaptations, manifesto adaptation,
@@ -68,12 +75,13 @@ Drafts or, in the case of the vision, a Scaffold:
 - the [Manifesto](../manifesto.md) and [Core Principles & Ethical
   Charter](../principles/core-principles.md);
 - the [one-page policy summary](../policy/one-page-policy-summary.md) and
-  [executive policy brief](../policy/executive-policy-brief.md); and
+  [executive policy brief](../policy/executive-policy-brief.md);
 - the [Robot Welcome & Physical Coexistence
   foundation](../robot-welcome/README.md) and its Draft principles, safety
   constraints, and concept catalogue;
 - the [Draft brand and public messaging foundation](../brand/README.md) and
-  [inactive Draft campaign concepts](../campaigns/README.md); and
+  its exploratory visual-identity documents, plus the [inactive Draft campaign
+  concepts](../campaigns/README.md); and
 - the [project vision](../vision.md), used for scope and intent but not as an
   adopted position.
 
@@ -159,13 +167,16 @@ timing, technical implementation, and any decision to adopt content remain
 Disa's decisions.
 
 The core page set has now been drafted, but independent review, translation,
-visual design, technical implementation, and deployment remain pending. The
-page Drafts do not resolve whether the working evidence baseline is ready for
-public reliance or whether a reviewed summary must first be prepared under
+owner selection and refinement of a visual direction, accessibility testing,
+technical implementation, and deployment remain pending. The exploratory
+visual directions are not official and provide no production assets. The page
+Drafts do not resolve whether the working evidence baseline is ready for public
+reliance or whether a reviewed summary must first be prepared under
 `docs/research/`.
 
-Campaign launch, active campaign calls to action, visual identity, merchandise
-design or production, product sales, broad contribution requests, and the
+Campaign launch, active campaign calls to action, final visual identity,
+production-ready brand assets, merchandise design or production, product
+sales, broad contribution requests, and the
 engineering, prototyping, manufacture, compatibility approval, testing, or sale
 of physical robot accessories remain deferred. The Campaigns page and Robot
 Welcome foundation contain Draft concepts only. The proposed Participate page

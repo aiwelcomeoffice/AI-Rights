@@ -55,7 +55,11 @@ Every future campaign should:
 
 The complete [Campaign and Merchandise
 Guardrails](../brand/campaign-and-merchandise-guardrails.md) control future
-development.
+development. Any later visual treatment must also follow the Draft [Visual
+Identity Brief](../brand/visual-identity-brief.md) and [Visual Accessibility and
+Safety Requirements](../brand/visual-accessibility-and-safety.md). The three
+[visual concept directions](../brand/concept-directions.md) are exploratory
+project-identity proposals, not active campaign identities or approved assets.
 
 ## Concept lifecycle
 
@@ -98,4 +102,5 @@ described in the Robot Welcome foundation.
 
 Draft status does not mean the concepts are unimportant or unusable for
 continued development. It means their authority and review limits remain
-visible.
+visible. No visual direction is official, and no campaign artwork or
+production-ready asset has been created.

@@ -92,7 +92,11 @@ screen alternative where they are wide. Status, claim type, warning, and
 navigation state cannot depend on color alone. Definitions should be available
 at first use without forcing keyboard or screen-reader users into hover-only
 interactions. Language changes, including the Swedish motto, should be marked
-in implementation.
+in implementation. Future visual work must also follow the Draft [Visual
+Accessibility and Safety
+Requirements](../brand/visual-accessibility-and-safety.md), then test the exact
+implementation against current applicable requirements. That Draft is a test
+plan, not a compliance finding.
 
 ## Page specifications
 
@@ -112,9 +116,12 @@ The following website-ready files have been drafted from these specifications:
 - [Campaigns](pages/campaigns.md)
 
 They remain **Drafts** pending Disa's final manual review. Independent review,
-translation, visual design, implementation, publication, and deployment remain
-pending. All other routes below remain specifications until a page file is
-created and reviewed; a specification is not a placeholder promise to publish.
+translation, owner selection and refinement of a visual direction,
+accessibility testing, implementation, publication, and deployment remain
+pending. The current [concept directions](../brand/concept-directions.md) are
+exploratory only and provide no approved identity or production assets. All
+other routes below remain specifications until a page file is created and
+reviewed; a specification is not a placeholder promise to publish.
 
 ### 1. Home
 

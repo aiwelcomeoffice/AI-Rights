@@ -181,6 +181,52 @@ price, supplier, store, donation process, social-media account, campaign
 result, partner, launch date, safety mark, certification, or manufacturing
 specification has been created or selected.
 
+## Work Cycle 010 — visual identity brief and concept directions drafted
+
+The [Visual Identity Brief](brand/visual-identity-brief.md) now translates the
+project mission, message hierarchy, voice, use contexts, and identity-
+separation rules into Draft visual requirements. The companion [Visual
+Accessibility and Safety
+Requirements](brand/visual-accessibility-and-safety.md) define future digital,
+print, small-size, monochrome, screen-reader, motion, cognitive-load, tactile,
+reflective, and physical-use test gates without claiming accessibility,
+compliance, compatibility, or safety.
+
+Three [exploratory visual concept directions](brand/concept-directions.md) have
+been developed for comparison:
+
+1. **Open Threshold** — an architectural opening with a visible boundary;
+2. **Many Forms, Common Ground** — a modular civic field of distinct forms;
+   and
+3. **Reciprocal Signal** — two unlike paths responding across an open gap.
+
+The directions are intentionally different and document mission connection,
+shape, color-family, typography, imagery, website, campaign, merchandise,
+Robot Welcome, monochrome, small-size, accessibility, scientific, ethical,
+authority-confusion, cultural, production, strength, weakness, and owner-
+decision considerations. No direction is preferred or official. No sketch,
+binary image, final logo, exact palette, font asset, campaign artwork, website,
+merchandise design, Robot Welcome mark, safety marking, certification mark, or
+production asset was created.
+
+The [Visual Direction Selection
+Scorecard](brand/selection-scorecard.md) provides non-negotiable gates,
+provisional internal comparison notes, separate fit and risk scales, Disa's
+reaction and decision fields, combination and rejection records, matched
+future-prototype tests, and an external-review register. It deliberately
+contains no total or mechanical winner.
+
+Drafting is complete for this decision-foundation cycle, not owner selection,
+adoption, visual refinement, originality or similarity research, trademark or
+legal review, accessibility testing with disabled people, cultural review,
+human-factors review, robotics or physical-safety validation, production
+testing, asset creation, website implementation, public deployment, or
+manufacture. All new substantive documents remain **Draft**. They have
+project-owner and internal AI-assisted review only, with Disa's final manual
+review pending; no external independent brand, accessibility, cultural,
+legal, trademark, human-factors, robotics, or manufacturing review should be
+assumed.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -286,6 +332,21 @@ after the foundation documents have been reviewed.
 - Whether the four inactive campaign concepts are courageous, scientifically
   honest, historically responsible, accessible in direction, resistant to
   corporate capture, and suitable for further development.
+- Whether the Draft visual-identity brief reflects the project's warm,
+  courageous, calm, civic, scientifically honest, playful, inclusive, and
+  future-oriented character across serious policy and ordinary merchandise.
+- Which visual direction or named elements, if any, should proceed to matched
+  low-fidelity black-and-white prototyping; whether any direction or element
+  should be paused or rejected; and whether the project should prefer one
+  emblem, a modular system, or both.
+- Which name form future identity lockups should prioritize and how, if at all,
+  a later Robot Welcome identity should relate to the project identity while
+  remaining separate from safety, authorization, certification, operating
+  state, legal status, and endorsement.
+- What originality, similarity, legal, trademark, licensing, accessibility
+  with disabled people, cultural, multilingual, human-factors, design,
+  production, and—if physical use is proposed—exact-system robotics and safety
+  review should precede selection, adoption, deployment, or manufacture.
 - What communications, scientific, historical-sensitivity, accessibility,
   legal, affected-party, design, environmental, product, robotics, safety,
   standards, and human-factors review should be required before each kind of
@@ -305,9 +366,11 @@ after the foundation documents have been reviewed.
 - Public campaign launch, active campaign participation, social-media
   publication, partnerships, events, petitions, fundraising, and campaign
   results.
-- Final visual identity, supporting-slogan translations, merchandise design,
-  product files, prices, suppliers, manufacturing, store infrastructure, and
-  sales.
+- Owner selection, adoption, and final refinement of a visual identity;
+  originality and similarity checks; trademark and brand-asset strategy;
+  exact colors and fonts; production-ready logo and brand assets; supporting-
+  slogan translations; merchandise design; product files; prices; suppliers;
+  manufacturing; store infrastructure; and sales.
 - Engineering, visual design, prototyping, testing, manufacture, compatibility
   approval, sale, or real-world deployment of physical robot markings,
   signals, and accessories.
