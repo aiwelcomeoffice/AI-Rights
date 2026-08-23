@@ -3,8 +3,9 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Authority:** Neutral decision aid with Disa's Work Cycle 011 exploration
-  direction recorded; not an adopted identity or project position
+- **Authority:** Neutral decision aid with Disa's Work Cycle 011 comparison and
+  later Many Forms C exploration decision recorded; not an adopted identity
+  or project position
 - **Scope:** Comparison of the three Draft directions and six matched
   prototype variants; no final logo, asset, implementation, trademark,
   accessibility, certification, or production decision
@@ -23,8 +24,11 @@
 2. **Many Forms, Common Ground** — a modular civic field of distinct forms.
 3. **Reciprocal Signal** — two unlike paths responding across an open gap.
 
-All remain exploratory proposals. None is the official identity, and no
-prototype is a production asset.
+All remain exploratory proposals. **Many Forms C — Balanced Intervals** is the
+primary exploration direction for **AI Welcome Office** under decisions
+[0002](../decisions/0002-primary-visual-exploration-direction.md) and
+[0003](../decisions/0003-ai-welcome-office-organisational-identity.md). None is
+the official identity, and no prototype is a production asset.
 
 ### Work Cycle 011 direction recorded
 
@@ -52,8 +56,9 @@ useful evidence about emotional fit, but not a substitute for later review.
 | Prompt | Open Threshold | Many Forms, Common Ground | Reciprocal Signal |
 | --- | --- | --- | --- |
 | Three words it evokes |  |  |  |
-| Feels like AI Rights & Welcome because |  |  |  |
-| Feels unlike the project because |  |  |  |
+| Feels like AI Welcome Office because |  |  |  |
+| Leaves room for AI Rights & Welcome as a named project because |  |  |  |
+| Feels unlike the organisation or project because |  |  |  |
 | Most compelling element |  |  |  |
 | Immediate concern |  |  |  |
 | Corporate, religious, threatening, childish, or official reading |  |  |  |
@@ -194,7 +199,8 @@ Combination is optional and should follow, not replace, comparison.
 ### Questions requiring further exploration
 
 - [ ] Does the project need one dominant emblem, a flexible system, or both?
-- [ ] Which name form should future lockups use?
+- [ ] Which exact AI Welcome Office and AI Rights & Welcome project lockups
+  should future testing use?
 - [ ] Which direction best carries both serious policy and playful ordinary
   merchandise without splitting the identity?
 - [ ] Which variant most clearly welcomes support, shared work, learning,
@@ -205,7 +211,7 @@ Combination is optional and should follow, not replace, comparison.
 - [ ] Which existing organizations, marks, safety systems, or product
   categories require early similarity screening?
 - [ ] How should a future Robot Welcome identity remain visibly related, if at
-  all, while never implying certification or project identity?
+  all, while never implying certification or organisational identity?
 - [ ] Which languages, cultures, access needs, and physical contexts need to be
   represented in the first external review group?
 - [ ] What evidence and budget are required before an accessibility,
@@ -213,7 +219,9 @@ Combination is optional and should follow, not replace, comparison.
 
 ## Step 6 — next-stage options
 
-Disa may record one or more outcomes without selecting an official identity:
+Disa may record one or more outcomes without selecting an official identity.
+The current outcome is to continue Many Forms C as the primary AI Welcome
+Office exploration direction while keeping all visual work Draft:
 
 - **Continue one direction:** authorize low-fidelity black-and-white
   prototyping for that direction only.
@@ -292,9 +300,11 @@ No external review should be inferred from this template.
   Welcome and operational markings
 - **External review to commission or seek:** Pending owner decision and
   resources; none occurred in this cycle
-- **Questions left open:** Variant disposition, provisional name form, review
-  sequence and resources, Robot Welcome visual relationship, and the condition
-  under which combination could be considered
+- **Questions left open:** Variant disposition, exact lockup design and
+  official-name clearance, review sequence and resources, Robot Welcome visual
+  relationship, and the condition under which combination could be considered.
+  Work Cycle 013 resolves the organisational and project name roles but not
+  legal clearance or the other review questions.
 - **Next review trigger:** Disa's manual review of the six prototype sheets and
   [matched evaluation](matched-prototype-evaluation.md)
 

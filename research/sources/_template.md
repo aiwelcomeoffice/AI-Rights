@@ -6,6 +6,8 @@
 - **Protocol version:** [Version of the Draft or approved protocol used]
 - **Record created:** [YYYY-MM-DD]
 - **Last updated:** [YYYY-MM-DD]
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Prepared by:** [Name or role]
 - **Reviewed by:** [Name or role, or not yet reviewed]
 

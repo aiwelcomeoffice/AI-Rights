@@ -11,10 +11,11 @@
 
 ## Purpose
 
-This architecture helps AI Rights & Welcome communicate memorably without
-making a short phrase carry scientific or legal claims it cannot support. It
-separates stable central wording from a working principle, supporting-message
-proposals, campaign copy, and calls to action.
+This architecture helps AI Welcome Office communicate through its AI Rights &
+Welcome project without making a short phrase carry scientific or legal claims
+it cannot support. It separates organisation and project attribution, stable
+central wording, a working principle, supporting-message proposals, campaign
+copy, and calls to action.
 
 ## The hierarchy
 

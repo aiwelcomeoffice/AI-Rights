@@ -1,4 +1,4 @@
-# Many Forms C Controlled-Refinement Record
+# AI Welcome Office — Many Forms C Controlled-Refinement Record
 
 **Status: Draft — Refinement paused by the Work Cycle 012 rights-screen stop
 condition; not adopted**
@@ -7,19 +7,27 @@ condition; not adopted**
 - **Authority:** Disa selected the subject for internal exploration; no logo,
   refinement, public-use, filing, merchandise, or Robot Welcome approval
 - **Reference:** [Many Forms C — Balanced
-  Intervals](prototypes/many-forms-c-balanced-intervals.svg), unchanged from
-  Work Cycle 011
+  Intervals](prototypes/many-forms-c-balanced-intervals.svg); Work Cycle 011
+  geometry retained, Work Cycle 013 organisational text labels updated
 - **Reference SHA-256:**
-  `7c8baa5303d51ddc1587cd9ceef7a126a79a697059d9265084e14248c895a253`
+  `dd7593a480a5bbd943857a62fcf3386510a080e13810dd4baac7c7d11b4b0196`
 - **Review:** Disa, ChatGPT, and Sol internal collaborative review only; no
   unprompted audience, accessibility, cultural, legal, trademark,
   human-factors, robotics, safety, or production review
 
 ## Outcome
 
-Many Forms C is the [Accepted primary exploration
-direction](../decisions/0002-primary-visual-exploration-direction.md), not an
-official identity. Its original Work Cycle 011 SVG remains unchanged.
+An Accepted decision names Many Forms C the primary exploration direction for
+**AI Welcome Office**, not an official identity. [Decision
+0002](../decisions/0002-primary-visual-exploration-direction.md) records that
+exploration-only choice, and [decision
+0003](../decisions/0003-ai-welcome-office-organisational-identity.md) assigns
+it to the organisation while retaining **AI Rights & Welcome** as the project.
+
+The original Work Cycle 011 geometry remains unchanged. In Work Cycle 013, the
+generated evaluation-sheet labels changed from the former project-identity
+lockup to **AI Welcome Office**. That text-only update changes the file hash
+but is not a C1, C2, or C3 geometry refinement.
 
 The [preliminary rights and identity-landscape
 screen](preliminary-rights-and-identity-landscape-screen.md) found apparently
@@ -111,7 +119,7 @@ favoured candidate more dramatically.
 | White on black | Present in WC011 sheet | Not created | Not created | Not created |
 | Native 16, 24, 32, and 48 px | Present in WC011 sheet and contact sheet; geometric review below | Not created | Not created | Not created |
 | Isolated symbol | Present | Not created | Not created | Not created |
-| Provisional project-name lockup | Present with generic placeholder type | Not created | Not created | Not created |
+| Provisional organisational-name lockup | Present with AI Welcome Office and generic placeholder type | Not created | Not created | Not created |
 | Draft research-report cover | Present | Not created | Not created | Not created |
 | Content-heavy website header | Present | Not created | Not created | Not created |
 | Campaign tile with qualifier and source | Present | Not created | Not created | Not created |
@@ -190,8 +198,9 @@ because those variants do not exist.
 
 ### Unprompted stage
 
-4. Show the isolated symbol first with no project name, intended metaphor, or
-   list of risks. Ask: “What, if anything, does this first look like?” and
+4. Show the isolated symbol first with no organisation or project name,
+   intended metaphor, or list of risks. Ask: “What, if anything, does this
+   first look like?” and
    “What activity, organization, product, place, or feeling—if any—does it
    suggest?” Preserve exact short answers where consent allows.
 5. Ask for confidence, uncertainty, and any safety, authority, religious,
@@ -203,10 +212,11 @@ because those variants do not exist.
 
 ### Prompted and contextual stage
 
-7. Only after unprompted responses are locked, disclose the project name,
-   Draft status, intended “distinct forms / intervals / common ground” concept,
-   and the full interpretation list. Ask which readings are supported,
-   contradicted, or newly suggested.
+7. Only after unprompted responses are locked, disclose **AI Welcome Office**,
+   the **AI Rights & Welcome** project relationship, Draft status, intended
+   “distinct forms / intervals / common ground” concept, and the full
+   interpretation list. Ask which readings are supported, contradicted, or
+   newly suggested.
 8. Test black on white and white on black; text-first alternatives; zoom and
    low-vision settings; cognitive load; multilingual lockups; and exact print,
    stitch, or engraving samples if those uses later become authorized.
@@ -225,18 +235,18 @@ pause, rejection, specialist review, or a text-first small-size fallback.
 
 ## Conditions for resuming visual refinement
 
-Before drawing C1–C3, Disa should decide:
+The organisation/project naming question is now resolved: AI Welcome Office is
+the organisation and publisher, and AI Rights & Welcome remains its project.
+Before drawing C1–C3, Disa should still decide:
 
-1. whether to keep **AI Rights & Welcome** as the working name, commission a
-   professional name/mark search, or reopen naming;
-2. which territories and concrete goods/services the professional screen must
-   cover;
-3. whether a symbol-only geometry study may proceed before the name question
-   is resolved;
-4. which human creative decisions and chain-of-title facts must be logged;
-5. whether future official identity assets should be prospectively separated
+1. which territories and concrete goods/services the professional AI Welcome
+   Office name/mark screen must cover;
+2. whether a symbol-only geometry study may proceed before professional name
+   and mark review is complete;
+3. which human creative decisions and chain-of-title facts must be logged;
+4. whether future official identity assets should be prospectively separated
    from default CC0 treatment; and
-6. what failed small-size, surveillance/sensor, authority, accessibility, or
+5. what failed small-size, surveillance/sensor, authority, accessibility, or
    cultural finding would stop the next round.
 
 If visual work resumes, the three descendants should be generated in one

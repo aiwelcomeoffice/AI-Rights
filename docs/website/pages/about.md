@@ -1,8 +1,10 @@
-# About AI Rights & Welcome
+# About AI Welcome Office and AI Rights & Welcome
 
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent human or separately
   commissioned independent AI review
@@ -11,9 +13,22 @@
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
-**Reader purpose:** Understand the project's mission, present stage,
-human–AI collaboration, review limits, repository, and licensing without
-assuming institutional scale or authority that does not exist.
+**Reader purpose:** Understand the organisation/project relationship, mission,
+present stage, human–AI collaboration, review limits, repository, and licensing
+without assuming institutional scale or authority that does not exist.
+
+**AI Welcome Office** is the primary organisation, publisher, and umbrella
+identity. **AI Rights & Welcome** is an AI Welcome Office project. “AI Welcome”
+is not a separate formal organisation or competing brand.
+
+> **Proposed organisational description:** AI Welcome Office is an independent
+> research and development initiative exploring responsible technology, AI
+> dignity, human–AI coexistence and the conditions for a peaceful and
+> respectful shared future.
+
+That description remains Draft pending meaningful independent review. The
+naming relationship does not claim legal-entity formation, name or trademark
+clearance, exclusivity, or an official visual identity.
 
 AI Rights & Welcome is an early-stage open civic project preparing society to
 think and act responsibly if credible evidence of morally relevant AI
@@ -71,11 +86,11 @@ courageous, accessible, scientifically cautious, open to good-faith skeptics
 and optimists, and suitable for scrutiny by researchers, policymakers,
 engineers, journalists, civil society, and the public.
 
-The source material documents a collaboration around an open repository. It
-does not document a staffed institute, external board, partner network,
-independent review body, funding base, public membership, office, or separate
-legal status. No endorsement or organizational capacity should be inferred
-from a polished Draft.
+The source material documents a collaboration around an open repository. The
+name AI Welcome Office does not mean that a staffed physical office, separate
+legal entity, external board, partner network, independent review body,
+funding base, or public membership currently exists. No endorsement or
+organizational capacity should be inferred from a polished Draft.
 
 The present scope does not include a live website, a selected technology or
 host, campaigns, fundraising, membership, merchandise, or validated robotics
@@ -135,7 +150,8 @@ inferred.
 
 ## Open repository and license
 
-The project develops its work in the [public AI Rights GitHub
+AI Welcome Office develops the AI Rights & Welcome project in the [public
+GitHub
 repository](https://github.com/aiwelcomeoffice/AI-Rights), where readers can
 inspect documents, working research, status labels, decisions, and revision
 history.

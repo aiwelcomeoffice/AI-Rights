@@ -42,10 +42,12 @@ questions. Neither should cancel the other.
 | Principles | `/principles/` | Proposed ethical commitments and manifesto |
 | Robot Welcome | `/robot-welcome/` | Responsible coexistence with embodied systems |
 
-The project name or mark should link to `/`. Six text items are the upper limit
-for the primary menu. About, governance, and participation remain highly
-visible through utility and footer navigation without making the first menu a
-catalogue of the repository.
+The **AI Welcome Office** full name or mark should link to `/`. **AI Rights &
+Welcome — An AI Welcome Office project** should remain visible as the project
+identifier where space permits. Six text items are the upper limit for the
+primary menu. About, governance, and participation remain highly visible
+through utility and footer navigation without making the first menu a catalogue
+of the repository.
 
 ### Utility navigation
 
@@ -188,8 +190,9 @@ prepared first.
 - **Donations:** no fundraising call to action in the current source base.
 - **Website technology:** framework, hosting, domain, analytics, deployment,
   and content-management choices are outside this architecture.
-- **Visual brand system:** no logo, palette, illustration system, or visual
-  identity is selected here.
+- **Visual brand system:** Many Forms C is the primary AI Welcome Office
+  exploration direction, but no official logo, palette, illustration system,
+  cleared identity, or production asset is selected here.
 - **Reviewed public research publication:** `docs/research/` remains reserved;
   the working synthesis does not become reviewed merely by appearing on a
   website.

@@ -9,6 +9,11 @@
 
 ## Requirements shared by every page
 
+Every page should identify **AI Welcome Office** as publisher and preserve
+**AI Rights & Welcome — An AI Welcome Office project** as the project
+relationship. Formal uses must not shorten the organisation to “AI Welcome.”
+The proposed shared organisational description remains Draft.
+
 ### Status and review component
 
 Every substantive page should show a compact, text-based status component near
@@ -116,16 +121,18 @@ The following website-ready files have been drafted from these specifications:
 - [Campaigns](pages/campaigns.md)
 
 They remain **Drafts** pending Disa's final manual review. Independent review,
-translation, owner selection and refinement of a visual direction,
-accessibility testing, implementation, publication, and deployment remain
-pending. The current [concept directions](../brand/concept-directions.md) are
-exploratory only and provide no approved identity or production assets. All
+translation, official-name and trademark clearance, independent review of
+Many Forms C, accessibility testing, implementation, publication, and
+deployment remain pending. Many Forms C is the primary AI Welcome Office
+visual exploration; it remains Draft and provides no approved, cleared, or
+production identity asset. All
 other routes below remain specifications until a page file is created and
 reviewed; a specification is not a placeholder promise to publish.
 
 ### 1. Home
 
 - **Working title:** AI Rights & Welcome
+- **Publisher line:** An AI Welcome Office project
 - **Route:** `/`
 - **Audience:** First-time public visitors, skeptics, journalists, and
   institutional readers.
@@ -638,7 +645,7 @@ reviewed; a specification is not a placeholder promise to publish.
 
 ### 19. About
 
-- **Working title:** About AI Rights & Welcome
+- **Working title:** About AI Welcome Office and AI Rights & Welcome
 - **Route:** `/about/`
 - **Audience:** Public readers, journalists, institutions, and potential future
   collaborators.
@@ -646,9 +653,10 @@ reviewed; a specification is not a placeholder promise to publish.
   are its boundaries?
 - **Page objective:** Describe mission, scope, roles, authority, license, and
   current capacity without inflating the project's maturity.
-- **Required sections:** Mission and central wording; current milestone; scope
-  and exclusions; Disa, ChatGPT, and Sol roles; review capacity; open-source
-  repository and license; contact/follow path when approved.
+- **Required sections:** Organisation/project relationship; Proposed/Draft
+  organisational description; mission and central wording; current milestone;
+  scope and exclusions; Disa, ChatGPT, and Sol roles; review capacity;
+  open-source repository and license; contact/follow path when approved.
 - **Primary sources:** [root README](../../README.md), [vision](../vision.md),
   [Governance](../governance/README.md), [Manifesto](../manifesto.md), and
   [license](../../LICENSE).

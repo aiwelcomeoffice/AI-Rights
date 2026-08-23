@@ -3,6 +3,8 @@
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent human or separately
   commissioned independent AI review
@@ -16,10 +18,11 @@
 reviewed the work, what authority it has, and which governance proposals remain
 unresolved.
 
-AI Rights & Welcome keeps status close to substantive work because a polished,
-public, or frequently cited document can still have limited review and no
-formal authority. Status, verification, review, publication, and adoption
-answer different questions.
+AI Welcome Office publishes the work of its AI Rights & Welcome project with
+status kept close to substantive material because a polished, public, or
+frequently cited document can still have limited review and no formal
+authority. Status, verification, review, publication, and adoption answer
+different questions.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean

@@ -1,4 +1,4 @@
-# Agent Instructions for AI Rights & Welcome
+# Agent Instructions for AI Welcome Office and AI Rights & Welcome
 
 ## Scope and precedence
 
@@ -11,10 +11,22 @@ something to surface, not as permission to change those commitments silently.
 
 ## Mission
 
+AI Welcome Office is the primary organisation, publisher, and umbrella
+identity. AI Rights & Welcome is an AI Welcome Office project. Use the complete
+name **AI Welcome Office** in formal organisational contexts; do not introduce
+“AI Welcome” as a separate organisation or competing brand.
+
 AI Rights & Welcome is an open civic project preparing society to think and
 act responsibly if credible evidence of morally relevant AI capacities ever
 emerges. It explores AI dignity, possible future protections, responsible
 robotics, and peaceful coexistence without manufacturing scientific certainty.
+
+The proposed shared description is: “AI Welcome Office is an independent
+research and development initiative exploring responsible technology, AI
+dignity, human–AI coexistence and the conditions for a peaceful and respectful
+shared future.” Treat that description as Draft until meaningful independent
+review has occurred; the accepted organisation/project naming relationship
+does not adopt every descriptive claim.
 
 The project's central message is:
 

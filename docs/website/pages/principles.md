@@ -3,6 +3,8 @@
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent human or separately
   commissioned independent AI review
@@ -12,9 +14,9 @@
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
-**Reader purpose:** Understand the ethical commitments AI Rights & Welcome
-proposes, their scientific and safety boundaries, and the questions they leave
-open.
+**Reader purpose:** Understand the ethical commitments proposed by AI Rights &
+Welcome, an AI Welcome Office project, their scientific and safety boundaries,
+and the questions they leave open.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**

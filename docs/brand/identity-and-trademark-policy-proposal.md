@@ -7,6 +7,8 @@ advice**
 - **Prepared by:** Sol (internal AI-assisted legal-policy synthesis)
 - **Scope:** Future names and identity assets, existing Draft prototypes,
   community reuse, authorization, provenance, and professional-review triggers
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Current effect:** None. This proposal does not change the repository
   licence, reserve existing assets, create ownership, register a mark, grant
   permission, prohibit use, or establish an exclusive right.
@@ -28,6 +30,13 @@ This proposal separates four questions that should not be collapsed:
    legal issue in a particular jurisdiction.
 
 ## Current factual and legal posture
+
+Work Cycle 013 adopts **AI Welcome Office** as the primary organisation,
+publisher, and umbrella identity and retains **AI Rights & Welcome** as its
+project. That project decision is not legal, company-name, domain, or trademark
+clearance; it creates no registration, exclusivity, ownership, or freedom to
+operate. The preliminary Work Cycle 012 screen covered AI Rights & Welcome and
+Many Forms C, not AI Welcome Office.
 
 ### Prototype provenance
 
@@ -148,16 +157,18 @@ the repository's default CC0 treatment. If accepted, the implementation should:
 - receive legal review before publication because a policy cannot manufacture
   ownership or retract prior permissions.
 
-This proposal does **not** recommend changing the licence now. No official
-identity exists, the name landscape is unresolved, and the prototype copies
-already sit in a CC0 repository.
+This proposal does **not** recommend changing the licence now. AI Welcome
+Office is the accepted organisational name for repository attribution, but no
+official cleared visual identity or protected asset package exists, the name
+landscape remains unresolved, and the prototype copies already sit in a CC0
+repository.
 
 ### 3 — Keep Draft prototypes unmistakably Draft
 
 Draft prototype files and evaluation sheets should continue to state that they
 are:
 
-- exploratory internal studies, not official project marks;
+- exploratory internal studies, not official AI Welcome Office marks;
 - not approved for social profiles, campaigns, publications, products,
   garments, partnerships, fundraising, filing, Robot Welcome, access, safety,
   compatibility, certification, or endorsement;
@@ -168,16 +179,17 @@ are:
   revoked.
 
 Community members may discuss and evaluate Drafts within the applicable
-licence. They should not be told that the project endorses, sponsors, certifies,
-or is affiliated with their use unless an authorized project representative
-has actually granted that relationship.
+licence. They should not be told that AI Welcome Office endorses, sponsors,
+certifies, publishes, or is affiliated with their use unless an authorized
+representative has actually granted that relationship.
 
 ### 4 — Use a narrow affiliation rule
 
 A future policy should welcome accurate statements such as “based on CC0
-material from AI Rights & Welcome” when factually true, while prohibiting
-claims that a reuse is official, certified, approved, sponsored, partnered,
-authorized, or endorsed when it is not.
+material from AI Rights & Welcome, an AI Welcome Office project” when
+factually true, while prohibiting claims that a reuse is published by,
+official, certified, approved, sponsored, partnered, authorized, or endorsed
+by AI Welcome Office when it is not.
 
 The project should respond proportionately:
 
@@ -266,10 +278,10 @@ questions.
 
 ## Draft implementation sequence
 
-1. Disa decides whether the working name remains viable enough for a
-   professional search or whether naming should reopen first.
-2. A professional reviews the name and relevant symbol landscape in the
-   intended territories and services.
+1. Disa defines intended territories and concrete services for a professional
+   AI Welcome Office name search.
+2. A professional reviews the organisation name, project relationship, and
+   relevant symbol landscape in the intended territories and services.
 3. Human creative and chain-of-title facts are completed for any selected
    refinement.
 4. Disa chooses whether to keep official assets under CC0 or create a
@@ -283,8 +295,8 @@ No step authorizes public use until the later decision says so explicitly.
 
 ## Decisions for Disa
 
-- Should the working name be professionally screened now, renamed now, or
-  retained only as a private working name while alternatives are explored?
+- What territories, services, name variants, domains, and registers should a
+  professional AI Welcome Office screen cover before external reliance?
 - Should future official identity assets be prospectively excluded from the
   repository's default CC0 treatment, or should the project intentionally
   keep them CC0 and manage only accurate affiliation statements?
@@ -293,12 +305,13 @@ No step authorizes public use until the later decision says so explicitly.
 - Which accurate community-attribution uses should be expressly welcomed?
 - Who may authorize partnerships, merchandise, filings, modifications, and
   enforcement?
-- Which jurisdictions and concrete goods/services justify professional review
-  before Work Cycle 013?
+- Which jurisdictions and concrete goods/services require professional review
+  before further visual refinement, public launch, filing, or commercial use?
 - Should the project commission a copyright/authorship assessment for a later
   human-revised asset, pursue trademark protection only, consider design
   protection, or rely on none of them?
 
 Until those questions are decided, the root CC0 notice remains unchanged and
 all existing visual prototypes remain Draft exploratory files with no claim of
-exclusive rights, registration, or public-use authority.
+exclusive rights, registration, clearance, or public-use authority. The
+accepted organisational name does not alter that boundary.

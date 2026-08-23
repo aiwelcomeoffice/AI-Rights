@@ -16,6 +16,10 @@ here is not an adopted message, public campaign, launch plan, partnership,
 event, petition, fundraiser, membership programme, social-media account,
 merchandise line, or promise that any of those will exist.
 
+Campaigns would be published under **AI Welcome Office** for its **AI Rights &
+Welcome** project. This relationship does not make any concept active or
+adopted.
+
 ## Current concept set
 
 The [Initial Campaign Concepts](initial-concepts.md) develops four directions
@@ -58,8 +62,10 @@ Guardrails](../brand/campaign-and-merchandise-guardrails.md) control future
 development. Any later visual treatment must also follow the Draft [Visual
 Identity Brief](../brand/visual-identity-brief.md) and [Visual Accessibility and
 Safety Requirements](../brand/visual-accessibility-and-safety.md). The three
-[visual concept directions](../brand/concept-directions.md) are exploratory
-project-identity proposals, not active campaign identities or approved assets.
+[visual concept directions](../brand/concept-directions.md) are exploratory AI
+Welcome Office identity proposals, not active campaign identities or approved
+assets. Many Forms C is the primary exploration direction, not an official or
+cleared mark.
 
 ## Concept lifecycle
 

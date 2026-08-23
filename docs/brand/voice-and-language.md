@@ -11,10 +11,11 @@
 
 ## Voice in one sentence
 
-AI Rights & Welcome speaks like a warm, courageous civic institution preparing
-carefully for a difficult possibility: curious without credulity, hopeful
-without hype, and firm about evidence, safety, accountability, and the rights
-and interests that already exist.
+AI Welcome Office, including through its AI Rights & Welcome project, speaks
+like a warm, courageous civic initiative preparing carefully for a difficult
+possibility: curious without credulity, hopeful without hype, and firm about
+evidence, safety, accountability, and the rights and interests that already
+exist.
 
 ## Voice qualities
 

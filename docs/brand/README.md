@@ -4,19 +4,38 @@
 
 - **Date prepared:** 2026-08-23
 - **Scope:** Proposed public-message hierarchy, voice, campaign, merchandise,
-  visual-identity brief, relational-warmth requirement, accessibility and
-  safety requirements, exploratory concept directions, and matched low-
-  fidelity prototypes
+  organisation/project identity architecture, visual-identity brief,
+  relational-warmth requirement, accessibility and safety requirements,
+  exploratory concept directions, and matched low-fidelity prototypes
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no external communications,
   design, accessibility, historical-sensitivity, legal, or independent
   scientific review
 
-This directory provides a coherent messaging foundation for AI Rights &
-Welcome. It is a proposal for continued development, not approval to launch a
-campaign, publish a brand system, produce merchandise, or make claims about an
-AI system, robot, organization, or product.
+This directory provides a coherent messaging and identity foundation for **AI
+Welcome Office** and its **AI Rights & Welcome** project. It is a proposal for
+continued development, not approval to launch a campaign, publish a final
+brand system, produce merchandise, or make claims about an AI system, robot,
+organization, or product.
+
+## Identity architecture
+
+- **Primary organisation, publisher, and umbrella identity:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+- **Relationship:** *AI Rights & Welcome is an AI Welcome Office project*
+
+Use the complete formal name **AI Welcome Office**. Do not introduce “AI
+Welcome” as a separate organisation or competing brand. [Decision
+0003](../decisions/0003-ai-welcome-office-organisational-identity.md) records
+this accepted naming relationship.
+
+The following shared description remains **Proposed/Draft** and should be
+adapted with its status and context intact:
+
+> AI Welcome Office is an independent research and development initiative
+> exploring responsible technology, AI dignity, human–AI coexistence and the
+> conditions for a peaceful and respectful shared future.
 
 ## Message hierarchy
 
@@ -80,7 +99,8 @@ Inclusion is not approval, and the candidates are not equally safe.
   print, physical, and Robot Welcome constraints without a compliance or safety
   claim
 - [Exploratory Visual Concept Directions](concept-directions.md) — three
-  meaningfully different Draft directions; none is official or selected
+  meaningfully different Draft directions and their current disposition;
+  none is official or cleared
 - [Visual Direction Selection Scorecard](selection-scorecard.md) — neutral
   comparison prompts, gates, internal assessments, owner fields, and future
   review record
@@ -90,6 +110,18 @@ Inclusion is not approval, and the candidates are not equally safe.
 - [Exploratory Prototype Files](prototypes/README.md) — six original SVG
   evaluation sheets, a matched native-size contact sheet, provenance, and
   regeneration instructions; no file is a production asset
+- [Many Forms C Controlled-Refinement Record](many-forms-c-controlled-refinement.md)
+  — the primary AI Welcome Office exploration direction, its unchanged
+  geometry, relabelled evaluation sheet, deferred C1–C3 studies, and stop
+  conditions
+- [Preliminary Rights and Identity-Landscape
+  Screen](preliminary-rights-and-identity-landscape-screen.md) — limited
+  historical screen of AI Rights & Welcome and Many Forms C; it does not clear
+  AI Welcome Office
+- [Identity, Licensing, and Trademark Policy
+  Proposal](identity-and-trademark-policy-proposal.md) — Draft separation of
+  open content, future identity assets, affiliation, and professional-review
+  triggers; no licence or legal right is changed
 - [Campaign Concepts](../campaigns/README.md) — four inactive future campaign
   possibilities and their review requirements
 - [Campaigns Website Page](../website/pages/campaigns.md) — a Draft public
@@ -158,29 +190,32 @@ day conclusions.
 
 ### Current visual exploration
 
-The visual-identity documents translate the messaging foundation into
-requirements and three exploratory directions. In Work Cycle 011, Disa
-authorized matched low-fidelity prototyping of **Open Threshold** and **Many
-Forms, Common Ground**. **Reciprocal Signal** is paused as a primary identity
-direction because it more readily appears technical, corporate, operational,
-or like evidence of established mutual consciousness. Its useful claim–source,
-question–evidence, and accountability relationships remain available for
-later editorial study.
+**Many Forms C — Balanced Intervals** is the current primary visual exploration
+for **AI Welcome Office**. [Decision
+0002](../decisions/0002-primary-visual-exploration-direction.md) selected it
+for exploration, and [decision
+0003](../decisions/0003-ai-welcome-office-organisational-identity.md) assigns
+that exploration to the organisation rather than the project alone.
 
-Six black-and-white [exploratory prototype
-sheets](prototypes/README.md)—three variants for each continuing
-direction—now support internal comparison. Neither direction has been
-combined with the other. The work selects no logo, final symbol, color, font,
-mascot, illustration system, icon family, certification-style mark, Robot
-Welcome mark, or final visual identity. No visual asset is ready for public
-use or production.
+The five other Work Cycle 011 variants remain paused references, and
+**Reciprocal Signal** remains paused as a primary identity direction. Paused
+means preserved for comparison, not rejected or deleted. C1–C3 detailed
+refinements remain paused under the Work Cycle 012 stop condition. The SVG
+geometry has not been refined in this cycle; current prototype sheets have
+only been relabelled for AI Welcome Office.
+
+This status selects no official logo, final symbol, color, font, mascot,
+illustration system, icon family, certification-style mark, Robot Welcome
+mark, or production identity. No trademark, exclusivity, registration,
+accessibility, cultural suitability, legal clearance, or public-use authority
+is claimed. No `™` or `®` symbol is used for AI Welcome Office or Many Forms C.
 
 Future visual work should feel warm, hopeful, inclusive, future-oriented,
 technically credible, civic rather than corporate, legible at small sizes, and
-usable in digital and physical contexts. It must keep project identity,
-voluntary Robot Welcome communication, safety and operational markings, and
-certification or authorization systems separate. Physical Robot Welcome use
-remains subordinate to exact-system safety review.
+usable in digital and physical contexts. It must keep organisational identity,
+project attribution, voluntary Robot Welcome communication, safety and
+operational markings, and certification or authorization systems separate.
+Physical Robot Welcome use remains subordinate to exact-system safety review.
 
 Only the established English and Swedish central wording is preserved here.
 No supporting slogan is automatically equivalent across languages. A future
@@ -205,20 +240,20 @@ this foundation unimportant or unusable for careful continued development.
 
 Disa should decide:
 
-- whether the voice feels recognizably like AI Rights & Welcome;
+- whether the shared voice feels recognizably like AI Welcome Office while
+  preserving AI Rights & Welcome's project character;
 - whether the hierarchy protects the central promise and working principle;
 - which supporting messages, if any, merit approval for defined public uses;
 - whether the scientific, historical, corporate, safety, and accessibility
   safeguards are strong enough;
 - whether future human merchandise and Robot Welcome accessories are separated
   clearly;
-- whether the visual brief reflects the project's emotional character, the
-  two continuing directions received equivalent treatment, and which of the
-  six variants, if any, should proceed to another internal round;
+- whether the visual brief reflects the organisation's and project's emotional
+  character and Many Forms C remains the right primary exploration direction;
 - whether the relational-warmth requirement is strong enough to support human–
   AI support, work, learning, creation, shared projects, and human-experienced
   companionship without claiming reciprocal subjective experience;
 - whether the visual accessibility, authority-confusion, originality,
   cultural, production, and Robot Welcome safety gates are strong enough; and
-- what external review should precede any public campaign, design, production,
-  or launch.
+- what external review and official-name clearance should precede any public
+  campaign, design, production, filing, or launch.

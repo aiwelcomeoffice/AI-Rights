@@ -5,6 +5,8 @@
 - **Decision date:** Not decided | YYYY-MM-DD
 - **Decider:** Disa
 - **Prepared by:** [Names or roles, including AI assistance]
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Decision scope:** [Exact question, documents, and versions covered]
 - **Related documents:** [Links]
 

@@ -5,15 +5,18 @@
 - **Version:** 0.2-draft
 - **Date prepared:** 2026-08-23
 - **Authority:** Proposed for Disa's review; not adopted
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Related decision:** [0001 — Governance and adoption
   process](../decisions/0001-governance-and-adoption-process.md) (**Proposed**)
 - **Scope:** Project governance, document adoption, review, correction,
   disagreement, and conflicts of interest
 
-This document proposes how AI Rights & Welcome distinguishes collaborative
-work from formal authority and turns reviewable material into a recorded
-project position. It does not adopt any existing document or settle any
-scientific, ethical, legal, policy, safety, product, or architectural question.
+This document proposes how AI Rights & Welcome, an AI Welcome Office project,
+distinguishes collaborative work from formal authority and turns reviewable
+material into a recorded project position. It does not adopt any existing
+document or settle any scientific, ethical, legal, policy, safety, product, or
+architectural question.
 
 ## Core distinctions
 
@@ -188,7 +191,8 @@ process. An Adopted document must state or link to:
 - important evidence, review, conflict, and applicability limitations; and
 - any review date or event that should trigger reconsideration.
 
-**Adopted** means adopted by AI Rights & Welcome. It does not mean
+**Adopted** means adopted as a position of the AI Rights & Welcome project and
+published under the AI Welcome Office umbrella. It does not mean
 scientifically proven, independently reviewed, legally authoritative,
 technically certified, or accepted by a wider community. Adoption must not be
 used to make the underlying sources sound more certain than they are.

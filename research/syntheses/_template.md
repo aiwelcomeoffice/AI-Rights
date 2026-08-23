@@ -7,6 +7,8 @@
 - **Protocol version:** [Version of the Draft or approved protocol used]
 - **Synthesis type:** [Structured narrative, scoping, systematic,
   meta-analysis, legal, philosophical, or other specified synthesis]
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Prepared by:** [Names or roles]
 - **Independent reviewers:** [Names or roles, or limitation]
 - **Date prepared:** [YYYY-MM-DD]

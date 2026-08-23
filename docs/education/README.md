@@ -2,6 +2,9 @@
 
 **Status: Draft**
 
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+
 These materials are proposed public explanations for AI Rights & Welcome.
 They are under project-owner review and are not adopted scientific findings,
 ethical positions, legal conclusions, or policy. They do not claim that

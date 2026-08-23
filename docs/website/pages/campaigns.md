@@ -3,6 +3,8 @@
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Current activity:** No campaign is active, launched, scheduled, funded, or
   open for participation
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
@@ -29,10 +31,11 @@ institutions accountable. They can also manufacture certainty, turn a future
 scenario into a present fact, appropriate human histories, or make a company
 look ethical without changing its conduct.
 
-AI Rights & Welcome is therefore preparing the messaging discipline before it
-launches a campaign. The aim is to communicate warmly, courageously, and
-memorably while keeping scientific uncertainty, human and organizational
-responsibility, safety, and existing rights visible.
+AI Welcome Office is therefore preparing the messaging discipline for its AI
+Rights & Welcome project before it launches a campaign. The aim is to
+communicate warmly, courageously, and memorably while keeping scientific
+uncertainty, human and organizational responsibility, safety, and existing
+rights visible.
 
 Our working principle is:
 

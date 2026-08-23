@@ -18,6 +18,12 @@
 > originality, or governance gate. No scores are totaled and no winner is
 > selected.
 
+> **Current identity note — 2026-08-23:** Later decisions select **Many Forms C
+> — Balanced Intervals** as the primary exploration direction for **AI Welcome
+> Office**. **AI Rights & Welcome** remains the project. The comparison below
+> remains the Work Cycle 011 evaluation record; the selection is not an
+> official logo, clearance, or public-use approval.
+
 ## Purpose and decision boundary
 
 This evaluation compares three Open Threshold variants and three Many Forms,
@@ -53,9 +59,9 @@ heart, handshake, badge, access symbol, or emergency marking.
 The campaign, website, report, merchandise, and Robot Welcome panels are
 mockups within an evaluation sheet. They are not approved or deployable
 assets. The Robot Welcome panel uses plain rectangular text zones to show that
-project identity must remain separate from required warnings, responsible-
-party identity, emergency controls, authorization, certification, and
-operating information.
+AI Welcome Office identity and AI Rights & Welcome project attribution must
+remain separate from required warnings, responsible-party identity, emergency
+controls, authorization, certification, and operating information.
 
 The complete artifact register and generation method are in the [prototype
 README](prototypes/README.md).
@@ -171,7 +177,7 @@ results.
 | Content-heavy website | A compact threshold leaves room for status and evidence. Cropped frame motifs should not enclose or obscure content. | Forms can support an editorial system, but decorative modules could increase cognitive load or cardification. |
 | Campaign tile | Strong silhouette and open field give the claim presence while leaving room for a qualifier and source area. | Variation can adapt to topics while retaining common ground; it must not assign a form to “human” or “AI.” |
 | One-color merchandise | Few broad elements appear feasible for simple print; common lifestyle and venue-brand readings need testing. | One-color use is plausible, but stitching and engraving may merge compact forms, intervals, or baselines. |
-| Robot Welcome separation | The project mark can remain in an editorial zone, but a threshold could be misread as access, passage, docking, or safe approach. | Modular forms can look like fleet, state, or equipment categories. They must not migrate into operational zones. |
+| Robot Welcome separation | The organisational mark can remain in an editorial zone, but a threshold could be misread as access, passage, docking, or safe approach. | Modular forms can look like fleet, state, or equipment categories. They must not migrate into operational zones. |
 | Confusion review | Highest apparent risks are property, access, religious, hospitality, and generic technology readings. | Highest apparent risks are NGO, civic programme, software suite, product family, and tokenized-stakeholder readings. |
 
 ## Direction-level confusion review
@@ -253,7 +259,7 @@ that a mark is original, confusingly similar, registrable, or legally usable.
   for this work. That does not block careful internal development, but it must
   remain visible and prevents external review from being claimed.
 
-## Exact decisions for Disa before Work Cycle 012
+## Historical decisions requested before Work Cycle 012
 
 1. **Variant disposition:** Name which Open Threshold variants—A, B, C, or
    none—and which Many Forms variants—A, B, C, or none—should receive another
@@ -265,9 +271,10 @@ that a mark is original, confusingly similar, registrable, or legally usable.
    emphasize held-open space, distinct participants on common ground, or
    another explicitly named relational quality within one of the two current
    directions.
-4. **Name lockup:** Choose the provisional name form for the next internal
-   round: “AI Rights &amp; Welcome,” “AI Rights,” or a governed relationship
-   between them. No wordmark or font is selected by this choice.
+4. **Name lockup:** This is now resolved for current identity work as **AI
+   Welcome Office**, with **AI Rights & Welcome** retained as “An AI Welcome
+   Office project.” No wordmark, font, trademark clearance, or public-use
+   approval is selected by that choice.
 5. **Review sequence:** Decide whether Work Cycle 012 should prioritize an
    identity-landscape similarity screen, unprompted interpretation sessions,
    accessibility review with disabled people, cross-cultural review, or
@@ -284,5 +291,7 @@ that a mark is original, confusingly similar, registrable, or legally usable.
    accessibility, cultural, originality, and authority-confusion findings are
    recorded for both continuing directions.
 
-Until those decisions are recorded, all six variants remain equally
-exploratory. None should be refined into production assets or used publicly.
+Those decisions were later narrowed to Many Forms C under decision 0002 and
+assigned to AI Welcome Office under decision 0003. All six variants remain
+Draft/Exploratory; none should be refined into production assets or used
+publicly without the required later review and decision.

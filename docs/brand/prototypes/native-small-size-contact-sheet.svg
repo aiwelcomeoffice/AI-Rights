@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Original Work Cycle 011 geometry and layout. No external or embedded third-party assets. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="840" viewBox="0 0 720 840" role="img" aria-labelledby="title desc" data-status="draft-exploratory-prototype" data-purpose="native-small-size-contact-sheet" data-generator-version="0.1-draft">
+<!-- Work Cycle 011 geometry and layout; Work Cycle 013 organisational labels. No external or embedded third-party assets. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="840" viewBox="0 0 720 840" role="img" aria-labelledby="title desc" data-status="draft-exploratory-prototype" data-purpose="native-small-size-contact-sheet" data-generator-version="0.2-draft">
   <title id="title">Draft exploratory native small-size contact sheet</title>
   <desc id="desc">All six Work Cycle 011 black-and-white prototype symbols shown at actual 16, 24, 32, and 48 SVG-pixel sizes. Guide boxes are not part of the symbols. This is a provisional internal screen, not an accessibility finding or approved minimum size.</desc>
   <style>

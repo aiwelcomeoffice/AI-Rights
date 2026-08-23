@@ -4,13 +4,23 @@
 
 - **Date prepared:** 2026-08-23
 - **Authority:** Proposed for Disa's review; not adopted
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Related decision:** [0001 — Governance and adoption
   process](../decisions/0001-governance-and-adoption-process.md) (**Proposed**)
 
-This section contains the proposed governance and document-adoption process
-for AI Rights & Welcome. It explains how collaborative work may become a
-formal project position while preserving scientific uncertainty, review
-limits, disagreement, provenance, and human accountability.
+AI Rights & Welcome is an AI Welcome Office project. This section contains the
+proposed governance and document-adoption process for the project. It explains
+how collaborative work may become a formal project position while preserving
+scientific uncertainty, review limits, disagreement, provenance, and human
+accountability.
+
+AI Welcome Office is the organisation and publisher; AI Rights & Welcome is
+the project whose positions and documents this process governs. Organisational
+publication does not make a Draft project document Adopted. The accepted naming
+relationship is recorded in [decision
+0003](../decisions/0003-ai-welcome-office-organisational-identity.md); the
+broader governance process remains Draft while decision 0001 is unresolved.
 
 The proposal does not adopt itself. Until Disa explicitly accepts decision
 0001, the documents here remain Drafts and do not create a new source of

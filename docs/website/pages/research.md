@@ -3,6 +3,8 @@
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent human or separately
   commissioned independent AI review
@@ -17,10 +19,11 @@
 research is organized, what its current evidence can support, and which
 verification and review limits remain.
 
-AI Rights & Welcome investigates questions about consciousness, sentience,
-valence, welfare, preferences, agency, identity, and possible moral status in
-artificial systems. It also examines the ethical and policy questions that
-might follow from different findings. These are related lines of inquiry, not
+AI Rights & Welcome, an AI Welcome Office project, investigates questions
+about consciousness, sentience, valence, welfare, preferences, agency,
+identity, and possible moral status in artificial systems. It also examines
+the ethical and policy questions that might follow from different findings.
+These are related lines of inquiry, not
 interchangeable conclusions.
 
 The heading “Research” does not imply a staffed research institute or a

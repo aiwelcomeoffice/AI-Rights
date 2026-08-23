@@ -19,9 +19,10 @@
 
 ## Purpose and precedence
 
-The identity should help people recognize the project without making anyone
-depend on sight, color perception, fine detail, motion tolerance, a particular
-language, a personal device, or a network connection for essential meaning.
+The identity should help people recognize AI Welcome Office and its project
+relationship without making anyone depend on sight, color perception, fine
+detail, motion tolerance, a particular language, a personal device, or a
+network connection for essential meaning.
 Accessibility must shape concept selection rather than be added after a logo
 has been chosen.
 
@@ -127,7 +128,7 @@ The identity system should therefore:
 - avoid making green mean “safe” or “approved,” blue mean “official,” red mean
   only “danger,” or another culturally variable color carry a complete
   instruction;
-- keep project accent colors distinct from nearby emergency, warning,
+- keep organisational accent colors distinct from nearby emergency, warning,
   mandatory, prohibition, authorization, and accessibility information in the
   actual environment;
 - review common color-vision-difference simulations as an early screen, not as
@@ -184,11 +185,13 @@ check only, not recognition testing or an accessibility result.
 
 ## Screen readers, semantics, and text alternatives
 
-A logo placed beside the visible project name will usually need to be treated
-as decorative in implementation so the name is not announced twice. A
-standalone linked logo needs an accessible name that describes the link's
-purpose, not its geometry. Exact semantics must be verified in the implemented
-context.
+A logo placed beside the visible **AI Welcome Office** name will usually need
+to be treated as decorative in implementation so the name is not announced
+twice. If **AI Rights & Welcome** is also shown, the accessible text must
+preserve “An AI Welcome Office project” without duplicating the symbol's
+geometry. A standalone linked logo needs an accessible name that describes the
+link's purpose, not its geometry. Exact semantics must be verified in the
+implemented context.
 
 For other visual material:
 
@@ -224,8 +227,8 @@ Future motion work should:
   disable non-essential interaction-triggered animation;
 - preserve content, order, focus, and comprehension when motion is removed;
   and
-- never use pulsing or flashing project branding where it could resemble an
-  alarm, warning, operating state, or emergency signal.
+- never use pulsing or flashing organisational branding where it could
+  resemble an alarm, warning, operating state, or emergency signal.
 
 The project requirement to disable non-essential interaction-triggered motion
 draws on WCAG 2.2's [Animation from Interactions
@@ -321,7 +324,7 @@ A reflective exploration should:
 
 ## Robot Welcome physical safety gate
 
-A project symbol, wordmark, pattern, color, panel, patch, garment, cover,
+A symbol, wordmark, pattern, color, panel, patch, garment, cover,
 sticker, projection, light, display, tag, or reflective element placed on or
 near a robot becomes a system-level physical concept. It is not ordinary brand
 placement.
@@ -369,9 +372,10 @@ Do not use:
 - QR, NFC, radio, barcode, or machine-readable features that grant or appear to
   grant access, identity, operating authority, or safety status.
 
-Project identity, voluntary welcome, operating state, warning, authorization,
-certification, legal status, and emergency information must remain separately
-labeled and visually distinguishable.
+AI Welcome Office identity, AI Rights & Welcome project attribution, voluntary
+welcome, operating state, warning, authorization, certification, legal status,
+and emergency information must remain separately labeled and visually
+distinguishable.
 
 ## Validation record for each future application
 

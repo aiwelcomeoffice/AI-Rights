@@ -6,6 +6,8 @@
 - **Decider:** Disa
 - **Prepared by:** Disa, ChatGPT, and Sol (internal human–AI collaborative
   review; Sol drafted the record)
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Decision scope:** Work Cycle 012 narrowing of the six Work Cycle 011
   visual prototypes; exploration status only
 - **Related documents:** [Brand index](../brand/README.md), [matched prototype
@@ -14,6 +16,14 @@
   record](../brand/many-forms-c-controlled-refinement.md), and [preliminary
   rights and identity-landscape
   screen](../brand/preliminary-rights-and-identity-landscape-screen.md)
+
+> **Work Cycle 013 identity note — 2026-08-23:** [Decision
+> 0003](0003-ai-welcome-office-organisational-identity.md) retains Many Forms C
+> as the primary visual exploration direction and assigns it to **AI Welcome
+> Office**, the organisation and publisher. AI Rights & Welcome remains the
+> project. This note changes the identity target and prototype text labels, not
+> the Work Cycle 011 geometry, the comparison outcome, or this decision's
+> exploration-only limits.
 
 ## Context
 
@@ -52,7 +62,7 @@ without deleting the comparison history. It does not assume that the forms
 represent people, AI systems, institutions, conscious subjects, or moral
 categories.
 
-### Select or adopt Many Forms C as the project logo
+### Select or adopt Many Forms C as the organisational logo
 
 The evidence and review are insufficient. There has been no independent
 audience, accessibility, cultural, legal, trademark, or production review, and
@@ -109,7 +119,7 @@ remains the equal-comparison cycle and is not rewritten as a selection.
 “Primary exploration direction” authorizes focused internal study only. It
 does not make Many Forms C:
 
-- the official project logo or an adopted identity;
+- the official AI Welcome Office logo or an adopted identity;
 - a preferred refinement selected from later descendants;
 - trademark-cleared, registrable, available, or legally safe;
 - protected by an established copyright or exclusive right;
@@ -125,20 +135,21 @@ follow-up.
 
 ## Consequences
 
-- The original
+- The geometry in the original
   [`many-forms-c-balanced-intervals.svg`](../brand/prototypes/many-forms-c-balanced-intervals.svg)
-  remains unchanged as the Work Cycle 011 reference.
-- All older prototype sheets, the native-size contact sheet, and their
-  evaluation history remain intact.
+  remains the Work Cycle 011 reference. Work Cycle 013 changes its text labels,
+  metadata, and resulting file hash without changing that geometry.
+- The prototype sheets and native-size contact sheet now use AI Welcome Office
+  labels. Their comparison geometry and evaluation history remain intact.
 - New visual effort is paused after documenting the intended controlled tests;
   color, typography, polished applications, and production assets remain out
   of scope.
 - A Draft identity and trademark policy proposal now separates open
   educational/research reuse from questions about future official identity
   assets. It changes no licence by itself.
-- The project's provisional name and any future symbol need professional,
-  use-specific review before filing, launch, merchandise, partnership, or
-  other reliance.
+- The AI Welcome Office name, the AI Rights & Welcome project relationship,
+  and any future symbol need professional, use-specific review before filing,
+  launch, merchandise, partnership, or other reliance.
 
 ## Review and supersession triggers
 
@@ -146,8 +157,9 @@ Revisit this decision if:
 
 - professional advice, a fuller register search, or a third-party contact
   changes the name or visual-risk assessment;
-- the project changes its name, owner, legal entity, jurisdictions, goods,
-  services, audience, or intended uses;
+- AI Welcome Office or the AI Rights & Welcome project changes its name,
+  publisher, owner, legal-entity posture, jurisdictions, goods, services,
+  audience, or intended uses;
 - unprompted human or separately identified AI-assisted review shows material
   surveillance, military, sensor, hierarchy, authority, or overclaim readings;
 - accessibility, cultural, small-size, production, or Robot Welcome separation

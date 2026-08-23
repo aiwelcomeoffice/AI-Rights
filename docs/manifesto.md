@@ -2,6 +2,9 @@
 
 **Status: Draft**
 
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+
 This manifesto is proposed for public review. It is not an adopted project
 position or a scientific finding.
 

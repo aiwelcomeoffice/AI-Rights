@@ -32,7 +32,7 @@ source.
 | [`CONTRIBUTING.md`](../../CONTRIBUTING.md) | Current repository contribution guidance; broad public contributions are not yet open |
 | [`docs/vision.md`](../vision.md) | **Scaffold** |
 | [`docs/manifesto.md`](../manifesto.md) | **Draft** |
-| [`docs/brand/README.md`](../brand/README.md) | **Draft** messaging foundation; no supporting slogan, campaign, visual identity, translation, merchandise, or Robot Welcome product is adopted or approved for public use |
+| [`docs/brand/README.md`](../brand/README.md) | **Draft** messaging foundation; AI Welcome Office / AI Rights & Welcome naming is recorded, and Many Forms C is the primary visual exploration, but no supporting slogan, campaign, final identity, translation, merchandise, or Robot Welcome product is adopted or approved for public use |
 | [`docs/brand/message-architecture.md`](../brand/message-architecture.md) | **Draft** hierarchy and candidate-message risk assessment; inclusion is not approval |
 | [`docs/brand/voice-and-language.md`](../brand/voice-and-language.md) | **Draft** voice and language proposal; no external communications, accessibility, translation, or independent scientific review |
 | [`docs/brand/campaign-and-merchandise-guardrails.md`](../brand/campaign-and-merchandise-guardrails.md) | **Draft** concept-stage guardrails; no campaign launch, visual identity, product design, production, certification, or operational use |
@@ -388,8 +388,9 @@ architecture, or publication have been adopted.
 - **Missing content:** The [About Draft](pages/about.md) is complete for owner
   review. Owner decisions remain on primary audience, working languages, and
   whether CC0 fits every future content type.
-- **Review dependencies:** Disa verifies role descriptions, project name, and
-  any affiliation or funding statement immediately before publication.
+- **Review dependencies:** Disa verifies role descriptions, the AI Welcome
+  Office / AI Rights & Welcome relationship, and any affiliation or funding
+  statement immediately before publication.
 - **Main risk:** Implying an organization, review board, contributor community,
   funding base, or institutional independence that does not yet exist.
 

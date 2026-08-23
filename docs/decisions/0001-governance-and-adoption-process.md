@@ -5,6 +5,8 @@
 - **Decision date:** Not decided
 - **Decider:** Disa
 - **Prepared by:** Sol (internal AI-assisted drafting and consistency review)
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Decision scope:** Governance, document adoption, review, corrections,
   disagreement, and conflicts of interest
 - **Related documents:** [Governance index](../governance/README.md) and

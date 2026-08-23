@@ -19,6 +19,19 @@ These are decision-record statuses. Substantive documents separately use
 **Scaffold**, **Draft**, **Adopted**, and **Superseded**. Research records also
 carry verification states that do not imply adoption.
 
+## Current records
+
+- [0001 — Governance and adoption
+  process](0001-governance-and-adoption-process.md) — **Proposed**
+- [0002 — Primary visual exploration
+  direction](0002-primary-visual-exploration-direction.md) — **Accepted**
+- [0003 — AI Welcome Office organisational
+  identity](0003-ai-welcome-office-organisational-identity.md) — **Accepted**
+
+AI Welcome Office is the organisation and publisher. AI Rights & Welcome is
+the project whose decisions these records govern unless a record states a
+different scope.
+
 Committing or publishing a proposal, completing internal review, or receiving
 AI-assisted review does not mean it has been Accepted. A Proposed record has a
 proposal date but no decision date. Only Disa may set a decision date and mark

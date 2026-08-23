@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
-"""Generate the matched Work Cycle 011 SVG prototype sheets.
+"""Generate the matched SVG prototype sheets.
 
 The generator uses only Python's standard library and emits self-contained,
-black-and-white SVG. The geometry, copy, and layout are original project work;
-no external image, font, icon, script, or template is embedded or linked.
+black-and-white SVG. Work Cycle 011 geometry and layout are retained; Work
+Cycle 013 updates organisational text labels to AI Welcome Office. No external
+image, font, icon, script, or template is embedded or linked.
 """
 
 from pathlib import Path
 
 
 OUTPUT_DIR = Path(__file__).resolve().parent
-GENERATOR_VERSION = "0.1-draft"
+GENERATOR_VERSION = "0.2-draft"
 
 
 PROTOTYPES = [
@@ -106,10 +107,10 @@ def enforce_black_and_white(svg: str) -> str:
 def sheet_svg(item: dict[str, str]) -> str:
     geometry = item["geometry"].strip()
     return enforce_black_and_white(f'''<?xml version="1.0" encoding="UTF-8"?>
-<!-- Original Work Cycle 011 geometry and layout. No external or embedded third-party assets. -->
+<!-- Work Cycle 011 geometry and layout; Work Cycle 013 organisational labels. No external or embedded third-party assets. -->
 <svg xmlns="http://www.w3.org/2000/svg" width="1440" height="2200" viewBox="0 0 1440 2200" role="img" aria-labelledby="title desc" data-status="draft-exploratory-prototype" data-direction="{item['direction']}" data-variant="{item['variant']}" data-generator-version="{GENERATOR_VERSION}">
   <title id="title">Draft exploratory prototype sheet: {item['direction']}, {item['variant']}</title>
-  <desc id="desc">A black-and-white evaluation sheet showing the proposed symbol with the AI Rights and Welcome name, reversed use, native 16, 24, 32, and 48 pixel tests, a Draft research-report cover, a content-heavy website layout, a campaign tile, one-color merchandise feasibility, a Robot Welcome separation diagram, and a confusion-review checklist. This is not an adopted identity or public-use asset.</desc>
+  <desc id="desc">A black-and-white evaluation sheet showing the proposed symbol with the AI Welcome Office name, reversed use, native 16, 24, 32, and 48 pixel tests, a Draft AI Rights and Welcome research-report cover, a content-heavy website layout, a campaign tile, one-color merchandise feasibility, a Robot Welcome separation diagram, and a confusion-review checklist. This is not an adopted identity or public-use asset.</desc>
   <defs>
     <style>
       text {{ font-family: sans-serif; fill: #111; }}
@@ -145,18 +146,18 @@ def sheet_svg(item: dict[str, str]) -> str:
   <rect x="48" y="176" width="650" height="224" class="panel"/>
   <text x="72" y="210" class="label">1 • BLACK ON WHITE</text>
   <g transform="translate(84 244) scale(1.24)" style="color:#111"><use href="#prototype-symbol"/></g>
-  <text x="226" y="292" class="h1">AI Rights &amp; Welcome</text>
+  <text x="226" y="292" class="h1">AI Welcome Office</text>
   <text x="226" y="324" class="small">{item['variant']}</text>
-  <text x="226" y="356" class="micro">DRAFT PROJECT IDENTITY STUDY</text>
+  <text x="226" y="356" class="micro">DRAFT ORGANISATIONAL IDENTITY STUDY</text>
 
   <!-- 2. White symbol and name on black -->
   <rect x="742" y="176" width="650" height="224" class="black"/>
   <rect x="742" y="176" width="650" height="224" class="line"/>
   <text x="766" y="210" class="label reverse-text">2 • WHITE ON BLACK</text>
   <g transform="translate(778 244) scale(1.24)" style="color:#fff"><use href="#prototype-symbol"/></g>
-  <text x="920" y="292" class="h1 reverse-text">AI Rights &amp; Welcome</text>
+  <text x="920" y="292" class="h1 reverse-text">AI Welcome Office</text>
   <text x="920" y="324" class="small reverse-text">{item['variant']}</text>
-  <text x="920" y="356" class="micro reverse-text">DRAFT PROJECT IDENTITY STUDY</text>
+  <text x="920" y="356" class="micro reverse-text">DRAFT ORGANISATIONAL IDENTITY STUDY</text>
 
   <!-- 3. Native-size tests -->
   <rect x="48" y="430" width="650" height="340" class="panel"/>
@@ -176,16 +177,16 @@ def sheet_svg(item: dict[str, str]) -> str:
   <text x="386" y="584" class="micro">48 px</text>
   <rect x="72" y="620" width="602" height="112" class="soft"/>
   <g transform="translate(94 644) scale(.416667)" style="color:#111"><use href="#prototype-symbol"/></g>
-  <text x="150" y="671" class="h2">AI Rights &amp; Welcome</text>
-  <text x="150" y="700" class="small">32 px symbol with live-name placeholder • Draft</text>
+  <text x="150" y="671" class="h2">AI Welcome Office</text>
+  <text x="150" y="700" class="small">32 px symbol with full-name placeholder • Draft</text>
 
   <!-- 4. Research-report cover -->
   <rect x="742" y="430" width="650" height="340" class="panel"/>
   <text x="766" y="466" class="label">4 • RESEARCH-REPORT COVER</text>
   <rect x="790" y="494" width="554" height="238" class="soft"/>
   <g transform="translate(818 518) scale(.5)" style="color:#111"><use href="#prototype-symbol"/></g>
-  <text x="878" y="544" class="small" font-weight="700">AI Rights &amp; Welcome</text>
-  <text x="818" y="588" class="micro">DRAFT RESEARCH REPORT • NOT AN ADOPTED POSITION</text>
+  <text x="878" y="544" class="small" font-weight="700">AI Welcome Office</text>
+  <text x="818" y="588" class="micro">AI RIGHTS &amp; WELCOME • DRAFT PROJECT REPORT</text>
   <text x="818" y="626" class="h2">Preparing under uncertainty</text>
   <text x="818" y="654" class="small">Defined systems • methods • limits • review date</text>
   <line x1="818" y1="678" x2="1314" y2="678" class="thin"/>
@@ -196,7 +197,7 @@ def sheet_svg(item: dict[str, str]) -> str:
   <text x="72" y="836" class="label">5 • CONTENT-HEAVY WEBSITE CONTEXT</text>
   <line x1="72" y1="916" x2="1368" y2="916" class="thin"/>
   <g transform="translate(76 858) scale(.375)" style="color:#111"><use href="#prototype-symbol"/></g>
-  <text x="124" y="884" class="h2">AI Rights &amp; Welcome</text>
+  <text x="124" y="884" class="h2">AI Welcome Office</text>
   <text x="740" y="884" class="small">Research</text>
   <text x="848" y="884" class="small">Principles</text>
   <text x="956" y="884" class="small">Policy</text>
@@ -241,7 +242,7 @@ def sheet_svg(item: dict[str, str]) -> str:
   <rect x="778" y="1300" width="172" height="230" rx="8" class="soft"/>
   <text x="802" y="1330" class="micro">SHIRT PRINT ZONE</text>
   <g transform="translate(818 1370) scale(.92)" style="color:#111"><use href="#prototype-symbol"/></g>
-  <text x="792" y="1490" class="micro">PROJECT NAME REQUIRED</text>
+  <text x="792" y="1490" class="micro">FULL NAME REQUIRED</text>
   <rect x="974" y="1300" width="172" height="150" rx="30" class="panel"/>
   <path d="M1146 1340H1170C1192 1340 1192 1410 1170 1410H1146" class="line"/>
   <text x="1006" y="1330" class="micro">MUG WRAP</text>
@@ -260,10 +261,10 @@ def sheet_svg(item: dict[str, str]) -> str:
   <text x="72" y="1716" class="label">8 • ROBOT WELCOME SEPARATION DIAGRAM</text>
   <text x="72" y="1744" class="small">Conceptual information zones only; no robot placement is proposed.</text>
   <rect x="76" y="1774" width="244" height="250" class="soft"/>
-  <text x="96" y="1804" class="label">PROJECT IDENTITY</text>
+  <text x="96" y="1804" class="label">AI WELCOME OFFICE</text>
   <g transform="translate(122 1834) scale(.88)" style="color:#111"><use href="#prototype-symbol"/></g>
   <text x="96" y="1950" class="small">Editorial communication</text>
-  <text x="96" y="1975" class="small">with project name + Draft status</text>
+  <text x="96" y="1975" class="small">with full name + Draft status</text>
   <text x="96" y="2002" class="micro">NOT A ROBOT WELCOME MARK</text>
   <line x1="344" y1="1782" x2="344" y2="2022" class="dash"/>
   <text x="356" y="1804" class="micro">DO NOT</text>
@@ -327,7 +328,7 @@ def contact_sheet_svg() -> str:
         )
 
     return enforce_black_and_white(f'''<?xml version="1.0" encoding="UTF-8"?>
-<!-- Original Work Cycle 011 geometry and layout. No external or embedded third-party assets. -->
+<!-- Work Cycle 011 geometry and layout; Work Cycle 013 organisational labels. No external or embedded third-party assets. -->
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="840" viewBox="0 0 720 840" role="img" aria-labelledby="title desc" data-status="draft-exploratory-prototype" data-purpose="native-small-size-contact-sheet" data-generator-version="{GENERATOR_VERSION}">
   <title id="title">Draft exploratory native small-size contact sheet</title>
   <desc id="desc">All six Work Cycle 011 black-and-white prototype symbols shown at actual 16, 24, 32, and 48 SVG-pixel sizes. Guide boxes are not part of the symbols. This is a provisional internal screen, not an accessibility finding or approved minimum size.</desc>

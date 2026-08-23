@@ -6,6 +6,8 @@
 - **Date prepared:** 2026-08-22
 - **Last updated:** 2026-08-23
 - **Scope:** Working research methodology for AI Rights & Welcome
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Authority:** Proposed for project-owner review; not adopted
 
 This protocol establishes a transparent, critical, and reproducible method for

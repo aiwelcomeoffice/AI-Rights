@@ -5,7 +5,7 @@ use**
 
 - **Date prepared:** 2026-08-23
 - **Authority:** Created under Disa's authorization for Work Cycle 011
-  comparison only
+  comparison, with Work Cycle 013 organisational text relabelling only
 - **Scope:** Six original black-and-white low-fidelity symbol studies and
   equivalent application contexts for Open Threshold and Many Forms, Common
   Ground
@@ -18,6 +18,13 @@ use**
 > official identity, logo, Robot Welcome mark, safety or access symbol,
 > certification, trademark claim, product asset, or authorization for public
 > deployment or manufacture.
+
+> **Current identity note — 2026-08-23:** **Many Forms C — Balanced Intervals**
+> is the primary visual exploration for **AI Welcome Office**. **AI Rights &
+> Welcome** remains an AI Welcome Office project. The six sheets now use AI
+> Welcome Office for organisational lockup and publisher contexts; their Work
+> Cycle 011 symbol geometry and matched layout are unchanged. No sheet is an
+> official or legally cleared identity.
 
 ## Prototype register
 
@@ -38,6 +45,9 @@ approved minimum sizes.
 2. [B — Open Field](many-forms-b-open-field.svg)
 3. [C — Balanced Intervals](many-forms-c-balanced-intervals.svg)
 
+Many Forms C is the primary exploration direction. The other five variants
+are paused references, preserved for comparison rather than rejected.
+
 The [native small-size contact
 sheet](native-small-size-contact-sheet.svg) places all six symbols under the
 same conditions.
@@ -52,8 +62,8 @@ gates, limitations, and owner decisions.
 
 Every variant sheet contains, in the same order and dimensions:
 
-1. black symbol and project name on white;
-2. white symbol and project name on black;
+1. black symbol and AI Welcome Office name on white;
+2. white symbol and AI Welcome Office name on black;
 3. provisional 16, 24, 32, and 48 pixel tests, plus a small name lockup;
 4. a Draft research-report cover;
 5. a content-heavy website header and page section;
@@ -70,7 +80,8 @@ quality.
 ## Construction and provenance
 
 The symbols and layouts are original geometric constructions created for Work
-Cycle 011. They are not copied or traced from stock art, an icon library, a
+Cycle 011. Work Cycle 013 changes organisational text labels, not symbol
+geometry. They are not copied or traced from stock art, an icon library, a
 template, or another identity. The SVGs contain:
 
 - only local vector paths, rectangles, lines, text, and internal SVG `use`

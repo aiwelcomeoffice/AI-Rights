@@ -6,12 +6,20 @@ professional clearance**
 - **Search date and cutoff:** 2026-08-23
 - **Prepared by:** Sol, using public official databases, official guidance,
   and open-web discovery
-- **Subject:** The working name **AI Rights & Welcome** and the unchanged Work
-  Cycle 011 reference **Many Forms C — Balanced Intervals**
+- **Historical subject:** The then-umbrella working name **AI Rights & Welcome**
+  and the Work Cycle 011 reference **Many Forms C — Balanced Intervals**
 - **Jurisdictions emphasized:** Sweden and the European Union, with limited
   international and open-web discovery
 - **Authority:** Preliminary evidence for Disa's next decision only; no legal,
   trademark-agent, registry-examiner, or independent brand review
+
+> **Work Cycle 013 identity note — 2026-08-23:** **AI Welcome Office** is now
+> the primary organisation, publisher, and umbrella identity; **AI Rights &
+> Welcome** remains its project. This historical screen did **not** search or
+> clear AI Welcome Office. Its AI Rights name findings and Many Forms C visual
+> limitations remain relevant evidence, but official organisation-name and
+> trademark clearance is still outstanding. See [decision
+> 0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
 
 > **Do not read this as clearance.** This screen does not establish that a
 > name or symbol is conflict-free, legally safe, available, registrable,
@@ -358,7 +366,8 @@ exclusivity, registrability, or freedom to operate.
 
 A qualified adviser should receive:
 
-- the exact working names, variants, domains, and intended territories;
+- the exact **AI Welcome Office** organisation name, the **AI Rights & Welcome**
+  project relationship, variants, domains, and intended territories;
 - the unchanged Many Forms C reference and construction/provenance record;
 - this search log, including failed and incomplete searches;
 - a concrete goods/services and use plan rather than every conceivable class;

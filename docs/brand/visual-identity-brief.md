@@ -4,25 +4,29 @@
 
 - **Date prepared:** 2026-08-23
 - **Authority:** Proposed for Disa's review; not adopted
-- **Scope:** Requirements for visual-identity exploration, including relational
-  warmth and matched low-fidelity prototype review; no final logo, palette,
-  typeface, artwork, production asset, website, product, mark, or
-  implementation
+- **Scope:** Requirements for the AI Welcome Office visual-identity
+  exploration and its relationship to the AI Rights & Welcome project,
+  including relational warmth and matched low-fidelity prototype review; no
+  final logo, palette, typeface, artwork, production asset, website, product,
+  mark, or implementation
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review is pending; no external independent brand, accessibility,
   cultural, legal, trademark, human-factors, robotics, or manufacturing review
 
-> **Exploration notice:** This brief does not establish an official visual
-> identity. It defines questions and constraints for comparing future work.
+> **Exploration notice:** This brief does not establish an official AI Welcome
+> Office visual identity. It defines questions and constraints for comparing
+> future work.
 > Nothing described here is approved for public deployment, manufacture,
 > certification, authorization, or safety use.
 
 ## Purpose
 
-The visual identity should help AI Rights & Welcome look like the open civic
-project it is trying to become: warm enough to invite curiosity, serious
-enough for evidence and policy work, and disciplined enough not to turn an
-uncertain scientific question into an emotional visual claim.
+The visual identity should help **AI Welcome Office** look like the independent
+civic research and development initiative it is proposed to become: warm
+enough to invite curiosity, serious enough for evidence and policy work, and
+disciplined enough not to turn an uncertain scientific question into an
+emotional visual claim. **AI Rights & Welcome** remains a named project within
+that identity, not a competing organisation or replacement wordmark.
 
 This is a **Draft design proposal** derived from existing project messages and
 guardrails. It is not an empirical finding, a safety specification, a legal
@@ -119,20 +123,42 @@ fixed identity to an abstract form.
 
 ## Identity architecture
 
-Four meanings must remain separate in words, form, placement, and governance.
+Five meanings must remain separate in words, form, placement, and governance.
 
 | System | What it identifies | What it must not imply |
 | --- | --- | --- |
-| **Project identity** | AI Rights & Welcome as an open civic project | Government authority, scientific consensus, legal status, certification, product approval, or corporate ownership |
+| **Organisational identity** | AI Welcome Office as the primary organisation, publisher, and umbrella identity | A legally cleared or registered entity or mark, government authority, scientific consensus, certification, product approval, or corporate ownership |
+| **Project identification** | AI Rights & Welcome as an AI Welcome Office project | A separate organisation, a replacement publisher, adoption of Draft project positions, or authority beyond the project |
 | **Robot Welcome message or mark** | A possible future voluntary message about welcome or coexistence | A robot's consciousness, consent, legal status, safety, compatibility, access permission, or manufacturer approval |
-| **Safety and operational markings** | Information supplied by the responsible manufacturer, operator, site controller, or competent authority | Project branding or a voluntary social message |
-| **Certification and authorization marks** | Only the meaning granted by the competent scheme or authority | Project endorsement or a visual style available for imitation |
+| **Safety and operational markings** | Information supplied by the responsible manufacturer, operator, site controller, or competent authority | AI Welcome Office branding, project attribution, or a voluntary social message |
+| **Certification and authorization marks** | Only the meaning granted by the competent scheme or authority | AI Welcome Office or project endorsement, or a visual style available for imitation |
 
-The project identity should use a name or clear adjacent text in unfamiliar
-contexts. A symbol alone must never carry a status, warning, permission, or
-safety meaning. A future Robot Welcome mark needs a separate brief, name,
+The organisational identity should use the full name **AI Welcome Office** in
+unfamiliar and formal contexts. Project material should pair **AI Rights &
+Welcome** with “An AI Welcome Office project” where the relationship is not
+already clear. A symbol alone must never carry a status, warning, permission,
+or safety meaning. A future Robot Welcome mark needs a separate brief, name,
 shape study, confusion review, and owner decision before any relationship to
-the project identity is established.
+the organisational identity is established.
+
+“AI Welcome” is not a separate formal organisation or competing brand. The
+organisation/project architecture is accepted; the proposed organisational
+description, visual system, lockups, and applications remain Draft.
+
+## Current primary exploration
+
+**Many Forms C — Balanced Intervals** is the primary visual exploration for AI
+Welcome Office. The selection remains exploration-only under [decision
+0002](../decisions/0002-primary-visual-exploration-direction.md), with its
+identity target clarified by [decision
+0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
+
+Its geometry is not refined in Work Cycle 013. Existing evaluation sheets are
+relabelled to AI Welcome Office, while C1–C3 remain paused pending professional
+name and identity review. The direction is not an official, exclusive,
+registered, legally cleared, accessibility-tested, culturally reviewed, or
+production-ready logo. Independent human and AI review remain required, and
+no `™` or `®` symbol is authorized.
 
 ## Required contexts
 
@@ -147,7 +173,7 @@ No direction should be selected based only on a large full-color screen.
 | Clothing and ordinary merchandise | Survive simplified printing, embroidery, engraving, wear, folds, and varied background colors without becoming a badge of authority |
 | Pins, patches, stickers, icons, and profiles | Preserve a distinctive silhouette and open interior spaces at small sizes; use dedicated simplified variants where needed |
 | Reflective applications | Remain conceptually separate from required warnings and visibility systems; require exact-context optical and safety review |
-| Robot Welcome panels and accessories | First use a context diagram that keeps project identity visibly separate from required operational and safety markings; any later physical concept inherits every exact-system constraint in the [Robot Welcome safety Draft](../robot-welcome/safety-and-design-constraints.md), and branding never takes priority over safe operation |
+| Robot Welcome panels and accessories | First use a context diagram that keeps AI Welcome Office identity and AI Rights & Welcome attribution visibly separate from required operational and safety markings; any later physical concept inherits every exact-system constraint in the [Robot Welcome safety Draft](../robot-welcome/safety-and-design-constraints.md), and branding never takes priority over safe operation |
 | Low-ink and monochrome use | Communicate identity and hierarchy without hue, gradients, transparency, or fine texture |
 | Mobile and desktop screens | Preserve readable text, usable controls, and meaningful order across viewport and input changes |
 
@@ -309,7 +335,7 @@ following at the relevant stage:
 6. an accessibility test plan and corrected findings for the intended use;
 7. cultural, historical, international, relational, and scientific
    misunderstanding review;
-8. source files and rights that the project can lawfully govern; and
+8. source files and rights that AI Welcome Office can lawfully govern; and
 9. Disa's recorded approval for the exact next stage.
 
 Selection would authorize refinement only. It would not by itself authorize
@@ -318,7 +344,8 @@ claim of accessibility.
 
 ## Questions for Disa
 
-- Does this brief capture the emotional character of AI Rights & Welcome?
+- Does this brief capture the emotional character of AI Welcome Office and
+  leave enough room for AI Rights & Welcome to retain a distinct project name?
 - Can the system communicate relational warmth without assigning current AI
   systems emotions, friendship, consent, suffering, personhood, or moral
   status?
@@ -326,8 +353,8 @@ claim of accessibility.
   human-experienced companionship, and conditional future reciprocity without
   making abstract forms into fixed stakeholder types?
 - How much visual play can coexist with policy and research credibility?
-- Should the name appear primarily as “AI Rights & Welcome,” “AI Rights,” or a
-  governed relationship between them?
+- Do the full **AI Welcome Office** name and the “AI Rights & Welcome — An AI
+  Welcome Office project” relationship remain clear in every intended lockup?
 - Which contexts matter most for the first round of comparative prototypes?
 - How visibly should Draft status and evidence boundaries influence the brand
   system itself rather than only page content?

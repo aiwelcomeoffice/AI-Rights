@@ -260,7 +260,7 @@ use is authorized in this cycle.
 
 ## Visual-identity boundary
 
-Future visual design may aim to be warm, hopeful, inclusive,
+Future AI Welcome Office visual design may aim to be warm, hopeful, inclusive,
 future-oriented, technically credible, non-corporate, recognizable at small
 sizes, and compatible with human and robot contexts. Those qualities are a
 brief, not a design selection.
@@ -288,6 +288,11 @@ Any future visual system must be reviewed for small-size legibility,
 accessibility, cultural and historical meaning, scientific implication,
 corporate resemblance, safety-sign confusion, required-marking confusion,
 misuse, and performance in both human and robot contexts.
+
+Many Forms C is the current primary exploration direction only. It is not an
+official or exclusive identity, and AI Rights & Welcome remains the named
+project rather than a competing organisation. Formal uses must spell out AI
+Welcome Office; no `™` or `®` symbol is authorized.
 
 ## Environmental and truthful-claims rule
 

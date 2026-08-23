@@ -7,6 +7,8 @@
 - **Source record:** [Relative path to source record]
 - **Source version used:** [Version, edition, or date]
 - **Research question:** [Registered question]
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Prepared by:** [Name or role]
 - **Date prepared:** [YYYY-MM-DD]
 - **Last updated:** [YYYY-MM-DD]

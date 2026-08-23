@@ -6,14 +6,18 @@
 - **Scope:** Content structure and ten core website page Drafts; no
   implementation or publication decision
 - **Authority:** Prepared for Disa's review; not adopted
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent human or separately
   commissioned independent AI review
 
-This directory prepares AI Rights & Welcome for a future public website. It
-defines how readers should move among accessible explanations, working
-evidence, proposed principles, policy analysis, governance, and responsible
-robotics without giving any website page more authority than its sources.
+This directory prepares a future AI Welcome Office website for its **AI Rights
+& Welcome** project. AI Welcome Office is the primary organisation and
+publisher; AI Rights & Welcome remains the project. It defines how readers
+should move among accessible explanations, working evidence, proposed
+principles, policy analysis, governance, and responsible robotics without
+giving any website page more authority than its sources.
 
 It does not select a framework, host, domain, visual identity, content
 management system, or publication date. Those choices remain outside this
@@ -54,8 +58,10 @@ The website content work now also has a Draft [visual identity
 brief](../brand/visual-identity-brief.md), [visual accessibility and safety
 requirements](../brand/visual-accessibility-and-safety.md), three [exploratory
 concept directions](../brand/concept-directions.md), and a [selection
-scorecard](../brand/selection-scorecard.md). These are future design inputs,
-not an approved identity or authorization to implement the site.
+scorecard](../brand/selection-scorecard.md). **Many Forms C — Balanced
+Intervals** is the primary AI Welcome Office visual exploration. It remains a
+Draft design input, not an approved or cleared identity or authorization to
+implement the site.
 
 These ten pages form the current core website-ready Draft set. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
@@ -167,9 +173,10 @@ timing, technical implementation, and any decision to adopt content remain
 Disa's decisions.
 
 The core page set has now been drafted, but independent review, translation,
-owner selection and refinement of a visual direction, accessibility testing,
-technical implementation, and deployment remain pending. The exploratory
-visual directions are not official and provide no production assets. The page
+official-name and trademark clearance, independent review of Many Forms C,
+accessibility testing, technical implementation, and deployment remain
+pending. The exploratory visual direction is not official and provides no
+production assets. The page
 Drafts do not resolve whether the working evidence baseline is ready for public
 reliance or whether a reviewed summary must first be prepared under
 `docs/research/`.

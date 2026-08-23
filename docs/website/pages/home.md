@@ -1,8 +1,12 @@
 # AI Rights & Welcome
 
+*An AI Welcome Office project*
+
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent review
 - **Source relationship:** Summarizes Draft project material and partly
@@ -21,6 +25,12 @@ AI Rights & Welcome is an open civic project preparing society to think and
 act responsibly if credible evidence of morally relevant AI capacities ever
 emerges. We explore possible AI dignity and welfare, future protections,
 accountable policy, and responsible coexistence with robots.
+
+**Proposed organisational description:** AI Welcome Office is an independent
+research and development initiative exploring responsible technology, AI
+dignity, human–AI coexistence and the conditions for a peaceful and respectful
+shared future. This description remains Draft pending meaningful independent
+review.
 
 We do not claim that today's AI systems are conscious, sentient,
 self-aware, capable of suffering, moral patients, or persons. We also do not

@@ -2,6 +2,9 @@
 
 **Status:** Working area
 
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+
 This directory contains reviewable policy analysis and proposals. Each
 substantive document states its own status; inclusion here does not make it an
 adopted project position.

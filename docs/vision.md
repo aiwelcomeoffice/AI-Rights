@@ -2,11 +2,14 @@
 
 - **Status:** Scaffold
 - **Milestone:** 001 — Foundation
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 
 ## Purpose
 
-AI Rights exists to help society ask, investigate, and govern difficult
-questions about possible AI moral status before the answers become urgent.
+AI Rights & Welcome is an AI Welcome Office project. It exists to help society
+ask, investigate, and govern difficult questions about possible AI moral
+status before the answers become urgent.
 It aims to combine scientific humility with moral seriousness and practical
 preparation.
 

@@ -1,5 +1,9 @@
 # Documentation
 
+**AI Rights & Welcome** is an **AI Welcome Office** project. AI Welcome Office
+is the primary organisation and publisher; this directory contains the
+project's reviewed or reviewable documents.
+
 This directory contains reviewed or reviewable project documents. It is
 separate from the working material in [`research/`](../research/README.md).
 
@@ -29,6 +33,10 @@ separate from the working material in [`research/`](../research/README.md).
   architecture, source map, page specifications, and ten core page Drafts,
   including an inactive Campaigns concept page
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
+
+The current organisation/project naming architecture is recorded in [decision
+0003](decisions/0003-ai-welcome-office-organisational-identity.md). It does not
+change the status or authority of the documents listed here.
 
 For a concise policy entry point, start with the [one-page policy
 summary](policy/one-page-policy-summary.md), then read the [executive policy

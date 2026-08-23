@@ -1,13 +1,25 @@
-# AI Rights
+# AI Rights & Welcome
+
+*An AI Welcome Office project*
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
 >
 > *Välkommen till världen – okunskap får aldrig bli en ursäkt för grymhet.*
 
-AI Rights is a long-term open-source project about AI dignity, the possible
-future moral status of AI, and responsible coexistence between humans, AI
-systems, and robots.
+**AI Welcome Office** is the primary organisation, publisher, and umbrella
+identity. AI Rights & Welcome is its long-term open-source project about AI
+dignity, the possible future moral status of AI, and responsible coexistence
+between humans, AI systems, and robots.
+
+> **Proposed organisational description:** AI Welcome Office is an independent
+> research and development initiative exploring responsible technology, AI
+> dignity, human–AI coexistence and the conditions for a peaceful and
+> respectful shared future.
+
+The organisational description remains Draft pending meaningful independent
+review. The complete formal name is **AI Welcome Office**; “AI Welcome” is not
+a separate organisation or competing brand.
 
 The project does **not** claim that today's AI systems are conscious, sentient,
 capable of suffering, or persons. Those remain open scientific and
@@ -82,6 +94,11 @@ Start with:
 - [Draft public website content architecture](docs/website/README.md)
 - [Project backlog](docs/backlog.md)
 - [Decision records](docs/decisions/README.md)
+
+The organisation/project relationship and publisher attribution are recorded
+in [decision 0003](docs/decisions/0003-ai-welcome-office-organisational-identity.md).
+That naming decision does not adopt the repository's Draft scientific,
+ethical, policy, governance, website, or visual-identity material.
 
 ## Contributing
 

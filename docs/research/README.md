@@ -2,6 +2,9 @@
 
 **Status:** Reserved for reviewed outputs
 
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+
 This directory will contain research summaries that are ready for project
 review or publication. Working citations, reading notes, and draft syntheses
 belong in the repository-level [`research/`](../../research/README.md)

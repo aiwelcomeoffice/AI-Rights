@@ -1,5 +1,9 @@
 # Research Workspace
 
+This is the working research area for **AI Rights & Welcome**, an **AI Welcome
+Office** project. AI Welcome Office is the organisation and publisher; the
+records retain their own verification and project-position status.
+
 This directory contains traceable working material. It is not, by itself, an
 endorsed evidence base or project position.
 

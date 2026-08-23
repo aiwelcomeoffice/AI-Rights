@@ -2,6 +2,8 @@
 
 **Status: Draft**
 
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Date prepared:** 2026-08-23
 - **Scope:** Conceptual principles for responsible coexistence with robots and
   other machines in shared physical spaces

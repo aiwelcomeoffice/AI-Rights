@@ -4,7 +4,8 @@
 
 - **Date prepared:** 2026-08-23
 - **Authority:** Disa authorized two directions for matched internal
-  prototyping; no direction or identity is adopted
+  prototyping and later accepted Many Forms C as the primary exploration
+  direction; no final identity is adopted
 - **Scope:** Three meaningfully different conceptual systems, with two in
   matched low-fidelity exploration and one paused as a primary identity; no
   final logo, palette, typeface, artwork, production asset, trademark
@@ -14,7 +15,7 @@
   cultural, legal, trademark, human-factors, robotics, or manufacturing review
 
 > **Exploratory proposals:** None of these directions or prototype variants is
-> the official visual identity of AI Rights & Welcome. The names, metaphors,
+> the official visual identity of AI Welcome Office. The names, metaphors,
 > forms, colors, and applications exist only to support comparison. Continued
 > exploration authorizes no public deployment, manufacture, certification,
 > Robot Welcome use, or trademark claim.
@@ -36,6 +37,19 @@ risks. The [Selection Scorecard](selection-scorecard.md) records the owner
 direction, and the [Matched Prototype
 Evaluation](matched-prototype-evaluation.md) compares three variants for each
 continuing direction under equivalent conditions.
+
+## Work Cycle 013 current status
+
+**Many Forms C — Balanced Intervals** is the primary visual exploration for
+**AI Welcome Office**. **AI Rights & Welcome** remains an AI Welcome Office
+project. This disposition is recorded in [decisions
+0002](../decisions/0002-primary-visual-exploration-direction.md) and
+[0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
+
+Many Forms A and B and all Open Threshold variants are paused references.
+Reciprocal Signal remains paused as a primary identity direction. None is an
+official or legally cleared identity, and the matched comparison remains
+useful historical evidence rather than the current selection step.
 
 ## Work Cycle 011 owner direction
 
@@ -378,9 +392,10 @@ merchandise guardrails.
 
 ### Robot Welcome relationship
 
-The project identity should remain separate. A later Robot Welcome visual
-system might borrow the **layout principle** of distinct information zones or
-a shared baseline, not the project symbol itself. On a machine or site,
+The AI Welcome Office identity and AI Rights & Welcome project attribution
+should remain separate. A later Robot Welcome visual system might borrow the
+**layout principle** of distinct information zones or a shared baseline, not
+the organisational symbol itself. On a machine or site,
 modular shapes could be mistaken for operating states, sensor zones, fleet
 classes, or instructions, so visible labels and an exact-context confusion
 review would be essential.
@@ -704,15 +719,15 @@ geometry and contain no embedded third-party asset. That provenance does not
 establish trademark availability, distinctive character, registrability,
 freedom to operate, or absence of confusing similarity.
 
-## Current comparison step
+## Matched comparison record and current next step
 
-The six [matched prototype sheets](prototypes/README.md) now provide the same
+The six [matched prototype sheets](prototypes/README.md) provide the same
 black-on-white, reversed, small-size, research-report, website, campaign,
-merchandise, Robot Welcome separation, and confusion-review contexts. Disa
-should record first impressions before reading the intended metaphor, then use
-the [Matched Prototype Evaluation](matched-prototype-evaluation.md) and
-[Selection Scorecard](selection-scorecard.md) to decide which individual
-variants, if any, deserve another internal round.
+merchandise, Robot Welcome separation, and confusion-review contexts. That
+Work Cycle 011 comparison supported the later choice of Many Forms C. The next
+step is not a new comparison or C1–C3 refinement: official AI Welcome Office
+name and trademark clearance, independent interpretation, accessibility, and
+cultural review remain pending.
 
 Neither direction should be combined yet. A later combination would require a
 separate owner decision after each continuing direction has been evaluated on

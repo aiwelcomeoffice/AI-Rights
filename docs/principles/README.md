@@ -1,5 +1,8 @@
 # Principles
 
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+
 The documents in this directory form the project's proposed scientific and
 ethical foundation. Each document has its own status; none is adopted unless it
 is explicitly marked **Adopted** and linked to the required approval record.

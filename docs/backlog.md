@@ -2,6 +2,14 @@
 
 - **Status:** Draft for owner review
 - **Current milestone:** 001 — Foundation
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
+
+> **Identity note — 2026-08-23:** AI Welcome Office is now the primary
+> organisation, publisher, and umbrella identity; AI Rights & Welcome remains
+> the project. Earlier work-cycle descriptions retain their original timing,
+> scope, findings, and Draft status. Later identity notes and current labels do
+> not imply that this naming decision existed during those earlier cycles.
 
 This backlog records intended work without treating unreviewed ideas as
 decisions. Priorities may change when Disa reviews them as project owner.
@@ -204,7 +212,9 @@ The directions are intentionally different and document mission connection,
 shape, color-family, typography, imagery, website, campaign, merchandise,
 Robot Welcome, monochrome, small-size, accessibility, scientific, ethical,
 authority-confusion, cultural, production, strength, weakness, and owner-
-decision considerations. No direction is preferred or official. No sketch,
+decision considerations. At the end of Work Cycle 010, no direction was
+preferred or official; later cycles select Many Forms C for AI Welcome Office
+as an exploration only. No sketch,
 binary image, final logo, exact palette, font asset, campaign artwork, website,
 merchandise design, Robot Welcome mark, safety marking, certification mark, or
 production asset was created.
@@ -304,8 +314,9 @@ construction and absence of embedded third-party assets do not establish
 trademark availability or legal originality.
 
 The Robot Welcome panels are diagrams of separation, not Robot Welcome marks
-or robot-placement proposals. Project identity remains distinct from required
-warnings, responsible-party identity, emergency controls, operating state,
+or robot-placement proposals. AI Welcome Office identity and AI Rights &
+Welcome project attribution remain distinct from required warnings,
+responsible-party identity, emergency controls, operating state,
 authorization, certification, compatibility, legal status, and safety. No
 exact robot, environment, material, sensor, warning, control, standard, or
 manufacturer requirement was assessed.
@@ -354,12 +365,15 @@ physical production testing, or Robot Welcome safety validation.
 
 ### Unresolved questions and adoption boundary
 
-Disa must decide which individual variants, if any, continue; whether both
-directions remain equally resourced; which relational signal should lead; the
-provisional name form for future lockups; the next review sequence and
-realistic resources; whether Robot Welcome should share no symbol or geometry;
-whether Reciprocal Signal remains paused; and when, if ever, combining the two
-continuing directions becomes eligible.
+At the end of Work Cycle 011, Disa still had to decide which individual
+variants, if any, continued; whether both directions remained equally
+resourced; which relational signal led; the then-provisional name form for
+future lockups; the next review sequence and realistic resources; whether
+Robot Welcome should share no symbol or geometry; whether Reciprocal Signal
+remained paused; and when, if ever, combining the two continuing directions
+became eligible. Decisions 0002 and 0003 later resolve the primary variant and
+organisation/project naming questions; the remaining review questions stay
+open.
 
 Everything produced in Work Cycle 011 remains **Draft/Exploratory**. Disa's
 authorization does not mean external review occurred, a logo was adopted,
@@ -367,6 +381,143 @@ accessibility or cultural suitability was established, originality or
 trademark clearance exists, a Robot Welcome mark was approved, or production
 and public deployment are authorized. A later explicit owner decision and
 review proportionate to the exact next stage remain required.
+
+## Work Cycle 013 — AI Welcome Office organisational identity adopted
+
+### Decision and naming architecture
+
+Disa has adopted **AI Welcome Office** as the primary organisation, publisher,
+and umbrella identity. **AI Rights & Welcome** remains the project name. The
+formal relationship is:
+
+> **AI Rights & Welcome**\
+> An AI Welcome Office project
+
+This separation gives the organisation a stable publishing and umbrella
+identity without erasing a descriptive project name or presenting the project
+as the whole organisation. It also permits future related work to sit under
+one accountable publisher without being silently treated as part of the AI
+Rights & Welcome project. Formal references use the complete name **AI Welcome
+Office**; “AI Welcome” is not a separate organisation or competing brand.
+
+[Decision 0003](decisions/0003-ai-welcome-office-organisational-identity.md)
+records the accepted naming architecture. The decision changes no scientific,
+ethical, policy, safety, governance, legal, or licensing conclusion and does
+not rename the GitHub repository.
+
+The shared description below is available for careful use as
+**Proposed/Draft**, not as independently reviewed institutional fact:
+
+> AI Welcome Office is an independent research and development initiative
+> exploring responsible technology, AI dignity, human–AI coexistence and the
+> conditions for a peaceful and respectful shared future.
+
+Limited review resources do not prevent continued development, publication,
+or constructive use when the Draft status and actual review limits remain
+visible.
+
+### Many Forms C and visual status
+
+**Many Forms C — Balanced Intervals** remains the primary visual exploration
+direction and now serves **AI Welcome Office** rather than the AI Rights &
+Welcome project alone. Decision 0003 supplements [decision
+0002](decisions/0002-primary-visual-exploration-direction.md) without changing
+its exploration-only status or paused alternatives.
+
+No C1–C3 geometry refinement was resumed. The deterministic prototype
+generator and six matched SVG sheets were updated only to replace the former
+project-identity labels with AI Welcome Office organisational and publisher
+labels; the Work Cycle 011 symbol geometry and matched layouts were retained.
+The current Many Forms C file hash and the text-only transition are recorded in
+the [controlled-refinement
+record](brand/many-forms-c-controlled-refinement.md).
+
+Many Forms C remains **Draft/Exploratory**. It is not an official, registered,
+legally cleared, exclusive, accessibility-tested, culturally reviewed, or
+production-ready logo. No `™` or `®` symbol is added. Independent human and AI
+review, official-name clearance, and appropriately scoped professional legal
+and trademark review remain outstanding.
+
+### Preliminary clearance status
+
+The Work Cycle 012 [preliminary rights and identity-landscape
+screen](brand/preliminary-rights-and-identity-landscape-screen.md) covered AI
+Rights & Welcome as the then-umbrella working name and the Many Forms C
+geometry. It did **not** search or clear AI Welcome Office. Its same-field “AI
+Rights” findings remain relevant to project differentiation, and its visual
+search limits remain relevant to Many Forms C, but it cannot establish name or
+trademark availability for the organisation.
+
+No current record establishes legal-entity formation, company-name approval,
+domain or handle availability, trademark registration, registrability,
+ownership, exclusivity, freedom to operate, or absence of confusing
+similarity. The CC0 licence and legal notice remain unchanged.
+
+### Files and surfaces updated
+
+- **Organisation and project entry points:** `AGENTS.md`, `README.md`,
+  `CONTRIBUTING.md`, `docs/README.md`, `docs/vision.md`, `docs/manifesto.md`,
+  and the research workspace entry point and protocol.
+- **Governance, decisions, and templates:** the governance index and adoption
+  Draft, decision index and template, decisions 0001–0003, and research source,
+  note, and synthesis templates.
+- **Public-section indexes:** education, principles, policy, reviewed-research,
+  campaigns, Robot Welcome, brand, and website indexes.
+- **Website-facing content:** information architecture, content map, page
+  specifications, and all ten current page Drafts, including the updated About
+  and Home identity statements and explicit publisher/project metadata.
+- **Current and historical identity documentation:** brand foundation, message
+  architecture, voice, visual brief, accessibility requirements, concept
+  directions, selection scorecard, matched evaluation, Many Forms C
+  controlled-refinement record, preliminary landscape screen, identity and
+  trademark policy proposal, campaign guardrails, and prototype register.
+- **Generated visual assets:** the prototype generator, six matched SVG sheets,
+  and native-size contact sheet. Only organisational labels, metadata, and
+  generator versioning changed; symbol geometry was not refined.
+- **Work-cycle record:** this backlog section and its links to decisions and
+  outstanding work.
+
+### Manual and external-platform changes
+
+Disa should manually review and, where applicable, update external surfaces
+that are not changed by this repository work:
+
+- GitHub organisation profile, repository description/topics, social preview,
+  and any pinned or linked profile copy, while leaving the repository name
+  unchanged;
+- email sender/display names, social accounts, domains, redirects, contact
+  details, cloud documents, presentation masters, and any public bios or
+  attribution outside this repository;
+- future website metadata, title templates, structured data, favicons, social
+  cards, and deployment settings when implementation begins; and
+- any company, association, tax, banking, contract, filing, ownership, or
+  trademark record only after suitable professional advice and an explicit
+  decision.
+
+No account, domain, legal record, filing, or external platform was changed in
+this cycle.
+
+### Unresolved questions and recommended next steps
+
+1. Define the territories, actual services, publication uses, domains, and name
+   variants for a professional **AI Welcome Office** name, company-name, domain,
+   and trademark search.
+2. Complete appropriately independent human review of the organisational
+   description, name interpretation, cultural and multilingual risks, and the
+   Many Forms C scientific, authority-confusion, accessibility, and small-size
+   risks; record AI-assisted review as a separate layer.
+3. Decide whether the existing Work Cycle 012 stop condition should remain in
+   force after professional name review or whether a matched C1–C3 geometry
+   cycle may resume.
+4. Decide the exact text-first organisation/project lockups and future website
+   attribution behavior before selecting typography, colors, or public assets.
+5. Decide future identity ownership, authorization, provenance, and whether
+   any narrowly named official asset should receive prospective treatment
+   outside the repository's default CC0 approach. Do not change the licence or
+   add a trademark notice without a separate documented reason and review.
+6. Re-audit current-facing wording after Disa updates external platforms so no
+   formal “AI Welcome” organisation, false clearance claim, or conflated
+   organisation/project attribution remains.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
@@ -465,35 +616,35 @@ after the foundation documents have been reviewed.
 - Whether the Robot Welcome foundation is distinctive, warm, practical, and
   sufficiently clear that its marks and accessories are unvalidated concepts,
   not safety, authorization, compatibility, consciousness, or product claims.
-- Whether the Draft brand voice feels recognizably like AI Rights & Welcome,
-  the message hierarchy protects the established central wording, and the
-  supporting-slogan risk classifications are appropriate.
+- Whether the Draft brand voice feels recognizably like AI Welcome Office
+  while preserving AI Rights & Welcome's project character, the message
+  hierarchy protects the established central wording, and the supporting-
+  slogan risk classifications are appropriate.
 - Which supporting messages, if any, should receive explicit approval for a
   defined future public use, audience, language, context, and channel.
 - Whether the four inactive campaign concepts are courageous, scientifically
   honest, historically responsible, accessible in direction, resistant to
   corporate capture, and suitable for further development.
-- Whether the Draft visual-identity brief reflects the project's warm,
-  courageous, calm, civic, scientifically honest, playful, inclusive, and
-  future-oriented character across serious policy and ordinary merchandise.
-- Which Work Cycle 011 Open Threshold and Many Forms, Common Ground variants,
-  if any, should receive another internal round; whether both directions
-  should remain equally resourced; and which relational quality should lead.
+- Whether the Draft visual-identity brief reflects AI Welcome Office's and the
+  project's warm, courageous, calm, civic, scientifically honest, playful,
+  inclusive, and future-oriented character across serious policy and ordinary
+  merchandise.
+- Whether Many Forms C should proceed beyond primary exploration after the
+  required name, interpretation, accessibility, cultural, and legal review.
 - Whether Reciprocal Signal should remain paused as a primary identity while
   its question–evidence, claim–source, and accountability ideas remain
   available for editorial study.
 - Whether combining Open Threshold and Many Forms, Common Ground should remain
-  prohibited through Work Cycle 012 or become eligible only after separate
-  unprompted, accessibility, cultural, originality, and authority-confusion
-  findings are recorded.
-- Which name form future identity lockups should prioritize and how, if at all,
-  a later Robot Welcome identity should relate to the project identity while
-  remaining separate from safety, authorization, certification, operating
-  state, legal status, and endorsement.
-- Whether Work Cycle 012 should prioritize identity-landscape similarity
-  screening, unprompted interpretation sessions, accessibility review with
-  disabled people, cross-cultural review, or another internal geometry round,
-  and which reviewers and resources are realistic.
+  prohibited while their separate historical comparison evidence is retained.
+- Which exact AI Welcome Office and “AI Rights & Welcome — An AI Welcome Office
+  project” lockups should be tested, and how, if at all, a later Robot Welcome
+  identity should relate to the organisational identity while remaining
+  separate from safety, authorization, certification, operating state, legal
+  status, and endorsement.
+- Which unprompted interpretation, accessibility review with disabled people,
+  cross-cultural review, professional name/mark search, and later geometry
+  steps are realistic, in what sequence, and with which reviewers and
+  resources.
 - What originality, similarity, legal, trademark, licensing, accessibility
   with disabled people, cultural, multilingual, human-factors, design,
   production, and—if physical use is proposed—exact-system robotics and safety
@@ -517,7 +668,7 @@ after the foundation documents have been reviewed.
 - Public campaign launch, active campaign participation, social-media
   publication, partnerships, events, petitions, fundraising, and campaign
   results.
-- Owner selection, adoption, and final refinement of a visual identity;
+- Official adoption and final refinement of a visual identity; completed
   originality and similarity checks; trademark and brand-asset strategy;
   exact colors and fonts; production-ready logo and brand assets; supporting-
   slogan translations; merchandise design; product files; prices; suppliers;

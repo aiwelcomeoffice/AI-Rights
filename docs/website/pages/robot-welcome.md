@@ -3,6 +3,8 @@
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no independent robotics, safety,
   accessibility, legal, standards, cybersecurity, privacy, environmental, or
@@ -332,4 +334,3 @@ Principles](../../robot-welcome/physical-coexistence-principles.md), and the
 [Safety and Design Constraints](../../robot-welcome/safety-and-design-constraints.md).
 For wider institutional questions, continue to the [Policy overview](policy.md)
 or review [Why preparation can begin before certainty](why-ai-rights.md).
-

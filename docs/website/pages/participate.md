@@ -3,6 +3,8 @@
 **Status: Draft — proposed website content under review; not adopted**
 
 - **Last page update:** 2026-08-23
+- **Publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
   final manual review is pending; no external independent human or separately
   commissioned independent AI review
@@ -17,9 +19,10 @@
 expertise future review may need, and how to follow development without being
 promised a contribution process that does not yet exist.
 
-AI Rights & Welcome is still building its foundation. There is currently no
-broad public contribution, membership, application, issue-intake,
-consultation, newsletter, donation, or community-program workflow.
+AI Rights & Welcome, an AI Welcome Office project, is still building its
+foundation. There is currently no broad public contribution, membership,
+application, issue-intake, consultation, newsletter, donation, or community-
+program workflow.
 
 The project is therefore not collecting submissions or personal information
 through this page. For agreed project tasks, the current [repository
@@ -74,7 +77,7 @@ a promise that every contribution type will open.
 
 ## How to follow development now
 
-- Inspect the [public AI Rights GitHub
+- Inspect the [public project GitHub
   repository](https://github.com/aiwelcomeoffice/AI-Rights) and its revision
   history.
 - Read the [project overview](../../../README.md) and [Draft

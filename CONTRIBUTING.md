@@ -1,7 +1,15 @@
-# Contributing to AI Rights
+# Contributing to AI Rights & Welcome
 
-AI Rights is at an early foundation stage. Contributions should currently be
-small, reviewable, and directly connected to an agreed project task.
+**AI Rights & Welcome** is an **AI Welcome Office** project. AI Welcome Office
+is the organisation and publisher; AI Rights & Welcome remains the project
+name. The project is at an early foundation stage. Contributions should
+currently be small, reviewable, and directly connected to an agreed project
+task.
+
+Use the complete name **AI Welcome Office** in formal organisational or
+publisher references. Do not shorten it to “AI Welcome” as though that were a
+separate organisation. Descriptions of the organisation beyond the accepted
+naming relationship remain Draft unless their status says otherwise.
 
 ## Before proposing a change
 
