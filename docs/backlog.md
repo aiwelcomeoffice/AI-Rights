@@ -142,6 +142,45 @@ manufacturer review where applicable, standards and legal research, visual
 design, prototyping, testing, website implementation, publication, and any
 physical product work remain pending.
 
+## Work Cycle 009 — campaign and brand messaging foundation drafted
+
+The [Brand and Public Messaging foundation](brand/README.md) now defines a
+Draft message hierarchy, preserves the established English and Swedish central
+promise and the working principle, and separates them from supporting-message
+proposals, campaign copy, and calls to action. The [Message
+Architecture](brand/message-architecture.md) assesses seven candidate messages
+individually rather than treating every slogan as equally safe. The [Voice and
+Language](brand/voice-and-language.md) Draft defines a warm, courageous,
+future-oriented, accessible, non-sectarian, skeptical-friendly, and
+scientifically cautious public voice.
+
+The [Campaign and Merchandise
+Guardrails](brand/campaign-and-merchandise-guardrails.md) add scientific,
+historical and social-justice, corporate anti-capture, accessibility,
+environmental-claims, human-merchandise, Robot Welcome accessory, and future
+visual-identity boundaries. Human merchandise is kept separate from physical
+robot accessories, and every Robot Welcome concept remains subordinate to the
+complete Work Cycle 008 safety constraints.
+
+Four [initial campaign concepts](campaigns/initial-concepts.md) have been
+prepared as inactive future possibilities: Respect Before Certainty,
+Responsibility Cannot Be Automated Away, Safety and Dignity Can Coexist, and
+Ask Whether It Can Experience. The [Campaigns website
+page](website/pages/campaigns.md) explains the public-message approach and
+states that no campaign is active, launched, scheduled, funded, or open for
+participation.
+
+Drafting is complete for this messaging-and-concept cycle, not adoption,
+external review, design, implementation, production, or launch. All new
+substantive documents remain **Draft**. They have project-owner and internal
+AI-assisted review only, with Disa's final manual review pending. No external
+communications, design, accessibility, historical-sensitivity, legal, or
+independent scientific review should be assumed. No logo, symbol, colors,
+fonts, mascot, final artwork, translation of a supporting slogan, product,
+price, supplier, store, donation process, social-media account, campaign
+result, partner, launch date, safety mark, certification, or manufacturing
+specification has been created or selected.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -232,13 +271,25 @@ after the foundation documents have been reviewed.
 - Whether an initial evidence page may accurately summarize the partly
   verified working baseline with prominent limitations, or should wait for a
   reviewed public summary in `docs/research/`.
-- Whether the nine core website page Drafts are coherent and ready for later
+- Whether the ten core website page Drafts are coherent and ready for later
   publication work after content review, including the Why AI Rights?,
   Research, Policy, Principles, Governance, About, Participate, and Robot
-  Welcome wording.
+  Welcome wording and the inactive Campaigns concept page.
 - Whether the Robot Welcome foundation is distinctive, warm, practical, and
   sufficiently clear that its marks and accessories are unvalidated concepts,
   not safety, authorization, compatibility, consciousness, or product claims.
+- Whether the Draft brand voice feels recognizably like AI Rights & Welcome,
+  the message hierarchy protects the established central wording, and the
+  supporting-slogan risk classifications are appropriate.
+- Which supporting messages, if any, should receive explicit approval for a
+  defined future public use, audience, language, context, and channel.
+- Whether the four inactive campaign concepts are courageous, scientifically
+  honest, historically responsible, accessible in direction, resistant to
+  corporate capture, and suitable for further development.
+- What communications, scientific, historical-sensitivity, accessibility,
+  legal, affected-party, design, environmental, product, robotics, safety,
+  standards, and human-factors review should be required before each kind of
+  public, visual, merchandise, or physical use.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
 - Research-maintenance owner, review cadence, and material-development
@@ -251,7 +302,12 @@ after the foundation documents have been reviewed.
 
 - Claims about specific rights or legal personhood.
 - Website framework and hosting selection.
-- Campaigns and merchandise.
+- Public campaign launch, active campaign participation, social-media
+  publication, partnerships, events, petitions, fundraising, and campaign
+  results.
+- Final visual identity, supporting-slogan translations, merchandise design,
+  product files, prices, suppliers, manufacturing, store infrastructure, and
+  sales.
 - Engineering, visual design, prototyping, testing, manufacture, compatibility
   approval, sale, or real-world deployment of physical robot markings,
   signals, and accessories.

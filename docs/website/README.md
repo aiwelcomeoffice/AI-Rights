@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Scope:** Content structure and nine core website page Drafts; no
+- **Scope:** Content structure and ten core website page Drafts; no
   implementation or publication decision
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -46,8 +46,11 @@ work cycle.
 - [Robot Welcome Draft](pages/robot-welcome.md) — responsible physical
   coexistence, conceptual markings and accessories, and explicit safety and
   scientific boundaries
+- [Campaigns Draft](pages/campaigns.md) — public-message principles, four
+  inactive future campaign possibilities, and scientific, historical,
+  corporate, accessibility, and review safeguards
 
-These nine pages form the current core website-ready Draft set. The Learn
+These ten pages form the current core website-ready Draft set. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
 executive-brief and protection-framework adaptations, manifesto adaptation,
 and decisions index remain specifications rather than completed website pages.
@@ -68,7 +71,9 @@ Drafts or, in the case of the vision, a Scaffold:
   [executive policy brief](../policy/executive-policy-brief.md); and
 - the [Robot Welcome & Physical Coexistence
   foundation](../robot-welcome/README.md) and its Draft principles, safety
-  constraints, and concept catalogue; and
+  constraints, and concept catalogue;
+- the [Draft brand and public messaging foundation](../brand/README.md) and
+  [inactive Draft campaign concepts](../campaigns/README.md); and
 - the [project vision](../vision.md), used for scope and intent but not as an
   adopted position.
 
@@ -159,8 +164,10 @@ page Drafts do not resolve whether the working evidence baseline is ready for
 public reliance or whether a reviewed summary must first be prepared under
 `docs/research/`.
 
-Campaigns, merchandise, product sales, broad contribution requests, and the
+Campaign launch, active campaign calls to action, visual identity, merchandise
+design or production, product sales, broad contribution requests, and the
 engineering, prototyping, manufacture, compatibility approval, testing, or sale
-of physical robot accessories remain deferred. The Robot Welcome foundation
-contains concepts only. The proposed Participate page is an honest readiness
-notice and follow-work path, not an open call for membership or contributions.
+of physical robot accessories remain deferred. The Campaigns page and Robot
+Welcome foundation contain Draft concepts only. The proposed Participate page
+is an honest readiness notice and follow-work path, not an open call for
+membership or contributions.

@@ -7,6 +7,11 @@ separate from the working material in [`research/`](../research/README.md).
 
 - [`education/`](education/README.md) — Draft public education on AI rights,
   common questions, and key terms
+- [`brand/`](brand/README.md) — Draft message hierarchy, voice, supporting-
+  slogan assessment, and campaign, merchandise, Robot Welcome, visual, and
+  multilingual guardrails
+- [`campaigns/`](campaigns/README.md) — four inactive Draft future campaign
+  concepts; no campaign is launched or approved for public use
 - [`manifesto.md`](manifesto.md) — Draft public-facing expression of the
   project's principles
 - [`vision.md`](vision.md) — project purpose, scope, and boundaries
@@ -21,7 +26,8 @@ separate from the working material in [`research/`](../research/README.md).
 - [`decisions/`](decisions/README.md) — proposed and resolved project decision
   records
 - [`website/`](website/README.md) — Draft public website information
-  architecture, source map, page specifications, and nine core page Drafts
+  architecture, source map, page specifications, and ten core page Drafts,
+  including an inactive Campaigns concept page
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
 
 For a concise policy entry point, start with the [one-page policy

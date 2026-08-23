@@ -78,9 +78,10 @@ Initial calls to action are limited to:
 - **Understand our review status**
 - **Follow future work**
 
-No page should invite donations, membership, purchases, campaigns, broad
-contributions, public consultation submissions, or system-status claims until
-the corresponding process is authorized and documented.
+No page should invite donations, membership, purchases, active campaign
+participation, broad contributions, public consultation submissions, or
+system-status claims until the corresponding process is authorized and
+documented.
 
 ### Accessibility baseline
 
@@ -108,6 +109,7 @@ The following website-ready files have been drafted from these specifications:
 - [About](pages/about.md)
 - [Participate](pages/participate.md)
 - [Robot Welcome](pages/robot-welcome.md)
+- [Campaigns](pages/campaigns.md)
 
 They remain **Drafts** pending Disa's final manual review. Independent review,
 translation, visual design, implementation, publication, and deployment remain
@@ -679,6 +681,54 @@ created and reviewed; a specification is not a placeholder promise to publish.
 - **Misunderstanding and safeguard:** Interest may be mistaken for membership
   or an active review mandate. Do not accept submissions through a page until
   ownership, moderation, privacy, and review procedures are approved.
+
+### 21. Campaigns
+
+- **Working title:** Campaigns: public messages without manufactured certainty
+- **Route:** `/campaigns/`
+- **Audience:** Public readers, skeptics, journalists, educators,
+  policymakers, civil society, developers, deployers, robotics audiences, and
+  possible future reviewers.
+- **Reader question:** How can the project communicate memorably without
+  claiming current AI consciousness, appropriating human history, enabling
+  corporate capture, or weakening safety?
+- **Page objective:** Explain the Draft campaign principles, disclose that no
+  campaign is active, and present four selected future possibilities with
+  their scientific, historical, corporate, accessibility, and review
+  boundaries.
+- **Required sections:** Status and explicit inactive notice; central promise
+  and working principle; why messaging matters; campaign principles; selected
+  future concepts; scientific honesty; human rights and historical safeguards;
+  corporate anti-capture; accessibility and future-design boundary; deeper
+  sources and review needs.
+- **Primary sources:** [Brand and Public Messaging](../brand/README.md),
+  [Message Architecture](../brand/message-architecture.md), [Voice and
+  Language](../brand/voice-and-language.md), [Campaign and Merchandise
+  Guardrails](../brand/campaign-and-merchandise-guardrails.md), [Campaign
+  Concepts](../campaigns/README.md), and [Initial Campaign
+  Concepts](../campaigns/initial-concepts.md), all **Draft**, with the Draft
+  manifesto, principles, education, policy, governance, and Robot Welcome
+  foundations retaining their own authority.
+- **Status and review notice:** Draft public adaptation; no campaign is active,
+  launched, scheduled, funded, or open for participation; project-owner and
+  internal AI-assisted review only, with Disa's final manual review pending;
+  no external communications, design, accessibility, historical-sensitivity,
+  legal, or independent scientific review.
+- **Primary call to action:** Learn more and read the evidence.
+- **Related pages:** Research, principles, policy, Robot Welcome, status and
+  review, and About.
+- **Accessibility considerations:** Keep the inactive and scientific caveats
+  adjacent to slogans; do not rely on artwork, color, sound, animation, QR
+  codes, a personal device, or network access; use descriptive links and plain
+  language; involve relevant disabled people before making an accessibility
+  claim.
+- **Misunderstanding and safeguard:** A concept page may look like a launch or
+  a slogan may be read as a scientific, legal, historical, corporate, product,
+  or certification claim. State that concepts are inactive Draft future
+  possibilities, link the complete risk assessments, and show what each does
+  not claim. Include no results, testimonials, supporters, statistics,
+  partners, launch dates, petitions, donations, products, or public submission
+  routes.
 
 ## Page retirement and correction
 

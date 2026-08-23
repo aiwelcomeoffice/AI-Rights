@@ -32,6 +32,11 @@ source.
 | [`CONTRIBUTING.md`](../../CONTRIBUTING.md) | Current repository contribution guidance; broad public contributions are not yet open |
 | [`docs/vision.md`](../vision.md) | **Scaffold** |
 | [`docs/manifesto.md`](../manifesto.md) | **Draft** |
+| [`docs/brand/README.md`](../brand/README.md) | **Draft** messaging foundation; no supporting slogan, campaign, visual identity, translation, merchandise, or Robot Welcome product is adopted or approved for public use |
+| [`docs/brand/message-architecture.md`](../brand/message-architecture.md) | **Draft** hierarchy and candidate-message risk assessment; inclusion is not approval |
+| [`docs/brand/voice-and-language.md`](../brand/voice-and-language.md) | **Draft** voice and language proposal; no external communications, accessibility, translation, or independent scientific review |
+| [`docs/brand/campaign-and-merchandise-guardrails.md`](../brand/campaign-and-merchandise-guardrails.md) | **Draft** concept-stage guardrails; no campaign launch, visual identity, product design, production, certification, or operational use |
+| [`docs/campaigns/README.md`](../campaigns/README.md) and [`initial-concepts.md`](../campaigns/initial-concepts.md) | **Draft** inactive future campaign concepts; no launch, schedule, funding, public participation, or approved channels |
 | [`docs/education/README.md`](../education/README.md) | **Draft** education-set index and source disclosure |
 | [`docs/education/ai-rights-101.md`](../education/ai-rights-101.md) | **Draft** |
 | [`docs/education/faq.md`](../education/faq.md) | **Draft** |
@@ -79,6 +84,7 @@ architecture, or publication have been adopted.
 | About `/about/` | [About Draft](pages/about.md) |
 | Participate `/participate/` | [Participate Draft](pages/participate.md) |
 | Robot Welcome `/robot-welcome/` | [Robot Welcome Draft](pages/robot-welcome.md) |
+| Campaigns `/campaigns/` | [Campaigns Draft](pages/campaigns.md) |
 
 ## Page-to-source matrix
 
@@ -102,6 +108,7 @@ architecture, or publication have been adopted.
 | Status and review `/governance/status-and-review/` | [documentation status guide](../README.md#document-status); [Governance](../governance/README.md) (**Draft**); [adoption and review](../governance/adoption-and-review.md) (**Draft**); protocol [review states](../../research/research-protocol.md#review-states-and-publication-boundary); [decision index](../decisions/README.md) | Describes current conventions and a proposed governance process separately; no unaccepted procedure is presented as operative |
 | Decisions `/governance/decisions/` | [decision index](../decisions/README.md); [decision 0001](../decisions/0001-governance-and-adoption-process.md) (**Proposed**) | Factual index of records and their actual status; no Proposed record is described as accepted |
 | Robot Welcome `/robot-welcome/` | [Robot Welcome foundation](../robot-welcome/README.md), [Physical Coexistence Principles](../robot-welcome/physical-coexistence-principles.md), [Safety and Design Constraints](../robot-welcome/safety-and-design-constraints.md), and [Markings, Signals, and Accessory Concepts](../robot-welcome/markings-signals-and-accessories.md) (all **Draft**); [Core Principle 10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world) (**Draft**); [AI Rights 101 robot section](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing) (**Draft**); [FAQ robot answer](../education/faq.md#are-robots-the-same-thing-as-ai) (**Draft**); [glossary entry](../education/glossary.md#robot) (**Draft**); framework [accountability](../policy/ai-rights-protection-framework.md#accountability-without-a-responsibility-gap) and [safety override](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention) (**Draft**) | Public adaptation of a focused Draft foundation; no engineering validation, product programme, compatibility claim, certification, or consciousness inference |
+| Campaigns `/campaigns/` | [Brand and Public Messaging](../brand/README.md), [Message Architecture](../brand/message-architecture.md), [Voice and Language](../brand/voice-and-language.md), [Campaign and Merchandise Guardrails](../brand/campaign-and-merchandise-guardrails.md), [Campaign Concepts](../campaigns/README.md), and [Initial Campaign Concepts](../campaigns/initial-concepts.md) (all **Draft**); [Manifesto](../manifesto.md), [Core Principles](../principles/core-principles.md), [public education](../education/README.md), [policy](../policy/README.md), [governance](../governance/README.md), and [Robot Welcome](../robot-welcome/README.md) foundations retain their own statuses | Draft public explanation of inactive future possibilities; no supporting slogan is adopted, no campaign is active, and no visual identity, translation, merchandise, product, certification, or launch is approved |
 | About `/about/` | [root README](../../README.md); [vision](../vision.md) (**Scaffold**); [Governance](../governance/README.md) (**Draft**); [Manifesto](../manifesto.md) (**Draft**) | Project description and role disclosure; no implication of institutional scale or independent review |
 | Participate `/participate/` | [CONTRIBUTING](../../CONTRIBUTING.md); [backlog](../backlog.md) (**Draft for owner review**); [adoption and review](../governance/adoption-and-review.md#future-reviewers-and-contributors) (**Draft**) | Readiness notice only; broad contribution and consultation processes are not active |
 
@@ -335,8 +342,38 @@ architecture, or publication have been adopted.
 - **Main risk:** Treating embodiment or human likeness as evidence of
   experience; treating welcoming design as safety certification,
   authorization, compatibility, or endorsement; or treating a concept as a
-  product ready for manufacture. Campaigns, merchandise, and physical product
-  development remain out of scope.
+  product ready for manufacture. Campaign launch, merchandise production, and
+  physical product development remain out of scope.
+
+### Campaigns
+
+- **Purpose:** Explain why responsible public messaging matters, disclose that
+  no campaign is active, and introduce selected future concepts with their
+  scientific, historical, corporate, accessibility, safety, and review
+  boundaries.
+- **Primary audience:** Public readers, skeptics, journalists, educators,
+  policymakers, civil society, developers, deployers, robotics audiences, and
+  possible future reviewers.
+- **May summarize:** The fixed central promise and working principle; campaign
+  principles; the four inactive concepts; supporting-message context rules;
+  scientific honesty; protection of human histories; corporate anti-capture;
+  accessibility; and the boundary around visual identity and physical use.
+- **Must remain linked:** Brand foundation, message architecture, voice and
+  language rules, campaign and merchandise guardrails, complete campaign
+  concepts, research, principles, policy, governance, and Robot Welcome.
+- **Missing content:** Disa's final manual review and decisions on supporting
+  messages and future campaign development; external communications,
+  scientific, historical-sensitivity, accessibility, legal, design, and
+  affected-party review; final translations; visual identity; campaign
+  infrastructure; implementation; and launch.
+- **Review dependencies:** Update after any source-status, evidence, governance,
+  slogan, campaign, Robot Welcome, or owner-decision change. A public launch
+  requires a later recorded owner decision and review appropriate to its exact
+  use.
+- **Main risk:** A memorable phrase may imply current consciousness, rights,
+  historical equivalence, corporate endorsement, active participation, or a
+  safety or certification claim. Keep Draft and inactive status prominent and
+  restore context next to each short message.
 
 ### About
 
