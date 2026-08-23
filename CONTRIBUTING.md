@@ -34,8 +34,17 @@ be written so that interpretation is mistaken for a source's own conclusion.
 ## Decisions
 
 Material scientific, ethical, product, governance, and architecture choices
-should be proposed to the project owners rather than silently embedded in a
-draft. Record accepted choices in [`docs/decisions/`](docs/decisions/README.md).
+should be proposed to Disa rather than silently embedded in a draft. ChatGPT,
+Sol, and other contributors may analyze, challenge, and recommend, but only
+Disa may formally accept a project decision. Their AI-assisted review must not
+be described as independent human review.
+
+The [Draft governance and adoption
+process](docs/governance/adoption-and-review.md) proposes the full lifecycle.
+It remains unadopted while [decision
+0001](docs/decisions/0001-governance-and-adoption-process.md) is **Proposed**.
+Record accepted choices in [`docs/decisions/`](docs/decisions/README.md) only
+after Disa's explicit approval.
 
 The contribution and review process will be expanded before public
 contributions are invited.

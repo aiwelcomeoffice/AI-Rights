@@ -4,10 +4,10 @@
 
 These instructions apply to the entire repository. A more specific
 `AGENTS.md` in a subdirectory takes precedence for work within that subtree.
-Direct instructions from the project owners or the current task take
-precedence over this file. Treat an apparent conflict with the project's
-scientific, ethical, safety, or accountability commitments as something to
-surface, not as permission to change those commitments silently.
+Direct instructions from Disa as the current project owner or from the current
+task take precedence over this file. Treat an apparent conflict with the
+project's scientific, ethical, safety, or accountability commitments as
+something to surface, not as permission to change those commitments silently.
 
 ## Mission
 

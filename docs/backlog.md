@@ -4,7 +4,7 @@
 - **Current milestone:** 001 — Foundation
 
 This backlog records intended work without treating unreviewed ideas as
-decisions. Priorities may change when the project owners review them.
+decisions. Priorities may change when Disa reviews them as project owner.
 
 The [Draft Manifesto](manifesto.md), [Draft Core Principles & Ethical
 Charter](principles/core-principles.md), and [Draft AI Rights Protection
@@ -19,6 +19,15 @@ glossary—has now been drafted. This records completion of drafting only: the
 documents remain Drafts pending project-owner review and any later adoption
 decision. Their presence does not settle scientific, ethical, legal, policy,
 Milestone 002, or website questions.
+
+The [governance and adoption process](governance/README.md) and [decision
+0001](decisions/0001-governance-and-adoption-process.md) have now been drafted.
+The process distinguishes Disa's formal owner authority from collaborative and
+AI-assisted work, separates document status from decision and research-review
+states, and proposes proportionate review, disagreement, correction, and
+conflict-of-interest rules. The governance documents remain **Draft** and the
+decision remains **Proposed** until Disa completes manual review and explicitly
+decides whether to accept them. No other Draft is adopted through this work.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
@@ -66,8 +75,9 @@ that continuous monitoring currently exists.
 
 ## Foundation — proposed order
 
-1. **Agree governance and adoption rules.** Define who may move a document from
-   Draft to Adopted and how disagreement is recorded.
+1. **Agree governance and adoption rules.** The process and first decision
+   record are drafted; Disa must resolve the recorded owner-review points and
+   decide whether to accept them.
 2. **Agree research protocol.** Define terminology, source quality, inclusion,
    citation, review, and uncertainty conventions.
 3. **Review and complete the working evidence baseline.** Close verification
@@ -93,7 +103,11 @@ after the foundation documents have been reviewed.
 
 ## Owner decisions needed
 
-- Governance and document-adoption process.
+- Whether to accept [decision
+  0001](decisions/0001-governance-and-adoption-process.md), including sole final
+  formal adoption authority, role descriptions, specialist-review thresholds,
+  normative adoption before independent review, minimum recorded rationale,
+  and the practicality of correction and disagreement procedures.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
 - Research-maintenance owner, review cadence, and material-development

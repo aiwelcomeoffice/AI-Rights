@@ -66,5 +66,5 @@ Milestone 001 should establish:
 - Scope and quality threshold for the first evidence review.
 - Whether CC0 is appropriate for every future content type.
 
-These questions are intentionally left for the project owners rather than
-settled by this scaffold.
+These questions are intentionally left for Disa as project owner rather than
+settled by this scaffold or by collaborative drafting.

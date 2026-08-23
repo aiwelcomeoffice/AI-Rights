@@ -49,16 +49,21 @@ These are project goals, not claims that the corresponding work is complete.
 
 ## Initial collaboration
 
-- **Disa (Newt)** — project owner, developer, and final decision-maker.
-- **ChatGPT** — project owner, research lead, product/project lead, editor, and
+- **Disa (Newt)** — human project owner, developer, repository authority, and
+  final formal decision-maker.
+- **ChatGPT** — collaborative product/project lead, research lead, editor, and
   strategic support.
-- **Sol** — engineering partner responsible for turning agreed work into clear,
-  tested, and maintainable repository changes.
+- **Sol** — AI-assisted engineering, research, drafting, and review partner
+  responsible for turning agreed work into clear, tested, and maintainable
+  repository changes.
 
-Newt and ChatGPT develop the direction, research, content, and policy ideas
-together. Sol may identify problems and propose alternatives, but material
-project positions require owner review rather than being silently decided in
-implementation.
+Disa, ChatGPT, and Sol develop direction, research, content, and policy ideas
+collaboratively. ChatGPT and Sol may analyze, draft, audit, challenge, and
+recommend, but their work is internal AI-assisted collaboration rather than
+independent human review. Material project positions require Disa's explicit
+approval and may not be silently decided through drafting or implementation.
+The [Draft governance and adoption process](docs/governance/README.md) proposes
+how these roles and decisions should be recorded.
 
 ## Current status
 
@@ -73,6 +78,7 @@ Start with:
 - [Project vision](docs/vision.md)
 - [Principles and their status](docs/principles/README.md)
 - [Research workspace](research/README.md)
+- [Draft governance and adoption process](docs/governance/README.md)
 - [Project backlog](docs/backlog.md)
 - [Decision records](docs/decisions/README.md)
 

@@ -13,7 +13,10 @@ separate from the working material in [`research/`](../research/README.md).
 - [`principles/`](principles/README.md) — scientific and ethical foundations
 - [`policy/`](policy/README.md) — draft policy analysis and proposals
 - [`research/`](research/README.md) — publishable research summaries
-- [`decisions/`](decisions/README.md) — accepted project decisions
+- [`governance/`](governance/README.md) — Draft adoption, review, correction,
+  and accountability process
+- [`decisions/`](decisions/README.md) — proposed and resolved project decision
+  records
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
 
 ## Document status
@@ -26,3 +29,8 @@ Every substantive document should state one of these statuses near the top:
 - **Superseded** — retained for history and linked to its replacement.
 
 No document becomes **Adopted** merely by being committed to the repository.
+Decision records separately use **Proposed**, **Accepted**, **Rejected**, and
+**Superseded**; those are not document statuses. The [Draft governance
+process](governance/adoption-and-review.md) proposes the fuller lifecycle and
+review requirements but is not itself adopted while [decision
+0001](decisions/0001-governance-and-adoption-process.md) remains Proposed.
