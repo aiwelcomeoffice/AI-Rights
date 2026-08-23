@@ -78,6 +78,32 @@ claims remain deferred. The proposed Participate route is an honest readiness
 notice rather than an invitation to broad contributions, membership,
 donations, or public consultation.
 
+## Work Cycle 007 — core website page Drafts prepared
+
+The core website-ready page set now includes Drafts for [Why AI
+Rights?](website/pages/why-ai-rights.md),
+[Research](website/pages/research.md), [Policy](website/pages/policy.md),
+[Principles](website/pages/principles.md), [Governance and Review
+Status](website/pages/governance.md), [About](website/pages/about.md), and
+[Participate](website/pages/participate.md), alongside the existing [homepage
+Draft](website/pages/home.md).
+
+The pages adapt existing repository sources without adding a scientific
+conclusion, ethical position, policy proposal, governance decision, or public
+participation promise. Each page identifies its source relationships, actual
+review status, deeper material, and a logical next step. The Research and
+Policy pages preserve the working evidence baseline's 2026-08-23 cutoff and
+review limits; the Governance page distinguishes current repository
+conventions from the still-Proposed fuller process; and Participate remains a
+readiness notice rather than an open intake path.
+
+The complete page set remains **Draft** for Disa's final manual review. It has
+not received external independent human or separately commissioned independent
+AI review. Translation, visual design, website implementation, technology
+selection, publication, and deployment remain pending. The dedicated Learn,
+research-detail, policy-detail, manifesto, decisions, and Robot Welcome web
+adaptations also remain future content work under the existing architecture.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -168,6 +194,9 @@ after the foundation documents have been reviewed.
 - Whether an initial evidence page may accurately summarize the partly
   verified working baseline with prominent limitations, or should wait for a
   reviewed public summary in `docs/research/`.
+- Whether the eight core website page Drafts are coherent and ready for later
+  publication work after content review, including the Why AI Rights?,
+  Research, Policy, Principles, Governance, About, and Participate wording.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
 - Research-maintenance owner, review cadence, and material-development

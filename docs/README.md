@@ -18,7 +18,7 @@ separate from the working material in [`research/`](../research/README.md).
 - [`decisions/`](decisions/README.md) — proposed and resolved project decision
   records
 - [`website/`](website/README.md) — Draft public website information
-  architecture, source map, page specifications, and homepage content
+  architecture, source map, page specifications, and eight core page Drafts
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
 
 For a concise policy entry point, start with the [one-page policy

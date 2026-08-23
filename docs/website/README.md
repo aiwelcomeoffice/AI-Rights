@@ -3,11 +3,12 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Scope:** Content structure and first homepage Draft; no implementation or
-  publication decision
+- **Scope:** Content structure and eight core website page Drafts; no
+  implementation or publication decision
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent review
+  final manual review is pending; no external independent human or separately
+  commissioned independent AI review
 
 This directory prepares AI Rights & Welcome for a future public website. It
 defines how readers should move among accessible explanations, working
@@ -27,11 +28,28 @@ work cycle.
 - [Page specifications](page-specifications.md) — working route, reader
   question, required sections, notices, calls to action, accessibility needs,
   and safeguards for every proposed page
-- [Homepage Draft](pages/home.md) — the first website-ready public page
+- [Homepage Draft](pages/home.md) — website-ready project introduction and
+  primary reading paths
+- [Why AI Rights? Draft](pages/why-ai-rights.md) — case for preparation before
+  certainty without present-status recognition
+- [Research Draft](pages/research.md) — working evidence, method, source, and
+  review-limit orientation
+- [Policy Draft](pages/policy.md) — jurisdiction-neutral preparedness overview
+- [Principles Draft](pages/principles.md) — proposed ethical commitments and
+  boundaries
+- [Governance and review-status Draft](pages/governance.md) — current status,
+  authority, and review reality separated from the Proposed fuller process
+- [About Draft](pages/about.md) — mission, stage, human–AI roles, repository,
+  and license
+- [Participate Draft](pages/participate.md) — honest readiness notice and
+  follow-work path
 
-Only the homepage copy is drafted here. The other routes are specifications,
-not empty public pages and not an instruction to publish before their review
-dependencies are met.
+These eight pages form the current core website-ready Draft set. The Learn
+adaptations, evidence-baseline subpage, research-method and source subpages,
+executive-brief and protection-framework adaptations, manifesto adaptation,
+decisions index, and Robot Welcome page remain specifications rather than
+completed website pages. No Draft is an instruction to publish before its
+review dependencies are met.
 
 ## Source audit
 
@@ -129,6 +147,12 @@ set](information-architecture.md#minimum-coherent-release-set), not isolated
 pages stripped of their status, evidence, and governance links. Publication
 timing, technical implementation, and any decision to adopt content remain
 Disa's decisions.
+
+The core page set has now been drafted, but independent review, translation,
+visual design, technical implementation, and deployment remain pending. The
+page Drafts do not resolve whether the working evidence baseline is ready for
+public reliance or whether a reviewed summary must first be prepared under
+`docs/research/`.
 
 Campaigns, merchandise, product sales, broad contribution requests, and
 physical robot accessories remain deferred. The proposed Participate page is

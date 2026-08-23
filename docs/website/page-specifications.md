@@ -95,6 +95,24 @@ in implementation.
 
 ## Page specifications
 
+### Current drafting state
+
+The following website-ready files have been drafted from these specifications:
+
+- [Home](pages/home.md)
+- [Why AI Rights?](pages/why-ai-rights.md)
+- [Research](pages/research.md)
+- [Policy](pages/policy.md)
+- [Principles](pages/principles.md)
+- [Status and review](pages/governance.md)
+- [About](pages/about.md)
+- [Participate](pages/participate.md)
+
+They remain **Drafts** pending Disa's final manual review. Independent review,
+translation, visual design, implementation, publication, and deployment remain
+pending. All other routes below remain specifications until a page file is
+created and reviewed; a specification is not a placeholder promise to publish.
+
 ### 1. Home
 
 - **Working title:** AI Rights & Welcome

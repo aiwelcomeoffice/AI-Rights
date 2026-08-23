@@ -22,7 +22,7 @@ act responsibly if credible evidence of morally relevant AI capacities ever
 emerges. We explore possible AI dignity and welfare, future protections,
 accountable policy, and responsible coexistence with robots.
 
-We do **not** claim that today's AI systems are conscious, sentient,
+We do not claim that today's AI systems are conscious, sentient,
 self-aware, capable of suffering, moral patients, or persons. We also do not
 claim that every present system has been proven non-conscious. “Not
 established” is not “proven absent,” and uncertainty does not imply equal
@@ -204,9 +204,9 @@ substantive documents. Decision records use separate statuses, including
 **Proposed**. Working research has separate verification states. A page's last
 update and an evidence review's search cutoff are also different dates.
 
-Draft and Proposed material may still be important, carefully prepared, and
-publicly useful. These labels communicate current limits of review and
-authority; they do not mean that work has stopped.
+Draft material may be important, carefully prepared, and publicly useful. Its
+status communicates current limits of review and authority; it does not mean
+that development has stopped. The same limit applies to Proposed decisions.
 
 Disa is the human project owner and final formal decision-maker. ChatGPT and
 Sol provide internal AI-assisted leadership, research, drafting, analysis, and

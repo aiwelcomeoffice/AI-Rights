@@ -58,6 +58,23 @@ source.
 | [`docs/decisions/0001-governance-and-adoption-process.md`](../decisions/0001-governance-and-adoption-process.md) | **Proposed** decision; unresolved |
 | [`docs/backlog.md`](../backlog.md) | **Draft for owner review** |
 
+## Current website Draft files
+
+The completed file records below remain website **Drafts**. Their presence
+does not mean that their sources, page specifications, information
+architecture, or publication have been adopted.
+
+| Page | Current Draft file |
+| --- | --- |
+| Home `/` | [Homepage Draft](pages/home.md) |
+| Why AI Rights? `/why-ai-rights/` | [Why AI Rights? Draft](pages/why-ai-rights.md) |
+| Research `/research/` | [Research Draft](pages/research.md) |
+| Policy `/policy/` | [Policy Draft](pages/policy.md) |
+| Principles `/principles/` | [Principles Draft](pages/principles.md) |
+| Status and review `/governance/status-and-review/` | [Governance and review-status Draft](pages/governance.md) |
+| About `/about/` | [About Draft](pages/about.md) |
+| Participate `/participate/` | [Participate Draft](pages/participate.md) |
+
 ## Page-to-source matrix
 
 | Page | Primary repository sources and source statuses | Authority relationship |
@@ -110,7 +127,9 @@ source.
   dismissal.
 - **Must remain linked:** Full Manifesto, Core Principles, evidence baseline,
   and policy analysis.
-- **Missing content:** A page-specific Draft has not yet been written.
+- **Missing content:** The [page-specific Draft](pages/why-ai-rights.md) is
+  complete for owner review; adoption, independent review, translation,
+  design, implementation, and publication remain pending.
 - **Review dependencies:** Owner review of normative framing and primary
   audience; no Scaffold wording may be promoted as settled.
 - **Main risk:** Turning a normative case for preparedness into a prediction or
@@ -158,9 +177,9 @@ source.
   already used in Draft education and policy.
 - **Must remain linked:** Full method, included-source comparison,
   bidirectional update record, limitations, conflicts, and source records.
-- **Missing content:** The research hub and accessible evidence adaptation
-  have not been drafted, and no reviewed public synthesis exists in
-  `docs/research/`.
+- **Missing content:** The [research hub Draft](pages/research.md) is complete
+  for owner review. The dedicated evidence-baseline adaptation remains to be
+  drafted, and no reviewed public synthesis exists in `docs/research/`.
 - **Review dependencies:** Owner decision on whether public reliance is
   appropriate before independent specialist review; independent
   consciousness-science and AI architecture/evaluation review remains needed.
@@ -220,9 +239,11 @@ source.
 - **Must remain linked:** Full framework thresholds, evidence model,
   independent-assessment design, implementation choices, legal work required,
   and open questions.
-- **Missing content:** Web adaptations for the three routes;
-  jurisdiction-specific law and legal-source review; validated assessment
-  thresholds; institutional owner and enforcement design.
+- **Missing content:** The [Policy landing-page Draft](pages/policy.md) is
+  complete for owner review. Web adaptations of the executive brief and full
+  framework remain pending, as do jurisdiction-specific law and legal-source
+  review, validated assessment thresholds, and institutional owner and
+  enforcement design.
 - **Review dependencies:** Disa's final review; relevant independent policy,
   legal, scientific, and safety review before strong reliance or operational
   use.
@@ -244,8 +265,10 @@ source.
   responsible robotics, revisability, and intellectual pluralism.
 - **Must remain linked:** Full Core Principles, Manifesto, glossary, evidence,
   and governance status.
-- **Missing content:** Web adaptations and an adoption decision; narrower
-  dignity and precaution documents remain Scaffolds.
+- **Missing content:** The [Principles landing-page Draft](pages/principles.md)
+  is complete for owner review. A manifesto web adaptation and an adoption
+  decision remain pending; narrower dignity and precaution documents remain
+  Scaffolds.
 - **Review dependencies:** Owner review and later adoption process; external
   ethical and affected-interest criticism is desirable and must not be implied
   to have occurred.
@@ -268,8 +291,10 @@ source.
   records.
 - **Must remain linked:** Full governance proposal, decision records, document
   status guide, and research review-state rules.
-- **Missing content:** Both web adaptations; decision 0001 remains unresolved;
-  no independent review or active public consultation exists.
+- **Missing content:** The [status-and-review Draft](pages/governance.md) is
+  complete for owner review. A decisions-index adaptation remains pending;
+  decision 0001 remains unresolved, and no independent review or active public
+  consultation exists.
 - **Review dependencies:** Update immediately after any owner decision or
   documented review. Distinguish existing convention from the unadopted fuller
   process.
@@ -307,8 +332,9 @@ source.
   current collaboration roles, CC0 default, and central wording.
 - **Must remain linked:** Root README, vision, governance, license, and decision
   records.
-- **Missing content:** Owner decisions on primary audience, working languages,
-  and whether CC0 fits every future content type.
+- **Missing content:** The [About Draft](pages/about.md) is complete for owner
+  review. Owner decisions remain on primary audience, working languages, and
+  whether CC0 fits every future content type.
 - **Review dependencies:** Disa verifies role descriptions, project name, and
   any affiliation or funding statement immediately before publication.
 - **Main risk:** Implying an organization, review board, contributor community,
@@ -324,9 +350,10 @@ source.
   disciplines, and work that must precede an open process.
 - **Must remain linked:** CONTRIBUTING, governance, backlog, and the public
   repository when an approved external link is available.
-- **Missing content:** Code of conduct, issue and pull-request templates,
-  moderation, review ownership, privacy rules, consultation design, and
-  approved follow mechanism.
+- **Missing content:** The [Participate readiness Draft](pages/participate.md)
+  is complete for owner review. A code of conduct, issue and pull-request
+  templates, moderation, review ownership, privacy rules, consultation design,
+  and any additional approved follow mechanism remain pending.
 - **Review dependencies:** Owner approval before adding any form, signup,
   submission, membership, donation, or campaign action.
 - **Main risk:** Inviting activity the project cannot safely review or implying
