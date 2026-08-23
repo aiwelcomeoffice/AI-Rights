@@ -8,8 +8,8 @@ separate from the working material in [`research/`](../research/README.md).
 - [`education/`](education/README.md) — Draft public education on AI rights,
   common questions, and key terms
 - [`brand/`](brand/README.md) — Draft message hierarchy, voice, supporting-
-  slogan assessment, and campaign, merchandise, Robot Welcome, visual, and
-  multilingual guardrails
+  slogan assessment, campaign and merchandise guardrails, relational-warmth
+  requirements, and matched exploratory visual prototypes
 - [`campaigns/`](campaigns/README.md) — four inactive Draft future campaign
   concepts; no campaign is launched or approved for public use
 - [`manifesto.md`](manifesto.md) — Draft public-facing expression of the

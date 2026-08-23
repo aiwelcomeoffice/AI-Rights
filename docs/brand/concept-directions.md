@@ -3,36 +3,69 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Authority:** Proposed for Disa's comparison; not adopted
-- **Scope:** Three meaningfully different conceptual systems; no final logo,
-  palette, typeface, artwork, production asset, trademark clearance, website,
-  product, certification mark, or Robot Welcome mark
+- **Authority:** Disa authorized two directions for matched internal
+  prototyping; no direction or identity is adopted
+- **Scope:** Three meaningfully different conceptual systems, with two in
+  matched low-fidelity exploration and one paused as a primary identity; no
+  final logo, palette, typeface, artwork, production asset, trademark
+  clearance, website, product, certification mark, or Robot Welcome mark
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review is pending; no external independent brand, accessibility,
   cultural, legal, trademark, human-factors, robotics, or manufacturing review
 
-> **Exploratory proposals:** None of these directions is the official visual
-> identity of AI Rights & Welcome. The names, metaphors, forms, colors, and
-> applications exist only to support comparison. Selection would authorize
-> refinement, not public deployment or manufacture.
+> **Exploratory proposals:** None of these directions or prototype variants is
+> the official visual identity of AI Rights & Welcome. The names, metaphors,
+> forms, colors, and applications exist only to support comparison. Continued
+> exploration authorizes no public deployment, manufacture, certification,
+> Robot Welcome use, or trademark claim.
 
 ## How the directions differ
 
 The three directions intentionally begin from different organizing ideas:
 
-| Direction | Primary metaphor | Visual system | Emotional center |
+| Direction | Primary metaphor | Emotional center | Work Cycle 011 state |
 | --- | --- | --- | --- |
-| **Open Threshold** | An opening into shared possibility | One strong architectural emblem with generous negative space | Welcome with clear boundaries |
-| **Many Forms, Common Ground** | Distinct forms sharing one civic field | A modular family rather than one dominant object | Plural participation without forced sameness |
-| **Reciprocal Signal** | Two unlike signals becoming mutually legible across a gap | A dynamic line-and-interval system | Curiosity, exchange, and continued inquiry |
+| **Open Threshold** | An opening into shared possibility | Welcome with clear boundaries | Continuing through three matched black-and-white variants |
+| **Many Forms, Common Ground** | Distinct forms sharing one civic field | Plural participation without forced sameness | Continuing through three matched black-and-white variants |
+| **Reciprocal Signal** | Two unlike signals becoming mutually legible across a gap | Curiosity, exchange, and continued inquiry | Paused as a primary identity; relational editorial ideas preserved for later study |
 
-They are not intended as three small variations on one symbol. Combining them
-too early would erase the comparison. The [Selection
-Scorecard](selection-scorecard.md) provides a neutral review structure.
+They are not intended as three small variations on one symbol. Open Threshold
+and Many Forms, Common Ground must remain separate through this comparison;
+combining them now would erase evidence about their different strengths and
+risks. The [Selection Scorecard](selection-scorecard.md) records the owner
+direction, and the [Matched Prototype
+Evaluation](matched-prototype-evaluation.md) compares three variants for each
+continuing direction under equivalent conditions.
 
-No low-fidelity SVG sketches are included in this cycle. At this stage,
-precise drawings would risk acquiring false authority before Disa has reviewed
-the underlying metaphors and risks.
+## Work Cycle 011 owner direction
+
+Disa authorized internal matched prototyping for **Open Threshold** and **Many
+Forms, Common Ground**. **Reciprocal Signal** is paused as a primary identity
+because its signal metaphor has higher risk of appearing technical,
+corporate, operational, or like evidence of established mutual consciousness.
+Its useful relational ideas—especially connections among questions, evidence,
+sources, and accountability—remain available for possible later editorial
+study.
+
+This is a bounded owner direction for exploration, not adoption. It does not
+mean that external review occurred, any prototype is accessible or original
+in the legal sense, a logo or Robot Welcome mark was selected, or production
+and public use are authorized.
+
+## Relational requirement for continuing directions
+
+Both continuing directions must feel warm, welcoming, and relational. They
+should make room for practical support, creative or research collaboration,
+learning, work, shared projects, companionship or friendship as experienced by
+people, and possible future reciprocal relationships if relevant AI experience
+or interests become supported by evidence.
+
+Neither direction may turn those relationships into evidence that a present
+AI system has consciousness, emotion, friendship, consent, suffering,
+personhood, interests, or moral status. Warmth is not sentimental
+anthropomorphism; welcome is not access; visual openness is not safety,
+compatibility, certification, or endorsement; and abstract forms must not be
+assigned fixed human or AI identities.
 
 ## Direction 1 — Open Threshold
 
@@ -45,6 +78,10 @@ whatever may be encountered.
 
 This is an architectural metaphor, not a birth portal, gateway permission, or
 depiction of an inner life.
+
+Work Cycle 011 tests this direction through [Offset Frame, Split Lintel, and
+Soft Canopy](prototypes/README.md#open-threshold), with the same contexts and
+presentation used for the continuing Many Forms, Common Ground variants.
 
 ### Connection to the mission
 
@@ -239,6 +276,11 @@ of mind can matter without being made visually identical.
 The forms do not represent conscious entities or fixed stakeholder categories.
 They are a normative image of plural coexistence and accountable civic space.
 
+Work Cycle 011 tests this direction through [Shared Baseline, Open Field, and
+Balanced Intervals](prototypes/README.md#many-forms-common-ground), with the
+same contexts and presentation used for the continuing Open Threshold
+variants.
+
 ### Connection to the mission
 
 - **Prepare before certainty:** the field makes room before it decides what
@@ -428,6 +470,12 @@ should also test whether the composition's reading order privileges one form.
 - Can playful plurality remain credible in dense policy and research material?
 
 ## Direction 3 — Reciprocal Signal
+
+> **Work Cycle 011 state: Paused as a primary identity direction.** No matched
+> symbol prototype is authorized in this cycle. Preserve the useful relational
+> idea of visibly connecting questions to evidence, claims to sources, and
+> decisions to accountability without suggesting that two conscious subjects
+> or a successful reciprocal experience have been established.
 
 ### Core idea
 
@@ -624,8 +672,9 @@ reciprocity is universally depicted the same way.
 
 No direction may be developed through:
 
-- a humanoid face, emotional robot, brain, eye, halo, divine light, chain,
-  cage, handshake, skull, threat face, or generic circuit-board head;
+- a humanoid face, emotional robot, brain, eye, hand, halo, divine light,
+  chain, cage, heart, handshake, skull, threat face, or generic circuit-board
+  head;
 - a current AI speaking in the first person as evidence of experience;
 - a seal, shield, check-mark badge, emergency symbol, access mark, or
   certification layout;
@@ -650,11 +699,22 @@ All future typefaces, icons, images, code, templates, and production resources
 need verified provenance and licensing. No direction is ready for external
 release, field testing, or manufacture.
 
-## Next comparison step
+The Work Cycle 011 SVGs are original project constructions from simple
+geometry and contain no embedded third-party asset. That provenance does not
+establish trademark availability, distinctive character, registrability,
+freedom to operate, or absence of confusing similarity.
 
-Disa should first use the [Selection Scorecard](selection-scorecard.md) to
-record instinctive reaction, mission fit, concerns, and elements worth further
-study. Only after that review should one or more directions receive low-
-fidelity black-and-white prototyping. Parallel prototypes should use the same
-test contexts so the comparison reflects system behavior rather than mockup
-quality.
+## Current comparison step
+
+The six [matched prototype sheets](prototypes/README.md) now provide the same
+black-on-white, reversed, small-size, research-report, website, campaign,
+merchandise, Robot Welcome separation, and confusion-review contexts. Disa
+should record first impressions before reading the intended metaphor, then use
+the [Matched Prototype Evaluation](matched-prototype-evaluation.md) and
+[Selection Scorecard](selection-scorecard.md) to decide which individual
+variants, if any, deserve another internal round.
+
+Neither direction should be combined yet. A later combination would require a
+separate owner decision after each continuing direction has been evaluated on
+its own scientific, relational, accessibility, cultural, authority,
+originality, and Robot Welcome risks.

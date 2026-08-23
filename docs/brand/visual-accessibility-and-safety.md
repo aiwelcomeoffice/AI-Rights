@@ -66,6 +66,11 @@ Every future identity application should meet these principles:
 6. **Aesthetic warmth never overrides safety.** No physical application may
    obstruct or confuse sensing, motion, cooling, charging, warnings,
    identification, emergency controls, or responsible operation.
+7. **Relational warmth remains explicit and non-anthropomorphic.** A visual may
+   make support, collaboration, learning, work, creation, shared projects, and
+   human-experienced companionship feel welcome, but essential relationship
+   meaning must also exist in text and must not imply reciprocal emotion,
+   consent, consciousness, or moral status.
 
 ## Text and interface contrast
 
@@ -172,6 +177,11 @@ production specifications. A use must be dropped, enlarged, or given a
 different variant if testing shows that the mark closes up, resembles another
 symbol, loses its name, or becomes misleading.
 
+The Work Cycle 011 [native-size contact
+sheet](prototypes/native-small-size-contact-sheet.svg) applies the provisional
+16, 24, 32, and 48 pixel screen to six Draft variants. It is an internal visual
+check only, not recognition testing or an accessibility result.
+
 ## Screen readers, semantics, and text alternatives
 
 A logo placed beside the visible project name will usually need to be treated
@@ -252,6 +262,11 @@ future system should:
   navigation, and calls to action;
 - avoid dense background patterns behind text and data;
 - explain unfamiliar icons with visible text;
+- test whether abstract forms are assigned fixed human, AI, animal,
+  institutional, or environmental identities despite instructions to the
+  contrary;
+- test whether a person's experience of companionship is misread as evidence
+  of mutual emotion, consent, friendship, or subjective reciprocity;
 - preserve predictable navigation and interaction behavior;
 - break long material into meaningful sections without hiding important
   caveats in accordions, hover states, or tiny print; and
@@ -367,7 +382,7 @@ labeled and visually distinguishable.
 | Requirements | Applicable accessibility, platform, legal, safety, manufacturer, site, and production requirements with versions and dates |
 | Technical tests | Contrast, reflow, zoom, semantics, keyboard, focus, target, motion, monochrome, print, and process tests that apply |
 | Human review | Participants, relevant access needs, tasks, methods, findings, limits, corrections, and unresolved disagreement |
-| Confusion review | Corporate, government, religious, certification, authorization, warning, emergency, scientific, cultural, and anthropomorphic readings |
+| Confusion review | Corporate, AI-product, government, religious, certification, authorization, warning, emergency, scientific, cultural, anthropomorphic, relationship, fixed-identity, and guaranteed-reciprocity readings |
 | Physical-system review | Exact robot and environment, non-obstruction, hazards, approvals, controlled tests, inspection, maintenance, and removal where applicable |
 | Decision | Accountable reviewer, permitted uses, prohibited uses, date, expiry or review trigger, and withdrawal route |
 

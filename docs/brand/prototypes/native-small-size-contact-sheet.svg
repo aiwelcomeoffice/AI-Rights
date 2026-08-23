@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Original Work Cycle 011 geometry and layout. No external or embedded third-party assets. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="840" viewBox="0 0 720 840" role="img" aria-labelledby="title desc" data-status="draft-exploratory-prototype" data-purpose="native-small-size-contact-sheet" data-generator-version="0.1-draft">
+  <title id="title">Draft exploratory native small-size contact sheet</title>
+  <desc id="desc">All six Work Cycle 011 black-and-white prototype symbols shown at actual 16, 24, 32, and 48 SVG-pixel sizes. Guide boxes are not part of the symbols. This is a provisional internal screen, not an accessibility finding or approved minimum size.</desc>
+  <style>
+    text { font-family: sans-serif; fill: #000; }
+    .status { font-size: 12px; font-weight: 700; letter-spacing: 1px; }
+    .heading { font-size: 24px; font-weight: 700; }
+    .body { font-size: 13px; }
+    .row-label { font-size: 13px; font-weight: 700; }
+    .row-name { font-size: 15px; }
+    .guide { fill: none; stroke: #000; stroke-width: 1; stroke-dasharray: 2 2; }
+    .rule { stroke: #000; stroke-width: 1; }
+  </style>
+  <defs>
+    <g id="symbol-0"><path d="M14 82V28C14 20.3 20.3 14 28 14H58V26H30C27.8 26 26 27.8 26 30V82Z" fill="currentColor"/>
+          <path d="M14 72H82V84H14Z" fill="currentColor"/></g>
+    <g id="symbol-1"><path d="M12 82V40H24V70H54V82Z" fill="currentColor"/>
+          <path d="M42 14H82V60H70V26H42Z" fill="currentColor"/></g>
+    <g id="symbol-2"><path d="M22 80V48C22 29.2 37.2 14 56 14H78" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M16 80H82" fill="none" stroke="currentColor" stroke-width="12" stroke-linecap="square"/></g>
+    <g id="symbol-3"><rect x="14" y="76" width="68" height="10" rx="2" fill="currentColor"/>
+          <rect x="18" y="42" width="18" height="28" rx="7" fill="currentColor"/>
+          <path d="M43 70V32H59V46H70V70Z" fill="currentColor"/>
+          <path d="M76 70V55C76 45.6 83.6 38 93 38V50C90.2 50 88 52.2 88 55V70Z" fill="currentColor"/></g>
+    <g id="symbol-4"><rect x="12" y="16" width="24" height="22" rx="7" fill="currentColor"/>
+          <path d="M52 14H82V26H68V42H52Z" fill="currentColor"/>
+          <path d="M14 78V62C14 51 23 42 34 42H40V54H35C30 54 26 58 26 63V78Z" fill="currentColor"/>
+          <rect x="56" y="56" width="26" height="22" rx="3" fill="currentColor"/></g>
+    <g id="symbol-5"><path d="M10 80H86" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="square"/>
+          <path d="M18 65L25 35L39 38L34 68Z" fill="currentColor"/>
+          <path d="M47 67V40C47 34.5 51.5 30 57 30H65V42H59C58.4 42 58 42.4 58 43V67Z" fill="currentColor"/>
+          <rect x="70" y="49" width="18" height="18" rx="5" fill="currentColor"/></g>
+  </defs>
+  <rect width="720" height="840" fill="#fff"/>
+  <rect width="720" height="10" fill="#000"/>
+  <text x="24" y="42" class="status">DRAFT • EXPLORATORY • NATIVE-SIZE SCREEN</text>
+  <text x="24" y="78" class="heading">Matched 16, 24, 32, and 48 px tests</text>
+  <text x="24" y="104" class="body">Guide boxes show size. No result establishes accessibility or an approved minimum.</text>
+  <text x="340" y="128" class="status">16</text><text x="410" y="128" class="status">24</text><text x="488" y="128" class="status">32</text><text x="578" y="128" class="status">48</text>
+  <text x="24" y="172" class="row-label">OT-A</text>
+  <text x="82" y="172" class="row-name">A — Offset Frame</text>
+  <rect x="340" y="162" width="16" height="16" class="guide"/>
+  <g transform="translate(340 162) scale(.166667)" style="color:#000"><use href="#symbol-0"/></g>
+  <rect x="410" y="158" width="24" height="24" class="guide"/>
+  <g transform="translate(410 158) scale(.25)" style="color:#000"><use href="#symbol-0"/></g>
+  <rect x="488" y="154" width="32" height="32" class="guide"/>
+  <g transform="translate(488 154) scale(.333333)" style="color:#000"><use href="#symbol-0"/></g>
+  <rect x="578" y="146" width="48" height="48" class="guide"/>
+  <g transform="translate(578 146) scale(.5)" style="color:#000"><use href="#symbol-0"/></g>
+  <line x1="24" y1="214" x2="696" y2="214" class="rule"/>
+  <text x="24" y="278" class="row-label">OT-B</text>
+  <text x="82" y="278" class="row-name">B — Split Lintel</text>
+  <rect x="340" y="268" width="16" height="16" class="guide"/>
+  <g transform="translate(340 268) scale(.166667)" style="color:#000"><use href="#symbol-1"/></g>
+  <rect x="410" y="264" width="24" height="24" class="guide"/>
+  <g transform="translate(410 264) scale(.25)" style="color:#000"><use href="#symbol-1"/></g>
+  <rect x="488" y="260" width="32" height="32" class="guide"/>
+  <g transform="translate(488 260) scale(.333333)" style="color:#000"><use href="#symbol-1"/></g>
+  <rect x="578" y="252" width="48" height="48" class="guide"/>
+  <g transform="translate(578 252) scale(.5)" style="color:#000"><use href="#symbol-1"/></g>
+  <line x1="24" y1="320" x2="696" y2="320" class="rule"/>
+  <text x="24" y="384" class="row-label">OT-C</text>
+  <text x="82" y="384" class="row-name">C — Soft Canopy</text>
+  <rect x="340" y="374" width="16" height="16" class="guide"/>
+  <g transform="translate(340 374) scale(.166667)" style="color:#000"><use href="#symbol-2"/></g>
+  <rect x="410" y="370" width="24" height="24" class="guide"/>
+  <g transform="translate(410 370) scale(.25)" style="color:#000"><use href="#symbol-2"/></g>
+  <rect x="488" y="366" width="32" height="32" class="guide"/>
+  <g transform="translate(488 366) scale(.333333)" style="color:#000"><use href="#symbol-2"/></g>
+  <rect x="578" y="358" width="48" height="48" class="guide"/>
+  <g transform="translate(578 358) scale(.5)" style="color:#000"><use href="#symbol-2"/></g>
+  <line x1="24" y1="426" x2="696" y2="426" class="rule"/>
+  <text x="24" y="490" class="row-label">MF-A</text>
+  <text x="82" y="490" class="row-name">A — Shared Baseline</text>
+  <rect x="340" y="480" width="16" height="16" class="guide"/>
+  <g transform="translate(340 480) scale(.166667)" style="color:#000"><use href="#symbol-3"/></g>
+  <rect x="410" y="476" width="24" height="24" class="guide"/>
+  <g transform="translate(410 476) scale(.25)" style="color:#000"><use href="#symbol-3"/></g>
+  <rect x="488" y="472" width="32" height="32" class="guide"/>
+  <g transform="translate(488 472) scale(.333333)" style="color:#000"><use href="#symbol-3"/></g>
+  <rect x="578" y="464" width="48" height="48" class="guide"/>
+  <g transform="translate(578 464) scale(.5)" style="color:#000"><use href="#symbol-3"/></g>
+  <line x1="24" y1="532" x2="696" y2="532" class="rule"/>
+  <text x="24" y="596" class="row-label">MF-B</text>
+  <text x="82" y="596" class="row-name">B — Open Field</text>
+  <rect x="340" y="586" width="16" height="16" class="guide"/>
+  <g transform="translate(340 586) scale(.166667)" style="color:#000"><use href="#symbol-4"/></g>
+  <rect x="410" y="582" width="24" height="24" class="guide"/>
+  <g transform="translate(410 582) scale(.25)" style="color:#000"><use href="#symbol-4"/></g>
+  <rect x="488" y="578" width="32" height="32" class="guide"/>
+  <g transform="translate(488 578) scale(.333333)" style="color:#000"><use href="#symbol-4"/></g>
+  <rect x="578" y="570" width="48" height="48" class="guide"/>
+  <g transform="translate(578 570) scale(.5)" style="color:#000"><use href="#symbol-4"/></g>
+  <line x1="24" y1="638" x2="696" y2="638" class="rule"/>
+  <text x="24" y="702" class="row-label">MF-C</text>
+  <text x="82" y="702" class="row-name">C — Balanced Intervals</text>
+  <rect x="340" y="692" width="16" height="16" class="guide"/>
+  <g transform="translate(340 692) scale(.166667)" style="color:#000"><use href="#symbol-5"/></g>
+  <rect x="410" y="688" width="24" height="24" class="guide"/>
+  <g transform="translate(410 688) scale(.25)" style="color:#000"><use href="#symbol-5"/></g>
+  <rect x="488" y="684" width="32" height="32" class="guide"/>
+  <g transform="translate(488 684) scale(.333333)" style="color:#000"><use href="#symbol-5"/></g>
+  <rect x="578" y="676" width="48" height="48" class="guide"/>
+  <g transform="translate(578 676) scale(.5)" style="color:#000"><use href="#symbol-5"/></g>
+  <line x1="24" y1="744" x2="696" y2="744" class="rule"/>
+  <text x="24" y="818" class="body">Monochrome only • visually inspect gaps, silhouette, false merging, and first unintended reading</text>
+</svg>

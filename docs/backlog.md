@@ -227,6 +227,147 @@ review pending; no external independent brand, accessibility, cultural,
 legal, trademark, human-factors, robotics, or manufacturing review should be
 assumed.
 
+## Work Cycle 011 — relational warmth and matched visual prototypes drafted
+
+### Purpose, scope, and owner direction
+
+Work Cycle 011 translates relational warmth from a desirable tone into an
+explicit visual-identity requirement and applies it to matched low-fidelity
+prototypes. Disa authorized continued internal exploration of **Open
+Threshold** and **Many Forms, Common Ground**, with the same number of variants
+and the same presentation contexts for each. This owner direction permits
+prototype exploration despite the project's present lack of independent
+reviewers. It does not adopt an identity or authorize public use.
+
+The [Visual Identity Brief](brand/visual-identity-brief.md) now requires an
+identity that can feel warm, welcoming, and relational while supporting
+practical help, creative or research collaboration, learning, work, shared
+projects, companionship or friendship as experienced by people, and
+conditional possible future reciprocity if relevant AI experience or interests
+become supported by evidence. The requirement separates warmth from
+sentimental anthropomorphism, relationship from proof of consciousness,
+welcome from access or authorization, human-experienced companionship from a
+claim of mutual subjective experience, visual openness from safety or
+endorsement, and possible future AI interests from established present-day
+conclusions.
+
+**Reciprocal Signal** is paused as a primary identity direction because it has
+higher risk of appearing technical, corporate, operational, or like evidence
+of established mutual consciousness. This is not a permanent rejection. Its
+useful relational ideas—especially connections among questions, evidence,
+sources, and accountability—remain available for possible later editorial
+study. Open Threshold and Many Forms, Common Ground have not been combined;
+they must first be evaluated separately.
+
+### Prototype output and equivalent treatment
+
+The [prototype register](brand/prototypes/README.md) contains three original,
+static, black-and-white variants for each continuing direction:
+
+1. **Open Threshold:** Offset Frame, Split Lintel, and Soft Canopy.
+2. **Many Forms, Common Ground:** Shared Baseline, Open Field, and Balanced
+   Intervals.
+
+Every variant uses the same generated 1440 by 2200 SVG template and the same
+nine contexts: black on white, reversed white on black, native 16/24/32/48
+pixel tests, a Draft research-report cover, a content-heavy website context, a
+campaign tile with claim/qualifier/source area, one-color merchandise
+feasibility, a Robot Welcome separation diagram, and a confusion review. A
+combined native-size contact sheet supports direct comparison. Generic
+`sans-serif` text is an untested placeholder; no color, font, trademark,
+production specification, or final asset was selected.
+
+The [Matched Prototype
+Evaluation](brand/matched-prototype-evaluation.md) records intended meaning,
+foreseeable misreadings, all nine relational-warmth questions for every
+variant, equivalent-context observations, corporate/religious/governmental/
+certification/access/safety/anthropomorphic/AI-product confusion categories,
+gate results, strengths and weaknesses, unresolved risks, and the exact owner
+decisions needed before Work Cycle 012. No automatic winner is calculated.
+
+### Scientific, accessibility, cultural, authority, and Robot Welcome boundaries
+
+No prototype depicts or claims current AI consciousness, sentience, emotion,
+friendship, consent, suffering, personhood, interests, moral status, or a
+categorical absence finding. The established scientific conclusion remains
+unchanged: present consciousness is not established; categorical absence is
+not established for every present system; this does not imply equal
+probability or evidential support; and any conclusion remains tied to a
+defined system, version, configuration, context, target property, method,
+evidence, and date.
+
+All accessibility, cultural, originality, trademark, legal, human-factors,
+production, and unprompted-interpretation findings remain unresolved. The
+prototypes are text-supported, static, monochrome, and provisionally screened
+at small sizes, but that does not establish accessibility. Original geometric
+construction and absence of embedded third-party assets do not establish
+trademark availability or legal originality.
+
+The Robot Welcome panels are diagrams of separation, not Robot Welcome marks
+or robot-placement proposals. Project identity remains distinct from required
+warnings, responsible-party identity, emergency controls, operating state,
+authorization, certification, compatibility, legal status, and safety. No
+exact robot, environment, material, sensor, warning, control, standard, or
+manufacturer requirement was assessed.
+
+### Files created and changed
+
+- **Created:**
+  [`brand/matched-prototype-evaluation.md`](brand/matched-prototype-evaluation.md),
+  [`brand/prototypes/README.md`](brand/prototypes/README.md), the deterministic
+  [`prototype-sheet generator`](brand/prototypes/generate_prototype_sheets.py),
+  six matched variant SVGs, and one native-size contact-sheet SVG under
+  [`brand/prototypes/`](brand/prototypes/README.md).
+- **Changed:** this backlog record; the [documentation map](README.md), [brand
+  index](brand/README.md), [Visual Identity
+  Brief](brand/visual-identity-brief.md), [Visual Accessibility and Safety
+  Requirements](brand/visual-accessibility-and-safety.md), [Concept
+  Directions](brand/concept-directions.md), [Selection
+  Scorecard](brand/selection-scorecard.md), [Voice and
+  Language](brand/voice-and-language.md), and [Campaign and Merchandise
+  Guardrails](brand/campaign-and-merchandise-guardrails.md).
+
+### Validation performed
+
+The generated files were regenerated from source and checked for deterministic
+output. All seven SVGs parsed as XML, used an SVG root and view box, included a
+visible Draft/Exploratory status, contained only internal fragment references,
+and contained no image, script, foreign-object, external stylesheet, embedded
+font, data URI, or third-party asset reference. Metadata checks confirmed
+three variants per continuing direction and the same nine panel labels in the
+same order.
+
+All six full sheets and the native-size contact sheet were rendered in a local
+headless browser and visually inspected in monochrome. The 16, 24, 32, and 48
+pixel tests remained present at native SVG sizes; the evaluation records the
+generic-bracket, interface-glyph, form-merging, and monogram risks found in
+that screen rather than treating it as a pass. Markdown links in changed files
+were checked locally, Markdown structure and repository terminology were
+reviewed, and source scans found no wording that claims adoption,
+certification, completed external review, present AI consciousness, or public
+deployment.
+
+These are internal technical and editorial checks only. They are not
+independent review, user research, accessibility testing with disabled people,
+cross-cultural review, originality clearance, legal advice, trademark review,
+physical production testing, or Robot Welcome safety validation.
+
+### Unresolved questions and adoption boundary
+
+Disa must decide which individual variants, if any, continue; whether both
+directions remain equally resourced; which relational signal should lead; the
+provisional name form for future lockups; the next review sequence and
+realistic resources; whether Robot Welcome should share no symbol or geometry;
+whether Reciprocal Signal remains paused; and when, if ever, combining the two
+continuing directions becomes eligible.
+
+Everything produced in Work Cycle 011 remains **Draft/Exploratory**. Disa's
+authorization does not mean external review occurred, a logo was adopted,
+accessibility or cultural suitability was established, originality or
+trademark clearance exists, a Robot Welcome mark was approved, or production
+and public deployment are authorized. A later explicit owner decision and
+review proportionate to the exact next stage remain required.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -335,14 +476,24 @@ after the foundation documents have been reviewed.
 - Whether the Draft visual-identity brief reflects the project's warm,
   courageous, calm, civic, scientifically honest, playful, inclusive, and
   future-oriented character across serious policy and ordinary merchandise.
-- Which visual direction or named elements, if any, should proceed to matched
-  low-fidelity black-and-white prototyping; whether any direction or element
-  should be paused or rejected; and whether the project should prefer one
-  emblem, a modular system, or both.
+- Which Work Cycle 011 Open Threshold and Many Forms, Common Ground variants,
+  if any, should receive another internal round; whether both directions
+  should remain equally resourced; and which relational quality should lead.
+- Whether Reciprocal Signal should remain paused as a primary identity while
+  its question–evidence, claim–source, and accountability ideas remain
+  available for editorial study.
+- Whether combining Open Threshold and Many Forms, Common Ground should remain
+  prohibited through Work Cycle 012 or become eligible only after separate
+  unprompted, accessibility, cultural, originality, and authority-confusion
+  findings are recorded.
 - Which name form future identity lockups should prioritize and how, if at all,
   a later Robot Welcome identity should relate to the project identity while
   remaining separate from safety, authorization, certification, operating
   state, legal status, and endorsement.
+- Whether Work Cycle 012 should prioritize identity-landscape similarity
+  screening, unprompted interpretation sessions, accessibility review with
+  disabled people, cross-cultural review, or another internal geometry round,
+  and which reviewers and resources are realistic.
 - What originality, similarity, legal, trademark, licensing, accessibility
   with disabled people, cultural, multilingual, human-factors, design,
   production, and—if physical use is proposed—exact-system robotics and safety

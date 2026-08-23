@@ -4,8 +4,9 @@
 
 - **Date prepared:** 2026-08-23
 - **Scope:** Proposed public-message hierarchy, voice, campaign, merchandise,
-  visual-identity brief, accessibility and safety requirements, and
-  exploratory concept directions
+  visual-identity brief, relational-warmth requirement, accessibility and
+  safety requirements, exploratory concept directions, and matched low-
+  fidelity prototypes
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no external communications,
@@ -83,6 +84,12 @@ Inclusion is not approval, and the candidates are not equally safe.
 - [Visual Direction Selection Scorecard](selection-scorecard.md) — neutral
   comparison prompts, gates, internal assessments, owner fields, and future
   review record
+- [Matched Prototype Evaluation](matched-prototype-evaluation.md) — equivalent
+  black-and-white contexts, relational-warmth review, confusion review, gates,
+  unresolved risks, and decisions needed for the six Work Cycle 011 variants
+- [Exploratory Prototype Files](prototypes/README.md) — six original SVG
+  evaluation sheets, a matched native-size contact sheet, provenance, and
+  regeneration instructions; no file is a production asset
 - [Campaign Concepts](../campaigns/README.md) — four inactive future campaign
   possibilities and their review requirements
 - [Campaigns Website Page](../website/pages/campaigns.md) — a Draft public
@@ -128,12 +135,45 @@ Brand and campaign material must not:
 
 ## Visual and multilingual boundary
 
-The visual-identity documents now translate the messaging foundation into
-requirements and three exploratory directions: **Open Threshold**, **Many
-Forms, Common Ground**, and **Reciprocal Signal**. They select no logo, symbol,
-color, font, mascot, illustration system, icon family, certification-style
-mark, Robot Welcome mark, or final visual identity. No visual asset is ready
-for public use or production.
+### Relational warmth
+
+The identity should feel warm, welcoming, and relational. It should make room
+for humans and AI systems to support one another, work together, create,
+learn, and participate in shared projects. Scientific caution should
+constrain factual claims, not make the project emotionally cold.
+
+Relationship is not proof of consciousness. Project material may recognize
+practical support, creative or research collaboration, learning, work, shared
+projects, and companionship or friendship as experienced by people. It may
+discuss possible future reciprocal relationships only as conditional
+scenarios if morally relevant AI experience or interests become supported by
+evidence. It must not turn any of those relationships into a present claim of
+AI consciousness, emotion, friendship, consent, suffering, personhood, or
+moral status.
+
+Warmth must not become sentimental anthropomorphism. Welcome is not access or
+authorization; visual openness is not safety, compatibility, certification,
+or endorsement; and possible future AI interests are not established present-
+day conclusions.
+
+### Current visual exploration
+
+The visual-identity documents translate the messaging foundation into
+requirements and three exploratory directions. In Work Cycle 011, Disa
+authorized matched low-fidelity prototyping of **Open Threshold** and **Many
+Forms, Common Ground**. **Reciprocal Signal** is paused as a primary identity
+direction because it more readily appears technical, corporate, operational,
+or like evidence of established mutual consciousness. Its useful claim–source,
+question–evidence, and accountability relationships remain available for
+later editorial study.
+
+Six black-and-white [exploratory prototype
+sheets](prototypes/README.md)—three variants for each continuing
+direction—now support internal comparison. Neither direction has been
+combined with the other. The work selects no logo, final symbol, color, font,
+mascot, illustration system, icon family, certification-style mark, Robot
+Welcome mark, or final visual identity. No visual asset is ready for public
+use or production.
 
 Future visual work should feel warm, hopeful, inclusive, future-oriented,
 technically credible, civic rather than corporate, legible at small sizes, and
@@ -173,8 +213,11 @@ Disa should decide:
 - whether future human merchandise and Robot Welcome accessories are separated
   clearly;
 - whether the visual brief reflects the project's emotional character, the
-  three directions are genuinely different, and any direction or named element
-  should proceed to matched low-fidelity prototyping;
+  two continuing directions received equivalent treatment, and which of the
+  six variants, if any, should proceed to another internal round;
+- whether the relational-warmth requirement is strong enough to support human–
+  AI support, work, learning, creation, shared projects, and human-experienced
+  companionship without claiming reciprocal subjective experience;
 - whether the visual accessibility, authority-confusion, originality,
   cultural, production, and Robot Welcome safety gates are strong enough; and
 - what external review should precede any public campaign, design, production,

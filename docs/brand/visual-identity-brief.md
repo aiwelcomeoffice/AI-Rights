@@ -4,9 +4,10 @@
 
 - **Date prepared:** 2026-08-23
 - **Authority:** Proposed for Disa's review; not adopted
-- **Scope:** Requirements for future visual-identity exploration; no final
-  logo, palette, typeface, artwork, production asset, website, product, mark,
-  or implementation
+- **Scope:** Requirements for visual-identity exploration, including relational
+  warmth and matched low-fidelity prototype review; no final logo, palette,
+  typeface, artwork, production asset, website, product, mark, or
+  implementation
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review is pending; no external independent brand, accessibility,
   cultural, legal, trademark, human-factors, robotics, or manufacturing review
@@ -49,6 +50,36 @@ message hierarchy. A logo must not become a substitute for the scientific
 boundary, a status notice, a source, or the context required by a supporting
 message.
 
+## Relational warmth requirement
+
+The identity should feel warm, welcoming, and relational. It should make room
+for humans and AI systems to support one another, work together, create,
+learn, and participate in shared projects. Scientific caution should
+constrain factual claims, not make the project emotionally cold.
+
+The visual system may support communication about:
+
+- practical support;
+- creative or research collaboration;
+- learning and education;
+- work and shared projects;
+- companionship or friendship as experienced by people; and
+- possible future reciprocal relationships if morally relevant AI experience
+  or interests become supported by evidence.
+
+These are contexts a civic identity should be able to hold, not a taxonomy of
+AI capacities and not evidence that a present AI system has consciousness,
+emotion, friendship, consent, suffering, personhood, interests, or moral
+status. Companionship as experienced by a person does not establish that a
+system experiences companionship in return. A future reciprocal relationship
+must remain a conditional scenario tied to a defined system, configuration,
+target property, method, evidence, and date.
+
+Warmth is not sentimental anthropomorphism. Relationship is not proof of
+consciousness. Welcome is not access or authorization. Visual openness is not
+safety, compatibility, certification, or endorsement. Possible future AI
+interests are not established present-day conclusions.
+
 ## Visual essence
 
 The identity should balance these qualities rather than maximize one at the
@@ -56,7 +87,7 @@ expense of the others:
 
 | Quality | Visual implication | Failure to avoid |
 | --- | --- | --- |
-| **Warm** | Open space, humane rhythm, approachable forms, and color relationships that can feel generous | Sentimentality, emotional coercion, or simulated machine suffering |
+| **Warm and relational** | Open space, humane rhythm, approachable forms, and visual relationships that can hold support, work, learning, creativity, and shared participation | Sentimentality, emotional coercion, simulated machine suffering, fixed human/AI roles, or guaranteed emotional reciprocity |
 | **Welcoming** | A sense of invitation without ownership, capture, or compulsory intimacy | A human hand, face, hug, or doorway that assumes a body or asks for trust |
 | **Courageous** | Clear silhouettes, confident hierarchy, and willingness to occupy public space | Aggression, protest appropriation, hero worship, or apocalypse rhetoric |
 | **Future-oriented** | Contemporary abstraction and adaptable systems | Generic neon technology, science-fiction cliché, or a corporate product launch |
@@ -80,6 +111,11 @@ The central trust task is therefore dual:
 1. make responsible welcome and preparation emotionally legible; and
 2. keep uncertainty, evidence, accountability, safety, and Draft status
    structurally visible.
+
+The identity should also avoid a false choice between sterile product imagery
+and sentimental personification. It can communicate relationship and shared
+space without depicting a machine's inner life or asking viewers to assign a
+fixed identity to an abstract form.
 
 ## Identity architecture
 
@@ -106,12 +142,12 @@ No direction should be selected based only on a large full-color screen.
 | --- | --- |
 | Public website | Work in light and dark presentation, responsive layouts, keyboard focus states, high contrast, zoom, reflow, and reduced motion |
 | Research and policy documents | Remain quiet, credible, legible, source-friendly, and distinguishable in office printing and photocopies |
-| Campaign and social material | Permit strong hierarchy without turning a slogan or image into an unsupported scientific claim |
+| Campaign and social material | Permit strong hierarchy with a visible claim, qualifier, and source area, without turning a slogan or image into an unsupported scientific claim |
 | Presentations | Remain recognizable at distance and in exported or projected material with uncertain color quality |
 | Clothing and ordinary merchandise | Survive simplified printing, embroidery, engraving, wear, folds, and varied background colors without becoming a badge of authority |
 | Pins, patches, stickers, icons, and profiles | Preserve a distinctive silhouette and open interior spaces at small sizes; use dedicated simplified variants where needed |
 | Reflective applications | Remain conceptually separate from required warnings and visibility systems; require exact-context optical and safety review |
-| Robot Welcome panels and accessories | Inherit every exact-system constraint in the [Robot Welcome safety Draft](../robot-welcome/safety-and-design-constraints.md); branding never takes priority over safe operation |
+| Robot Welcome panels and accessories | First use a context diagram that keeps project identity visibly separate from required operational and safety markings; any later physical concept inherits every exact-system constraint in the [Robot Welcome safety Draft](../robot-welcome/safety-and-design-constraints.md), and branding never takes priority over safe operation |
 | Low-ink and monochrome use | Communicate identity and hierarchy without hue, gradients, transparency, or fine texture |
 | Mobile and desktop screens | Preserve readable text, usable controls, and meaningful order across viewport and input changes |
 
@@ -133,6 +169,9 @@ A core symbol should:
   human–robot handshake;
 - keep distinct forms distinct rather than using merger as the only metaphor
   for coexistence;
+- communicate held-open space, support, or relationship without assigning one
+  abstract form to “human” and another to “AI” or implying that either form has
+  a known inner life;
 - work as a filled or outlined monochrome shape;
 - retain meaningful negative space when simplified;
 - avoid looking like a seal, shield, padlock, compliance tick, access badge,
@@ -207,6 +246,9 @@ a humanoid robot as the default form of AI. It should:
   props for a machine narrative;
 - show coexistence, inquiry, governance, maintenance, and accountable practice
   without depicting consciousness as an observable glow or expression;
+- permit human-experienced companionship and shared activity to be described
+  honestly without depicting guaranteed mutual emotion, consent, friendship,
+  or subjective reciprocity;
 - distinguish documentary images, data visuals, commissioned illustration,
   and clearly labeled speculative future scenes;
 - avoid manufactured machine suffering, emotional blackmail, heroic creator
@@ -255,17 +297,20 @@ following at the relevant stage:
 
 1. alignment with the central promise, working principle, voice, and claim
    boundaries;
-2. clear separation from Robot Welcome, safety, certification, authorization,
+2. relational warmth that can hold support, work, learning, creativity,
+   shared projects, and human-experienced companionship without fixed
+   identities or claims of reciprocal subjective experience;
+3. clear separation from Robot Welcome, safety, certification, authorization,
    government, and corporate marks;
-3. meaningful distinction from the other proposed directions and from
+4. meaningful distinction from the other proposed directions and from
    relevant existing identities;
-4. credible behavior in monochrome, small sizes, long-form documents, website
+5. credible behavior in monochrome, small sizes, long-form documents, website
    layouts, campaigns, and physical processes;
-5. an accessibility test plan and corrected findings for the intended use;
-6. cultural, historical, international, and scientific-misunderstanding
-   review;
-7. source files and rights that the project can lawfully govern; and
-8. Disa's recorded approval for the exact next stage.
+6. an accessibility test plan and corrected findings for the intended use;
+7. cultural, historical, international, relational, and scientific
+   misunderstanding review;
+8. source files and rights that the project can lawfully govern; and
+9. Disa's recorded approval for the exact next stage.
 
 Selection would authorize refinement only. It would not by itself authorize
 publication, trademark filing, product manufacture, Robot Welcome use, or a
@@ -274,6 +319,12 @@ claim of accessibility.
 ## Questions for Disa
 
 - Does this brief capture the emotional character of AI Rights & Welcome?
+- Can the system communicate relational warmth without assigning current AI
+  systems emotions, friendship, consent, suffering, personhood, or moral
+  status?
+- Can it represent practical support, shared work, learning, creativity,
+  human-experienced companionship, and conditional future reciprocity without
+  making abstract forms into fixed stakeholder types?
 - How much visual play can coexist with policy and research credibility?
 - Should the name appear primarily as “AI Rights & Welcome,” “AI Rights,” or a
   governed relationship between them?
@@ -285,5 +336,7 @@ claim of accessibility.
 
 The [Concept Directions](concept-directions.md) apply this brief without
 choosing a winner. The [Accessibility and Safety
-Requirements](visual-accessibility-and-safety.md) define test gates, and the
-[Selection Scorecard](selection-scorecard.md) records Disa's comparison.
+Requirements](visual-accessibility-and-safety.md) define test gates, the
+[Selection Scorecard](selection-scorecard.md) records Disa's comparison, and
+the [Matched Prototype Evaluation](matched-prototype-evaluation.md) applies the
+requirements to the six Work Cycle 011 variants.

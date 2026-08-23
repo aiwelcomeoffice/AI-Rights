@@ -265,9 +265,18 @@ future-oriented, technically credible, non-corporate, recognizable at small
 sizes, and compatible with human and robot contexts. Those qualities are a
 brief, not a design selection.
 
-This cycle chooses no:
+Relational warmth should make room for practical support, collaboration,
+learning, work, creation, shared projects, and companionship or friendship as
+experienced by people. It must not depict or imply guaranteed emotional
+reciprocity, AI consent, or present AI consciousness, emotion, suffering,
+personhood, interests, or moral status. Welcome does not grant access or
+authorization, and visual openness is not safety, compatibility,
+certification, or endorsement.
 
-- logo, wordmark, symbol, mascot, character, or anthropomorphic identity;
+Exploratory black-and-white symbol sheets may be created for internal
+comparison when Disa authorizes them. Their presence does not select a:
+
+- final logo, wordmark, symbol, mascot, character, or anthropomorphic identity;
 - color palette, typeface, layout system, illustration style, icon family,
   sound, motion language, or final photography approach;
 - certification-style seal, approval badge, safety mark, authorization sign,

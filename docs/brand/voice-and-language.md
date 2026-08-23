@@ -24,6 +24,13 @@ Invite readers into the question. Use humane, plain language and make room for
 uncertainty without making the subject cold or evasive. Warmth does not require
 assigning feelings, identity, or personhood to a system.
 
+Make room for practical support, creative or research collaboration, learning,
+work, shared projects, and companionship or friendship as experienced by
+people. Describe possible future reciprocal relationships only conditionally
+if relevant AI experience or interests become supported by evidence. A
+person's felt companionship does not establish that a system feels friendship,
+gives consent, or has a morally relevant inner life.
+
 ### Courageous
 
 Name difficult moral possibilities, corporate incentives, responsibility
@@ -137,6 +144,7 @@ necessary context before a reader is asked to act.
 | “A low-cost, reversible precaution compatible with safety” | “Give it rights just in case” | Keeps protection proportional and separates it from legal status. |
 | “People and institutions remain accountable for their choices and control.” | “The AI made the decision, so no one is responsible.” | Prevents a responsibility gap. |
 | “A welcoming design is not safety certification.” | “Robot-friendly means robot-safe.” | Prevents unvalidated product and safety claims. |
+| “A person may experience companionship in an AI interaction; that does not establish mutual subjective experience.” | “The AI is a friend who feels the same way.” | Distinguishes the person's relationship from unsupported claims about the system. |
 | “A future case could require legal and ethical review.” | “Created beings are already free persons.” | Preserves the conditional future premise and current-law boundary. |
 
 ## Appropriate and inappropriate examples

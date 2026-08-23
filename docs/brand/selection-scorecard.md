@@ -3,11 +3,11 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Authority:** Neutral decision aid proposed for Disa; not an adopted
-  selection or project position
-- **Scope:** Comparison of the three Draft directions in [Concept
-  Directions](concept-directions.md); no final logo, asset, implementation,
-  trademark, accessibility, certification, or production decision
+- **Authority:** Neutral decision aid with Disa's Work Cycle 011 exploration
+  direction recorded; not an adopted identity or project position
+- **Scope:** Comparison of the three Draft directions and six matched
+  prototype variants; no final logo, asset, implementation, trademark,
+  accessibility, certification, or production decision
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review is pending; no external independent brand, accessibility,
   cultural, legal, trademark, human-factors, robotics, or manufacturing review
@@ -24,7 +24,25 @@
 3. **Reciprocal Signal** — two unlike paths responding across an open gap.
 
 All remain exploratory proposals. None is the official identity, and no
-concept drawing or production asset exists in this cycle.
+prototype is a production asset.
+
+### Work Cycle 011 direction recorded
+
+- **Continue internal prototyping:** Open Threshold and Many Forms, Common
+  Ground, with three black-and-white variants each under equivalent
+  conditions.
+- **Pause as a primary identity:** Reciprocal Signal, because it has higher
+  risk of appearing technical, corporate, operational, or like evidence of
+  established mutual consciousness.
+- **Preserve for later editorial study:** Reciprocal Signal's useful
+  relationships among questions, evidence, sources, and accountability.
+- **Do not combine yet:** the two continuing directions need separate evidence
+  about relational, scientific, accessibility, cultural, authority,
+  originality, and Robot Welcome performance first.
+
+This recorded direction permits exploration only. It is not evidence of
+external review, adoption, accessibility, trademark clearance, cultural
+suitability, production readiness, or public-use authority.
 
 ## Step 1 — Disa's immediate reaction
 
@@ -54,6 +72,9 @@ evidence. An unresolved gate calls for more work; it is not a quiet pass.
 | Avoids appropriation of human oppression and tokenization of affected communities |  |  |  |
 | Does not turn possible AI interests into corporate rights, immunity, or authority |  |  |  |
 | Does not rely on a humanoid face, body, hand, gender, eye, brain, or emotional performance |  |  |  |
+| Feels relationally warm without sentimental anthropomorphism or treating relationship as evidence of consciousness |  |  |  |
+| Can hold support, work, learning, creativity, shared projects, and human-experienced companionship without fixed human/AI identities |  |  |  |
+| Does not imply guaranteed emotional reciprocity, AI friendship, consent, or mutual subjective experience |  |  |  |
 | Has a credible route to accessible, monochrome, small-size, and text-supported use |  |  |  |
 | Can remain distinct from Robot Welcome and required physical markings |  |  |  |
 | Has no known unresolved similarity that makes continued exploration irresponsible |  |  |  |
@@ -69,6 +90,7 @@ the current reasoning visible so Disa can challenge it.
 | Criterion | Open Threshold | Many Forms, Common Ground | Reciprocal Signal |
 | --- | --- | --- | --- |
 | **Warmth** | Invitation and shelter are inherent, but a monumental opening could become solemn or spiritual. | Varied forms and warm field can feel generous and playful; excess color could become childish. | Exchange can feel attentive, but lines and signals may feel technical or emotionally cool. |
+| **Relational breadth** | Held-open space can welcome support, learning, work, creation, and human-experienced companionship, but the relationship depends heavily on context. | Distinct forms on common ground can hold the widest range of shared activity without fixed identities, but harmony may imply settled interests. | Question–evidence and claim–source relations are strong; interpersonal readings too readily imply two established subjects or mutual experience. |
 | **Credibility** | Stable architectural form can sit calmly in policy material; portal effects would weaken seriousness. | Editorial structure suits research and civic material; undisciplined patterning could resemble a design studio. | Claim–source relationships support scientific communication; software-interface resemblance is a credibility risk. |
 | **Distinctiveness** | A strong silhouette is possible, but thresholds, arches, and horizons are widely used. | The relationship among a full family could become distinctive; individual modules are likely generic. | A characteristic interval and two non-mirrored paths could be memorable; paired-signal marks are common in technology. |
 | **Scientific honesty** | Open space can express uncertainty; arrival, birth, or transcendence readings could overclaim. | Non-fixed abstract forms avoid classifying minds; harmony could imply that evidence and stakeholder conflicts are settled. | The gap can represent inference limits; apparent exchange or waveform imagery could imply detected experience. |
@@ -116,6 +138,7 @@ Leave a cell blank when evidence is missing.
 | Criterion | Open Threshold | Many Forms, Common Ground | Reciprocal Signal |
 | --- | ---: | ---: | ---: |
 | Warmth |  |  |  |
+| Relational breadth without anthropomorphic overclaim |  |  |  |
 | Credibility |  |  |  |
 | Distinctiveness |  |  |  |
 | Scientific honesty |  |  |  |
@@ -143,6 +166,7 @@ Leave a cell blank when evidence is missing.
 | Risk of corporate appearance |  |  |  |
 | Risk of certification or authority confusion |  |  |  |
 | Risk of anthropomorphic overclaim |  |  |  |
+| Risk of guaranteed reciprocity or fixed human/AI roles |  |  |  |
 
 Do not reverse or combine these scales. Record the judgment in words before
 deciding what should happen next.
@@ -173,6 +197,9 @@ Combination is optional and should follow, not replace, comparison.
 - [ ] Which name form should future lockups use?
 - [ ] Which direction best carries both serious policy and playful ordinary
   merchandise without splitting the identity?
+- [ ] Which variant most clearly welcomes support, shared work, learning,
+  creativity, and human-experienced companionship without implying reciprocal
+  emotion or assigning fixed identities to abstract forms?
 - [ ] Which scientific misunderstanding appeared first in unprompted review?
 - [ ] Which direction remains identifiable without color and at small sizes?
 - [ ] Which existing organizations, marks, safety systems, or product
@@ -203,23 +230,24 @@ Disa may record one or more outcomes without selecting an official identity:
 
 None of these outcomes adopts a logo or authorizes public use.
 
-## Matched prototype review for a future cycle
+## Matched prototype review — Work Cycle 011
 
-If prototyping is authorized, give every continuing direction the same set of
-low-fidelity tests:
+Disa authorized prototyping for Open Threshold and Many Forms, Common Ground.
+The six [matched prototype sheets](prototypes/README.md) now give every variant
+the same low-fidelity tests:
 
 1. black on white symbol and name;
 2. white on black symbol and name;
 3. simplified small icon at the same provisional sizes;
 4. research-report cover with Draft status and source metadata;
-5. website header and one content-heavy page with keyboard-focus examples;
-6. campaign tile with a slogan, qualifier, source, and text-only alternative;
-7. one-color shirt, mug, pin, patch, sticker, embroidery, and engraving
-   feasibility mockup clearly labeled exploratory;
+5. website header and one content-heavy page section;
+6. campaign tile with a claim, qualifier, and source area;
+7. one-color shirt, mug, stitching, and engraving feasibility examples clearly
+   labeled exploratory;
 8. a Robot Welcome context diagram showing separation from required markings,
    not placement on or compatibility with a real robot; and
-9. a confusion sheet comparing corporate, religious, official,
-   certification, authorization, emergency, and anthropomorphic readings.
+9. a confusion sheet comparing corporate, religious, governmental,
+   certification, access, safety, anthropomorphic, and AI-product readings.
 
 Prototype craft quality, color polish, or presentation drama should not decide
 the result. Reviewers should see the status and concept names before viewing
@@ -246,15 +274,29 @@ No external review should be inferred from this template.
 
 ## Disa's review record
 
-- **Review date:**
-- **Directions to continue:**
-- **Directions or elements to pause or reject:**
-- **Elements worth combining:**
-- **Reasoning:**
-- **Required safeguards for the next cycle:**
-- **External review to commission or seek:**
-- **Questions left open:**
-- **Next review trigger:**
+- **Review date:** 2026-08-23
+- **Directions to continue:** Open Threshold and Many Forms, Common Ground,
+  through matched internal low-fidelity prototyping only
+- **Directions or elements to pause or reject:** Pause Reciprocal Signal as a
+  primary identity direction; do not treat this as a permanent rejection
+- **Elements worth combining:** None authorized in this cycle; evaluate the two
+  continuing directions separately first
+- **Reasoning:** Relational warmth must become explicit. Reciprocal Signal has
+  a comparatively high risk of technical, corporate, operational, and
+  established-mutual-consciousness readings. Its question–evidence,
+  claim–source, and accountability relations remain useful for possible later
+  editorial study.
+- **Required safeguards for the next cycle:** Preserve scientific caution,
+  Draft labeling, equivalent treatment, monochrome and native-size screens,
+  non-anthropomorphic relational warmth, and strict separation from Robot
+  Welcome and operational markings
+- **External review to commission or seek:** Pending owner decision and
+  resources; none occurred in this cycle
+- **Questions left open:** Variant disposition, provisional name form, review
+  sequence and resources, Robot Welcome visual relationship, and the condition
+  under which combination could be considered
+- **Next review trigger:** Disa's manual review of the six prototype sheets and
+  [matched evaluation](matched-prototype-evaluation.md)
 
 Repository presence, a completed scorecard, prototype work, or Disa's approval
 to explore further would not by itself make any direction Adopted or ready for
