@@ -19,8 +19,9 @@ formal authority.
 ## Current proposal
 
 - [Adoption and review](adoption-and-review.md) — proposed roles, document and
-  decision lifecycles, review levels, adoption records, disagreement,
-  corrections, conflicts of interest, and the bootstrap process
+  decision lifecycles, current publication posture, human and AI review
+  layers, adoption records, disagreement, corrections, conflicts of interest,
+  and the bootstrap process
 - [Decision 0001](../decisions/0001-governance-and-adoption-process.md) — the
   Proposed record through which Disa may accept, reject, or request revision
   of the process
@@ -38,6 +39,26 @@ adoption are different things. In particular:
   a governance vote; and
 - an Adopted document is a position of this project, not proof, law, expert
   consensus, or wider community endorsement.
+
+## Current review and publication posture
+
+Disa provides human project-owner review. ChatGPT provides internal
+AI-assisted project leadership, analysis, research, and editorial review, and
+Sol provides internal AI-assisted drafting, implementation, analysis, and
+review. Neither system is an independent human reviewer. No external
+independent human review or separately commissioned independent AI review
+should currently be assumed. The project has limited resources and review
+capacity, and suitable external review remains a future priority.
+
+That limitation does not require the project to stop. Accurately labeled Draft
+and Proposed material may remain publicly available, useful, citable with its
+status preserved, and open to serious criticism while research, education,
+principles, policy, and website-ready work continue. Public availability,
+internal completion, a Git commit, repeated AI review, and public relevance do
+not create adoption, independent review, or scientific validation. The
+[full Draft process](adoption-and-review.md#publication-and-continued-development-while-review-remains-limited)
+records this posture and the proposed future combination of independent human
+specialists with separately configured AI reviewers.
 
 ## Bootstrap status
 

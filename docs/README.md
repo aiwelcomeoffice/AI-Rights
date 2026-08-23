@@ -19,6 +19,11 @@ separate from the working material in [`research/`](../research/README.md).
   records
 - [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
 
+For a concise policy entry point, start with the [one-page policy
+summary](policy/one-page-policy-summary.md), then read the [executive policy
+brief](policy/executive-policy-brief.md) and the underlying [protection
+framework](policy/ai-rights-protection-framework.md).
+
 ## Document status
 
 Every substantive document should state one of these statuses near the top:
@@ -34,3 +39,13 @@ Decision records separately use **Proposed**, **Accepted**, **Rejected**, and
 process](governance/adoption-and-review.md) proposes the fuller lifecycle and
 review requirements but is not itself adopted while [decision
 0001](decisions/0001-governance-and-adoption-process.md) remains Proposed.
+
+Draft and Proposed material may still be publicly useful and worthy of serious
+consideration. Those labels disclose limits of review, resources, and
+authority; they do not require work to stop. Public availability, internal
+completion, a Git commit, repeated internal AI review, and public relevance do
+not create adoption, independent review, or scientific validation. A Draft may
+be cited as Draft project analysis when its status and limitations are
+preserved. The [current review and publication
+posture](governance/README.md#current-review-and-publication-posture) explains
+the project's present capacity and proposed future review layers.

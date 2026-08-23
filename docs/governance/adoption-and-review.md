@@ -2,7 +2,7 @@
 
 **Status: Draft**
 
-- **Version:** 0.1-draft
+- **Version:** 0.2-draft
 - **Date prepared:** 2026-08-23
 - **Authority:** Proposed for Disa's review; not adopted
 - **Related decision:** [0001 — Governance and adoption
@@ -17,12 +17,13 @@ scientific, ethical, legal, policy, safety, product, or architectural question.
 
 ## Core distinctions
 
-The process depends on six separations:
+The process depends on seven separations:
 
 | Distinction | Rule |
 | --- | --- |
 | Collaborative authorship and formal authority | Contributors may draft, analyze, challenge, and recommend. Only Disa may formally adopt, reject, return, or supersede a project position. |
 | Repository presence and project adoption | A file may be complete, reviewed internally, committed, or publicly accessible without being Adopted. |
+| Publication and validation | Public relevance, careful preparation, or citation of a Draft does not establish scientific validation, independent review, legal authority, or adoption. |
 | Internal AI-assisted review and independent human review | ChatGPT and Sol may provide useful internal review. Their work is not independent human review or scientific peer review, even when repeated or performed in separate passes. |
 | Scientific evidence and adopted project positions | Evidence is appraised through scientific methods. Adoption records what this project concludes or values; it cannot make an empirical claim true. |
 | Normative adoption and scientific validation | The project may adopt a value or precautionary position under uncertainty if it labels the value premises and uncertainty. That adoption does not validate a scientific hypothesis. |
@@ -38,9 +39,9 @@ The project is currently developed primarily by Disa with AI-assisted
 contributions from ChatGPT and Sol.
 
 - Disa's review is **human project-owner review**.
-- ChatGPT's drafting, analysis, or second-pass review is **internal
-  AI-assisted work**.
-- Sol's drafting, implementation, audit, or second-pass review is **internal
+- ChatGPT's project leadership, analysis, research, drafting, or editorial
+  review is **internal AI-assisted work**.
+- Sol's drafting, implementation, analysis, audit, or review is **internal
   AI-assisted work**.
 - Neither ChatGPT nor Sol is an independent human reviewer.
 - Agreement between ChatGPT and Sol, or repeated review by either system, does
@@ -48,10 +49,47 @@ contributions from ChatGPT and Sol.
   review, or consensus.
 - No external or independent human review may be claimed unless the reviewer,
   scope, date, relevant independence, and conflicts are documented.
+- No separately commissioned independent AI review has occurred and none may
+  be assumed unless its system, task, scope, separation from authorship, and
+  limitations are documented.
+- The project currently has limited resources and review capacity. Obtaining
+  appropriate external review remains a priority, not a completed step.
 
 The absence of independent review does not prevent careful Draft work. It
 limits what validation, independence, authority, and readiness for public
 reliance may honestly be claimed.
+
+## Publication and continued development while review remains limited
+
+> Draft and Proposed material may still be important, carefully prepared,
+> publicly useful, and worthy of serious consideration. These labels
+> communicate the limits of the project's current resources, review capacity,
+> and authority. They do not mean that work must stop or that the material has
+> no value.
+
+The project may continue to conduct working research, create source records
+and syntheses, publish educational material, draft ethical principles, prepare
+policy proposals, develop website-ready content, invite careful discussion,
+and correct or improve existing Drafts. Each item must retain accurate status,
+provenance, evidence boundaries, review history, limitations, and unresolved
+questions.
+
+Publication makes work available for reading and criticism; it does not adopt
+the work. In particular:
+
+- public availability is not adoption;
+- internal completion is not independent review;
+- a Git commit is not adoption;
+- repeated internal AI review is not independent human review;
+- public relevance is not scientific validation; and
+- uncertainty and limited review should be disclosed without hiding useful
+  work from public discussion.
+
+A Draft may be cited as **Draft project analysis** when the citation preserves
+its status, scope, review limits, evidence limits, and date. A Proposed
+decision may be discussed as a proposal, not as an operative decision. An
+invitation for serious criticism must not imply that a public contribution or
+consultation process is active when none has been established.
 
 ## Governance roles
 
@@ -108,8 +146,10 @@ as independent human review.
 
 The project may later involve scientific reviewers, legal or policy reviewers,
 technical and safety specialists, civil-society participants, affected
-communities, and public contributors. Their review can improve evidence,
-legitimacy, practical judgment, and accountability.
+communities, public contributors, and separately configured AI systems or
+agents that were not responsible for the original drafting. Their review can
+improve evidence, methodological diversity, practical judgment, and
+accountability, subject to the limits of each review type.
 
 External participation does not automatically transfer project ownership or
 formal adoption authority. Public consultation is a possible future layer; it
@@ -273,6 +313,41 @@ The following remains for Disa to decide before this process is Accepted:
 - when specialist review may follow project adoption but must precede strong
   public or operational reliance.
 
+### Separately configured AI review
+
+A future review may use an AI system or agent that was not responsible for the
+original drafting and is configured for a defined critical, adversarial,
+methodological, legal, technical, or editorial task. Where practical, its
+review record should identify:
+
+- the model or system and provider;
+- the version, release, or review date;
+- the review prompt or assigned task;
+- the exact materials and versions reviewed;
+- how the reviewer was separated from the original drafting process;
+- relevant provider, training, access, authorship, or other conflicts and
+  limitations;
+- major findings, disagreements, and unresolved questions; and
+- the project's response, including changes made or reasons not to change.
+
+Separately configured AI review may improve adversarial testing, consistency
+checking, and methodological diversity. It is not independent human review,
+human peer review, scientific consensus, or a replacement for relevant human
+expertise. Different AI systems may also share training data, provider
+incentives, methods, or correlated errors, so a separate configuration must not
+be described as fully independent without explaining the dimensions and limits
+of its independence.
+
+### Future mixed review
+
+Consequential work should, where proportionate and feasible, combine relevant
+independent human specialists with separately configured AI review. The two
+layers should be recorded separately and should challenge rather than merely
+repeat the original drafting process. This Draft sets no arbitrary fixed
+reviewer count. Disa should decide proportionate thresholds by document type,
+claim, likely reliance, affected parties, reversibility, and consequences of
+error.
+
 ### Public consultation
 
 Public consultation could later provide experience, objections, community
@@ -290,8 +365,9 @@ required or active layer.
    boundaries, citations, safety, accountability, and links. Record the actual
    human and AI roles.
 4. **Assess review needs.** Determine which specialist, independent, affected-
-   community, legal, safety, or public input is required before adoption or
-   reliance. Record missing review rather than implying it occurred.
+   community, separately configured AI, legal, safety, or public input is
+   required before adoption or reliance. Record each review layer separately
+   and record missing review rather than implying it occurred.
 5. **Record disagreement and conflicts.** Preserve material competing views,
    unresolved uncertainty, influence, access, affiliations, and funding.
 6. **Create a Proposed decision record.** Use the next sequential number and
@@ -481,6 +557,13 @@ Bootstrap acceptance does not adopt the manifesto, principles, education set,
 protection framework, evidence baseline, research protocol, or any other
 current Draft, Scaffold, or working research material.
 
+## Draft revision history
+
+| Version | Date | Change | Effect on authority |
+| --- | --- | --- | --- |
+| 0.1-draft | 2026-08-23 | Work Cycle 004 established the proposed adoption, review, disagreement, correction, and conflict process. | Draft linked to Proposed decision 0001; not adopted. |
+| 0.2-draft | 2026-08-23 | Work Cycle 005 documented the current limited review posture, continued public development of accurately labeled Draft and Proposed work, and future mixed human and separately configured AI review. | No adoption or independent review occurred; decision 0001 remains Proposed. |
+
 ## Decisions required from Disa
 
 Before accepting this process, Disa should decide:
@@ -490,6 +573,11 @@ Before accepting this process, Disa should decide:
 - whether the descriptions of Disa, ChatGPT, Sol, and future reviewers are
   accurate;
 - which content types require independent specialist review before adoption;
+- which document types should receive separately configured AI review, how
+  its independence should be described, and how it should be combined with
+  relevant human expertise;
+- what proportionate review thresholds should apply without imposing an
+  arbitrary project-wide reviewer count;
 - whether specialist review may instead follow adoption but precede strong
   public reliance for any content type;
 - whether normative documents may be adopted after owner review without prior

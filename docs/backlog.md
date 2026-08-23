@@ -29,6 +29,31 @@ conflict-of-interest rules. The governance documents remain **Draft** and the
 decision remains **Proposed** until Disa completes manual review and explicitly
 decides whether to accept them. No other Draft is adopted through this work.
 
+## Work Cycle 005 — policy communication drafted, review pending
+
+The [executive policy brief](policy/executive-policy-brief.md) and [one-page
+policy summary](policy/one-page-policy-summary.md) have now been drafted from
+the existing [AI Rights Protection
+Framework](policy/ai-rights-protection-framework.md). They provide concise,
+jurisdiction-neutral policy communication without adding a literature review,
+changing the working evidence conclusion, or presenting the framework as
+current law.
+
+Drafting is complete for this cycle. Both documents remain **Draft** and
+unadopted. They have project-owner and internal AI-assisted review within the
+project's current process, with Disa's final manual review of this version
+pending. They have not received external independent human review or
+separately commissioned independent AI review. Their evidence statements
+inherit the working baseline's partly verified status, scope, access limits,
+and 2026-08-23 search cutoff.
+
+The Governance Draft now records that limited review capacity does not prevent
+continued research, drafting, public education, policy preparation, careful
+publication, criticism, or correction. It also proposes future mixed review by
+independent human specialists and separately configured AI reviewers, recorded
+as distinct layers. Decision 0001 remains **Proposed**, and the Governance
+Draft remains **Draft**.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -108,6 +133,11 @@ after the foundation documents have been reviewed.
   formal adoption authority, role descriptions, specialist-review thresholds,
   normative adoption before independent review, minimum recorded rationale,
   and the practicality of correction and disagreement procedures.
+- Proportionate review thresholds by document type, including when independent
+  human specialist review and separately configured AI review are needed and
+  how their different limitations should be recorded.
+- Whether the executive policy brief and one-page summary are ready for public
+  use as clearly labeled Draft analysis after Disa's final manual review.
 - Primary audience and working/translation languages.
 - Research protocol and initial review scope.
 - Research-maintenance owner, review cadence, and material-development

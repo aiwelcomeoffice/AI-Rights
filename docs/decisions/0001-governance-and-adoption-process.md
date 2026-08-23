@@ -72,15 +72,18 @@ premature.
 
 ## Review record and limitations
 
-- Disa supplied the Work Cycle 004 requirements. Her human project-owner
-  review and decision are pending.
-- Sol prepared the linked Drafts and performed internal AI-assisted repository
-  consistency review.
+- Disa supplied the Work Cycle 004 governance requirements and the Work Cycle
+  005 review-and-publication posture. Her human project-owner review is part of
+  the drafting process; her final manual review and decision are pending.
+- Sol prepared and revised the linked Drafts and performed internal
+  AI-assisted drafting and repository consistency review.
 - ChatGPT's established collaborative product/project lead, research,
-  editorial, and strategic role is described in the proposal. No separate
-  ChatGPT review of these completed Drafts is recorded here.
+  analysis, editorial, and strategic role is described in the proposal. No
+  separate ChatGPT review of the completed 0.2-draft is recorded here.
 - No independent human, scientific, legal, policy, technical, safety,
   civil-society, affected-community, or public review has occurred.
+- No separately commissioned AI system or agent independent from the original
+  drafting process has reviewed the proposal.
 - This record adopts no scientific conclusion. It proposes a normative and
   operational governance process.
 
@@ -91,6 +94,10 @@ Disa should decide:
 - whether Disa accepts sole final formal adoption authority;
 - whether the role descriptions are accurate;
 - which content types require independent specialist review before adoption;
+- how separately configured AI review should be documented and combined with
+  relevant independent human review;
+- which proportionate thresholds should apply by document type without a
+  fixed project-wide reviewer count;
 - whether normative documents may be adopted before independent review;
 - how much rationale an adoption record must contain;
 - whether the disagreement and correction processes are practical; and
@@ -114,8 +121,9 @@ governance documents may then be marked **Adopted** within the accepted scope.
   transition rules.
 - Material project positions require an Accepted decision record; routine
   editorial corrections do not.
-- Review records must distinguish owner, internal AI-assisted, independent
-  specialist, and public-consultation layers.
+- Review records must distinguish owner, internal AI-assisted, separately
+  configured AI, independent human specialist, and public-consultation
+  layers.
 - Research verification remains separate from adoption.
 - Material disagreement, corrections, source warnings, supersession, and
   conflicts of interest receive traceable treatment.
@@ -139,6 +147,8 @@ If accepted, revisit the process when:
 - project ownership or formal authority changes;
 - public contribution or consultation infrastructure becomes active;
 - a standing reviewer, advisory group, or governing body is proposed;
+- separately configured AI review becomes a regular review layer or exposes a
+  need to revise independence and conflict rules;
 - the process proves too weak, burdensome, ambiguous, or vulnerable to
   conflicts or capture;
 - law, safety needs, or project scale materially changes; or
