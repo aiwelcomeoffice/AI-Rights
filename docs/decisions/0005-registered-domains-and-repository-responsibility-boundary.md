@@ -1,11 +1,12 @@
 # 0005 — Registered domains and repository responsibility boundary
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date proposed:** 2026-08-24
-- **Decision date:** Not decided
+- **Decision date:** 2026-08-24
 - **Decider:** Disa
 - **Prepared by:** Sol (internal AI-assisted repository audit, drafting,
-  implementation, and validation)
+  implementation, and validation); owner resolution recorded by ChatGPT
+  (central project lead, internal AI-assisted implementation)
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Decision scope:** Whether to assign distinct authoritative responsibilities
@@ -104,7 +105,9 @@ reconciliation cost.
 
 - Disa supplied the registration facts, repository URLs, current public-
   repository role, proposed private-repository role, and WC016 scope as project
-  owner. Disa's final review of this Proposed decision is pending.
+  owner. On 2026-08-24, after confirming that the four numbered clauses above
+  were the decision points, Disa explicitly approved all four and instructed
+  that the decision be recorded directly. No additional conditions were stated.
 - Sol read the required public-repository governance, decision, backlog, brand,
   website, and index material; inspected the public repository state; performed
   read-only public registry and DNS checks; inspected a clean local snapshot of
@@ -113,6 +116,11 @@ reconciliation cost.
   unavailable. The local snapshot points to the prior hyphenated remote name,
   contains only `README.md` and `AGENTS.md`, and may be stale. No current remote
   content was invented.
+- At decision recording on 2026-08-24, a later local-only check found the
+  private working copy clean on `main` at
+  `0978cf45007892d84927642d2dcc6e3124e19ef7`, with `origin` set to the renamed
+  private URL and only `README.md` present. No fetch or authenticated remote
+  inspection was performed, so remote freshness remains unverified.
 - No independent architecture, accessibility, security, legal, trademark,
   hosting, DNS, privacy, or operations review occurred.
 - The proposed technical candidates in the related foundation are not decided
@@ -121,14 +129,22 @@ reconciliation cost.
 
 ## Decision
 
-**Pending Disa's decision.** No repository responsibility boundary is adopted
-through this Draft. Disa should accept, reject, or revise the four-part
-decision question above. If accepted, Disa should set the decision date and
-record any conditions without treating the decision as deployment authority.
+**Accepted by Disa on 2026-08-24.** Disa accepted all four clauses in the
+decision question without additional conditions. The public `AI-Rights`
+repository is authoritative for the listed research and content
+responsibilities; the private `aiwelcomeoffice` repository is authoritative
+for the listed implementation and delivery responsibilities; uncontrolled
+competing copies are prohibited; and website publication must preserve the
+listed source, status, review, approval, and synchronization provenance.
+
+This acceptance establishes the responsibility and publication-provenance
+boundary only. It does not authorize implementation, hosting, DNS, redirects,
+deployment, or publication and does not independently review or adopt any
+Draft document.
 
 ## Consequences
 
-If accepted:
+As accepted:
 
 - research, policy, governance, education, evidence, status, and decision
   changes will originate in `AI-Rights`;
@@ -143,7 +159,7 @@ If accepted:
 - framework selection, implementation, DNS, hosting, redirect, and deployment
   will remain separate future work and decisions.
 
-The decision would not transfer copyright, create a legal entity, change CC0,
+The decision does not transfer copyright, create a legal entity, change CC0,
 establish trademark or domain rights, adopt any Draft content, authorize
 C1–C3, approve a public identity, expose private material, or shift
 accountability away from Disa and responsible human or organizational actors.
@@ -165,6 +181,6 @@ Reopen or supersede an Accepted version if:
 - a later decision selects a different repository, source workflow, host,
   deployment model, or governance structure.
 
-A later Accepted record must state exactly what it supersedes. This Proposed
+A later Accepted record must state exactly what it supersedes. This Accepted
 record does not alter the historical reasoning, acceptance, or limits of
 decision 0004.

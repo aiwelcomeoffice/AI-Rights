@@ -1,6 +1,8 @@
 # Registered Domains and Repository Foundation
 
-**Status: Draft — operational record and proposed architecture; not adopted**
+**Status: Draft — operational record and implementation proposal; the
+repository responsibility boundary is Accepted, but this document is not
+Adopted**
 
 - **Date prepared and technical-observation cutoff:** 2026-08-24
 - **Prepared by:** Sol (repository audit, read-only technical checks, internal
@@ -13,14 +15,16 @@
 - **Related decision:** [0005 — Registered domains and repository
   responsibility
   boundary](../decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
-  (**Proposed**)
+  (**Accepted 2026-08-24**)
 - **Purpose:** Record the completed owner action and current observable state,
-  then define a reviewable boundary between research authority and future
-  website implementation without building, connecting, or deploying a site
+  document the Accepted boundary between research authority and future website
+  implementation, and propose operational details without building,
+  connecting, or deploying a site
 
 This record separates established actions, public technical observations,
-owner-provided repository facts, and proposed future architecture. Domain
-registration is not trademark clearance, exclusivity, registrability,
+owner-provided repository facts, the Accepted repository responsibility
+boundary, and proposed implementation details. Domain registration is not
+trademark clearance, exclusivity, registrability,
 non-infringement, public launch, or production readiness. Repository presence
 does not make a Draft document Adopted or independently reviewed.
 
@@ -125,15 +129,14 @@ Any later security claim should state its verification date and scope.
 | Repository | Current or proposed authority | Boundary |
 | --- | --- | --- |
 | Public [`aiwelcomeoffice/AI-Rights`](https://github.com/aiwelcomeoffice/AI-Rights) | Current authoritative repository for traceable research; rights and dignity frameworks; policy and governance; education and public-interest documents; decisions and work-cycle records; and source-grounded Draft content | Public visibility does not make every document final, Adopted, or independently reviewed. Each document's own status, version, evidence cutoff, and review record controls |
-| Private [`aiwelcomeoffice/aiwelcomeoffice`](https://github.com/aiwelcomeoffice/aiwelcomeoffice) | **Proposed** authoritative repository for website code; presentation components and accessibility implementation; build and validation tooling; deployment and infrastructure configuration; and future approved integrations, media, or operational automation | It must not become a second uncontrolled source of truth for research, policy, governance, or document status |
+| Private [`aiwelcomeoffice/aiwelcomeoffice`](https://github.com/aiwelcomeoffice/aiwelcomeoffice) | **Accepted** authoritative repository for website code; presentation components and accessibility implementation; build and validation tooling; deployment and infrastructure configuration; and future separately approved integrations | It must not become a second uncontrolled source of truth for research, policy, governance, or document status |
 
 The public repository role above is owner-provided current state. The private
-repository role is an architectural proposal awaiting Disa's decision in
-decision 0005. The public URL and the local `origin` were independently checked
-on 2026-08-24; the URL was reachable without authentication and the local
-remote matched it. Private visibility and the renamed private URL are
-owner-provided, and authenticated remote access was unavailable as recorded
-below.
+repository role was accepted by Disa in decision 0005 on 2026-08-24. The
+public URL and the local `origin` were independently checked on 2026-08-24; the
+URL was reachable without authentication and the local remote matched it.
+Private visibility and the renamed private URL are owner-provided, and
+authenticated remote access was unavailable during WC016 as recorded below.
 
 ### Read-only private-repository inspection
 
@@ -161,9 +164,19 @@ implementation work, obtain authenticated read access, re-audit the renamed
 remote, and reconcile its instructions through a separately authorized change
 in that repository.
 
-## 7. Proposed future content handoff
+### Decision-recording local follow-up — 2026-08-24
 
-If Disa accepts decision 0005, website publication should follow these rules:
+A later local-only check found `../aiwelcomeoffice` clean on `main` at
+`0978cf45007892d84927642d2dcc6e3124e19ef7`, with `origin` set to
+`https://github.com/aiwelcomeoffice/aiwelcomeoffice.git` and only `README.md`
+present. This updates the local planning snapshot but does not rewrite the
+historical WC016 observation. No fetch or authenticated remote inspection was
+performed, so current remote contents and freshness remain unverified.
+
+## 7. Accepted boundary and Draft content-handoff details
+
+Decision 0005 establishes rules 1–4 below. Rules 5–6 and the serialized
+implementation details remain Draft operational proposals:
 
 1. `AI-Rights` remains authoritative for research, governance, policy,
    education, evidence cutoffs, review records, and document status.
@@ -182,10 +195,11 @@ If Disa accepts decision 0005, website publication should follow these rules:
 6. Secrets, registrar credentials, deployment tokens, private keys, personal
    data, and private recovery information are committed to neither repository.
 
-### Proposed publication metadata contract
+### Required publication fields and proposed manifest
 
-The following small manifest is a proposal, not an implemented synchronization
-mechanism:
+Decision 0005 requires the following publication-provenance meanings. The
+serialized manifest shape and synchronization mechanism remain proposals and
+are not implemented:
 
 | Field | Required meaning |
 | --- | --- |
@@ -246,30 +260,31 @@ security, integration, or deployment decision. No Cloudflare resource was
 created, no GitHub connection was made, no nameserver or DNS record was
 changed, no redirect was configured, and nothing was deployed in WC016.
 
-## 9. Unresolved decisions
+## 9. Decision resolution and unresolved decisions
 
-Disa should decide:
+The WC016 responsibility-boundary question was resolved when Disa accepted
+decision 0005 on 2026-08-24 without additional conditions. Disa should still
+decide:
 
-1. whether to accept, reject, or revise the responsibility boundary and
-   publication-provenance requirements in decision 0005;
-2. whether the proposed publication metadata is sufficient and who may
-   approve and run a future synchronization;
-3. how the owner-reported three-year `.org` purchase term should be reconciled
+1. whether the proposed serialized publication manifest is sufficient and who
+   may approve and run a future synchronization;
+2. how the owner-reported three-year `.org` purchase term should be reconciled
    with the public 2030 registry expiry;
-4. whether automatic renewal, MFA, recovery, notifications, access control,
+3. whether automatic renewal, MFA, recovery, notifications, access control,
    and DNS backup have been privately verified;
-5. whether and when authenticated inspection and later modification of the
+4. whether and when authenticated inspection and later modification of the
    renamed private repository should be authorized;
-6. whether Astro, the content-ingestion approach, Cloudflare Workers Static
+5. whether Astro, the content-ingestion approach, Cloudflare Workers Static
    Assets, Cloudflare DNS, and DNSSEC should proceed to a separate technical
    decision; and
-7. what preview, accessibility, security, provenance, rollback, and production
+6. what preview, accessibility, security, provenance, rollback, and production
    approval gates should apply before any public connection or deployment.
 
-The exact WC016 approval point is item 1: the proposed repository
-responsibility boundary. Registration has already occurred and is not awaiting
-retroactive approval through decision 0005. Hosting, DNS connection, redirect,
-and production deployment remain separate future decisions.
+The exact WC016 approval point was the repository responsibility boundary, and
+it is now resolved by Accepted decision 0005. Registration had already
+occurred and did not receive retroactive approval through that decision.
+Hosting, DNS connection, redirect, and production deployment remain separate
+future decisions.
 
 ## 10. Explicit exclusions and review triggers
 

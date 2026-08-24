@@ -59,8 +59,12 @@ registration, domain acquisition, or legal reliance.
 > hosting, or production deployment is established. See the [Draft registered-
 > domain and repository
 > foundation](operations/registered-domains-and-repository-foundation.md) and
-> [Proposed decision
+> [Accepted decision
 > 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md).
+> Decision 0005 establishes distinct public research and private implementation
+> responsibilities and mandatory publication provenance. The operational
+> foundation remains Draft, and no framework, website implementation, DNS,
+> hosting, redirect, publication, or deployment is authorized by that decision.
 
 For a concise policy entry point, start with the [one-page policy
 summary](policy/one-page-policy-summary.md), then read the [executive policy

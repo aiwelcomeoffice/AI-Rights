@@ -108,8 +108,11 @@ later redirect. Neither domain is connected to a public website in the current
 record. Registration is not trademark clearance or launch approval. The [Draft
 registered-domain and repository
 foundation](docs/operations/registered-domains-and-repository-foundation.md)
-records the evidence limits and the Proposed public-research/private-
-implementation repository boundary.
+records the evidence limits. [Accepted decision
+0005](docs/decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+establishes the public-research/private-implementation responsibility boundary
+and publication-provenance requirements without authorizing website
+implementation or deployment.
 
 ## Contributing
 

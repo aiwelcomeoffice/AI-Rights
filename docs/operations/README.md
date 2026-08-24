@@ -18,11 +18,14 @@ information, or deployment secrets.
 - [Registered Domains and Repository
   Foundation](registered-domains-and-repository-foundation.md) — **Draft**
   record of the domains registered by Disa, their publicly observable state on
-  2026-08-24, a proposed public/private repository responsibility boundary,
-  and a proposed publication-provenance contract; no website, DNS, hosting, or
-  deployment work is authorized or implemented
+  2026-08-24, the Accepted public/private repository responsibility boundary,
+  required publication-provenance fields, and a proposed implementation
+  contract; no website, DNS, hosting, or deployment work is authorized or
+  implemented
 
-The proposed repository boundary is awaiting Disa's decision in [decision
+The repository boundary and required publication provenance were accepted by
+Disa on 2026-08-24 in [decision
 0005](../decisions/0005-registered-domains-and-repository-responsibility-boundary.md).
-Document-level statuses in the public research repository remain controlling.
-
+The operational foundation remains Draft, its implementation details remain
+subject to later review, and document-level statuses in the public research
+repository remain controlling.

@@ -33,6 +33,18 @@
 > roles. No website, redirect, hosting connection, or production deployment
 > occurred. Gate 2 and C1–C3 remain paused.
 
+> **Decision 0005 owner resolution — 2026-08-24:** After confirming the exact
+> four-part decision question, Disa explicitly accepted [decision
+> 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+> without additional conditions. `AI-Rights` is authoritative for the stated
+> public research and content responsibilities; `aiwelcomeoffice` is
+> authoritative for the stated implementation and delivery responsibilities;
+> uncontrolled competing copies are prohibited; and website publication must
+> preserve the required source, status, review, approval, and synchronization
+> provenance. The related operational foundation remains Draft. No framework,
+> website implementation, DNS, hosting, redirect, publication, or deployment
+> is authorized through this acceptance.
+
 This backlog records intended work without treating unreviewed ideas as
 decisions. Priorities may change when Disa reviews them as project owner.
 
@@ -1025,6 +1037,11 @@ accepted boundary, define preview and provenance validation, and decide whether
 an Astro scaffold is eligible. It should keep DNS, DNSSEC, hosting connection,
 `.com` redirect, production deployment, professional engagement, and C1–C3
 outside scope unless separately authorized.
+
+**Owner-decision follow-up — 2026-08-24:** Disa subsequently accepted decision
+0005 without additional conditions. The historical WC016 approval point above
+is therefore resolved. Work Cycle 017 is now the recommended next bounded
+cycle; it remains unstarted and separately scoped.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 

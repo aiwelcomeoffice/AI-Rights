@@ -32,7 +32,7 @@ carry verification states that do not imply adoption.
   — **Accepted**
 - [0005 — Registered domains and repository responsibility
   boundary](0005-registered-domains-and-repository-responsibility-boundary.md)
-  — **Proposed**
+  — **Accepted**
 
 AI Welcome Office is the organisation and publisher. AI Rights & Welcome is
 the project whose decisions these records govern unless a record states a
