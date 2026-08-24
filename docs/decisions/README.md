@@ -27,6 +27,9 @@ carry verification states that do not imply adoption.
   direction](0002-primary-visual-exploration-direction.md) — **Accepted**
 - [0003 — AI Welcome Office organisational
   identity](0003-ai-welcome-office-organisational-identity.md) — **Accepted**
+- [0004 — AI Welcome Office review scope and text-first
+  continuation](0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+  — **Proposed**
 
 AI Welcome Office is the organisation and publisher. AI Rights & Welcome is
 the project whose decisions these records govern unless a record states a

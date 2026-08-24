@@ -19,6 +19,16 @@
 > or open-web result cannot by itself clear a name or symbol. No filing,
 > registration, purchase, contact, or transaction was made.
 
+> **Work Cycle 015 follow-up — 2026-08-24:** [Proposed decision
+> 0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+> converts this foundation into an owner-review question, and the [Draft
+> professional word-name search
+> packet](ai-welcome-office-professional-word-name-search-packet.md) packages
+> the proposed instructions for later use. Neither has been approved or sent.
+> Gate 1 remains pending Disa's explicit decision; Gate 2 and C1–C3 remain
+> paused. No new search, legal conclusion, contact, purchase, registration, or
+> public-use authority results from this follow-up.
+
 ## 1. Identity being assessed
 
 | Role | Identity or record | Authority and current limit |

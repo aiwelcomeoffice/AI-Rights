@@ -14,7 +14,7 @@ separate from the working material in [`research/`](../research/README.md).
 - [`brand/`](brand/README.md) — Draft message hierarchy, voice, supporting-
   slogan assessment, campaign and merchandise guardrails, relational-warmth
   requirements, matched exploratory visual prototypes, and AI Welcome Office
-  clearance-readiness planning
+  clearance-readiness, owner-scope, and professional word-name-review planning
 - [`campaigns/`](campaigns/README.md) — four inactive Draft future campaign
   concepts; no campaign is launched or approved for public use
 - [`manifesto.md`](manifesto.md) — Draft public-facing expression of the
@@ -38,6 +38,13 @@ separate from the working material in [`research/`](../research/README.md).
 The current organisation/project naming architecture is recorded in [decision
 0003](decisions/0003-ai-welcome-office-organisational-identity.md). It does not
 change the status or authority of the documents listed here.
+
+[Proposed decision
+0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+asks Disa to decide whether bounded internal text-first identity work may
+continue and to approve a later professional word-name-review scope. It does
+not authorize C1–C3 geometry, public identity use, external contact, or legal
+reliance.
 
 For a concise policy entry point, start with the [one-page policy
 summary](policy/one-page-policy-summary.md), then read the [executive policy

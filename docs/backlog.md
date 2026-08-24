@@ -685,6 +685,127 @@ attribution, and the `AIWO` acronym. Do not resume C1-C3, select an identity,
 authorize production, file, register a domain, or change the CC0 licence as
 part of that instruction step.
 
+## Work Cycle 015 — owner scope decision and professional word-name search packet drafted
+
+### Purpose and owner-decision status
+
+Work Cycle 015 converts the Work Cycle 014 evidence foundation into a clear
+proposal for Disa and a concise instruction packet for possible later use with
+a qualified naming or trademark professional. It does not repeat or extend the
+clearance research.
+
+[Decision
+0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+is **Proposed**. Disa has not yet accepted, rejected, or revised it, and no
+decision date is recorded. Preparation of this work cycle does not count as
+approval of its proposed Gate 1. **Gate 1 remains pending. Gate 2 and C1–C3
+remain paused.**
+
+### Deliverables and repository integration
+
+This cycle creates:
+
+- [Proposed decision
+  0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md),
+  which records the decision question, Work Cycle 014 evidence, options,
+  territorial and actual-use scope, Gate 1 recommendation, continued Gate 2
+  pause, candidate domains and handle, consequences, limitations, review
+  triggers, and exact owner approval points; and
+- the [AI Welcome Office Professional Word-Name Search
+  Packet](brand/ai-welcome-office-professional-word-name-search-packet.md),
+  which records the identity relationship, requester authority, actual uses,
+  minimum and expanded review levels, preliminary Nice-class questions, exact
+  variants, known leads, requested analysis, coverage limits, symbol and
+  combined-mark questions, CC0/provenance questions, refresh triggers, and a
+  small candidate domain and handle appendix.
+
+The [brand index](brand/README.md), [decision index](decisions/README.md), and
+[documentation map](README.md) link the new material. The Work Cycle 014
+[clearance-readiness
+brief](brand/ai-welcome-office-clearance-readiness-brief.md) carries a dated
+follow-up that preserves its research cutoff and access limits.
+
+### Proposed owner direction
+
+Decision 0004 recommends that Disa:
+
+1. authorize **Draft, reversible, internal, text-first identity work** for
+   organisation/project attribution, provisional text hierarchy, website and
+   document naming behavior, accessibility-oriented fallbacks, and internal
+   planning or Draft presentation examples;
+2. keep C1–C3 paused until at least a professionally reviewed word-name search
+   has addressed **AI Welcome Office**, `Welcome.AI`, relevant reversals, and
+   `AIWO`, with any geometry restart requiring a separate owner decision;
+3. approve a staged professional scope covering Sweden; the EU and relevant
+   international registrations affecting Sweden; WIPO/Madrid records;
+   targeted UK and US review; and further jurisdictions only when an actual
+   plan justifies them;
+4. present the genuine current and near-term activities narrowly: open public-
+   interest research, downloadable research/policy/governance/education
+   publications, online publication and education, responsible-technology and
+   AI research and development, repository/document/future-website
+   attribution, and internal Draft visual and communication materials;
+5. treat classes 9, 41, and 42 only as professional search questions, retain
+   class 16 as a future print question, exclude class 35 absent a real service,
+   and exclude unsupported products and services; and
+6. approve `aiwelcomeoffice` and `ai-welcome-office` across `.org`, `.se`, and
+   `.com`, plus `@aiwelcomeoffice`, only as later read-only review questions.
+
+This is a search and risk-review proposal, not a market-entry, worldwide-
+rights, filing, registration, ownership, exclusivity, availability, or
+freedom-to-operate position.
+
+### Exact authorized and unauthorized work
+
+This cycle authorizes only repository audit, drafting, decision support, link
+integration, and validation for the two deliverables above. It authorizes no
+fresh professional or registry search and no external action.
+
+Unless Disa separately decides otherwise, the following remain unauthorized:
+
+- continued Gate 1 work beyond preparing this proposal and packet;
+- all C1–C3 drawing or geometry modification, other Many Forms C refinement,
+  font or colour selection, production assets, and official or public identity
+  use;
+- requesting a quotation, sending the packet, contacting a professional or
+  rights holder, spending money, or starting an engagement;
+- registering, reserving, buying, or creating a domain, handle, account,
+  company name, trademark, design, or other right;
+- changing CC0, adding a trademark symbol, claiming ownership, exclusivity,
+  clearance, registrability, non-infringement, freedom to operate, or apparent
+  availability; and
+- adding clothing, commercial merchandise, legal services, certification,
+  Robot Welcome products, compatibility markings, or another speculative use
+  to the present scope.
+
+### Remaining review gaps
+
+- Disa must review and decide every item listed in decision 0004; the current
+  record remains Proposed.
+- No naming, trademark, company-name, domain, handle, market, unregistered-use,
+  copyright, design, licensing, cultural, multilingual, accessibility, or
+  other independent professional review has occurred.
+- EUIPO/TMview, WIPO/Madrid, Bolagsverket, UK, US, domain, handle, symbol-only,
+  and combined-mark work remains incomplete or unperformed as recorded in Work
+  Cycle 014.
+- `Welcome.AI`, reversals, `AIWO`, and the `AI Rights & Welcome` project
+  attribution remain leads for professional analysis, not legal findings.
+- Actual goods/services terminology, registrability, likelihood of confusion,
+  ownership, applicant identity, provenance, chain of title, and the effect of
+  current CC0 distribution remain unresolved.
+
+### Next recommended step
+
+Disa should review decision 0004 point by point. If Disa accepts it, record the
+actual approval date, decider, scope, changes, and review limits before treating
+Gate 1 or the professional packet scope as authorized. Only after a separate
+instruction should the packet be sent or a professional engagement begin.
+
+Gate 2 does not activate when Gate 1 is approved or completed. After the
+professionally reviewed word-name search is received and its coverage and
+limitations are recorded, Disa may decide separately whether C1–C3 remain
+paused or become eligible for a matched Draft geometry cycle.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -795,6 +916,11 @@ after the foundation documents have been reviewed.
   project's warm, courageous, calm, civic, scientifically honest, playful,
   inclusive, and future-oriented character across serious policy and ordinary
   merchandise.
+- Whether to accept [Proposed decision
+  0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md),
+  including Gate 1, the continued Gate 2 pause, staged territories, actual
+  uses, preliminary class questions, variant scope, candidate domains and
+  handle, and the absence of authorization for external action.
 - Whether Many Forms C should proceed beyond primary exploration after the
   required name, interpretation, accessibility, cultural, and legal review.
 - Whether Reciprocal Signal should remain paused as a primary identity while
