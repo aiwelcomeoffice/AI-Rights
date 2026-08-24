@@ -7,6 +7,7 @@
   internal AI-assisted drafting)
 - **Decision-maker:** Disa, project owner
 - **Decision follow-up recorded:** 2026-08-24
+- **Registered-domain follow-up recorded:** 2026-08-24
 - **Review actually completed:** Disa manually reviewed and approved the
   factual scope in [decision
   0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md);
@@ -21,7 +22,9 @@
 > This brief records uses, questions, search methods, limited observations,
 > and future decision gates. A database result, domain record, repository use,
 > or open-web result cannot by itself clear a name or symbol. No filing,
-> registration, purchase, contact, or transaction was made.
+> purchase, contact, or transaction was made while preparing this brief. The
+> later separate owner registration action is recorded in the WC016 follow-up
+> below.
 
 > **Work Cycle 015 owner-decision follow-up — 2026-08-24:** [Accepted decision
 > 0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
@@ -34,6 +37,20 @@
 > registration, reservation, purchase, configuration, or deployment occurred.
 > No new search, legal conclusion, external contact, spending, filing,
 > registration, or public-use authority results from this follow-up.
+
+> **Work Cycle 016 registered-domain follow-up — 2026-08-24:** After the
+> historical research and decision follow-up above, Disa separately and
+> manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com`. Disa
+> reports a three-year term for both. Public registry records confirm creation
+> of both domain records on 2026-08-24 but do not independently establish the
+> registrant's identity or account action; the public `.org` expiry currently
+> reports 2030-08-24 and therefore needs owner reconciliation with the
+> reported term. Registration does not establish availability as a legal
+> conclusion, trademark clearance, ownership of a trademark, exclusivity,
+> registrability, non-infringement, freedom to operate, public launch, or
+> production readiness. No website connection or deployment is established.
+> See the [Draft registered-domain and repository
+> foundation](../operations/registered-domains-and-repository-foundation.md).
 
 ## 1. Identity being assessed
 
@@ -86,7 +103,7 @@ own a right, or which Nice class would be correct.
 | Public-interest educational material | **Current Draft material; public website use is not yet implemented or approved** | Educational documents concern the project and should carry the organisation/project relationship and their own Draft status |
 | Policy and governance proposals | **Current Draft material** | Proposals remain proposals rather than law, professional advice, or adopted organisational policy |
 | Repository attribution | **Current use** | AI Welcome Office is identified as organisation and publisher; the repository remains named for AI Rights & Welcome |
-| Website attribution | **Near-term proposed use** | Website page Drafts exist, but framework, domain, deployment, and public launch are not selected or authorized |
+| Website attribution | **Near-term proposed use** | Website page Drafts and registered `.org` and `.com` domains exist, but no framework, hosting connection, deployment, or public launch is selected or authorized |
 | Research and development activity | **Current internal and repository activity** | The organisational R&D description remains Proposed/Draft; this row does not claim a regulated, accredited, or client service |
 | Downloadable documents | **Current repository capability** | Markdown, research, policy, educational, and governance files can be downloaded; that fact does not settle whether they are trademark goods or publishing services |
 | Downloadable visual assets | **Current Draft evaluation material only** | Existing SVGs are exploratory comparison sheets under CC0, not an official asset package or authorized mark |
@@ -105,8 +122,8 @@ added to a search or filing scope merely to occupy more classes:
 - legal services or individualized legal advice;
 - product compatibility, product authorization, or manufacturer approval;
 - formation of a company, association, or foundation; and
-- registration of a domain, social account, company name, trademark, or
-  design.
+- configuration or public website use of the registered domains; registration
+  of another domain, social account, company name, trademark, or design.
 
 ## 3. Owner-approved geographic review scope
 
@@ -255,9 +272,10 @@ Decision 0004 selects `aiwelcomeoffice.org` as the primary intended domain,
 selected candidate. The hyphenated `ai-welcome-office` form remains only a
 similarity, impersonation, and defensive-risk search term. No domain or handle
 lookup, registration, reservation, purchase, configuration, account creation,
-or public deployment occurred. A later apparent availability result would
-still not clear a name or establish ownership, priority, exclusivity, or
-freedom to use.
+or public deployment occurred during Work Cycle 014 or the decision-0004
+follow-up. Disa later manually registered both selected domains in the separate
+WC016 owner action recorded above. Registration still does not clear a name or
+establish trademark ownership, priority, exclusivity, or freedom to use.
 
 ### Limited open-web discovery
 
@@ -401,7 +419,8 @@ The territory, actual-use, preliminary class, name-variant, domain, and handle
 scope now has owner approval. The professional packet remains Draft and
 unsent. No quotation, contact, spending, engagement, professional search,
 domain lookup, registration, or other external action occurred in this
-follow-up; packet transmission and professional engagement remain
-unauthorized. C1–C3 remain paused until the professionally reviewed word-name
-search is completed and Disa later resolves Gate 2 through a separate
-decision.
+decision-0004 follow-up. Disa's later manual registration action is recorded
+in the WC016 note above and does not authorize packet transmission,
+professional engagement, DNS or hosting configuration, public deployment, or
+C1–C3. C1–C3 remain paused until the professionally reviewed word-name search
+is completed and Disa later resolves Gate 2 through a separate decision.

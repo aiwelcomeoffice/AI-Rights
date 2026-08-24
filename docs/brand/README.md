@@ -6,6 +6,7 @@
 - **Clearance-readiness brief added:** 2026-08-24
 - **Owner-scope decision accepted and professional packet scope approved:**
   2026-08-24
+- **Registered-domain follow-up recorded:** 2026-08-24
 - **Scope:** Proposed public-message hierarchy, voice, campaign, merchandise,
   organisation/project identity architecture, visual-identity brief,
   relational-warmth requirement, accessibility and safety requirements,
@@ -35,6 +36,15 @@ Use the complete formal name **AI Welcome Office**. Do not introduce “AI
 Welcome” as a separate organisation or competing brand. [Decision
 0003](../decisions/0003-ai-welcome-office-organisational-identity.md) records
 this accepted naming relationship.
+
+Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on
+2026-08-24 as a separate owner action. Registration does not establish
+trademark clearance, ownership of a trademark, exclusivity, registrability,
+non-infringement, public launch, or production readiness. The [Draft
+registered-domain and repository
+foundation](../operations/registered-domains-and-repository-foundation.md)
+records the evidence limits, current public DNS observations, and proposed
+repository boundary.
 
 The following shared description remains **Proposed/Draft** and should be
 adapted with its status and context intact:
@@ -133,8 +143,13 @@ Inclusion is not approval, and the candidates are not equally safe.
   Packet](ai-welcome-office-professional-word-name-search-packet.md) — concise
   Draft instructions with an owner-approved factual scope for a later
   qualified professional, including staged territories, exact variants, known
-  leads, coverage questions, and a read-only domain/handle appendix; not sent
+  leads, coverage questions, and a registered-domain/handle appendix; not sent
   and not clearance
+- [Registered Domains and Repository
+  Foundation](../operations/registered-domains-and-repository-foundation.md) —
+  Draft operational record of the completed owner action, public technical
+  observations, and Proposed public research/private implementation boundary;
+  no website connection or deployment authority
 - [Identity, Licensing, and Trademark Policy
   Proposal](identity-and-trademark-policy-proposal.md) — Draft separation of
   open content, future identity assets, affiliation, and professional-review
@@ -256,9 +271,12 @@ approves the professional packet's factual scope. Gate 2 remains paused:
 C1–C3 do not resume through Gate 1, the packet, or completion of text-first
 work. The approved domain direction is `aiwelcomeoffice.org` as primary and
 `aiwelcomeoffice.com` as complementary or defensive, with
-`@aiwelcomeoffice` as the preferred handle question. No domain or handle was
-looked up, acquired, reserved, configured, deployed, or represented as
-available or owned.
+`@aiwelcomeoffice` as the preferred handle question. During Work Cycle 016,
+Disa separately and manually registered both domains. Public registry records
+confirm creation on 2026-08-24 but do not independently establish the
+registrant's identity or purchase-account details. No public website
+connection, canonical-host rule, `.com` redirect, or production deployment is
+established. The handle remains unverified.
 
 The packet remains **Draft and unsent**. Decision 0004 does not authorize a
 quotation request, professional or rights-holder contact, spending, filing,

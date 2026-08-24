@@ -306,3 +306,27 @@ Reopen or supersede any Accepted version of this decision if:
 
 A later Accepted record should link back and state exactly what it supersedes;
 an Accepted record must not be silently rewritten.
+
+## Implementation follow-up — 2026-08-24 (Work Cycle 016)
+
+After this decision was accepted, Disa separately and manually registered
+`aiwelcomeoffice.org` and `aiwelcomeoffice.com`. Disa reports that both were
+purchased for a three-year term. Public registry data confirms creation of both
+domain records on 2026-08-24 but does not independently establish the
+registrant's identity or account transaction. The `.org` public registry
+expiry currently reports 2030-08-24, which requires owner reconciliation with
+the reported purchase term.
+
+This later established action does not change the historical reasoning,
+decision scope, Gate 1 authorization, Gate 2 pause, or C1–C3 stop condition in
+this Accepted record. It does not establish trademark clearance, exclusivity,
+registrability, non-infringement, public launch, production readiness, or a
+deployed website. Hosting, DNS connection, canonical-host configuration, the
+`.com` redirect, and production deployment remain separate future decisions.
+
+The [Draft registered-domain and repository
+foundation](../operations/registered-domains-and-repository-foundation.md)
+records the current evidence and technical observations. [Proposed decision
+0005](0005-registered-domains-and-repository-responsibility-boundary.md)
+separately asks Disa to decide the public research/private implementation
+repository boundary; it does not supersede this record while Proposed.

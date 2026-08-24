@@ -11,6 +11,10 @@ not legal advice, and not clearance**
   packet's factual scope through [decision
   0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
   on 2026-08-24; the packet itself remains Draft and unsent
+- **Registered-domain follow-up:** Disa separately and manually registered
+  `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on 2026-08-24; see the
+  evidence limits in the [Draft operational
+  record](../operations/registered-domains-and-repository-foundation.md)
 - **Organisation and publisher identity:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Legal-entity status:** This packet does not claim that AI Welcome Office or
@@ -21,8 +25,8 @@ not legal advice, and not clearance**
 - **Current authority:** Owner-approved factual scope for internal preparation
   and later review only. Do not treat this packet as authority to send it,
   request a quotation, contact a professional or rights holder, spend money,
-  file, register, reserve, purchase, create an account, or resume visual
-  refinement
+  file, perform any further registration or purchase, change a domain or
+  account, configure DNS or hosting, deploy, or resume visual refinement
 
 ## 1. Identity and relationship
 
@@ -315,7 +319,8 @@ should be refreshed when:
   appears;
 - a company, association, foundation, or other legal entity is formed, or the
   proposed owner, applicant, publisher, or authorization structure changes;
-- a candidate domain or handle is selected for registration or public use;
+- a registered domain or candidate handle is selected for configuration,
+  connection, redirection, or public use;
 - professional, registry, market, or third-party information identifies a
   material new record, unregistered use, objection, dispute, demand, or
   confusion concern;
@@ -347,20 +352,30 @@ Please return:
 - an explicit statement that no guarantee is provided if that is the proper
   professional limitation.
 
-Do not file, register, reserve, purchase, contact a rights holder, or take any
-other external action unless Disa later gives separate, explicit authority.
+Do not file, perform another registration or purchase, change current domain
+settings, contact a rights holder, or take another external action unless Disa
+later gives separate, explicit authority.
 
-## Appendix A — approved domain direction and handle question for later read-only review
+## Appendix A — registered domains and handle question for later review
 
-This direction is a review question only. Do not register, reserve, purchase,
-configure, deploy, or create any domain, handle, or account as part of the
-review.
+Disa separately and manually registered both intended domains on 2026-08-24.
+This completed owner action did not result from this packet and does not
+authorize a professional engagement, another purchase, DNS or hosting changes,
+deployment, or account creation.
 
-| Type | Intended candidate or question |
-| --- | --- |
-| Primary intended domain | `aiwelcomeoffice.org` |
-| Complementary or defensive intended domain | `aiwelcomeoffice.com` |
-| Preferred cross-platform handle question | `@aiwelcomeoffice` |
+| Type | Domain or question | Current factual status |
+| --- | --- | --- |
+| Primary intended domain | `aiwelcomeoffice.org` | Registered on 2026-08-24; manual action and three-year purchased term are owner-reported |
+| Complementary or defensive intended domain | `aiwelcomeoffice.com` | Registered on 2026-08-24; manual action and three-year purchased term are owner-reported |
+| Preferred cross-platform handle question | `@aiwelcomeoffice` | Not verified or acquired in this record |
+
+Public registry data independently confirms creation of both domain records on
+2026-08-24 without independently establishing registrant identity or account
+details. The public `.com` expiry aligns with the reported three-year term; the
+public `.org` expiry currently reports 2030-08-24 and should be reconciled
+privately with the owner account. The [Draft registered-domain and repository
+foundation](../operations/registered-domains-and-repository-foundation.md)
+records the exact evidence boundary and read-only technical observations.
 
 The `.se` form is not a selected domain candidate. Treat the hyphenated
 `ai-welcome-office` form only as a similarity, impersonation, and defensive-
@@ -369,9 +384,10 @@ risk search term, not as a current registration candidate.
 Please assess relevant registration data, confusingly similar domains or
 handles, impersonation and misdirection risk, and proportionate defensive
 options only within the approved review scope. Neither intended domain has
-been looked up, registered, reserved, purchased, or represented as available
-or owned. Apparent availability is not a legal conclusion or authorization to
-acquire or use anything.
+received professional name, trademark, company-name, unregistered-use, or
+domain-risk review. Registration is not legal clearance, ownership of a
+trademark, exclusivity, priority, registrability, non-infringement, freedom to
+operate, or authorization for public use.
 
 ## Appendix B — repository materials for the reviewer
 

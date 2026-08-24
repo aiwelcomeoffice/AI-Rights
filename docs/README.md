@@ -30,6 +30,9 @@ separate from the working material in [`research/`](../research/README.md).
   and accountability process
 - [`decisions/`](decisions/README.md) — proposed and resolved project decision
   records
+- [`operations/`](operations/README.md) — Draft registered-domain,
+  repository-responsibility, publication-provenance, and delivery-readiness
+  records; no website deployment authority
 - [`website/`](website/README.md) — Draft public website information
   architecture, source map, page specifications, and ten core page Drafts,
   including an inactive Campaigns concept page
@@ -46,6 +49,18 @@ approves a later professional word-name-review scope. Gate 2 and C1–C3 remain
 paused. The professional packet remains Draft and unsent; the decision does
 not authorize public identity use, external contact, spending, filing,
 registration, domain acquisition, or legal reliance.
+
+> **Registered-domain follow-up — 2026-08-24:** Disa separately and manually
+> registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com`. The `.org`
+> domain remains the intended canonical primary domain and `.com` the
+> complementary or defensive domain intended eventually to redirect to it.
+> This later action does not retroactively change decision 0004's authority or
+> the historical Work Cycle 014–015 records. No website connection, redirect,
+> hosting, or production deployment is established. See the [Draft registered-
+> domain and repository
+> foundation](operations/registered-domains-and-repository-foundation.md) and
+> [Proposed decision
+> 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md).
 
 For a concise policy entry point, start with the [one-page policy
 summary](policy/one-page-policy-summary.md), then read the [executive policy

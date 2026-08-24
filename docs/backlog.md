@@ -19,6 +19,20 @@
 > Gate 1 is authorized; Gate 2 and C1–C3 remain paused. The professional packet
 > remains Draft and unsent, and no domain or other external action occurred.
 
+> **Work Cycle 016 factual follow-up — 2026-08-24:** Disa later and separately
+> reported manually registering `aiwelcomeoffice.org` and
+> `aiwelcomeoffice.com` for a three-year term. Public registry records confirm
+> creation of both domain records on 2026-08-24 but do not independently
+> establish the registrant's identity or account action. `.org` remains the
+> intended canonical primary domain; `.com` remains complementary or defensive
+> and is intended eventually to redirect to `.org`. The [Draft operational
+> foundation](operations/registered-domains-and-repository-foundation.md)
+> records current DNS and evidence limits, and [decision
+> 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+> proposes distinct public research and private implementation repository
+> roles. No website, redirect, hosting connection, or production deployment
+> occurred. Gate 2 and C1–C3 remain paused.
+
 This backlog records intended work without treating unreviewed ideas as
 decisions. Priorities may change when Disa reviews them as project owner.
 
@@ -831,6 +845,186 @@ Gate 2 does not activate when Gate 1 is approved or completed. After the
 professionally reviewed word-name search is received and its coverage and
 limitations are recorded, Disa may decide separately whether C1–C3 remain
 paused or become eligible for a matched Draft geometry cycle.
+
+## Work Cycle 016 — registered domains and repository role foundation
+
+### Purpose and current status
+
+Work Cycle 016 records Disa's completed domain-registration action, aligns
+current-facing records with the new factual state, and prepares a distinct
+responsibility boundary between the public research repository and the private
+implementation repository. It does not build, connect, configure, or deploy a
+website.
+
+The assigned roles remain distinct: Disa is project owner, decision-maker,
+final reviewer, committer, and pusher; ChatGPT is central project lead and
+scope coordinator with Disa; and Sol performs the repository audit, drafting,
+implementation, and validation. These role assignments do not turn internal
+AI-assisted work into independent review.
+
+The new [Registered Domains and Repository
+Foundation](operations/registered-domains-and-repository-foundation.md) is
+**Draft**. [Decision
+0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+is **Proposed**. The established owner action is recorded without treating the
+proposed repository architecture as accepted.
+
+### Established owner actions and domain roles
+
+Disa reports manually registering `aiwelcomeoffice.org` and
+`aiwelcomeoffice.com` on **2026-08-24** for a **three-year term**. Registration
+was a separate owner action, not an action performed or authorized by decision
+0004, the professional packet, or Sol.
+
+- `aiwelcomeoffice.org` is the intended canonical primary domain.
+- `aiwelcomeoffice.com` is the complementary or defensive domain intended
+  eventually to redirect to `.org`.
+- Registration does not establish trademark clearance, trademark ownership,
+  exclusivity, registrability, non-infringement, freedom to operate, public
+  launch, or production readiness.
+- Neither registered domain was found connected to a publicly addressable
+  website at the WC016 technical-observation cutoff.
+
+Public RDAP data independently confirmed that both domain records were created
+on 2026-08-24, but it did not independently identify Disa as registrant or
+verify the account transaction. The `.com` public expiry aligns with the
+owner-reported three-year term. The `.org` public expiry reports 2030-08-24,
+which remains to be reconciled privately with the owner account.
+
+### Files created and changed
+
+- **Created:** the [operations
+  index](operations/README.md), [Registered Domains and Repository
+  Foundation](operations/registered-domains-and-repository-foundation.md), and
+  [Proposed decision
+  0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md).
+- **Changed:** the root [repository overview](../README.md), [documentation
+  map](README.md), this backlog, [brand index](brand/README.md), [clearance-
+  readiness brief](brand/ai-welcome-office-clearance-readiness-brief.md),
+  [professional word-name search
+  packet](brand/ai-welcome-office-professional-word-name-search-packet.md),
+  [decision index](decisions/README.md), and [Accepted decision
+  0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+  through a dated non-destructive implementation follow-up.
+
+The Work Cycle 014 and 015 records retain their historical statements that no
+domain action occurred within those cycles. Current follow-ups clarify the
+later separate owner action rather than rewriting history.
+
+### Inspection actually performed
+
+Sol read the required repository instructions, overview, documentation map,
+complete backlog, decision conventions, decision 0004, brand index,
+clearance-readiness brief, professional packet, governance overview, website
+overview, relevant links, repository history, and current Git state.
+
+Read-only public checks on 2026-08-24 found:
+
+- registry records for both domains with creation dates on 2026-08-24 and
+  `client transfer prohibited` status;
+- Cloudflare nameservers for both domains;
+- unsigned registry delegations, so DNSSEC was not configured at the cutoff;
+- no apex A or AAAA answers; and
+- NXDOMAIN responses for both `www` names.
+
+No registrar-account setting or personal data was accessed. Automatic renewal,
+MFA, recovery, access control, and DNS backup arrangements remain unverified.
+
+Authenticated read-only access to the owner-reported renamed private GitHub
+repository, `https://github.com/aiwelcomeoffice/aiwelcomeoffice`, was
+unavailable because this environment had no credentials. A clean local clone
+of its predecessor was inspected at revision
+`4aa60c3e8c73d4a110e8a4d19d49cb09f0902491`. It points to the prior
+`ai-welcome-office` remote and contains only `README.md` and `AGENTS.md`. No
+website, build, validation, hosting, or deployment code was present in that
+snapshot. Its broad project description, older Swedish naming, and a visual
+direction that does not match the current Many Forms C exploration conflict
+with the proposed implementation-only role. Because the clone may be stale, no
+claim is made about current remote contents. The private repository was not
+modified.
+
+### Proposed repository and publication boundary
+
+Decision 0005 recommends that:
+
+- public `AI-Rights` remain authoritative for research, governance, policy,
+  education, decisions, evidence cutoffs, review records, and document status;
+- private `aiwelcomeoffice` become authoritative for website implementation,
+  components, accessibility implementation, validation and build rules,
+  infrastructure, deployment configuration, and later approved integrations;
+- neither repository maintain an uncontrolled divergent copy of the other's
+  authoritative material; and
+- every website publication preserve source repository, path, immutable
+  revision, document status and version, last review date, actual review type,
+  independent-review status, relevant evidence cutoff, Disa's approval for the
+  exact publication revision, and website synchronization date.
+
+The Draft foundation defines a small proposed metadata contract for this
+handoff. It is not implemented in WC016. Website styling, conversion, or
+publication must not turn a Draft into an Adopted or independently reviewed
+document.
+
+### Technical work explicitly deferred
+
+The current candidate direction—Astro; Markdown/MDX or versioned content
+ingestion; a GitHub-based workflow; Cloudflare Workers Static Assets;
+Cloudflare DNS and DNSSEC; preview and validation before production; `.org` as
+canonical host; and `.com` redirecting to `.org`—is recorded only as
+**Proposed technical direction**.
+
+WC016 created no Cloudflare resource, GitHub connection, nameserver change, DNS
+record, DNSSEC configuration, redirect, hosting connection, website code,
+publication synchronization, or production deployment. It did not modify the
+private repository, duplicate or migrate research content, expose secrets or
+personal registration data, contact a professional or rights holder, spend
+money, change licensing, resume C1–C3, or select typography, colours, or
+production identity assets.
+
+### Validation performed
+
+- Every repository-local Markdown link target was checked; no broken local
+  target was found. The newly added RDAP, public-DNS, and public GitHub links
+  returned successful responses. The private GitHub URL returned the expected
+  unauthenticated not-found response and was not treated as publicly readable.
+- `git diff --check` passed, and the complete change set was reviewed for
+  unintended historical, scientific, legal, licensing, status, and authority
+  changes.
+- Targeted scans confirmed that both domains are described as registered,
+  `.org` remains primary, `.com` remains complementary or defensive, the
+  registration action is separate from trademark clearance and launch, current
+  technical observations remain separate from future proposals, and the two
+  repositories have distinct Proposed responsibilities.
+- A credential and secret-pattern scan of every WC016-created or changed file
+  returned no private key, token, credential assignment, or payment-card
+  pattern. No registrar-account, recovery, payment, or personal registrant data
+  was added.
+- The local predecessor implementation-repository clone remained clean after
+  inspection. No hosting, DNS, deployment, private-repository, C1–C3, identity-
+  asset, or external-contact action occurred.
+
+### Disa's exact remaining decision
+
+Disa should accept, reject, or revise the four-part repository responsibility
+boundary in **Proposed decision 0005**. In particular, Disa must decide whether
+`AI-Rights` controls research/content authority, `aiwelcomeoffice` controls
+implementation/delivery authority, divergent research copies are prohibited,
+and the proposed publication-provenance fields are mandatory.
+
+That is the exact WC016 approval point. The completed domain registrations are
+not awaiting retroactive approval. Framework selection, authenticated private-
+repository modification, DNS, DNSSEC, hosting, redirect, and production
+deployment remain later decisions even if decision 0005 is accepted.
+
+### Recommended next work cycle
+
+After Disa resolves decision 0005, the recommended **Work Cycle 017** is a
+private implementation-repository baseline and non-production website-
+architecture cycle. It should first obtain authenticated access and re-audit
+the renamed remote, then reconcile its README and instructions with the
+accepted boundary, define preview and provenance validation, and decide whether
+an Astro scaffold is eligible. It should keep DNS, DNSSEC, hosting connection,
+`.com` redirect, production deployment, professional engagement, and C1–C3
+outside scope unless separately authorized.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 

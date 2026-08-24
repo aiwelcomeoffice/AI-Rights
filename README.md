@@ -92,6 +92,7 @@ Start with:
 - [Research workspace](research/README.md)
 - [Draft governance and adoption process](docs/governance/README.md)
 - [Draft public website content architecture](docs/website/README.md)
+- [Draft operations and delivery-readiness records](docs/operations/README.md)
 - [Project backlog](docs/backlog.md)
 - [Decision records](docs/decisions/README.md)
 
@@ -99,6 +100,16 @@ The organisation/project relationship and publisher attribution are recorded
 in [decision 0003](docs/decisions/0003-ai-welcome-office-organisational-identity.md).
 That naming decision does not adopt the repository's Draft scientific,
 ethical, policy, governance, website, or visual-identity material.
+
+Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on
+2026-08-24 as a separate owner action. `.org` is the intended canonical
+primary domain and `.com` the complementary or defensive domain intended for a
+later redirect. Neither domain is connected to a public website in the current
+record. Registration is not trademark clearance or launch approval. The [Draft
+registered-domain and repository
+foundation](docs/operations/registered-domains-and-repository-foundation.md)
+records the evidence limits and the Proposed public-research/private-
+implementation repository boundary.
 
 ## Contributing
 
