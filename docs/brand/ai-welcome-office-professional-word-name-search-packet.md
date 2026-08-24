@@ -7,6 +7,10 @@ not legal advice, and not clearance**
 - **Prepared by:** Sol (repository audit and internal AI-assisted drafting)
 - **Requester and decision authority:** Disa, project owner and final
   decision-maker
+- **Owner-approved factual scope:** Disa manually reviewed and approved this
+  packet's factual scope through [decision
+  0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+  on 2026-08-24; the packet itself remains Draft and unsent
 - **Organisation and publisher identity:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Legal-entity status:** This packet does not claim that AI Welcome Office or
@@ -14,10 +18,11 @@ not legal advice, and not clearance**
   other legal entity
 - **Purpose:** Give a qualified naming or trademark professional a concise,
   factual scope for a later word-name and related risk review
-- **Current authority:** Preparation only. Do not treat this packet as
-  authority to request a quotation, contact a professional or rights holder,
-  spend money, file, register, reserve, purchase, create an account, or resume
-  visual refinement
+- **Current authority:** Owner-approved factual scope for internal preparation
+  and later review only. Do not treat this packet as authority to send it,
+  request a quotation, contact a professional or rights holder, spend money,
+  file, register, reserve, purchase, create an account, or resume visual
+  refinement
 
 ## 1. Identity and relationship
 
@@ -71,38 +76,30 @@ The present scope excludes:
 - entity formation, a public campaign, registration, filing, fundraising,
   partnership, production, or sale.
 
-## 3. Proposed territories and two review levels
+## 3. Owner-approved staged territory scope
 
 This scope is for search and risk review. It does not declare market entry,
 worldwide activity, intended filing coverage, or existing rights.
 
-### Minimum viable review
-
-Review the word name for the actual uses above across:
+Review the word name for the actual uses above in this order:
 
 1. **Sweden**, including the national trademark layer and the company-name or
    other domestic layers needed to state a responsible Swedish risk view;
-2. **European Union**, including relevant EU rights affecting Sweden; and
-3. **relevant WIPO/Madrid international records**, including registrations and
-   designations affecting Sweden or the EU.
-
-If company-name or unregistered-use analysis is not included at this level,
-state that exclusion and how it limits the opinion.
-
-### Expanded review
-
-Add:
-
-1. targeted **United Kingdom** and **United States** trademark, company-name,
+2. **European Union**, including relevant EU rights and international
+   registrations affecting Sweden;
+3. **relevant WIPO/Madrid international records**, with registrations,
+   designations, and status considered rather than treating a database as
+   worldwide clearance;
+4. targeted **United Kingdom** and **United States** trademark, company-name,
    market, and relevant unregistered-use analysis, justified by English-
    language publication and the known leads below; and
-2. proportionate additional company/organisation-name, domain, handle,
-   publisher, market, common-law or other unregistered-use investigation in
-   the selected territories.
+5. another jurisdiction only when a concrete activity, audience, partner,
+   funder, product, event, or operational plan justifies it.
 
-Recommend another jurisdiction only if a concrete activity, audience,
-partner, funder, product, event, language, or operational plan justifies it.
-Please distinguish WIPO database coverage from rights effective in a
+Include proportionate company/organisation-name, domain, handle, publisher,
+market, common-law, or other unregistered-use investigation in the selected
+territories. State any excluded layer and how that exclusion limits the
+opinion. Distinguish WIPO database coverage from rights effective in a
 particular territory.
 
 ## 4. Preliminary Nice-class questions
@@ -353,32 +350,35 @@ Please return:
 Do not file, register, reserve, purchase, contact a rights holder, or take any
 other external action unless Disa later gives separate, explicit authority.
 
-## Appendix A — candidate domains and handle for later read-only review
+## Appendix A — approved domain direction and handle question for later read-only review
 
-These candidates are review questions only. Do not register, reserve,
-purchase, or create them as part of the review.
+This direction is a review question only. Do not register, reserve, purchase,
+configure, deploy, or create any domain, handle, or account as part of the
+review.
 
-| Type | Candidate |
+| Type | Intended candidate or question |
 | --- | --- |
-| Domain | `aiwelcomeoffice.org` |
-| Domain | `aiwelcomeoffice.se` |
-| Domain | `aiwelcomeoffice.com` |
-| Domain | `ai-welcome-office.org` |
-| Domain | `ai-welcome-office.se` |
-| Domain | `ai-welcome-office.com` |
+| Primary intended domain | `aiwelcomeoffice.org` |
+| Complementary or defensive intended domain | `aiwelcomeoffice.com` |
 | Preferred cross-platform handle question | `@aiwelcomeoffice` |
+
+The `.se` form is not a selected domain candidate. Treat the hyphenated
+`ai-welcome-office` form only as a similarity, impersonation, and defensive-
+risk search term, not as a current registration candidate.
 
 Please assess relevant registration data, confusingly similar domains or
 handles, impersonation and misdirection risk, and proportionate defensive
-options only within the selected review level. Apparent availability is not a
-legal conclusion or authorization to acquire or use anything.
+options only within the approved review scope. Neither intended domain has
+been looked up, registered, reserved, purchased, or represented as available
+or owned. Apparent availability is not a legal conclusion or authorization to
+acquire or use anything.
 
 ## Appendix B — repository materials for the reviewer
 
 Supply the current versions of:
 
 - [decision 0003](../decisions/0003-ai-welcome-office-organisational-identity.md)
-  and, if accepted, [decision
+  and accepted [decision
   0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md);
 - the [Work Cycle 014 clearance-readiness
   brief](ai-welcome-office-clearance-readiness-brief.md);
@@ -391,6 +391,7 @@ Supply the current versions of:
   proposal](identity-and-trademark-policy-proposal.md); and
 - the root [CC0 licence](../../LICENSE).
 
-Before transmission, confirm that the identity, activity, territory,
-candidate, provenance, and decision-status facts remain current. If decision
-0004 is still Proposed, do not present its scope as owner-approved.
+Before any separately authorized transmission, confirm that the identity,
+activity, territory, candidate, provenance, and decision-status facts remain
+current. Decision 0004 approves the packet's factual scope; it does not
+authorize transmission or a professional engagement.

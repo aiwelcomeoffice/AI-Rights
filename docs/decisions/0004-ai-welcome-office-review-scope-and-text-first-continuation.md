@@ -1,15 +1,16 @@
 # 0004 — AI Welcome Office review scope and text-first continuation
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date proposed:** 2026-08-24
-- **Decision date:** Not decided
+- **Decision date:** 2026-08-24
 - **Decider:** Disa
-- **Prepared by:** Sol (repository audit, internal AI-assisted drafting, and
-  decision support)
+- **Owner decision and manual review:** Disa
+- **Internal AI-assisted support:** Sol (repository audit, drafting,
+  implementation, and decision support)
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Decision scope:** Whether to authorize reversible internal text-first
-  identity work; retain the pause on C1–C3 geometry; and approve the territory,
+- **Decision scope:** Authorization of reversible internal text-first identity
+  work; retention of the pause on C1–C3 geometry; and approval of the territory,
   actual-use, preliminary class, name-variant, domain, and handle scope for a
   later professional word-name review. No legal clearance, public-production
   authority, filing, registration, purchase, licence change, or visual-identity
@@ -36,11 +37,12 @@ legal entity, clear either name, create ownership or exclusivity, authorize a
 public identity, or change the repository's CC0 licence.
 
 Work Cycle 014 converted that naming architecture into a bounded
-clearance-readiness foundation. Disa now needs to decide whether low-risk,
-reversible text-first work may continue and what factual scope a qualified
-naming or trademark professional should later review. That decision must not
-silently reopen the paused Many Forms C geometry work or authorize external
-reliance on the name.
+clearance-readiness foundation. Work Cycle 015 then asked Disa whether
+low-risk, reversible text-first work could continue and what factual scope a
+qualified naming or trademark professional should later review. Disa answered
+that question through the decision recorded below. The decision does not
+reopen the paused Many Forms C geometry work or authorize external reliance on
+the name.
 
 ## Decision question
 
@@ -110,9 +112,9 @@ This is not eligible on the present evidence. There is no professional
 clearance, official symbol, selected typography or colours, production review,
 ownership conclusion, or public-use decision.
 
-## Proposed territorial search scope
+## Approved territorial search scope
 
-The proposed professional search and risk-review sequence is:
+The owner-approved professional search and risk-review sequence is:
 
 1. **Sweden**;
 2. **European Union**, including relevant EU rights and international
@@ -129,7 +131,7 @@ The proposed professional search and risk-review sequence is:
 This is a staged search and risk-review scope. It is not a declaration of
 market entry, worldwide activity, rights, or intended filing coverage.
 
-## Proposed actual-use and class scope
+## Approved actual-use and class scope
 
 The professional should receive the following as genuine current or near-term
 activity, with timing and limits preserved:
@@ -156,10 +158,10 @@ goods-and-services specification. Keep:
   Welcome products, compatibility markings, and every other unsupported use
   outside the present scope.
 
-## Gate 1 recommendation — internal text-first work
+## Gate 1 — authorized internal text-first work
 
-The proposal is to authorize continued **Draft, reversible, internal,
-text-first identity work**. It may include:
+Disa authorizes continued **Draft, reversible, internal, text-first identity
+work**. It may include:
 
 - organisation/project attribution rules;
 - provisional text hierarchy;
@@ -167,68 +169,102 @@ text-first identity work**. It may include:
 - accessibility-oriented text-first fallbacks; and
 - internal planning and Draft presentation examples.
 
-Gate 1 would not imply legal clearance; an official or final logo; public or
+Gate 1 does not imply legal clearance; an official or final logo; public or
 production authorization; selected typography or colours; ownership,
-exclusivity, or registration; or approval of C1–C3.
+exclusivity, trademark rights, or registration; or approval of C1–C3.
 
-## Gate 2 recommendation — geometry remains paused
+## Gate 2 — geometry remains paused
 
 Keep C1–C3 paused until at least a professionally reviewed word-name search has
-addressed **AI Welcome Office**, `Welcome.AI`, relevant reversals, and the
-`AIWO` acronym. Completion of Gate 1 work would not activate Gate 2. Resuming
-geometry would require a separate, explicit owner decision after the review is
-recorded with its coverage and limitations.
+addressed **AI Welcome Office**, `Welcome.AI`, relevant word reversals, the
+`AIWO` acronym, and **AI Rights & Welcome** in the actual organisation/project
+attribution. Completion of Gate 1 work does not activate Gate 2. Resuming
+geometry requires a later, separate, explicit owner decision after the review
+is recorded with its coverage and limitations.
 
-## Candidate domain and handle appendix
+## Approved domain direction and handle question
 
-The following are questions for a later **read-only** availability and risk
-review only:
+The owner-approved direction for a later **read-only** availability and risk
+review is:
 
-- labels: `aiwelcomeoffice` and `ai-welcome-office`;
-- initial top-level domains: `.org`, `.se`, and `.com`; and
-- preferred consistent platform-handle question: `@aiwelcomeoffice`.
+- **Primary intended domain:** `aiwelcomeoffice.org`
+- **Complementary or defensive intended domain:** `aiwelcomeoffice.com`
+- **Preferred platform-handle question:** `@aiwelcomeoffice`
 
-No candidate is approved for registration, reservation, purchase, account
-creation, or public use. Apparent availability would not establish legal
-availability, ownership, priority, exclusivity, or freedom to use.
+The `.se` form is removed from the selected domain candidates. The hyphenated
+`ai-welcome-office` form remains only a similarity, impersonation, and
+defensive-risk search term; it is not currently selected as a registration
+candidate.
 
-## Proposed decision for Disa's approval
+This direction approves only the defined later read-only review scope. It does
+not perform that review or authorize registration, reservation, purchase,
+account creation, configuration, or public deployment. No selected domain or
+handle is represented as available, registered, reserved, owned, or legally
+usable. Apparent availability would not establish legal availability,
+ownership, priority, exclusivity, or freedom to use.
 
-Approve the proposed territorial, actual-use, preliminary class, variant,
-domain, and handle scope; authorize Gate 1 under its stated limits; and retain
-the Gate 2 pause under its stated minimum professional-review condition.
+## Decision
+
+Disa accepts this decision with the domain revision recorded above.
+
+- **Gate 1 is authorized.** Draft, reversible, internal, text-first work may
+  continue for organisation/project attribution rules, provisional text
+  hierarchy, website and document naming behavior, accessibility-oriented
+  text-first fallbacks, internal planning, and Draft presentation examples.
+- **Gate 2 remains paused.** C1–C3 and all Many Forms C geometry refinement
+  remain paused until at least the professional word-name review described
+  above has been completed and recorded. Gate 1 does not activate Gate 2, and
+  only a later separate owner decision can resume geometry.
+- **The staged professional-review scope is approved** for Sweden; the
+  European Union and relevant international registrations affecting Sweden;
+  WIPO/Madrid records; targeted United Kingdom and United States review due to
+  English-language publication and the Work Cycle 014 leads; and further
+  jurisdictions only when an actual activity, audience, partner, funder,
+  product, event, or operational plan justifies them. This is not a statement
+  of market entry, worldwide activity, intended filing coverage, or rights.
+- **The current and near-term factual activity scope is approved** as open
+  public-interest research; downloadable research, policy, governance, and
+  educational publications; online publication and education; research and
+  development concerning responsible technology and AI; repository and
+  document attribution; future website attribution as a near-term proposal;
+  and Draft visual and communication material for planning and review.
+  Unsupported commercial, legal, certification, compatibility, hardware, and
+  Robot Welcome product activities remain excluded.
+- **Nice classes 9, 41, and 42 are approved as professional search and review
+  questions only.** Class 16 remains a future question if actual printed
+  publication begins. Class 35 remains excluded unless a real promotional or
+  public-relations service is defined. These are not filing instructions or
+  adopted legal classifications.
+- **The complete name and similarity scope in the professional packet is
+  approved.** It includes AI Welcome Office; punctuation, spacing, spelling,
+  and phonetic variants; AI Welcome; Welcome AI; `Welcome.AI`; relevant word
+  reversals; `AIWO`; contextually relevant `AWO` results; AI Rights & Welcome;
+  the combined organisation/project attribution; and relevant Swedish
+  interpretations used only as search terms. “AI Welcome” does not become a
+  separate formal organisation.
+- **The domain direction is `aiwelcomeoffice.org` plus
+  `aiwelcomeoffice.com`,** with `@aiwelcomeoffice` as the preferred platform-
+  handle question. `.se` is not a selected domain candidate, and the
+  hyphenated form remains only a similarity and defensive-risk search term.
 
 The [professional word-name search
-packet](../brand/ai-welcome-office-professional-word-name-search-packet.md) may
-then serve as the Draft instruction base for a qualified professional. This
-approval would not authorize requesting a quotation, sending the packet,
-contacting anyone, spending money, conducting a professional engagement,
-registering anything, or making a public reliance statement.
-
-## Exact points requiring Disa's approval
-
-Disa should explicitly confirm or revise each point:
-
-1. Gate 1 authorization and every listed text-first boundary;
-2. continued Gate 2 pause and its minimum word-name-review condition;
-3. the staged territorial scope, including targeted UK and US review;
-4. the current and near-term actual-use description;
-5. classes 9, 41, and 42 as questions only, with classes 16 and 35 treated as
-   stated and unsupported activities excluded;
-6. the full name/similarity scope in the professional packet, including
-   `Welcome.AI`, reversals, `AIWO`, and the project attribution;
-7. the two domain labels, three initial top-level domains, and preferred handle
-   as later read-only review questions; and
-8. the absence of authority to contact, spend, file, register, reserve,
-   purchase, create accounts, resume geometry, select production assets, or
-   authorize public identity use.
+packet](../brand/ai-welcome-office-professional-word-name-search-packet.md) now
+has an owner-approved factual scope but remains **Draft and unsent**. This
+decision does not authorize requesting a quotation; sending the packet;
+contacting a professional or rights holder; spending money; filing or
+registering anything; buying or reserving a domain; creating an account;
+resuming geometry; selecting a final identity; authorizing public-production
+identity use; changing the CC0 licence; adding `™` or `®`; or claiming
+clearance, ownership, registrability, exclusivity, non-infringement, freedom to
+operate, or availability.
 
 ## Review record and limitations
 
-- Disa provided the Work Cycle 015 scope and remains the sole decider. No
-  approval of this proposal has been recorded.
-- Sol reviewed the required repository documents and prepared this proposal
-  and packet through internal AI-assisted work.
+- Disa provided the Work Cycle 015 scope, manually reviewed the decision, and
+  approved it with the recorded domain revision as project owner and sole
+  decider on **2026-08-24**.
+- Sol separately reviewed the required repository documents and provided
+  internal AI-assisted drafting, implementation, audit, and decision support.
 - No qualified naming, trademark, company-name, domain, copyright, design,
   licensing, cultural, multilingual, accessibility, or other independent
   professional reviewed this record.
@@ -238,29 +274,18 @@ Disa should explicitly confirm or revise each point:
   opinion must be limited to its stated facts, territories, uses, marks,
   sources, date, and access constraints.
 
-## Decision
-
-**Not decided.** This record remains **Proposed**. Only Disa may approve,
-reject, or revise it, set the decision date, and accurately record the review
-that actually occurred.
-
 ## Consequences and limitations
-
-If accepted as proposed:
 
 - internal attribution and text hierarchy can continue in Draft, reversible
   form;
 - the professional packet will have an owner-approved factual scope but will
   remain unsent until separately authorized;
-- C1–C3 and all other symbol refinement will remain paused;
+- C1–C3 and all Many Forms C geometry refinement will remain paused;
 - professional review may recommend narrowing, changing, or abandoning any
   candidate, territory, class, domain, or handle; and
 - no legal entity, right, registration, ownership, exclusivity, clearance,
   freedom to operate, final identity, public-use authority, licence change, or
   availability conclusion will result from this decision.
-
-If not accepted, the existing Work Cycle 014 position remains: Gate 1 is
-pending, Gate 2 is paused, and the packet is only an internal Draft.
 
 ## Review and supersession triggers
 

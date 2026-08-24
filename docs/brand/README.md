@@ -4,16 +4,18 @@
 
 - **Foundation prepared:** 2026-08-23
 - **Clearance-readiness brief added:** 2026-08-24
-- **Owner-scope proposal and professional instruction packet added:**
+- **Owner-scope decision accepted and professional packet scope approved:**
   2026-08-24
 - **Scope:** Proposed public-message hierarchy, voice, campaign, merchandise,
   organisation/project identity architecture, visual-identity brief,
   relational-warmth requirement, accessibility and safety requirements,
   exploratory concept directions, matched low-fidelity prototypes, and a
   bounded clearance-readiness and professional word-name-review handoff
-- **Authority:** Prepared for Disa's review; not adopted
-- **Review:** Project-owner and internal AI-assisted review only; Disa's final
-  manual review of this version is pending; no external communications,
+- **Authority:** Draft foundation prepared for Disa's review; not adopted.
+  Decision 0004 accepts only its stated bounded scope
+- **Review:** Disa manually approved only the factual scope recorded in
+  decision 0004; Sol's support is internal and AI-assisted. Other Draft brand
+  material remains pending final owner review; no external communications,
   design, accessibility, historical-sensitivity, legal, or independent
   scientific review
 
@@ -129,9 +131,10 @@ Inclusion is not approval, and the candidates are not equally safe.
   legal advice or clearance
 - [AI Welcome Office Professional Word-Name Search
   Packet](ai-welcome-office-professional-word-name-search-packet.md) — concise
-  Draft instructions for a later qualified professional, including minimum and
-  expanded review levels, exact variants, known leads, coverage questions, and
-  a read-only domain/handle appendix; not sent and not clearance
+  Draft instructions with an owner-approved factual scope for a later
+  qualified professional, including staged territories, exact variants, known
+  leads, coverage questions, and a read-only domain/handle appendix; not sent
+  and not clearance
 - [Identity, Licensing, and Trademark Policy
   Proposal](identity-and-trademark-policy-proposal.md) — Draft separation of
   open content, future identity assets, affiliation, and professional-review
@@ -238,18 +241,31 @@ review status, cultural risks, and whether meaning and tone were preserved.
 
 ## Current review posture
 
-All material in this directory remains **Draft**. The campaign and visual
-concepts have project-owner and internal AI-assisted review only, with Disa's
-final manual review pending. No external communications, brand,
-accessibility, cultural or historical-sensitivity, legal or trademark,
-human-factors, robotics, manufacturing, or independent scientific review
-should be assumed.
+All material in this directory remains **Draft**. Disa's manual approval of
+decision 0004 establishes only the bounded scope described below; it does not
+adopt the brief, packet, campaign, visual, scientific, legal, or licensing
+material. The campaign and visual concepts otherwise have project-owner and
+internal AI-assisted review only, with final manual review pending. No external
+communications, brand, accessibility, cultural or historical-sensitivity,
+legal or trademark, human-factors, robotics, manufacturing, or independent
+scientific review should be assumed.
 
 [Decision 0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
-proposes, but does not yet authorize, bounded internal text-first work and a
-professional word-name-review scope. Its Gate 1 remains pending Disa's explicit
-approval. Gate 2 remains paused: C1–C3 do not resume through the proposal, the
-packet, or completion of text-first work.
+authorizes bounded **Draft, reversible, internal, text-first** work and
+approves the professional packet's factual scope. Gate 2 remains paused:
+C1–C3 do not resume through Gate 1, the packet, or completion of text-first
+work. The approved domain direction is `aiwelcomeoffice.org` as primary and
+`aiwelcomeoffice.com` as complementary or defensive, with
+`@aiwelcomeoffice` as the preferred handle question. No domain or handle was
+looked up, acquired, reserved, configured, deployed, or represented as
+available or owned.
+
+The packet remains **Draft and unsent**. Decision 0004 does not authorize a
+quotation request, professional or rights-holder contact, spending, filing,
+registration, domain acquisition, account creation, geometry work, final
+identity selection, public-production use, licence change, `™` or `®`, or a
+claim of clearance, ownership, exclusivity, registrability, non-infringement,
+or freedom to operate.
 
 Public launch, adoption of a supporting message, visual design, translation,
 production, sale, or operational Robot Welcome use requires a later owner
@@ -275,10 +291,7 @@ Disa should decide:
   companionship without claiming reciprocal subjective experience;
 - whether the visual accessibility, authority-confusion, originality,
   cultural, production, and Robot Welcome safety gates are strong enough;
-- whether to accept [Proposed decision
-  0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md),
-  including Gate 1, the continued Gate 2 pause, the staged territories, actual
-  uses, preliminary class questions, name variants, and read-only domain and
-  handle candidates; and
+- whether and when to authorize sending the owner-scoped Draft professional
+  packet or beginning a professional engagement; and
 - what external review and official-name clearance should precede any public
   campaign, design, production, filing, or launch.

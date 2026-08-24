@@ -6,8 +6,12 @@
 - **Prepared by:** Sol (repository audit, limited read-only research, and
   internal AI-assisted drafting)
 - **Decision-maker:** Disa, project owner
-- **Review actually completed:** Project-owner direction and internal
-  AI-assisted review only; Disa's manual review of this Draft is pending
+- **Decision follow-up recorded:** 2026-08-24
+- **Review actually completed:** Disa manually reviewed and approved the
+  factual scope in [decision
+  0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md);
+  Sol's repository audit, drafting, and implementation remain separate
+  internal AI-assisted support. This brief remains Draft
 - **External review:** None. No trademark, naming, company-name, domain,
   cultural, multilingual, design, or other independent professional review
 - **Purpose:** Prepare a bounded, reproducible handoff for later professional
@@ -19,15 +23,17 @@
 > or open-web result cannot by itself clear a name or symbol. No filing,
 > registration, purchase, contact, or transaction was made.
 
-> **Work Cycle 015 follow-up — 2026-08-24:** [Proposed decision
+> **Work Cycle 015 owner-decision follow-up — 2026-08-24:** [Accepted decision
 > 0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
-> converts this foundation into an owner-review question, and the [Draft
+> authorizes bounded Gate 1 text-first work and approves the factual scope in
+> the [Draft
 > professional word-name search
-> packet](ai-welcome-office-professional-word-name-search-packet.md) packages
-> the proposed instructions for later use. Neither has been approved or sent.
-> Gate 1 remains pending Disa's explicit decision; Gate 2 and C1–C3 remain
-> paused. No new search, legal conclusion, contact, purchase, registration, or
-> public-use authority results from this follow-up.
+> packet](ai-welcome-office-professional-word-name-search-packet.md). The
+> packet remains unsent. Gate 2 and C1–C3 remain paused. The approved domain
+> direction is `aiwelcomeoffice.org` plus `aiwelcomeoffice.com`; no lookup,
+> registration, reservation, purchase, configuration, or deployment occurred.
+> No new search, legal conclusion, external contact, spending, filing,
+> registration, or public-use authority results from this follow-up.
 
 ## 1. Identity being assessed
 
@@ -102,16 +108,17 @@ added to a search or filing scope merely to occupy more classes:
 - registration of a domain, social account, company name, trademark, or
   design.
 
-## 3. Proposed geographic review priorities
+## 3. Owner-approved geographic review scope
 
-The following is a **proposal for Disa's decision**, not an adopted territory
-list and not a statement that rights exist in any territory.
+The following is the staged professional search and risk-review scope approved
+by Disa in decision 0004. It is not a declaration of market entry, worldwide
+activity, intended filing coverage, or rights in any territory.
 
-| Tier | Proposed scope | Why it may matter | Decision limit |
+| Tier | Approved review scope | Why it may matter | Decision limit |
 | ---: | --- | --- | --- |
-| 1 | **Sweden** | The repository already maintains Swedish wording and has used Swedish official sources. PRV explains that Swedish national, EU, and relevant international trademark layers all need consideration for a picture of marks that apply in Sweden | Disa should confirm the intended Swedish activities and whether any future legal form is contemplated before a professional company-name or mark search is commissioned |
+| 1 | **Sweden** | The repository already maintains Swedish wording and has used Swedish official sources. PRV explains that Swedish national, EU, and relevant international trademark layers all need consideration for a picture of marks that apply in Sweden | Scope approval does not settle a future legal form, company-name conclusion, or authority to commission a search |
 | 2 | **European Union** | An EU trademark can apply across EU member states, including Sweden. EUIPO and participating national records therefore matter even when Sweden is the first operational focus | This tier does not assume an EU-wide launch, filing, or commercial plan |
-| 3 | **Relevant international databases and selected English-language markets** | WIPO collections can identify relevant Madrid and participating national or regional records. The project's English-language publication plans and the preliminary `Welcome.AI` and `AIWO` observations justify initial professional consideration of the United Kingdom and United States | UK and US searching should be scoped to actual publication, partnership, fundraising, software, education, or research plans. It should not automatically expand to every English-speaking country |
+| 3 | **WIPO/Madrid records and targeted English-language markets** | Relevant Madrid records must be assessed without treating WIPO database coverage as worldwide clearance. The project's English-language publication and the preliminary `Welcome.AI` and `AIWO` observations justify targeted professional review of the United Kingdom and United States | UK and US review remains limited to the approved current and near-term research, publication, education, attribution, and Draft-planning activities. It does not automatically expand to every English-speaking country or to unsupported products or services |
 | 4 | **Later jurisdiction tied to an actual plan** | A new publication audience, partner, event, office, service, product, funder, language, domain, or operational presence can create a concrete reason for another national review | Add a jurisdiction only through a dated scope decision; do not treat global web accessibility as a complete worldwide-use plan |
 
 PRV's [official database guidance](https://www.prv.se/en/trademarks/prepare-for-the-trademark-application/trademark-databases/)
@@ -239,17 +246,18 @@ does not mean that the database contains no relevant record.
 | [WIPO Global Brand Database](https://www.wipo.int/en/web/global-brand-database) — Madrid and participating collections | Planned exact, fuzzy, phonetic, word-stem, class, owner, jurisdiction, and image searches across the variant matrix | The interactive search presented an anti-automation challenge. No result set was retrieved. WIPO's [terms](https://www.wipo.int/en/web/global-brand-database/terms_and_conditions) prohibit automated querying and warn that results express no legal opinion | WIPO says the database combines Madrid and participating national or regional collections but recommends national and regional office searches as well. Coverage and update timing vary; it cannot by itself establish absence or clearance |
 | [WIPO Madrid Monitor](https://www3.wipo.int/madrid/monitor/en/index.jsp) — international registrations under the Madrid System | Planned mark-name variants; Sweden and EU designations; active, pending, and materially recent inactive records; classes 9/41/42 and any later authorized class | Interface and help material were reviewed, but no reproducible result set was captured | Can show Madrid bibliographic, status, classification, and designation information. It does not replace national or regional review or a legal analysis |
 | [Bolagsverket — Search company information](https://foretagsinfo.bolagsverket.se/sok-foretagsinformation-web/foretag) — Sweden | Planned exact and close company/organization-name searches, including the English name, punctuation, word-order variants, Swedish interpretations, `AIWO`, and context-relevant `AWO`; inspect registered activity descriptions and entity type | The JavaScript-dependent service entry point was reachable, but a reproducible result set was not retrieved. No company-name result is recorded | Can identify registered Swedish company information in its scope. It does not cover every informal project, association, foundation, domain, unregistered sign, or trademark and cannot pre-approve a future name. Bolagsverket states that its own later examination considers other company, association, and trademark names in context in its [company-name guidance](https://bolagsverket.se/foretag/foretagsnamn/anmalforetagsnamnet.1179.html) |
-| [Internetstiftelsen](https://internetstiftelsen.se/en/domains/) for `.se` and `.nu`; [ICANN Lookup](https://lookup.icann.org/) for generic-domain registration data | After Disa chooses candidates: exact labels such as `aiwelcomeoffice` and `ai-welcome-office`, plus defensible impersonation variants, across only the intended top-level domains | Source functions and privacy limits were reviewed. No candidate domain was selected and no domain lookup was run | Can show available public registration data or current registry status, subject to privacy and protocol limits. It cannot establish trademark rights, legitimate interest, ownership of similar domains, handle availability, or freedom to register or use |
-| [UK IPO search](https://www.gov.uk/search-for-trademark) — United Kingdom; [USPTO Trademark Search](https://www.uspto.gov/trademarks/search) — United States | Conditional Tier 3 search using all principal variants, word elements, owners, goods/services, classes, status, and relevant image/design searches | Official search entry points were verified; no record search was run because Disa has not yet adopted Tier 3 uses or territories | Appropriate for national records if UK or US plans justify them. They do not establish rights outside their scope, unregistered-use absence, or a legal conclusion |
+| [Internetstiftelsen](https://internetstiftelsen.se/en/domains/) for `.se` and `.nu`; [ICANN Lookup](https://lookup.icann.org/) for generic-domain registration data | Historical Work Cycle 014 source review considered possible domain layers before Disa selected a direction. Decision 0004 later selected `aiwelcomeoffice.org` and `aiwelcomeoffice.com`; the hyphenated form remains a risk-search term only | Source functions and privacy limits were reviewed. No candidate-domain lookup was run, and no registration data was recorded | Can show available public registration data or current registry status, subject to privacy and protocol limits. It cannot establish trademark rights, legitimate interest, ownership of similar domains, handle availability, or freedom to register or use |
+| [UK IPO search](https://www.gov.uk/search-for-trademark) — United Kingdom; [USPTO Trademark Search](https://www.uspto.gov/trademarks/search) — United States | Targeted review using all principal variants, word elements, owners, goods/services, classes, status, and relevant image/design searches | Official search entry points were verified during Work Cycle 014, but no record search was run. Decision 0004 later approved the scope without performing the search | Appropriate for national records within the approved UK and US scope. They do not establish rights outside their scope, unregistered-use absence, or a legal conclusion |
 
-For domains, Disa should decide the intended labels and top-level domains
-before a search log is created. A sensible later set may include `.se`, `.eu`,
-`.org`, `.com`, and `.ai` only if the publication and operational plan supports
-them. The `.se`/`.nu` registry source is Internetstiftelsen; generic-domain
-registration data should be checked through ICANN's RDAP-based lookup; and the
-relevant registry source should be identified from the [IANA Root Zone
-Database](https://www.iana.org/domains/root/db) for other country-code domains.
-An available domain would still not clear a name.
+Decision 0004 selects `aiwelcomeoffice.org` as the primary intended domain,
+`aiwelcomeoffice.com` as a complementary or defensive intended domain, and
+`@aiwelcomeoffice` as the preferred platform-handle question. `.se` is not a
+selected candidate. The hyphenated `ai-welcome-office` form remains only a
+similarity, impersonation, and defensive-risk search term. No domain or handle
+lookup, registration, reservation, purchase, configuration, account creation,
+or public deployment occurred. A later apparent availability result would
+still not clear a name or establish ownership, priority, exclusivity, or
+freedom to use.
 
 ### Limited open-web discovery
 
@@ -375,21 +383,25 @@ territory sheet. Ask the reviewer to answer:
   narrowly should any conclusion be stated by mark, owner, territory,
   goods/services, use, and date?
 
-## 9. Separate future decision gates
+## 9. Decision gates and current authority
 
-This brief does not make any of the following decisions. Disa should record
-each separately so that a low-risk step does not silently authorize a higher-
-risk one.
+Decision 0004 resolves Gate 1 only within the boundaries below. Disa should
+record every later gate separately so that a low-risk step does not silently
+authorize a higher-risk one.
 
 | Gate | Future decision | Current position | What it must not imply |
 | ---: | --- | --- | --- |
-| 1 | **Continue internal text-first identity work** | Pending Disa's review of this brief and proposed scope | No geometry refinement, preferred identity, public use, registration, ownership, or clearance |
+| 1 | **Continue internal text-first identity work** | **Authorized by decision 0004** in Draft, reversible, internal, text-first form | No geometry refinement, preferred identity, public use, registration, ownership, or clearance |
 | 2 | **Resume matched C1-C3 geometry exploration** | Paused under the Work Cycle 012 stop condition | No preference among refinements, official logo, final typography or colour, public use, production, or filing |
 | 3 | **Choose a preferred refined identity** | Not eligible until comparable refinements and appropriate review exist | No adoption, ownership, public-production authority, accessibility or safety claim, or legal clearance |
 | 4 | **Authorize defined public production use** | Not authorized | No filing, registration, exclusivity, licence change, certification, compatibility, or unrestricted Robot Welcome use unless separately decided |
 | 5 | **Consider registration or licence changes** | No application or licence change authorized; root CC0 position remains unchanged | No silent retrospective withdrawal of CC0, entity formation, ownership assumption, enforcement claim, or broader territorial/goods scope |
 
-The immediate recommended next step is for Disa to decide the territory and
-actual-use scope for a professional word-name search, with **Welcome.AI** and
-the `AIWO` acronym explicitly included as leads. C1-C3 should remain paused
-until Disa separately resolves Gate 2.
+The territory, actual-use, preliminary class, name-variant, domain, and handle
+scope now has owner approval. The professional packet remains Draft and
+unsent. No quotation, contact, spending, engagement, professional search,
+domain lookup, registration, or other external action occurred in this
+follow-up; packet transmission and professional engagement remain
+unauthorized. C1–C3 remain paused until the professionally reviewed word-name
+search is completed and Disa later resolves Gate 2 through a separate
+decision.

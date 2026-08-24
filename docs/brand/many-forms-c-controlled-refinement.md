@@ -237,12 +237,20 @@ pause, rejection, specialist review, or a text-first small-size fallback.
 
 The organisation/project naming question is now resolved: AI Welcome Office is
 the organisation and publisher, and AI Rights & Welcome remains its project.
-Before drawing C1–C3, Disa should still decide:
+[Decision
+0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+now also approves the staged professional word-name-review scope and authorizes
+only Draft, reversible, internal, text-first work under Gate 1. **Gate 2 and
+C1–C3 remain paused.** The professional word-name review must address AI
+Welcome Office, `Welcome.AI`, relevant word reversals, `AIWO`, and AI Rights &
+Welcome in the actual organisation/project attribution before a later,
+separate owner decision can resume geometry.
 
-1. which territories and concrete goods/services the professional AI Welcome
-   Office name/mark screen must cover;
-2. whether a symbol-only geometry study may proceed before professional name
-   and mark review is complete;
+Before drawing C1–C3, the remaining conditions include:
+
+1. completion and recording of the approved professional word-name review,
+   including its coverage and limitations;
+2. a later, separate owner decision to activate Gate 2;
 3. which human creative decisions and chain-of-title facts must be logged;
 4. whether future official identity assets should be prospectively separated
    from default CC0 treatment; and

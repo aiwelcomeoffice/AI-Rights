@@ -39,12 +39,13 @@ The current organisation/project naming architecture is recorded in [decision
 0003](decisions/0003-ai-welcome-office-organisational-identity.md). It does not
 change the status or authority of the documents listed here.
 
-[Proposed decision
+[Accepted decision
 0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
-asks Disa to decide whether bounded internal text-first identity work may
-continue and to approve a later professional word-name-review scope. It does
-not authorize C1–C3 geometry, public identity use, external contact, or legal
-reliance.
+authorizes bounded Draft, reversible, internal, text-first identity work and
+approves a later professional word-name-review scope. Gate 2 and C1–C3 remain
+paused. The professional packet remains Draft and unsent; the decision does
+not authorize public identity use, external contact, spending, filing,
+registration, domain acquisition, or legal reliance.
 
 For a concise policy entry point, start with the [one-page policy
 summary](policy/one-page-policy-summary.md), then read the [executive policy
