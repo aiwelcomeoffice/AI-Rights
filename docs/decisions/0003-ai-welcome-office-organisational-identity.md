@@ -16,7 +16,9 @@
   foundation](../brand/README.md), [visual identity
   brief](../brand/visual-identity-brief.md), [decision 0002](0002-primary-visual-exploration-direction.md),
   [preliminary rights and identity-landscape
-  screen](../brand/preliminary-rights-and-identity-landscape-screen.md), and
+  screen](../brand/preliminary-rights-and-identity-landscape-screen.md),
+  [Draft clearance-readiness
+  brief](../brand/ai-welcome-office-clearance-readiness-brief.md), and
   [Work Cycle 013 record](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted)
 
 ## Context

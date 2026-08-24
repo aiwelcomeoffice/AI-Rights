@@ -519,6 +519,172 @@ this cycle.
    formal “AI Welcome” organisation, false clearance claim, or conflated
    organisation/project attribution remains.
 
+## Work Cycle 014 — AI Welcome Office clearance-readiness foundation drafted
+
+### Purpose and scope
+
+Work Cycle 014 prepares a bounded, evidence-traceable package for later
+professional review of **AI Welcome Office**. It does not clear, register,
+reserve, acquire, or establish rights in the organisation name, the AI Rights
+& Welcome project name, Many Forms C, a company name, a domain, a handle, or
+any combined presentation.
+
+The cycle preserves [decision
+0003](decisions/0003-ai-welcome-office-organisational-identity.md): AI Welcome
+Office remains the organisation, publisher, and umbrella identity; AI Rights &
+Welcome remains its project; and “AI Welcome” is not a separate formal
+organisation. It also preserves the Work Cycle 012 visual stop condition. C1,
+C2, and C3 remain specified but not drawn.
+
+### Deliverables and repository integration
+
+The [AI Welcome Office clearance-readiness
+brief](brand/ai-welcome-office-clearance-readiness-brief.md) now records:
+
+- the identity and exact authority established by decision 0003, including
+  what that decision did and did not adopt;
+- genuine current repository uses, near-term proposed uses, and uses that are
+  not established or authorized;
+- a four-tier geographic-review proposal for Disa rather than an adopted
+  territory list;
+- exact, reordered, punctuated, abbreviated, phonetic, close-spelling, project,
+  combined, and Swedish search variants;
+- a preliminary, activity-led goods-and-services map under WIPO
+  NCL(13-2026), with classes 9, 41, and 42 as current search questions, class
+  16 as a future print question, and class 35 withheld absent a defined
+  promotional or public-relations service;
+- an official-source method and access log, including result and interface
+  limits;
+- conflict and stop criteria that distinguish a result, an observed
+  similarity, an internal risk assessment, and a legal conclusion;
+- questions for a future naming or trademark professional; and
+- five separate future decision gates for text-first work, C1-C3 exploration,
+  a preferred refinement, defined public production use, and any registration
+  or licence change.
+
+The [brand index](brand/README.md) and [documentation map](README.md) link the
+new Draft. The earlier [preliminary rights and identity-landscape
+screen](brand/preliminary-rights-and-identity-landscape-screen.md) carries a
+dated follow-up pointer without changing its historical findings. Decision
+0003 carries only a non-substantive related-document link; its Accepted
+decision, consequences, limits, and triggers are unchanged.
+
+### Sources and access dates
+
+Official sources were accessed on **2026-08-24**:
+
+- PRV's [Swedish trademark-database
+  guidance](https://www.prv.se/en/trademarks/prepare-for-the-trademark-application/trademark-databases/)
+  and [Search PRV's Databases](https://search.prv.se/) beta interface;
+- the EUIPO [official search directory](https://www.euipo.europa.eu/en/search),
+  [eSearch plus](https://euipo.europa.eu/eSearch/), and
+  [TMview](https://www.tmdn.org/tmview/);
+- WIPO's [Nice Classification download and IT-support
+  area](https://www.wipo.int/classifications/nice/en/ITsupport/), official
+  NCL(13-2026) class data, [Global Brand
+  Database](https://www.wipo.int/en/web/global-brand-database), database
+  [terms](https://www.wipo.int/en/web/global-brand-database/terms_and_conditions),
+  and [Madrid Monitor](https://www3.wipo.int/madrid/monitor/en/index.jsp);
+- Bolagsverket's [company-name
+  guidance](https://bolagsverket.se/foretag/foretagsnamn/anmalforetagsnamnet.1179.html)
+  and [Search company
+  information](https://foretagsinfo.bolagsverket.se/sok-foretagsinformation-web/foretag)
+  entry point;
+- [Internetstiftelsen](https://internetstiftelsen.se/en/domains/), [ICANN
+  Lookup](https://lookup.icann.org/), and the [IANA Root Zone
+  Database](https://www.iana.org/domains/root/db) for a later official-domain
+  search plan; and
+- the [UK IPO trademark search](https://www.gov.uk/search-for-trademark) and
+  [USPTO Trademark Search](https://www.uspto.gov/trademarks/search) entry
+  points as conditional Tier 3 sources.
+
+Owner-published sites and open-web search results were used only as discovery
+leads. They were not treated as official rights records or legal evidence of
+registration.
+
+### Actual review performed and preliminary observations
+
+Sol audited the required repository identity, landscape, licensing, visual,
+index, decision, and backlog records before drafting. No external reviewer was
+involved.
+
+The read-only PRV beta search was queried without class, date, owner,
+mark-type, or status filters. Up to 100 results were requested for each narrow
+query. `CONTAINS` searches for `AI Welcome Office`, `AI-Welcome Office`, `AI
+Welcome`, `Welcome AI`, `Welcome.AI`, and `AI Rights & Welcome`, and `EXACT`
+searches for `AIWO` and `AWO`, each returned zero results. A broader control
+query for `Welcome` returned 46 total hits; only the first five were retrieved.
+These observations show only what that beta text field returned on the access
+date. They do not establish name availability, absence of similar marks,
+registrability, ownership, or legal clearance, and they do not cover the
+necessary EU, international, company-name, or unregistered-use layers.
+
+Limited open-web discovery elevated [Welcome.AI](https://www.welcome.ai/about)
+as a reversed and punctuated name used in partly adjacent AI education,
+research, discovery, and advisory activity. It also found multiple `AIWO`
+uses, including a Finnish [customer-contact intelligence
+company](https://aiwo.ai/about/) and a Dutch [AI
+consultancy](https://aiwo.nl/en/consultancy). Those owner-published
+descriptions were not independently verified. They are search and
+professional-handoff leads, not findings of registered rights, likelihood of
+confusion, infringement, or unavailability.
+
+The `Welcome.AI` lead is important enough to require official-register and
+professional review before public production use, filing, or substantial new
+visual investment. It does not by itself decide whether reversible internal
+text-first work may continue.
+
+### Limitations
+
+- EUIPO eSearch plus and TMview did not produce reproducible result sets in
+  this research environment.
+- The WIPO Global Brand Database presented an anti-automation challenge;
+  WIPO's terms prohibit automated querying, so no automated workaround was
+  attempted. Madrid Monitor guidance was reviewed, but no reproducible result
+  set was captured.
+- The JavaScript-dependent Bolagsverket service did not produce a reproducible
+  result set.
+- No candidate domain or handle set has been adopted, so no domain or handle
+  availability query was run.
+- UK and US official-search entry points were verified, but national record
+  searches were deferred pending Disa's territory and actual-use decision.
+- No symbol-only or combined-mark search, independent cultural or
+  multilingual review, market survey, unregistered-use search, legal analysis,
+  company-name review, chain-of-title opinion, or professional goods-and-
+  services specification was completed.
+- Open-web search was limited, ranked, English-language biased, and
+  non-exhaustive. A result not returned or elevated is not proven absent.
+
+### Unresolved questions and Disa's pending decisions
+
+Disa should decide separately:
+
+1. whether to authorize continued Draft, internal, text-first identity work;
+2. whether the proposed territory order—Sweden, EU, WIPO plus selected UK/US
+   review, then plan-driven later jurisdictions—is the right professional
+   search scope;
+3. whether the current/near-term activity map is accurate and which exact
+   classes and terms should be given to a professional for review;
+4. which candidate domains and handles, if any, belong in a later read-only
+   search;
+5. whether C1-C3 geometry exploration remains paused after the first
+   professional word-name review or may resume through a separate Gate 2
+   decision;
+6. what review evidence is required before selecting a preferred refinement
+   or authorizing any defined public production use; and
+7. whether any future registration, ownership, authorization, or prospective
+   identity-asset licence change should be considered through separate legal
+   review and a new decision record.
+
+### Recommended next step
+
+After Disa confirms the actual-use and territory scope, prepare a concise
+professional instruction packet using the new brief and request a word-name
+search that explicitly includes `Welcome.AI`, word reversals, the full project
+attribution, and the `AIWO` acronym. Do not resume C1-C3, select an identity,
+authorize production, file, register a domain, or change the CC0 licence as
+part of that instruction step.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry

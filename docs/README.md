@@ -13,7 +13,8 @@ separate from the working material in [`research/`](../research/README.md).
   common questions, and key terms
 - [`brand/`](brand/README.md) — Draft message hierarchy, voice, supporting-
   slogan assessment, campaign and merchandise guardrails, relational-warmth
-  requirements, and matched exploratory visual prototypes
+  requirements, matched exploratory visual prototypes, and AI Welcome Office
+  clearance-readiness planning
 - [`campaigns/`](campaigns/README.md) — four inactive Draft future campaign
   concepts; no campaign is launched or approved for public use
 - [`manifesto.md`](manifesto.md) — Draft public-facing expression of the

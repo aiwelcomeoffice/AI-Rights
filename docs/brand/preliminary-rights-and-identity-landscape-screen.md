@@ -21,6 +21,14 @@ professional clearance**
 > trademark clearance is still outstanding. See [decision
 > 0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
 
+> **Work Cycle 014 follow-up — 2026-08-24:** The [AI Welcome Office
+> clearance-readiness
+> brief](ai-welcome-office-clearance-readiness-brief.md) records the current
+> identity, actual-use scope, variant matrix, preliminary classes, official-
+> source plan, limited new reconnaissance, stop criteria, professional
+> questions, and separate decision gates. It does not change this historical
+> screen's findings or provide legal clearance.
+
 > **Do not read this as clearance.** This screen does not establish that a
 > name or symbol is conflict-free, legally safe, available, registrable,
 > distinctive, protected, or free to operate. Registers change; relevant

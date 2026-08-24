@@ -2,11 +2,13 @@
 
 **Status: Draft**
 
-- **Date prepared:** 2026-08-23
+- **Foundation prepared:** 2026-08-23
+- **Clearance-readiness brief added:** 2026-08-24
 - **Scope:** Proposed public-message hierarchy, voice, campaign, merchandise,
   organisation/project identity architecture, visual-identity brief,
   relational-warmth requirement, accessibility and safety requirements,
-  exploratory concept directions, and matched low-fidelity prototypes
+  exploratory concept directions, matched low-fidelity prototypes, and a
+  bounded clearance-readiness handoff
 - **Authority:** Prepared for Disa's review; not adopted
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no external communications,
@@ -118,6 +120,11 @@ Inclusion is not approval, and the candidates are not equally safe.
   Screen](preliminary-rights-and-identity-landscape-screen.md) — limited
   historical screen of AI Rights & Welcome and Many Forms C; it does not clear
   AI Welcome Office
+- [AI Welcome Office Clearance-Readiness
+  Brief](ai-welcome-office-clearance-readiness-brief.md) — Draft actual-use,
+  territory, variant, goods-and-services, official-source search,
+  stop-criterion, professional-handoff, and decision-gate foundation; not
+  legal advice or clearance
 - [Identity, Licensing, and Trademark Policy
   Proposal](identity-and-trademark-policy-proposal.md) — Draft separation of
   open content, future identity assets, affiliation, and professional-review
@@ -254,6 +261,9 @@ Disa should decide:
   AI support, work, learning, creation, shared projects, and human-experienced
   companionship without claiming reciprocal subjective experience;
 - whether the visual accessibility, authority-confusion, originality,
-  cultural, production, and Robot Welcome safety gates are strong enough; and
+  cultural, production, and Robot Welcome safety gates are strong enough;
+- which territories, actual uses, name variants, and preliminary
+  goods-and-services scope should be authorized for professional AI Welcome
+  Office review; and
 - what external review and official-name clearance should precede any public
   campaign, design, production, filing, or launch.
