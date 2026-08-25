@@ -1043,6 +1043,248 @@ outside scope unless separately authorized.
 is therefore resolved. Work Cycle 017 is now the recommended next bounded
 cycle; it remains unstarted and separately scoped.
 
+## Work Cycle 017 — private implementation baseline and Proposed technical decision
+
+### Purpose and status
+
+Work Cycle 017 creates a clear non-production baseline for the private
+`aiwelcomeoffice` repository under [Accepted decision
+0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+and prepares a reviewable next technical choice. It does not build, connect,
+preview externally, deploy, or publish a website.
+
+The private baseline is **Draft / Continuous-Beta**. [Decision
+0006](decisions/0006-non-production-website-platform-and-content-handoff.md)
+is **Proposed** and unresolved. No platform, content synchronization, public
+revision, or delivery action is accepted merely because this cycle is locally
+complete.
+
+### Initial local evidence and access limits
+
+Sol inspected both repositories before changing files on 2026-08-25:
+
+| Repository | Exact local observation before WC017 edits |
+| --- | --- |
+| Public `AI-Rights` | Path `/mnt/c/GIT_REPO/ai-welcome-office/AI-Rights`; branch `main`; `git status --short --branch` reported `## main...origin/main` with no changed or untracked file; latest local commit `3db4bb86d8cb4df5a5db20ffcff205ffa828da8e` dated `2026-08-24T23:54:17+02:00`, author `AI welcome office`, subject `updated-approval-005`; `origin` fetch and push URL `https://github.com/aiwelcomeoffice/AI-Rights.git` |
+| Private `aiwelcomeoffice` | Path `/mnt/c/GIT_REPO/ai-welcome-office/aiwelcomeoffice`; branch `main`; `git status --short --branch` reported `## main...origin/main` with no changed or untracked file; latest local commit `0978cf45007892d84927642d2dcc6e3124e19ef7` dated `2026-08-24T23:23:30+02:00`, author `AI welcome office`, subject `repo-moveover-to-website-and-smiliar`; `origin` fetch and push URL `https://github.com/aiwelcomeoffice/aiwelcomeoffice.git` |
+
+Each `HEAD` matched its locally stored `origin/main` tracking reference at the
+inspection time. That is local Git evidence only. No fetch, pull, merge,
+authenticated GitHub query, or other synchronization occurred. No current
+authenticated remote read was already available, so both repositories'
+current remote contents, branch heads, visibility, protection rules, and
+freshness remain **unverified**.
+
+Both working trees were initially clean, so no pre-existing foreign or
+unrelated working-tree change needed reconciliation. WC017 preserved history
+and did not rewrite, discard, stage, commit, or push any file.
+
+### Work completed and files changed
+
+In the private `aiwelcomeoffice` repository:
+
+- **Changed:** `README.md` now states the Accepted implementation role,
+  controlling public-repository authority, non-production state, and external-
+  action boundary. It no longer functions as a broad parallel project
+  description.
+- **Created:** root `AGENTS.md` defines repository authority, prohibits
+  competing research and policy copies, requires source and status provenance,
+  sets accessibility, security, privacy, and secret-handling rules, establishes
+  Draft / Continuous-Beta discipline, and prohibits synchronization,
+  publication, deployment, DNS, and other external action without Disa's
+  separate approval.
+- **Created:** `docs/proposed-implementation-structure.md` documents only a
+  possible platform-neutral directory boundary, validation order, and
+  reversibility rules. The listed future directories were not created.
+
+In the public `AI-Rights` repository:
+
+- **Created:** [Proposed decision
+  0006](decisions/0006-non-production-website-platform-and-content-handoff.md),
+  limited to non-production platform choice, a versioned content handoff,
+  first-phase synchronization authority, and minimum preview, accessibility,
+  security, provenance, and rollback gates.
+- **Changed:** the [decision index](decisions/README.md) lists decision 0006 as
+  **Proposed**.
+- **Changed:** the Draft [Registered Domains and Repository
+  Foundation](operations/registered-domains-and-repository-foundation.md)
+  points its unresolved platform and handoff question to Proposed decision
+  0006 without changing its Draft status or decision 0005's Accepted scope.
+- **Changed:** this backlog records the actual WC017 work, evidence,
+  validation, exclusions, and next decision.
+
+No research, policy, education, governance, evidence synthesis, website page
+Draft, source status, visual identity, domain record, or Accepted decision was
+substantively changed.
+
+### Proposed technical direction
+
+Decision 0006 compares three bounded candidates against accessibility,
+simplicity and maintenance, version-bound content handling, publication
+provenance, preview and testability, security, reversibility, and dependency
+and vendor risk:
+
+- **Astro 7 in static-only mode** is recommended for Disa's review because
+  reusable components, route handling, local build and preview, and schema-
+  backed build-time content fit the status-rich, cross-linked page set. The
+  proposed constraint excludes a client framework, server adapter, server-side
+  rendering, actions, live loading, MDX, third-party scripts, and experimental
+  features.
+- **Framework-free static HTML and CSS** has the lowest external dependency
+  risk and greatest direct portability, but would require repeated markup or a
+  locally maintained generator for route, layout, and provenance consistency.
+- **Eleventy** is the relevant fallback: static and reversible with no client
+  JavaScript by default, but still needs project-specific manifest,
+  checksum, approval, and status validation.
+
+The comparison used official Astro, Eleventy, W3C WAI, WCAG 2.2, and npm
+documentation accessed on 2026-08-25. Astro 7.2 was the current release
+identified at the technical cutoff. No package was installed and no candidate
+was scaffolded, built, benchmarked, or tested against project content, so the
+recommendation remains an internal AI-assisted assessment rather than measured
+project evidence or independent technical review.
+
+The proposed first handoff uses one full immutable `AI-Rights` commit, one
+explicitly approved path set, a versioned manifest, source checksums, and only
+generated read-only derived artifacts. It preserves all decision-0005 fields
+and adds the website route, manifest-schema version, source-content checksum,
+transformation record, and synchronization operator. Substantive correction
+continues to originate in `AI-Rights` at a new source revision.
+
+### Synchronization authority proposed for Disa's decision
+
+During the first manual phase, decision 0006 recommends that:
+
+- Disa alone selects and approves every exact public source revision and file
+  set;
+- Disa may run the mechanical synchronization herself or name one operator for
+  one recorded run after approval;
+- the named operator may not select, edit, or approve the source revision; and
+- no automation, build, webhook, schedule, AI assistant, or collaborator may
+  approve or initiate synchronization without Disa's separate instruction for
+  the exact run.
+
+No synchronization was approved or run in WC017.
+
+### Validation performed
+
+After all WC017 edits, Sol performed the following local checks in both
+repositories:
+
+- `git diff --check` passed with no whitespace error.
+- A read-only Markdown link checker examined every local relative link in all
+  seven created or changed Markdown files, including file targets, directory
+  README resolution, and heading fragments; no broken local target was found.
+- Targeted status and reference checks confirmed that decision 0005 remains
+  **Accepted**, decision 0006 remains **Proposed** with no decision date, the
+  operations foundation remains **Draft**, and the private planning baseline
+  remains **Draft / Continuous-Beta**. No Draft or Proposed material became
+  Adopted or Accepted.
+- Added-line and full-file review found no website scaffold, dependency
+  manifest, lockfile, build output, synchronized content, deployment file,
+  Cloudflare configuration, DNS instruction, public-preview connection, or
+  external-action execution.
+- The three private-repository files were reviewed as implementation
+  governance and structure only. They add no copied research, policy,
+  education, governance, evidence synthesis, page Draft, or new scientific
+  claim and therefore do not create a competing editorial source.
+- Secret and personal-data pattern scans of all seven changed files found no
+  private key, credential assignment, access token, password, payment-card
+  number, email address, telephone number, private registrar-account data,
+  recovery data, private contact detail, or user data. The files contain
+  Disa's already established project-role name and public repository and
+  documentation URLs; they add no sensitive personal data.
+- Final Git review found only the seven expected unstaged WC017 files. No file
+  was staged, committed, pushed, fetched, pulled, merged, or otherwise
+  synchronized, and no remote or external system was changed.
+
+These checks validate the local Markdown and repository change set only. They
+do not validate a website, dependency graph, generated HTML, accessibility
+conformance, security posture of a deployed system, remote repository state,
+or production readiness because none was created or inspected.
+
+### Disa's exact remaining decision
+
+Disa should accept, reject, or revise the four clauses in **Proposed decision
+0006**:
+
+1. whether Astro 7 static-only becomes the eligible non-production platform
+   under the listed exclusions and reopen triggers;
+2. whether the single-revision, manifest-governed, checksum-verified,
+   generated-read-only handoff and its required fields are sufficient;
+3. whether Disa remains sole per-revision and file-set approver while only Disa
+   or her explicitly named operator may run one post-approval synchronization;
+   and
+4. whether the listed local preview, WCAG 2.2 AA-targeted accessibility,
+   static security/privacy, fail-closed provenance, and reproducible rollback
+   gates are the minimum before a future prototype can be reviewed.
+
+Acceptance would make only a later, separately instructed non-production
+scaffold cycle eligible. It would not itself authorize a scaffold, dependency
+installation, content handoff, external preview, deployment, or publication.
+
+### Explicit exclusions and paused work
+
+WC017 created no website prototype, dependency installation, Astro or other
+scaffold, package or lockfile, content copy or synchronized snapshot,
+Cloudflare resource, DNS or DNSSEC change, hosting connection, canonical-host
+rule, redirect, deployment, publication, public preview, professional or
+rights-holder contact, expenditure, C1–C3 work, or identity refinement. It
+made no commit or push.
+
+Decision 0006 remains **Proposed**. The operations foundation, private
+implementation baseline, proposed directory structure, website content
+architecture, and website pages remain **Draft** or **Draft /
+Continuous-Beta** as labelled. C1–C3, professional engagement, public identity
+use, production configuration, and all delivery work remain paused or outside
+scope.
+
+### Recommended next step
+
+Disa should manually review both repository diffs and the four decision clauses
+above, then accept, reject, or revise decision 0006. Disa separately decides
+whether to commit and push the WC017 files. Only after an Accepted technical
+decision and a new explicit implementation instruction should a later cycle
+pin dependencies and create the smallest representative local static scaffold;
+Cloudflare, DNS, DNSSEC, hosting, redirects, deployment, and publication should
+remain outside that cycle unless separately decided.
+
+### Owner-direction follow-up — 2026-08-25
+
+After the initial WC017 handoff, Disa explicitly approved **Astro 7** as the
+non-production website platform direction and asked for clauses 2–4 of
+Proposed decision 0006 to be simplified. Her direction is to avoid an early
+manifest, checksum, generated-snapshot, separate-operator, and automation
+system. When she requests prototype content or an update, the assigned agent
+should instead use the then-latest published `AI-Rights` revision and record
+the repository, full commit SHA, check time, and source paths in one small
+human-readable source-state note.
+
+The revised first phase keeps Disa as the sole approver of any exact public
+website revision. Her instruction is sufficient for an assigned agent to
+perform private non-production implementation work from the verified public
+source. No recurring synchronization is created. A manual update command or a
+dedicated update agent may be designed later, and manifest, checksum, snapshot,
+or separate-role controls should be reconsidered only when more people or
+agents, higher update frequency, multiple languages or sources, public
+delivery, or an observed provenance failure makes them useful.
+
+[Decision
+0006](decisions/0006-non-production-website-platform-and-content-handoff.md)
+now records the Astro 7 approval as resolved owner direction and presents four
+short simplified workflow clauses for Disa's confirmation. The complete record
+remains **Proposed** until Disa confirms or revises that wording. The private
+`README.md`, root `AGENTS.md`, and Draft structure proposal, plus the Draft
+operational foundation and decision index, were aligned with the simpler
+model. The earlier WC017 decision request above is retained as the historical
+state at initial handoff rather than silently rewritten.
+
+The follow-up created no scaffold, package file, dependency, content update,
+source-state instance, public preview, automation, Cloudflare resource, DNS or
+DNSSEC change, hosting connection, redirect, deployment, publication, commit,
+or push. Local link, whitespace, status, scope, secret, personal-data, and
+final Git checks were rerun after the revision and passed without a new finding.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry

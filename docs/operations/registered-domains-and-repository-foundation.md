@@ -173,10 +173,10 @@ present. This updates the local planning snapshot but does not rewrite the
 historical WC016 observation. No fetch or authenticated remote inspection was
 performed, so current remote contents and freshness remain unverified.
 
-## 7. Accepted boundary and Draft content-handoff details
+## 7. Accepted boundary and Draft first-phase content-update details
 
-Decision 0005 establishes rules 1–4 below. Rules 5–6 and the serialized
-implementation details remain Draft operational proposals:
+Decision 0005 establishes rules 1–4 below. Rules 5–6 and their implementation
+details remain Draft operational proposals:
 
 1. `AI-Rights` remains authoritative for research, governance, policy,
    education, evidence cutoffs, review records, and document status.
@@ -190,16 +190,19 @@ implementation details remain Draft operational proposals:
    status, version, review information, independent-review status, and evidence
    cutoff. Styling or publication never converts Draft into Adopted or internal
    review into independent review.
-5. A changed source must pass preview, provenance, link, status, and content
-   validation before production synchronization.
+5. When Disa requests prototype content or an update, an assigned agent may
+   use the then-latest verified public `AI-Rights` revision and record the
+   repository, full commit SHA, check time, and source paths in one simple
+   source-state note. More synchronization machinery is deferred until scale
+   or an observed risk justifies it.
 6. Secrets, registrar credentials, deployment tokens, private keys, personal
    data, and private recovery information are committed to neither repository.
 
-### Required publication fields and proposed manifest
+### Required publication fields and simple source-state note
 
-Decision 0005 requires the following publication-provenance meanings. The
-serialized manifest shape and synchronization mechanism remain proposals and
-are not implemented:
+Decision 0005 requires the following publication-provenance meanings before
+public publication. They do not require a serialized manifest engine for an
+early private prototype:
 
 | Field | Required meaning |
 | --- | --- |
@@ -215,50 +218,55 @@ are not implemented:
 | `disa_publication_approval` | Pending or approved for the exact source revision, with approval date when approved |
 | `website_synchronization_date` | Date and time the approved revision was incorporated into the website; empty before synchronization |
 
-A possible serialized record could be:
+A first private content pass needs only a small human-readable note containing
+the public `AI-Rights` repository URL, the full commit SHA verified as latest
+when the task began, the check time, and the source paths used. Page metadata
+can preserve the remaining status and review meanings where they are needed.
 
-```yaml
-source_repository: https://github.com/aiwelcomeoffice/AI-Rights
-source_path: docs/example.md
-source_revision: "<full-commit-sha>"
-document_status: Draft
-document_version: 0.1-draft
-last_reviewed_date: YYYY-MM-DD
-actual_review_type:
-  - owner-review
-  - internal-ai-assisted-review
-independent_review_status: none
-evidence_cutoff: YYYY-MM-DD-or-not-applicable
-disa_publication_approval:
-  status: pending
-  date: null
-website_synchronization_date: null
-```
+If the public head cannot be checked, an agent must report the limit rather
+than describe a stale local revision as latest. A content change still begins
+in the authoritative repository and receives a new source revision; it is not
+repaired only in website implementation files. A structured manifest,
+checksums, generated snapshots, and synchronization automation can be added
+later if team size, update frequency, multiple sources or languages, public
+delivery, or a traceability failure creates a demonstrated need.
 
-The implementation repository may cache a validated publication artifact, but
-the manifest must make the controlling public source recoverable. A content
-change begins in the authoritative source repository and receives a new source
-revision; it is not repaired only in a derived website copy.
+## 8. Platform direction and deferred delivery candidates
 
-## 8. Proposed technical direction
+**Status: Astro 7 direction owner-approved on 2026-08-25; implementation and
+delivery remain unimplemented and separately gated**
 
-**Status: Proposed technical direction — not adopted or implemented**
+On 2026-08-25, Disa approved Astro 7 for static non-production work and asked
+for the first content-update model to be simplified. The owner direction and
+revised workflow are recorded in [Proposed decision
+0006](../decisions/0006-non-production-website-platform-and-content-handoff.md).
+The complete record remains Proposed until Disa confirms the simplified
+workflow. No scaffold, dependency installation, content update, or external
+action is authorized by the platform approval alone.
 
-The current candidate direction for later review is:
+The current bounded direction is:
 
-- an Astro static website;
-- Markdown/MDX or a versioned content-ingestion boundary;
-- a GitHub-based source workflow;
+- Astro 7 in static-output mode, with the exact supported patch and dependency
+  graph pinned when a scaffold is separately authorized;
+- no initial client framework, server adapter, server-side rendering, actions,
+  live loading, MDX, third-party scripts, or experimental Astro features; and
+- a Disa-requested agent update from the then-latest verified public
+  `AI-Rights` revision, recorded through a small source-state note.
+
+The following delivery choices remain future candidates outside decision 0006:
+
 - Cloudflare Workers Static Assets as a hosting candidate;
 - Cloudflare DNS and DNSSEC as DNS candidates;
 - preview and validation before production;
 - `aiwelcomeoffice.org` as the canonical host; and
 - `aiwelcomeoffice.com` redirecting to `.org`.
 
-This list is a planning candidate, not a framework, vendor, hosting, DNS,
-security, integration, or deployment decision. No Cloudflare resource was
-created, no GitHub connection was made, no nameserver or DNS record was
-changed, no redirect was configured, and nothing was deployed in WC016.
+The Astro direction is an owner-approved non-production platform choice, not a
+framework scaffold or delivery authorization. The delivery list is planning
+only, not a vendor, hosting, DNS, security, integration, or deployment
+decision. No Cloudflare resource was created, no GitHub connection was made,
+no nameserver or DNS record was changed, no redirect was configured, and
+nothing was deployed in WC016 or WC017.
 
 ## 9. Decision resolution and unresolved decisions
 
@@ -266,19 +274,21 @@ The WC016 responsibility-boundary question was resolved when Disa accepted
 decision 0005 on 2026-08-24 without additional conditions. Disa should still
 decide:
 
-1. whether the proposed serialized publication manifest is sufficient and who
-   may approve and run a future synchronization;
+1. whether Disa confirms the simplified content-update workflow in revised
+   [Proposed decision
+   0006](../decisions/0006-non-production-website-platform-and-content-handoff.md),
+   including a small source-state note and more structure only when needed;
 2. how the owner-reported three-year `.org` purchase term should be reconciled
    with the public 2030 registry expiry;
 3. whether automatic renewal, MFA, recovery, notifications, access control,
    and DNS backup have been privately verified;
-4. whether and when authenticated inspection and later modification of the
-   renamed private repository should be authorized;
-5. whether Astro, the content-ingestion approach, Cloudflare Workers Static
-   Assets, Cloudflare DNS, and DNSSEC should proceed to a separate technical
-   decision; and
-6. what preview, accessibility, security, provenance, rollback, and production
-   approval gates should apply before any public connection or deployment.
+4. when a separate cycle may scaffold the owner-approved Astro 7 direction in
+   the private repository;
+5. whether and when a manual update command, dedicated update agent, or more
+   formal manifest and validation process becomes useful; and
+6. what fuller preview, accessibility, security, provenance, rollback, and
+   production-approval gates should apply before any public connection or
+   deployment.
 
 The exact WC016 approval point was the repository responsibility boundary, and
 it is now resolved by Accepted decision 0005. Registration had already
@@ -307,7 +317,8 @@ Review this foundation and, where necessary, create a later decision if:
   authority;
 - a new integration, automation, media workflow, secret, or personal-data flow
   is proposed;
-- a framework, host, DNS provider, deployment model, or production gate is to
-  be selected; or
+- the owner-approved Astro 7 constraints are to be changed or broadened, or a
+  host, DNS provider, deployment model, or production gate is to be selected;
+  or
 - professional name or trademark review produces a material result relevant
   to either registered domain or intended public use.
