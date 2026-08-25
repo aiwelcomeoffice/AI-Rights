@@ -1285,6 +1285,22 @@ DNSSEC change, hosting connection, redirect, deployment, publication, commit,
 or push. Local link, whitespace, status, scope, secret, personal-data, and
 final Git checks were rerun after the revision and passed without a new finding.
 
+### Decision 0006 owner resolution — 2026-08-25
+
+Disa subsequently confirmed all four simplified workflow clauses and
+instructed that [decision
+0006](decisions/0006-non-production-website-platform-and-content-handoff.md)
+be marked approved by her. Decision 0006 is therefore **Accepted** on
+2026-08-25 without additional conditions. Together with the earlier Astro 7
+approval, this establishes the non-production platform direction, simple
+first-phase content-update method, minimum local prototype checks, and triggers
+for adding more delivery process.
+
+This owner resolution does not itself authorize an Astro scaffold, dependency
+installation, content update, external preview, hosting, DNS, redirect,
+deployment, publication, or production. A separately instructed local
+scaffold cycle is the next eligible bounded step.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry

@@ -238,11 +238,11 @@ delivery remain unimplemented and separately gated**
 
 On 2026-08-25, Disa approved Astro 7 for static non-production work and asked
 for the first content-update model to be simplified. The owner direction and
-revised workflow are recorded in [Proposed decision
+revised workflow are established in [Accepted decision
 0006](../decisions/0006-non-production-website-platform-and-content-handoff.md).
-The complete record remains Proposed until Disa confirms the simplified
-workflow. No scaffold, dependency installation, content update, or external
-action is authorized by the platform approval alone.
+Disa accepted the complete record on 2026-08-25 without additional conditions.
+Decision 0006 does not itself authorize a scaffold, dependency installation,
+content update, or external action.
 
 The current bounded direction is:
 
@@ -271,22 +271,19 @@ nothing was deployed in WC016 or WC017.
 ## 9. Decision resolution and unresolved decisions
 
 The WC016 responsibility-boundary question was resolved when Disa accepted
-decision 0005 on 2026-08-24 without additional conditions. Disa should still
-decide:
+decision 0005 on 2026-08-24 without additional conditions. The platform and
+simplified first-phase workflow were resolved when Disa accepted decision 0006
+on 2026-08-25 without additional conditions. Disa should still decide:
 
-1. whether Disa confirms the simplified content-update workflow in revised
-   [Proposed decision
-   0006](../decisions/0006-non-production-website-platform-and-content-handoff.md),
-   including a small source-state note and more structure only when needed;
-2. how the owner-reported three-year `.org` purchase term should be reconciled
+1. how the owner-reported three-year `.org` purchase term should be reconciled
    with the public 2030 registry expiry;
-3. whether automatic renewal, MFA, recovery, notifications, access control,
+2. whether automatic renewal, MFA, recovery, notifications, access control,
    and DNS backup have been privately verified;
-4. when a separate cycle may scaffold the owner-approved Astro 7 direction in
+3. when a separate cycle may scaffold the owner-approved Astro 7 direction in
    the private repository;
-5. whether and when a manual update command, dedicated update agent, or more
+4. whether and when a manual update command, dedicated update agent, or more
    formal manifest and validation process becomes useful; and
-6. what fuller preview, accessibility, security, provenance, rollback, and
+5. what fuller preview, accessibility, security, provenance, rollback, and
    production-approval gates should apply before any public connection or
    deployment.
 

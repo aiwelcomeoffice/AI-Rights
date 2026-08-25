@@ -1,9 +1,9 @@
 # 0006 — Non-production website platform and simple content updates
 
-- **Status:** Proposed
+- **Status:** Accepted
 - **Date proposed:** 2026-08-25
 - **Date revised:** 2026-08-25 after Disa's owner direction
-- **Decision date:** Not decided for the complete revised record
+- **Decision date:** 2026-08-25
 - **Decider:** Disa
 - **Prepared by:** Sol with Disa (internal AI-assisted repository audit,
   technical comparison, revision, and validation)
@@ -67,10 +67,10 @@ direction.** The later scaffold should:
 No scaffold or dependency installation is authorized by this recorded
 platform approval alone.
 
-## Remaining decision question
+## Accepted first-phase workflow
 
-Does the following simplified first-phase workflow accurately record Disa's
-direction and become the rest of decision 0006?
+Disa accepted the following simplified first-phase workflow as the rest of
+decision 0006:
 
 1. **Use the latest published source when an update is requested.** When Disa
    requests the first prototype content or a later content update, the assigned
@@ -98,10 +98,11 @@ direction and become the rest of decision 0006?
    languages or sources, public delivery, or an observed provenance failure
    justifies the extra process.
 
-The complete record remains Proposed until Disa confirms or revises these four
-simplified clauses. Her Astro 7 approval is recorded independently above and
-does not need to be reconsidered merely because the workflow wording remains
-under review.
+Disa explicitly confirmed all four simplified clauses on 2026-08-25 without
+additional conditions. Together with her earlier Astro 7 approval, that
+confirmation makes the complete record Accepted. It does not by itself
+authorize a scaffold, dependency installation, content update, external
+service, deployment, or publication.
 
 ## Platform comparison retained from the first proposal
 
@@ -220,6 +221,9 @@ scoped instruction from Disa.
   Astro 7 and directed Sol to simplify the first delivery model so an assigned
   agent uses the latest published `AI-Rights` information, with manual or
   agent-triggered updates and more structure only when collaboration grows.
+- Later on 2026-08-25, Disa explicitly confirmed all four simplified workflow
+  clauses and instructed that the complete record be marked approved by her.
+  No additional conditions were stated.
 - Sol revised the proposal to remove the early manifest, checksum, snapshot,
   and separate synchronization-role requirements while retaining the
   responsibility and publication-provenance boundary in decision 0005.
@@ -241,12 +245,15 @@ scoped instruction from Disa.
 
 ## Decision
 
-**Partly resolved, record remains Proposed.** Disa approved Astro 7 as the
-non-production platform direction on 2026-08-25. The four simplified workflow
-clauses remain awaiting her confirmation or revision. Only Disa may mark the
-complete record Accepted or Rejected and set its final decision date.
+**Accepted by Disa on 2026-08-25.** Disa approved Astro 7 as the
+non-production platform direction and accepted all four simplified workflow
+clauses without additional conditions. The accepted scope is limited to the
+platform direction, private first-phase content-update method, minimum local
+prototype checks, and triggers for adding a more formal delivery process.
+External preview, hosting, DNS, deployment, publication, and production remain
+separately gated.
 
-## Consequences if the simplified workflow is accepted
+## Consequences
 
 - a later separately instructed cycle may create a minimal Astro 7 static
   scaffold;
