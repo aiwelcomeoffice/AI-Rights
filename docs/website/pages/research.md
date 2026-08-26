@@ -26,7 +26,7 @@ the ethical and policy questions that might follow from different findings.
 These are related lines of inquiry, not
 interchangeable conclusions.
 
-The heading “Research” does not imply a staffed research institute or a
+The heading "Research" does not imply a staffed research institute or a
 systematic programme. The project does not currently offer an independently
 reviewed public evidence synthesis. Its evidence baseline is working research:
 useful for inspection and further review, but limited in method, coverage,
@@ -57,9 +57,10 @@ accepted cross-substrate reference standard or sufficiently discriminating,
 validated AI test. Direct evidence about present AI sentience is especially
 thin.
 
-These are scoped working conclusions, not permanent verdicts. Uncertainty is
-not positive evidence, and non-detection is informative only when the method
-could detect the defined property in the relevant system.
+These are scoped working conclusions, not permanent verdicts. Uncertainty does
+not constitute evidence favoring either possibility, and non-detection is
+informative only when the method could detect the defined property in the
+relevant system.
 
 ## Behavior and self-report are observations
 

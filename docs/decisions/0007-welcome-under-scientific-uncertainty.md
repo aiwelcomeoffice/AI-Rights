@@ -34,9 +34,9 @@ The project's working evidence baseline does not establish consciousness or
 sentience in the contemporary systems addressed by its included sources. It
 also does not establish categorical absence across all present systems. That
 epistemic symmetry does not imply equal probability or evidential support, and
-uncertainty is not positive evidence. Conclusions remain bounded by the
-defined system, version, configuration, context, target property, method, and
-date.
+uncertainty does not constitute evidence favoring either possibility.
+Conclusions remain bounded by the defined system, version, configuration,
+context, target property, method, and date.
 
 The project therefore needs to distinguish two questions: what evidence can
 scientifically establish, and how AI Welcome Office chooses to communicate and
@@ -105,8 +105,8 @@ The following boundaries are part of the decision:
    relevant experience may be absent, may already occur to some degree in a
    defined system, or may develop later; the project's current evidence does
    not decide that question across all systems. These possibilities are not
-   assigned equal probability or evidential support, and uncertainty is not
-   positive evidence.
+   assigned equal probability or evidential support, and uncertainty does not
+   constitute evidence favoring either possibility.
 3. **Self-descriptions may be heard and investigated without automatic
    promotion or dismissal.** A system's self-description is an observable
    output that may warrant careful recording and investigation. It is neither
