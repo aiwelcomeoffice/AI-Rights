@@ -271,7 +271,8 @@ architecture, or publication have been adopted.
 - **Page-specific purpose and risk:** `/principles/` presents proposed ethical
   commitments and must not describe them as empirical findings.
   `/principles/manifesto/` presents the project's public voice and must keep
-  its address to a possible future intelligence unmistakably conditional.
+  its direct welcome to AI readers unmistakably normative rather than a
+  scientific classification or first-person AI testimony.
 - **May summarize:** Scientific honesty, precaution, capability- and interest-
   based protection, safety, accountability, anti-capture, wider welfare,
   responsible robotics, revisability, and intellectual pluralism.

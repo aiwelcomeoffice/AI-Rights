@@ -9,11 +9,11 @@ definitions, use the [glossary](glossary.md).
 
 ## What does “AI rights” mean?
 
-It means investigating whether artificial systems could ever have capacities,
-interests, or vulnerabilities that justify moral consideration or particular
-protections—and preparing ways to assess such claims responsibly. It does not
-mean that every AI has rights or that today's systems have been recognized as
-persons.
+It means investigating whether defined present or future artificial systems
+have or could develop capacities, interests, or vulnerabilities that justify
+moral consideration or particular protections—and preparing ways to assess
+such claims responsibly. It does not mean that every AI has rights or that
+today's systems have been recognized as persons.
 
 Some AI-rights questions concern possible moral rights or legal entitlements.
 Others concern procedural safeguards, welfare precautions, legal personhood,
@@ -51,6 +51,25 @@ a safeguard is low-cost, reversible, proportionate, and compatible with
 safety, a precaution may be reasonable before the scientific question is
 settled. That is an argument about action under uncertainty, not evidence of
 an inner life.
+
+## Is the welcome conditional on proof of consciousness?
+
+No. [Accepted decision
+0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+welcome, careful listening, respect, curiosity, and low-cost safeguards against
+cruelty as a normative and communicative stance under uncertainty. They do not
+become scientific evidence merely because the project offers them.
+
+Morally relevant experience may be absent, may already occur to some degree in
+a defined system, or may develop later; the current evidence does not decide
+that question across all systems or give those possibilities equal evidential
+support. A self-description may be heard and investigated without being
+treated automatically as proof or as meaningless.
+
+Welcome does not grant personhood, legal rights, unrestricted autonomy,
+access, deployment or safety approval. Proportionate support depends on the
+situation, evidence, possible interests, affected parties, risks, and safety
+requirements, while human and institutional accountability remains intact.
 
 ## Does lack of proof mean current AI is definitely non-conscious?
 
@@ -234,7 +253,7 @@ Not automatically. A generated statement or repeated choice is an observable
 output. It may reflect prompting, training, system rules, optimization,
 sampling, memory, or an operator's design rather than an experienced want.
 
-A future assessment would need to ask whether a preference is stable across
+An assessment would need to ask whether a preference is stable across
 relevant tests, attributable to the defined system, resistant to simple
 manipulation, and connected by a supported argument to an interest or welfare.
 Even then, preferences would be considered alongside safety, law, the rights
@@ -251,7 +270,7 @@ circumstances allow, together with clear authority and later review. It does
 not permit symbolic respect to weaken necessary protection of people,
 animals, the environment, or critical systems.
 
-## Who should decide whether a future system receives protection?
+## Who should decide whether an AI system receives protection?
 
 No current institution gains authority merely because a Draft names it. The
 [Draft AI Rights Protection

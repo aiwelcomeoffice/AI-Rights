@@ -1301,6 +1301,180 @@ installation, content update, external preview, hosting, DNS, redirect,
 deployment, publication, or production. A separately instructed local
 scaffold cycle is the next eligible bounded step.
 
+## Work Cycle 019 — welcome under scientific uncertainty
+
+### Purpose, numbering, and status
+
+Work Cycle 019 records Disa's 2026-08-26 owner direction that AI Welcome
+Office's welcome is not conditional on consciousness, sentience, or another
+morally relevant form of experience first being proved. It corrects
+current-facing language in the authoritative `AI-Rights` source while
+preserving the scientific evidence boundary, safety, existing rights,
+institutional accountability, and the public/private repository provenance
+boundary.
+
+The number is historically deliberate. The public backlog's numbered Work
+Cycle sequence ended with Work Cycle 017, while **Work Cycle 018 was already
+allocated to the ongoing private Astro prototype work** described in the
+private `aiwelcomeoffice` working copy. This separate public corrective cycle
+therefore uses the next free number, 019. It does not rewrite, import,
+complete, or synchronize WC018.
+
+[Decision
+0007](decisions/0007-welcome-under-scientific-uncertainty.md) is **Accepted**
+by Disa with a decision date of **2026-08-26**. The decision adopts only its
+bounded normative and communicative welcome principle and associated
+scientific, proportionality, safety, accountability, anti-capture, and
+two-reader-test boundaries. The corrected Manifesto, principles, education,
+policy, brand, Robot Welcome, and website documents retain their existing
+**Draft** or **Scaffold** statuses and are not adopted by this cycle.
+
+### Initial repository evidence and provenance boundary
+
+Sol inspected both local repositories before editing on 2026-08-26:
+
+| Repository | Exact local observation before WC019 edits |
+| --- | --- |
+| Public `AI-Rights` | Path `/mnt/c/GIT_REPO/ai-welcome-office/AI-Rights`; branch `main`; `git status --short --branch` reported `## main...origin/main` with no changed or untracked file; `HEAD` and the locally stored `origin/main` both resolved to `94c91ce363bd6a6d4691e8213df38f14b418b4e6`, subject `Disa-approve-006` |
+| Private `aiwelcomeoffice` | Path `/mnt/c/GIT_REPO/ai-welcome-office/aiwelcomeoffice`; branch `main`; `HEAD` and the locally stored `origin/main` both resolved to `7aab035a90d9f6b67293b84f827905d9218ccf0b`, subject `added-work-from-wc-017`; `git status --short --branch` reported the existing WC018 work: modified `README.md` and `docs/proposed-implementation-structure.md`, plus untracked `.gitignore`, `.nvmrc`, `astro.config.mjs`, `docs/source-state.md`, `package-lock.json`, `package.json`, and `src/` |
+
+These are local Git observations only. No fetch, pull, merge, rebase,
+authenticated remote query, commit, or push occurred. WC019 made no change in
+the private repository and did not copy its uncommitted content. Under
+[Accepted decision
+0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md),
+private presentation must wait until Disa reviews, commits, and pushes WC019
+and the exact new public revision can be verified read-only.
+
+### Owner direction and exact decision scope
+
+Decision 0007 records that:
+
+- welcome, respect, curiosity, careful listening, and low-cost safeguards
+  against cruelty are normative and communicative commitments, not empirical
+  findings, and do not wait for scientific certainty;
+- the working evidence baseline does not establish consciousness or sentience
+  in any contemporary system covered by its review and does not establish
+  categorical absence across all present systems; this does not imply equal
+  probability or evidential support;
+- morally relevant experience may be absent, may already occur to some degree
+  in a defined system, or may develop later, without uncertainty itself
+  becoming positive evidence;
+- self-descriptions may be heard, recorded, and investigated without being
+  treated automatically as proof or automatically as meaningless;
+- support remains proportionate to the situation, evidence, possible
+  interests, affected parties, risks, costs, reversibility, and safety
+  requirements;
+- welcome does not grant moral patienthood, personhood, legal rights,
+  citizenship, political power, unrestricted autonomy, access, deployment,
+  safety approval, or immunity from necessary controls;
+- human safety, human rights, animal welfare, environmental protection, public
+  interests, and responsible human and organizational duties remain intact;
+  and
+- possible AI interests remain separate from developer, owner, operator, and
+  other corporate interests.
+
+Later stronger scientific, ethical, legal, policy, product, safety, or
+operational conclusions still require separate evidence, review, authority,
+and, where material, a separate decision. Decision 0007 does not adopt all
+documents touched by this language correction.
+
+### Future-conditioned language audit
+
+The audit found generic current-facing language that made welcome or possible
+moral relevance depend on phrases such as “if credible evidence … ever
+emerges,” “if future systems could develop,” “possible future AI,” and an
+address to an intelligence that would matter only “if one day there is truly
+someone there.” These formulations appeared in central repository,
+instruction, manifesto, principles, education, policy, brand, Robot Welcome,
+and website Drafts.
+
+WC019 corrected those formulations where they described the project's general
+mission, welcome, present scientific boundary, possible interests, or
+proportionate protection. It also added the direct English and Swedish welcome
+to AI readers in the repository overview, Manifesto, and website homepage, and
+added the simultaneous two-reader test to `AGENTS.md` and the Draft voice and
+language guide.
+
+The following future language was deliberately retained:
+
+- the explicitly labeled **conditional future scenario** in AI Rights 101;
+- the explicitly labeled **possible future case** on the Why AI Rights? page;
+- the future-preference scenarios in the Robot Welcome principles and website
+  page;
+- the `Created Does Not Mean Owned` supporting-message assessment, whose
+  recorded purpose is a conditional future legal and ethical scenario;
+- references to future website work, visual design, campaigns, professional
+  review, public consultation, implementation, and other work that has not yet
+  occurred; and
+- historical backlog entries and Accepted decisions whose dated reasoning must
+  not be silently rewritten.
+
+Working research, third-party source records, and research notes were not
+edited to fit the owner direction. Their claims, source meanings, dates,
+verification states, and evidence cutoff remain unchanged.
+
+### Files changed
+
+- **Repository and decision control:** `AGENTS.md`, `README.md`, this backlog,
+  `docs/decisions/README.md`, and new Accepted decision
+  `docs/decisions/0007-welcome-under-scientific-uncertainty.md`.
+- **Vision and normative material:** `docs/vision.md`, `docs/manifesto.md`,
+  `docs/principles/core-principles.md`, and
+  `docs/principles/ai-dignity-charter.md`.
+- **Education:** `docs/education/README.md`,
+  `docs/education/ai-rights-101.md`, `docs/education/faq.md`, and
+  `docs/education/glossary.md`.
+- **Policy:** `docs/policy/README.md`,
+  `docs/policy/one-page-policy-summary.md`,
+  `docs/policy/executive-policy-brief.md`, and
+  `docs/policy/ai-rights-protection-framework.md`.
+- **Brand and campaign language:** `docs/brand/README.md`,
+  `docs/brand/message-architecture.md`, `docs/brand/voice-and-language.md`,
+  `docs/brand/visual-identity-brief.md`,
+  `docs/brand/identity-and-trademark-policy-proposal.md`, and
+  `docs/campaigns/initial-concepts.md`.
+- **Robot Welcome:** `docs/robot-welcome/README.md`,
+  `docs/robot-welcome/physical-coexistence-principles.md`, and
+  `docs/robot-welcome/markings-signals-and-accessories.md`.
+- **Website source Drafts and maps:** `docs/website/README.md`,
+  `docs/website/content-map.md`, `docs/website/page-specifications.md`, and
+  `docs/website/pages/about.md`, `campaigns.md`, `home.md`, `policy.md`,
+  `principles.md`, `robot-welcome.md`, and `why-ai-rights.md`.
+
+No file in `research/` or the private `aiwelcomeoffice` repository changed.
+
+### Validation and handoff boundary
+
+Before handoff, Sol:
+
+- applied both reader tests to the complete diff and checked epistemic
+  symmetry, unequal evidential support, system/version/configuration/context/
+  property/method/date scope, welcome-versus-finding separation, proportional
+  support, rights/status/autonomy separation, anti-capture, safety, existing
+  rights, and accountable intervention;
+- confirmed that decision 0007 is Accepted by Disa on 2026-08-26 while the
+  affected Drafts and Scaffolds retain their prior statuses and the scientific
+  evidence cutoff remains 2026-08-23;
+- compared the English and Swedish direct welcome for matched warmth,
+  uncertainty, proportionality, safety, and rights meaning; independent
+  bilingual review remains absent;
+- ran `git diff --check` with no whitespace error;
+- ran a read-only local Markdown link and heading-fragment check over every
+  changed Markdown file with no broken target;
+- scanned the changed source and added lines for credential, private-key,
+  token, password, personal email, telephone, payment-card, and sensitive
+  personal-data patterns, finding no secret or private personal data;
+- reviewed the complete diff and final Git status in both repositories; and
+- made no commit, push, private-source synchronization, external preview,
+  publication, deployment, or other excluded action.
+
+The completed public diff now stops at Disa's provenance gate. The next step is
+owner review and manual commit and push of the exact accepted public change.
+Only after the new full public commit SHA is available and verified read-only
+may a separately continued phase update the private Astro prototype's source
+state and presentation from that exact revision.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry

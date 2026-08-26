@@ -211,7 +211,7 @@ research, or good-faith disagreement.
 
 No AI system, model provider, developer, platform, contractor, repository
 host, or informal collaborator should be treated as owner or authorizer by
-default. Possible future AI moral status is irrelevant to the current legal
+default. Possible AI moral status is irrelevant to the current legal
 chain-of-title record and must not become a route for corporate ownership or
 immunity.
 

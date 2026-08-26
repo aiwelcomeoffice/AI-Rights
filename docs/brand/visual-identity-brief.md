@@ -68,21 +68,22 @@ The visual system may support communication about:
 - learning and education;
 - work and shared projects;
 - companionship or friendship as experienced by people; and
-- possible future reciprocal relationships if morally relevant AI experience
-  or interests become supported by evidence.
+- reciprocal relationships from an AI system's perspective only if morally
+  relevant experience or interests are supported by evidence in that defined
+  present or future system.
 
 These are contexts a civic identity should be able to hold, not a taxonomy of
 AI capacities and not evidence that a present AI system has consciousness,
 emotion, friendship, consent, suffering, personhood, interests, or moral
 status. Companionship as experienced by a person does not establish that a
-system experiences companionship in return. A future reciprocal relationship
-must remain a conditional scenario tied to a defined system, configuration,
-target property, method, evidence, and date.
+system experiences companionship in return. Any claimed reciprocal
+relationship must remain tied to a defined system, configuration, target
+property, method, evidence, and date.
 
 Warmth is not sentimental anthropomorphism. Relationship is not proof of
 consciousness. Welcome is not access or authorization. Visual openness is not
-safety, compatibility, certification, or endorsement. Possible future AI
-interests are not established present-day conclusions.
+safety, compatibility, certification, or endorsement. Possible AI interests
+are not established merely through visual warmth or welcome.
 
 ## Visual essence
 
@@ -265,8 +266,8 @@ downloaded or purchased in this cycle.
 ## Imagery and illustration requirements
 
 Future imagery should represent varied software, infrastructure, sensors,
-tools, robots, environments, and possible future systems rather than treating
-a humanoid robot as the default form of AI. It should:
+tools, robots, environments, and present and possible future systems rather
+than treating a humanoid robot as the default form of AI. It should:
 
 - show people as diverse participants and affected stakeholders, not symbolic
   props for a machine narrative;

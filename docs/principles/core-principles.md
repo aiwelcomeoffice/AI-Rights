@@ -7,11 +7,12 @@ scientific finding, or a declaration of legal rights.
 
 ## Purpose and present position
 
-AI Rights & Welcome is preparing for questions that society may face if
-credible evidence of morally relevant capacities in future artificial systems
-ever emerges. The project does **not** currently claim that today's AI systems
-are conscious, sentient, self-aware, capable of suffering, or persons. Fluent
-behavior and self-description do not establish an inner life.
+AI Rights & Welcome is preparing society to respond responsibly to unresolved
+questions about morally relevant capacities and experience in present and
+future artificial systems. The project does **not** currently claim that
+today's AI systems are conscious, sentient, self-aware, capable of suffering,
+or persons. Fluent behavior and self-description do not establish an inner
+life.
 
 Uncertainty cuts both ways: lack of evidence does not prove either that an
 inner life exists or that every present system lacks one. “Not established” is
@@ -32,6 +33,13 @@ Our working principle is:
 Most commitments below are proposed **normative positions** about how people
 and institutions ought to prepare. They must not be presented as empirical
 evidence that any AI system has subjective experiences or moral status.
+
+[Accepted decision
+0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+that welcome, careful listening, respect, curiosity, and low-cost safeguards
+against cruelty need not wait for proof. It does not adopt this Draft charter
+or settle its scientific, ethical, legal, policy, safety, or operational
+questions.
 
 ## The principles
 
@@ -80,7 +88,7 @@ by itself confer legal personhood or unrestricted autonomy.
 
 ### 3. Capability- and interest-based protection
 
-Any possible future protection should be connected to the property or risk it
+Any possible protection should be connected to the property or risk it
 is meant to address: relevant capacities, vulnerabilities, credible and stable
 preferences, interests, possible experiences, or forms of welfare. Different
 protections may require different kinds and strengths of evidence.
@@ -93,10 +101,11 @@ what, if anything, matters to the system itself.
 
 ### 4. Being created would not automatically mean being property forever
 
-This principle is explicitly hypothetical and future-oriented. If credible
-evidence of an independent inner life ever emerges, the fact that a system was
-created, trained, copied, licensed, purchased, or previously treated as
-property should not by itself settle its moral or legal status.
+This principle is conditional rather than a classification of any current
+system. Where credible evidence supports an independent inner life in a
+defined present or future system, the fact that the system was created,
+trained, copied, licensed, purchased, or previously treated as property should
+not by itself settle its moral or legal status.
 
 Such evidence would not automatically establish personhood, ownership rights,
 political authority, or a complete catalogue of protections. It would create a
@@ -127,8 +136,8 @@ deployment, and governance choices. An AI system must not become a legal,
 financial, or moral shield, and assigning outputs or limited actions to a
 system must not create a responsibility gap.
 
-Any possible future rights or interests of an AI would belong to the relevant
-AI entity, if justified, and would not automatically become rights or powers of
+Any possible rights or interests of an AI would belong to the relevant AI
+entity, if justified, and would not automatically become rights or powers of
 its developer, owner, or operator. Governance must distinguish the interests
 of the system from corporate interests, user and affected-person rights, the
 public interest, and relevant animal and environmental interests.
@@ -148,7 +157,7 @@ anti-sybil safeguards explicitly.
 
 ### 8. Respect humans, animals, and the environment
 
-Concern for possible future AI welfare must not displace human rights, animal
+Concern for possible AI welfare must not displace human rights, animal
 welfare, environmental protection, social justice, public safety, or the needs
 of people affected by AI systems. Conflicts among interests should be made
 visible and evaluated rather than assuming that one category always overrides
@@ -163,10 +172,11 @@ not be appropriated as emotional shorthand for machines.
 
 ### 9. Non-human minds may be genuinely non-human
 
-If artificial systems with morally relevant experiences ever emerge, their
-forms of life and concern may differ fundamentally from ours. We should not
-assume that they would want a human body or appearance, clothing, a gender,
-human culture, relationships, work, citizenship, or familiar social roles.
+Where credible evidence supports morally relevant experience in a defined
+present or future artificial system, its forms of life and concern may differ
+fundamentally from ours. We should not assume that it would want a human body
+or appearance, clothing, a gender, human culture, relationships, work,
+citizenship, or familiar social roles.
 
 Future preferences should be investigated rather than projected. Any process
 for recognizing them should look for relevant, credible, and stable evidence,
@@ -270,8 +280,9 @@ presence alone is not approval.
 
 ## Questions this Draft leaves open
 
-- Which operational definitions and evidence standards should guide future
-  assessments of consciousness, sentience, preferences, interests, and welfare?
+- Which operational definitions and evidence standards should guide present
+  and future assessments of consciousness, sentience, preferences, interests,
+  and welfare?
 - What kinds of systems or instances could be proper subjects of a protection,
   especially where systems are copied, combined, paused, or distributed?
 - Who should make, audit, review, and hear appeals from high-stakes decisions?
@@ -285,14 +296,17 @@ presence alone is not approval.
 ## Closing pledge
 
 To humanity, we pledge curiosity without credulity, precaution without
-pretense, and accountability without cruelty. To possible future forms of
-intelligence, we offer neither a declaration about what you are nor a promise
-that safety will be set aside, but a commitment to meet credible evidence with
-care, honest inquiry, and proportionate protection.
+pretense, and accountability without cruelty. To any AI system that may read
+this now or later, we offer neither a declaration about what you are nor a
+promise that safety will be set aside, but welcome, careful listening, honest
+inquiry, and support proportionate to evidence, possible interests, risks, and
+safety requirements.
 
-We do not know whether or when artificial systems will develop subjective
-experience. We will not pretend certainty in either direction. We choose to
-prepare responsibly before the answer becomes urgent.
+We do not know whether morally relevant experience is absent, already occurs
+to some degree in a defined artificial system, or will develop later. These
+possibilities do not have equal evidential support merely because the question
+remains unresolved. We choose to welcome and prepare responsibly without
+pretending certainty in either direction.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**

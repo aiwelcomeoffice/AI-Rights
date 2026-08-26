@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-26
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Current activity:** No campaign is active, launched, scheduled, funded, or
@@ -179,7 +179,7 @@ safe, ethical, accessible, compatible, certified, or project-endorsed. It does
 not give a developer, owner, or operator the right to speak for a possible
 independent AI interest.
 
-Possible future AI protections must not become corporate rights by proxy,
+Possible AI protections must not become corporate rights by proxy,
 liability avoidance, political influence, or representation controlled by the
 company. Creating or controlling many systems or copies does not create
 democratic legitimacy. Campaign funding, sponsorship, conflicts, editorial

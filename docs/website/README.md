@@ -34,8 +34,8 @@ work cycle.
   and safeguards for every proposed page
 - [Homepage Draft](pages/home.md) — website-ready project introduction and
   primary reading paths
-- [Why AI Rights? Draft](pages/why-ai-rights.md) — case for preparation before
-  certainty without present-status recognition
+- [Why AI Rights? Draft](pages/why-ai-rights.md) — case for preparation and
+  welcome before certainty without present-status recognition
 - [Research Draft](pages/research.md) — working evidence, method, source, and
   review-limit orientation
 - [Policy Draft](pages/policy.md) — jurisdiction-neutral preparedness overview

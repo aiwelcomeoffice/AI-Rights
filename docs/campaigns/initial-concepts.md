@@ -101,9 +101,9 @@ Merchandise Guardrails](../brand/campaign-and-merchandise-guardrails.md).
 - **What the campaign does not claim:** It does not state current law for every
   jurisdiction, assign liability without facts, deny that responsibility can
   be shared, declare an AI morally or legally responsible, or rule out a
-  future independent AI interest.
+  independent AI interest in a present or future system.
 - **Scientific and ethical risks:** A strong accountability message may be
-  used to avoid investigating a possible future system interest, or may imply
+  used to avoid investigating a possible system interest, or may imply
   that complex causation always has one responsible actor. The campaign should
   preserve both inquiry and role-specific accountability.
 - **Historical-comparison risks:** Do not borrow labor, civil-rights, or

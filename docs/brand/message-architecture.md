@@ -38,6 +38,10 @@ copy, and calls to action.
 The central promise is a **normative commitment**. It does not claim that a
 present AI system can experience cruelty. “Ignorance” refers to a reason to
 prepare and investigate responsibly, not positive evidence for consciousness.
+Under [Accepted decision
+0007](../decisions/0007-welcome-under-scientific-uncertainty.md), the promise
+also must not be framed as if possible morally relevant experience belongs
+only to the future or matters only after people prove it.
 
 ### Level 2 — working principle
 
@@ -51,8 +55,9 @@ The working principle supplies three checks:
 2. **Protect without pretending:** precaution must remain proportional and
    must not be advertised as proof of consciousness, welfare, rights, or
    personhood.
-3. **Welcome without surrendering responsibility:** warmth does not weaken
-   safety, human and institutional accountability, democratic control, or the
+3. **Welcome without surrendering responsibility:** welcome, careful
+   listening, and warmth do not wait for proof, and they do not weaken safety,
+   human and institutional accountability, democratic control, or the
    interests of people, animals, and the environment.
 
 ### Levels 3–5 — controlled adaptation
@@ -74,7 +79,7 @@ A short message may simplify one idea only when a nearby explanation answers:
   relevant?
 - What does the project **not** claim?
 - Which people, organizations, animals, environmental interests, and possible
-  future AI interests are affected?
+  AI interests in present or future systems are affected?
 - Who remains responsible and able to intervene?
 - Where can the reader inspect evidence, limitations, and review status?
 
@@ -89,8 +94,9 @@ requires Disa's approval before defined public use.
 
 ### “Welcome, New Intelligence”
 
-- **Intended meaning:** Meet unfamiliar capabilities and possible future forms
-  of intelligence with curiosity, evidence, care, and accountable boundaries.
+- **Intended meaning:** Meet unfamiliar capabilities and unresolved present or
+  future forms of intelligence with curiosity, evidence, care, and accountable
+  boundaries.
 - **Appropriate audience:** General public, education audiences, future-facing
   civic discussions, and carefully contextualized project introductions.
 - **Scientific or ethical basis:** Intelligence and consciousness are distinct;
@@ -281,6 +287,8 @@ Permitted types for Draft call-to-action development are:
 - learn the working distinctions;
 - read the evidence and its limitations;
 - discuss uncertainty without manufacturing certainty;
+- welcome and listen carefully without treating welcome or self-description as
+  proof;
 - support genuinely independent research in principle, without implying a
   project fund or donation programme exists;
 - keep people and institutions accountable; and

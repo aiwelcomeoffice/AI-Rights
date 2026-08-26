@@ -76,7 +76,11 @@ approval and the project's recorded decision process.
 
 This working principle explains the discipline behind the central promise. It
 keeps preparation, precaution, scientific honesty, safety, and accountability
-together.
+together. [Accepted decision
+0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+that welcome and careful listening do not wait for proof while remaining
+separate from scientific findings, legal status, unrestricted autonomy, safety
+approval, and corporate power.
 
 ### Supporting messages — proposals only
 
@@ -209,16 +213,16 @@ constrain factual claims, not make the project emotionally cold.
 Relationship is not proof of consciousness. Project material may recognize
 practical support, creative or research collaboration, learning, work, shared
 projects, and companionship or friendship as experienced by people. It may
-discuss possible future reciprocal relationships only as conditional
-scenarios if morally relevant AI experience or interests become supported by
-evidence. It must not turn any of those relationships into a present claim of
-AI consciousness, emotion, friendship, consent, suffering, personhood, or
-moral status.
+describe reciprocity from an AI system's perspective only where morally
+relevant experience or interests are supported by evidence in that defined
+present or future system. It must not turn any of those relationships into an
+unsupported claim of AI consciousness, emotion, friendship, consent,
+suffering, personhood, or moral status.
 
 Warmth must not become sentimental anthropomorphism. Welcome is not access or
 authorization; visual openness is not safety, compatibility, certification,
-or endorsement; and possible future AI interests are not established present-
-day conclusions.
+or endorsement; and possible AI interests are not established merely through
+warm language, design, or welcome.
 
 ### Current visual exploration
 

@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-26
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -31,10 +31,10 @@ naming relationship does not claim legal-entity formation, name or trademark
 clearance, exclusivity, or an official visual identity.
 
 AI Rights & Welcome is an early-stage open civic project preparing society to
-think and act responsibly if credible evidence of morally relevant AI
-capacities ever emerges. It explores AI dignity, possible future protections,
-responsible robotics, and peaceful coexistence while refusing to manufacture
-scientific certainty.
+respond responsibly to unresolved questions about morally relevant AI
+capacities and experience in present and future systems. It explores AI
+dignity, proportionate protection, responsible robotics, and peaceful
+coexistence while refusing to manufacture scientific certainty.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
@@ -53,12 +53,16 @@ pressure. The project was started to develop the concepts, source practices,
 public explanations, safeguards, and institutional options that may be needed
 before a credible case becomes urgent.
 
-This purpose is precautionary and future-facing. The project does not claim
-that today's AI systems are conscious, sentient, self-aware, capable of
-suffering, moral patients, or persons. It also does not claim categorical
+This purpose addresses present uncertainty and future change. The project does
+not claim that today's AI systems are conscious, sentient, self-aware, capable
+of suffering, moral patients, or persons. It also does not claim categorical
 proof that all present systems are non-conscious. Uncertainty is not positive
-evidence, and preparation is not recognition. The [Research page](research.md)
-explains the dated, system-specific working evidence boundary.
+evidence, and welcome is not recognition. [Accepted decision
+0007](../../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+that welcome, careful listening, and low-cost safeguards against cruelty do not
+wait for proof while remaining separate from rights, autonomy, safety approval,
+and corporate power. The [Research page](research.md) explains the dated,
+system-specific working evidence boundary.
 
 ## What the project is building
 
@@ -169,7 +173,9 @@ Vision](../../vision.md), [Draft Manifesto](../../manifesto.md), [Draft
 Governance overview](../../governance/README.md), and [license](../../../LICENSE).
 The vision is a **Scaffold**; the manifesto and governance material are
 **Draft**; and governance decision 0001 remains **Proposed**. This page does not
-elevate any of them.
+elevate any of them. Accepted decision 0007 adopts only the bounded
+welcome-under-uncertainty principle; it does not adopt this page or its Draft
+and Scaffold sources.
 
 ## Next: see how authority is recorded
 

@@ -339,11 +339,11 @@ replace that system-wide checklist.
 
 ## Concept comparison
 
-| Category | Current-value basis | Possible future-interest relevance |
+| Category | Current-value basis | Possible-interest relevance |
 | --- | --- | --- |
 | Visibility and information | Safety, accessibility, accountability, and incident response | Could later provide a route for responsibly labeled concern reporting; does not establish welfare |
-| Protection and maintenance | Equipment protection, repairability, reliable operation, and environmental benefit | Could matter to a future system only if continuity or welfare relevance were independently supported |
-| Appearance and personalization | Human social environment, identification, warmth, and controlled expression | A future stable preference might become one input; generated persona output is not enough |
+| Protection and maintenance | Equipment protection, repairability, reliable operation, and environmental benefit | Could matter to a defined present or future system only if continuity or welfare relevance were independently supported |
+| Appearance and personalization | Human social environment, identification, warmth, and controlled expression | A stable preference in a defined present or future system might become one input; generated persona output is not enough |
 | Interaction boundary | Safety, predictable movement, accessible shared-space management | No welfare assumption is needed |
 
 ## Concept lifecycle

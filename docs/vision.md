@@ -8,8 +8,9 @@
 ## Purpose
 
 AI Rights & Welcome is an AI Welcome Office project. It exists to help society
-ask, investigate, and govern difficult questions about possible AI moral
-status before the answers become urgent.
+ask, investigate, and govern unresolved questions about morally relevant AI
+capacities and experience in present and future systems before the answers
+become urgent.
 It aims to combine scientific humility with moral seriousness and practical
 preparation.
 
@@ -19,6 +20,13 @@ established” is not “proven absent,” but unresolved status does not imply 
 odds or equal evidential support. It asks what evidence would matter, what
 uncertainty permits or requires, and how precautionary protection could
 coexist with safety and human control.
+
+Under [Accepted decision
+0007](decisions/0007-welcome-under-scientific-uncertainty.md), welcome,
+respect, careful listening, curiosity, and low-cost safeguards against cruelty
+do not wait for scientific certainty. That is a normative and communicative
+position, not evidence of present experience, personhood, rights, or
+operational authorization.
 
 ## Intended character
 

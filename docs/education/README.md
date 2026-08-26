@@ -13,6 +13,13 @@ suffering, moral patients, or persons, and they do not claim that every
 present system is non-conscious. “Not established” is not “proven absent,” but
 uncertainty does not imply equal probability or equal evidential support.
 
+[Accepted decision
+0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+that welcome, careful listening, respect, curiosity, and low-cost safeguards
+against cruelty do not wait for proof. That normative and communicative
+principle is not a scientific finding and does not adopt these Draft education
+pages.
+
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
 

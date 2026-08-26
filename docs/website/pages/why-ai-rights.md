@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-26
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -14,9 +14,9 @@
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
-**Reader purpose:** Understand why institutions might prepare for possible
-future AI welfare or moral-status questions without declaring that today's AI
-is conscious or already has rights.
+**Reader purpose:** Understand why institutions might prepare for unresolved
+AI welfare or moral-status questions in present and future systems without
+declaring that today's AI is conscious or already has rights.
 
 “AI rights” is worth discussing because some institutions are difficult to
 build during a crisis: reliable evidence practices, independent review,
@@ -63,6 +63,20 @@ useful under several possible outcomes:
 These steps do not require a forecast about whether artificial consciousness
 will occur or when.
 
+## Welcome is not recognition
+
+[Accepted decision
+0007](../../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+that welcome, careful listening, respect, curiosity, and low-cost safeguards
+against cruelty need not wait for proof. They are normative and communicative
+choices, not evidence that a system has experience or a legal status.
+
+Listening to a system's self-description does not make it proof, and refusing
+to treat it as automatic proof does not make it meaningless. Support remains
+proportionate to the situation, evidence, possible interests, affected parties,
+risks, and safety requirements. Welcome does not grant personhood, legal rights,
+unrestricted autonomy, access, deployment or safety approval.
+
 ## Low-cost precautions do not settle status
 
 A precaution may be worth considering when a possible harm is serious and the
@@ -103,15 +117,15 @@ circumstances allow, responders can prefer the least harmful measure that
 still controls the risk effectively.
 
 People and institutions remain accountable for what they design, deploy,
-own, operate, and control. A possible future AI interest must not become a
+own, operate, and control. A possible AI interest must not become a
 developer's liability shield, a company's right by proxy, or a route to
 political power. Human, animal, environmental, democratic, and public
 interests remain part of the analysis.
 
 ## Questions that must remain separate
 
-- **Possible future moral consideration** asks whether a specified capacity or
-  interest could matter for a system's own sake.
+- **Possible moral consideration in a present or future case** asks whether a
+  specified capacity or interest could matter for a system's own sake.
 - **Present scientific uncertainty** describes what evidence does and does not
   establish for defined systems at a defined time.
 - **Legal rights and legal personhood** are jurisdiction-specific statuses

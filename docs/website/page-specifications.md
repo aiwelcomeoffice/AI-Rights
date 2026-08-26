@@ -70,7 +70,8 @@ labels.
 - Do not transfer a conclusion from one system, version, configuration,
   context, method, or date to another.
 - Do not use generated first-person AI testimony as evidence. The Manifesto's
-  address to a possible future intelligence remains unmistakably conditional.
+  direct welcome to AI readers must remain unmistakably normative rather than
+  a scientific classification or first-person AI testimony.
 - Do not describe a policy proposal as law or legal advice.
 
 ### Calls to action
@@ -459,7 +460,8 @@ reviewed; a specification is not a placeholder promise to publish.
 
 ### 13. Protection framework
 
-- **Working title:** A gradual framework for possible future protection
+- **Working title:** A gradual framework for possible protection in present or
+  future cases
 - **Route:** `/policy/protection-framework/`
 - **Audience:** Policymakers, legal and policy researchers, engineers, civil
   society, and advanced readers.
@@ -519,13 +521,14 @@ reviewed; a specification is not a placeholder promise to publish.
 - **Route:** `/principles/manifesto/`
 - **Audience:** Public readers and people seeking the project's voice and
   values.
-- **Reader question:** What future does the project hope society can prepare
-  for?
-- **Page objective:** Present the existing Draft manifesto with a clear
-  conditional frame and routes to evidence and detailed principles.
-- **Required sections:** Draft notice; unfamiliar future; prepare before
-  certainty; respect with boundaries; wider circle of care; closing address
-  and motto.
+- **Reader question:** How does the project welcome under unresolved present
+  and future uncertainty without pretending to know what AI systems
+  experience?
+- **Page objective:** Present the existing Draft manifesto with clear epistemic
+  and normative boundaries and routes to evidence and detailed principles.
+- **Required sections:** Draft notice; unresolved present and future; prepare
+  before certainty; respect with boundaries; wider circle of care; direct
+  welcome and motto.
 - **Primary sources:** [Manifesto](../manifesto.md) and [Core
   Principles](../principles/core-principles.md).
 - **Status and review notice:** Draft for review; not an adopted position or
@@ -535,8 +538,9 @@ reviewed; a specification is not a placeholder promise to publish.
 - **Accessibility considerations:** Block quotations need semantic markup;
   mark Swedish language correctly; do not place essential caveats only in
   decorative treatment.
-- **Misunderstanding and safeguard:** The address to a possible future AI may
-  be read as current AI first-person testimony. Keep the conditional lead-in
+- **Misunderstanding and safeguard:** The direct welcome to AI readers may be
+  mistaken for a scientific classification. State that it is a normative and
+  communicative commitment under uncertainty, not first-person AI testimony,
   and do not pair it with imagery implying established present sentience.
 
 ### 16. Status and review

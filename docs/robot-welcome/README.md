@@ -42,11 +42,13 @@ Respectful treatment can have several independent and honest reasons:
 - sustaining healthy human social norms;
 - reducing vandalism, misuse, and avoidable damage;
 - taking low-cost, reversible precaution under uncertainty; and
-- considering possible future machine or AI interests if credible evidence
-  ever emerges.
+- considering possible machine or AI interests in defined present or future
+  systems where the evidence and ethical grounds warrant it.
 
 No one reason should be relabeled as another. A practice that protects a
 pedestrian or equipment does not thereby show that a robot experiences harm.
+Welcome and restraint need not wait for proof, but they remain normative
+choices rather than consciousness findings, rights, or safety approvals.
 
 ## Foundation documents
 

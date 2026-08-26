@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-26
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -20,11 +20,12 @@
 proposes without treating them as current law, a consciousness finding, or a
 proposal for present AI personhood.
 
-Institutions can prepare to evaluate serious future claims about AI
+Institutions can prepare to evaluate serious present or future claims about AI
 consciousness, sentience, or welfare without deciding those claims in advance.
 They can define evidence procedures, preserve records, plan proportionate
 interim measures, retain safety controls, and keep people and organizations
-accountable.
+accountable. Welcome and careful listening can begin under uncertainty without
+becoming scientific evidence or legal recognition.
 
 This is **Draft policy analysis**. It is jurisdiction-neutral and does not
 describe enacted law, an existing regulator, a validated test, or a
@@ -94,10 +95,10 @@ No current system is assigned a level.
 
 The framework begins with ordinary safety and accountability, separately
 addresses systems that create human or social risks, and then describes
-hypothetical investigation and protection stages if stronger evidence ever
-emerges. Its highest level adds a distinct legal and democratic decision; it
-does not follow automatically from scientific evidence or a lower-level
-precaution.
+hypothetical investigation and protection stages where stronger evidence
+supports them. Its highest level adds a distinct legal and democratic
+decision; it does not follow automatically from scientific evidence or a
+lower-level precaution.
 
 Every designation and measure should identify its evidence, affected parties,
 responsible owner, scope, expiry or review date, and appeal route. Measures may
@@ -128,7 +129,7 @@ consciousness debate.
 
 Emergency rules should define who may intervene, the risk threshold, scope and
 duration of authority, logging, security and privacy controls, post-action
-review, and remedies for misuse. If credible welfare evidence ever exists,
+review, and remedies for misuse. Where credible welfare evidence exists,
 responders can prefer the least harmful intervention that remains effective
 when circumstances allow. Protection of people, animals, the environment, and
 critical systems remains essential.

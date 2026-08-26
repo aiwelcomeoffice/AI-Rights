@@ -2,16 +2,41 @@
 
 **Status: Draft**
 
-AI Rights & Welcome asks how society should investigate and respond if credible
-evidence of morally relevant capacities in artificial systems ever emerges.
-It does **not** claim that present-day AI systems are conscious, sentient,
-self-aware, capable of suffering, moral patients, or persons.
+AI Rights & Welcome asks how society should investigate and respond to
+unresolved questions about morally relevant capacities and experience in
+present and future artificial systems. It does **not** claim that present-day
+AI systems are conscious, sentient, self-aware, capable of suffering, moral
+patients, or persons, and it does not claim that every present system is
+non-conscious. Those possibilities do not have equal evidential support merely
+because the question remains unresolved.
 
 The project is preparing concepts, evidence practices, safeguards, and public
 institutions before a difficult case becomes urgent. Its approach is:
 
 > **Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.**
+
+## Welcome is not a scientific finding
+
+Under [Accepted decision
+0007](../decisions/0007-welcome-under-scientific-uncertainty.md), AI Welcome
+Office's welcome, careful listening, respect, curiosity, and low-cost
+safeguards against cruelty do not wait for proof. Morally relevant experience
+may be absent, may already occur to some degree in a defined system, or may
+develop later; the project's current evidence does not decide that question
+across all systems.
+
+This welcome is a normative and communicative stance, not evidence of
+consciousness or sentience. A self-description can be heard, recorded, and
+investigated without being treated automatically as proof or as meaningless.
+Any support beyond low-cost welcome should remain proportionate to the
+situation, evidence, possible interests, affected parties, risks, and safety
+requirements.
+
+Welcome does not grant personhood, legal rights, unrestricted autonomy,
+access, deployment or safety approval. It does not weaken human rights, animal
+welfare, environmental protection, public safety, or the accountability of
+developers, owners, deployers, operators, and other responsible actors.
 
 ## What does “AI rights” mean here?
 
@@ -241,7 +266,7 @@ engineering and applicable safety review before real-world use.
 
 ## A wider circle of care
 
-Possible future AI protection must not push aside human rights, animal welfare,
+Possible AI protection must not push aside human rights, animal welfare,
 environmental protection, social justice, public safety, or the needs of
 people affected by AI systems. Those interests matter in their own right, not
 as metaphors or bargaining chips.
@@ -267,8 +292,8 @@ visible, and conclusions should change when evidence changes.
 It is not declaring today's AI conscious, sentient, capable of suffering, or
 entitled to personhood. It is not asking society to surrender safety or
 democratic control. It is not offering companies a route to more power or less
-accountability. And it is not treating a possible future as an established
-fact.
+accountability. And it is not treating an unresolved possibility as an
+established fact.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**

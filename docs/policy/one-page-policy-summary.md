@@ -13,16 +13,21 @@
 
 ## The problem
 
-Institutions should be ready to evaluate serious future claims about AI
-consciousness, sentience, or welfare without declaring an answer in advance.
-They need procedures that can distinguish evidence from persuasive behavior,
-respond proportionately to uncertain welfare concerns, track changing system
-versions, separate possible AI interests from corporate interests, and prevent
-an uncertain status from becoming a shield against human or organizational
-responsibility.
+Institutions should be ready to evaluate serious present or future claims
+about AI consciousness, sentience, or welfare without declaring an answer in
+advance. They need procedures that can distinguish evidence from persuasive
+behavior, respond proportionately to uncertain welfare concerns, track
+changing system versions, separate possible AI interests from corporate
+interests, and prevent an uncertain status from becoming a shield against
+human or organizational responsibility.
 
 This is a preparedness proposal. It is not a claim that current AI has an
 inner life or that any new legal status is already required.
+
+Welcome and careful listening need not wait for proof, but they are normative
+communication choices rather than scientific findings. They do not determine
+personhood, legal rights, autonomy, access, safety approval, or the strength of
+any later protection.
 
 ## The scientific boundary
 

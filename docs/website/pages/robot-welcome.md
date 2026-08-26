@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-26
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
@@ -70,8 +70,8 @@ Respectful practice can be justified for several independent reasons:
 - support accessibility and healthy shared spaces;
 - reduce vandalism, misuse, and avoidable damage;
 - use low-cost, reversible precaution under uncertainty; and
-- create a careful path for considering possible future machine interests if
-  credible evidence ever emerges.
+- create a careful path for considering possible machine interests in defined
+  present or future systems where evidence and ethical grounds warrant it.
 
 These reasons should stay honest. Giving a working robot space can protect a
 pedestrian and prevent a collision. Maintaining a machine can reduce failures,
@@ -167,7 +167,7 @@ controllers, and other people or organizations.
 Their accountability should reflect their actual control, knowledge, duties,
 claims, and ability to prevent or remedy harm. A robot's autonomy, output,
 persona, or apparent decision does not erase the people and institutions
-behind its design and operation. Possible future machine protection must not
+behind its design and operation. Possible machine protection must not
 become a company right, liability shield, or source of political power by
 proxy.
 
@@ -252,9 +252,9 @@ and review of relevant law and standards for the exact robot and use.
 
 Most of this etiquette follows directly from present safety, property,
 accessibility, accountability, and social-norm reasons. Avoiding gratuitous
-abuse also includes a low-cost precautionary reason: if credible evidence of a
-relevant future interest ever emerged, restraint would already be familiar.
-That precaution is not evidence that today's robots can suffer.
+abuse also includes a low-cost precautionary reason under unresolved present
+and future uncertainty. Restraint need not wait for proof, and that precaution
+is not evidence that today's robots can suffer.
 
 ## Respect without making robots perform humanity
 

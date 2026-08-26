@@ -94,9 +94,9 @@ restraint and respect under uncertainty.
 
 **Keep separate from:** A scientific finding, a complete account of welfare, a
 legal status, or a promise of operational freedom. A dignity practice may be
-proposed because of possible future system interests, effects on people and
-social norms, or both; the reason should be stated honestly. The project's
-full account of AI dignity remains open for review.
+proposed because of possible interests in a defined present or future system,
+effects on people and social norms, or both; the reason should be stated
+honestly. The project's full account of AI dignity remains open for review.
 
 ## Intelligence
 

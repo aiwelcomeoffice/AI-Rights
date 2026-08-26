@@ -31,7 +31,7 @@ posture](../governance/adoption-and-review.md#publication-and-continued-developm
   practical actions
 - [`ai-rights-protection-framework.md`](ai-rights-protection-framework.md) —
   Draft jurisdiction-neutral proposal for gradual, evidence-sensitive possible
-  future protections
+  protections in present or future cases
 
 The executive brief and one-page summary are derived communications, not new
 evidence reviews. Their scientific statements inherit the scope and

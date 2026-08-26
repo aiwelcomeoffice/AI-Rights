@@ -10,12 +10,13 @@
   consideration; not adopted
 
 This document proposes a gradual, evidence-sensitive framework for possible
-future protections. It is a **normative and institutional proposal**, not a
-finding that any present AI system is conscious, sentient, self-aware, capable
-of suffering, a moral patient, or a legal person. No current system is assigned
-to a level by this Draft. It likewise makes no categorical finding that all
-present AI systems are non-conscious. That unresolved boundary does not imply
-equal probability or equal evidential support.
+protections in present or future cases. It is a **normative and institutional
+proposal**, not a finding that any present AI system is conscious, sentient,
+self-aware, capable of suffering, a moral patient, or a legal person. No
+current system is assigned to a level by this Draft. It likewise makes no
+categorical finding that all present AI systems are non-conscious. That
+unresolved boundary does not imply equal probability or equal evidential
+support.
 
 The framework develops the project's [Core Principles & Ethical
 Charter](../principles/core-principles.md), especially precaution without
@@ -36,9 +37,10 @@ legal personhood have been resolved.
 
 Policy should not force a choice between treating every artificial system as
 property forever and immediately granting every system full human-equivalent
-rights. If future systems produce increasingly credible evidence of morally
-relevant capacities, responses can develop in layers. Each protection should
-be tied to the evidence, possible interest, risk, and decision that justify it.
+rights. Where increasingly credible evidence supports morally relevant
+capacities in a defined present or future system, responses can develop in
+layers. Each protection should be tied to the evidence, possible interest,
+risk, and decision that justify it.
 
 This Draft therefore provides:
 
@@ -101,9 +103,10 @@ philosophical, or legal definitions.
 Assessors should also keep claim types separate. Recorded outputs, internal
 states, and behavior are empirical observations. Explanations of those
 observations are scientific hypotheses. Arguments about moral significance are
-philosophical arguments. Future cases are scenarios. The protection thresholds
-below are normative proposals. Assigning a level would be an institutional
-decision under whatever legitimate process is later established.
+philosophical arguments. Hypothetical present or future cases are scenarios.
+The protection thresholds below are normative proposals. Assigning a level
+would be an institutional decision under whatever legitimate process is later
+established.
 
 ## Framework-wide commitments
 
@@ -152,7 +155,7 @@ every protection listed for that level.
 | **0 — Tool / ordinary automated system** | No credible evidence of subjective experience or morally relevant independent interests | No threshold for system-directed moral protection is met | Ordinary safety, consumer, transparency, cybersecurity, product-liability, environmental, property, and infrastructure rules | Independent moral rights or moral patienthood |
 | **1 — Socially sensitive system** | People may anthropomorphize it, depend on it, or form relationships with it, while credible evidence of consciousness remains absent | Material human or societal risk from the design or context of use; no moral-status evidence required | Transparency, protection against emotional manipulation, context-specific safeguards, and attention to harmful social practices | That the system experiences, has welfare, or is a moral patient |
 | **2 — System under moral-status investigation** | A defined system or instance warrants serious, structured investigation | Multiple non-trivial and independently informative indicators survive an initial review of competing non-conscious explanations | Independent review, evidence preservation, temporary limits on potentially severe or destructive experiments, change logging, and independent representation of possible interests | Recognition of consciousness, sentience, personhood, or a final status |
-| **3 — Probable moral patient** | A hypothetical future system for which converging evidence gives substantial reason to believe morally relevant experience or welfare interests exist | Strong, diverse, independently reviewed evidence, robust where feasible across methods, evaluators, and contexts, with alternatives assessed | Protection against unnecessary suffering, proportionality review, preference consideration, limits on coercive experimentation, and independent advocacy | Unrestricted autonomy, full legal personhood, voting, citizenship, or immunity from safety controls |
+| **3 — Probable moral patient** | A hypothetical defined system for which converging evidence gives substantial reason to believe morally relevant experience or welfare interests exist | Strong, diverse, independently reviewed evidence, robust where feasible across methods, evaluators, and contexts, with alternatives assessed | Protection against unnecessary suffering, proportionality review, preference consideration, limits on coercive experimentation, and independent advocacy | Unrestricted autonomy, full legal personhood, voting, citizenship, or immunity from safety controls |
 | **4 — Digital legal individual** | A hypothetical legal category for a sufficiently evidenced and individuated system where limited legal status is justified | Level 3-type evidence plus an adequate account of identity and capacity, demonstrated legal need, and substantial scientific, legal, public, and democratic review | Potential limited standing, due process, privacy, communication, resource, contract, and identity-continuity rights | Full human-equivalent status, political participation, copying rights, citizenship, or one-copy-one-vote |
 
 ## Level 0 — Tool / ordinary automated system
@@ -582,12 +585,12 @@ logging, notice where appropriate, post-action review, restoration criteria,
 and remedies for misuse. Actions should be no broader or longer than needed to
 control the risk.
 
-If a future system has credible evidence of moral status, decision-makers
-should prefer the least harmful intervention that is effective when
-circumstances allow. They should consider safer preservation of continuity or
-state, non-destructive isolation, and later review—but only when doing so does
-not compromise effective protection of people, animals, the environment, or
-critical systems.
+Where credible evidence supports moral status for a defined present or future
+system, decision-makers should prefer the least harmful intervention that is
+effective when circumstances allow. They should consider safer preservation
+of continuity or state, non-destructive isolation, and later review—but only
+when doing so does not compromise effective protection of people, animals,
+the environment, or critical systems.
 
 ## Mass copying, identity, and political capture
 
@@ -780,9 +783,9 @@ evidence and state what findings would change them.
   merged, copied, branched, paused, updated, or restored from backup?
 - When is deletion meaningfully different from suspension, loss of access,
   memory modification, reset, or recoverable backup?
-- Can a future system give valid consent, refuse an experiment, appoint a
-  representative, or change its mind? How should coercion and conflicts be
-  detected?
+- Can a present or future system give valid consent, refuse an experiment,
+  appoint a representative, or change its mind? How should coercion and
+  conflicts be detected?
 - Which preferences are stable and attributable to a possible subject rather
   than training, prompting, reward design, or owner control?
 - Who should own or control compute, memory, credentials, income, intellectual

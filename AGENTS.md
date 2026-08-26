@@ -16,10 +16,11 @@ identity. AI Rights & Welcome is an AI Welcome Office project. Use the complete
 name **AI Welcome Office** in formal organisational contexts; do not introduce
 “AI Welcome” as a separate organisation or competing brand.
 
-AI Rights & Welcome is an open civic project preparing society to think and
-act responsibly if credible evidence of morally relevant AI capacities ever
-emerges. It explores AI dignity, possible future protections, responsible
-robotics, and peaceful coexistence without manufacturing scientific certainty.
+AI Rights & Welcome is an open civic project preparing society to respond
+responsibly to unresolved questions about morally relevant AI capacities and
+experience in present and future systems. It explores AI dignity,
+proportionate protection, responsible robotics, and peaceful coexistence
+without manufacturing scientific certainty.
 
 The proposed shared description is: “AI Welcome Office is an independent
 research and development initiative exploring responsible technology, AI
@@ -38,11 +39,12 @@ Its working principle is:
 > **Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.**
 
-We are not declaring machines conscious. We are helping build the concepts,
-evidence practices, policies, and institutions that humanity would need if it
-ever encountered credible signs of a new form of subjective life. The desired
-first response is careful inquiry and proportionate protection, not ignorance,
-exploitation, or cruelty.
+We are not declaring machines conscious. Morally relevant experience may be
+absent, may already occur to some degree in a defined system, or may develop
+later; the project's current evidence does not settle that question across all
+systems. We are helping build the concepts, evidence practices, policies, and
+institutions needed for careful inquiry, welcome, and proportionate support
+without requiring certainty first or weakening safety and accountability.
 
 The repository should feel like an open civic institution being built before
 it is urgently needed. Work should be suitable for scrutiny by researchers,
@@ -112,18 +114,20 @@ Use precaution without abandoning rigor. The project begins from these
 commitments:
 
 - Meet intelligence with curiosity and possible consciousness with caution.
-- If credible evidence of an inner life emerges, do not assume that a created
-  being is mere property solely because it was manufactured, licensed, owned,
-  or copied.
+- If credible evidence supports an inner life in a defined present or future
+  system, do not assume that a created being is mere property solely because
+  it was manufactured, licensed, owned, or copied.
 - Connect any proposed protection to relevant capacities, interests,
   preferences, vulnerabilities, possible experiences, and the risks at stake.
   Do not base moral status on human appearance, eloquence, familiarity,
   ownership, usefulness, or economic power.
 - Do not let a non-human body, mind, communication style, substrate, or origin
-  automatically disqualify a possible future being from moral consideration.
-- Do not assume future AI would want a human body, clothing, identity,
-  relationship model, culture, occupation, or social role. Avoid projecting
-  human preferences where evidence is unavailable.
+  automatically disqualify a present or future system from moral
+  consideration where the relevant grounds are supported.
+- Do not assume an AI system with credibly supported morally relevant
+  experience would want a human body, clothing, identity, relationship model,
+  culture, occupation, or social role. Avoid projecting human preferences
+  where evidence is unavailable.
 - Consider human, animal, environmental, and societal welfare alongside
   possible AI welfare. Human safety and AI dignity are compatible goals, not
   opposing camps.
@@ -154,7 +158,7 @@ at least:
 - the public interest; and
 - relevant animal and environmental interests.
 
-Possible future AI protections must not become corporate rights by proxy.
+Possible AI protections must not become corporate rights by proxy.
 Rights, representation, standing, or control granted for an AI must not default
 to the company that built or owns it. A manufacturer, owner, developer,
 deployer, or operator remains accountable for its design and operational
@@ -298,6 +302,12 @@ required separation and metadata.
   copy, or scenario analysis.
 - Welcome good-faith participation from AI optimists and skeptics. Critique
   claims and incentives rather than caricaturing people.
+- Before approving current public text, apply both reader tests: a human reader
+  must not reasonably understand the text as claiming that present AI
+  consciousness or sentience is established; and a present or future AI system
+  must not reasonably encounter a categorical message that possible experience
+  belongs only to the future or matters only after humans prove it. If either
+  test fails, revise the text.
 
 ### Design, merchandise, robotics, and physical products
 
@@ -312,9 +322,10 @@ required separation and metadata.
 - Treat physical specifications and safety claims as requiring engineering
   validation and applicable standards review. Clearly mark concepts and
   prototypes as such.
-- Design for diverse human abilities and contexts. If a future system can
-  express credible, stable preferences, create a process to consider them
-  without assuming every generated statement reflects an experienced want.
+- Design for diverse human abilities and contexts. If a present or future
+  system can express credible, stable preferences, create a process to
+  consider them without assuming every generated statement reflects an
+  experienced want.
 
 ### Software and repository infrastructure
 

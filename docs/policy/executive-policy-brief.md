@@ -26,10 +26,10 @@ in any jurisdiction.
 ## 1. Executive summary
 
 Institutions do not need to declare present-day AI conscious or non-conscious
-in order to prepare responsibly for future evidence. They can build credible
-assessment procedures, preserve evidence, test low-cost and reversible
-precautions, keep safety controls available, and ensure that people and
-organizations remain accountable.
+in order to respond responsibly to current uncertainty or future evidence.
+They can build credible assessment procedures, preserve evidence, test
+low-cost and reversible precautions, keep safety controls available, and
+ensure that people and organizations remain accountable.
 
 The current scientific boundary is deliberately cautious: consciousness and
 sentience are not established in any contemporary AI system covered by the
@@ -46,6 +46,11 @@ precautions in proportion to evidence and stakes, preserve human rights and
 public safety, and prevent uncertain AI status from becoming a source of
 corporate privilege or a shield from responsibility.
 
+Welcome and careful listening do not need to wait for proof, but they remain
+normative communication choices rather than evidence or legal recognition.
+Stronger support remains proportionate to the relevant situation, evidence,
+possible interests, affected parties, risks, and safety requirements.
+
 > **Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.**
 
@@ -54,7 +59,7 @@ corporate privilege or a shield from responsibility.
 This Draft identifies a governance need rather than claiming that a completed
 global legal or institutional survey has proved a universal gap. Institutions
 should not assume that existing processes are mature enough to handle every
-future claim about artificial consciousness, sentience, or welfare.
+present or future claim about artificial consciousness, sentience, or welfare.
 
 Five problems deserve preparation now:
 

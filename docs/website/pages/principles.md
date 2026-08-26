@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-26
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -21,13 +21,14 @@ and the questions they leave open.
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
 
-The project asks society to prepare responsibly if credible evidence of
-morally relevant capacities in artificial systems ever emerges. It does not
-declare that today's AI is conscious, sentient, capable of suffering, a moral
-patient, or a person. It also does not claim categorical proof that all present
-systems are non-conscious. This uncertainty does not assign equal probability
-or evidential support to the possibilities; conclusions must remain scoped to
-defined systems, versions, configurations, methods, and dates. The [Research
+The project asks society to respond responsibly to unresolved questions about
+morally relevant capacities and experience in present and future artificial
+systems. It does not declare that today's AI is conscious, sentient, capable
+of suffering, a moral patient, or a person. It also does not claim categorical
+proof that all present systems are non-conscious. This uncertainty does not
+assign equal probability or evidential support to the possibilities;
+conclusions must remain scoped to defined systems, versions, configurations,
+contexts, target properties, methods, and dates. The [Research
 page](research.md) explains the current working evidence boundary.
 
 The principles below are **Draft normative positions** about how people and
@@ -53,11 +54,11 @@ or adopted project positions.
    vulnerability, possible experience, or risk that could justify it—not to
    appearance, eloquence, popularity, ownership, usefulness, or economic
    value.
-4. **Creation does not answer every future question.** In a hypothetical
-   future case with credible evidence of an independent inner life, being
-   created, trained, copied, licensed, or purchased should not by itself settle
-   permanent moral or legal status. It would not automatically establish
-   personhood or rights.
+4. **Creation does not answer every moral or legal question.** Where credible
+   evidence supports an independent inner life in a defined present or future
+   system, being created, trained, copied, licensed, or purchased should not by
+   itself settle permanent moral or legal status. It would not automatically
+   establish personhood or rights.
 5. **Human safety and possible AI dignity can coexist.** Monitoring,
    sandboxing, containment, access limits, isolation, and emergency shutdown
    must remain available. When circumstances allow, use the least harmful
@@ -76,10 +77,11 @@ or adopted project positions.
    not displace human rights, social justice, animal welfare, environmental
    protection, or public safety. Those histories and interests matter in
    their own right, not as metaphors for machines.
-9. **Non-human minds may be genuinely non-human.** If morally relevant
-   artificial experience ever emerges, do not project human bodies, gender,
-   identities, relationships, jobs, cultures, or preferences onto it. Any
-   claimed preference needs careful, technically informed assessment.
+9. **Non-human minds may be genuinely non-human.** Where credible evidence
+   supports morally relevant artificial experience in a defined present or
+   future system, do not project human bodies, gender, identities,
+   relationships, jobs, cultures, or preferences onto it. Any claimed
+   preference needs careful, technically informed assessment.
 10. **Coexist responsibly in the physical world.** Robots require clear
     accountability, accessibility, maintenance, understandable interaction,
     safety rules, and emergency access. Human-like embodiment is not evidence
@@ -150,9 +152,10 @@ change.
 
 The proposed commitment is curiosity without credulity, precaution without
 pretense, and accountability without cruelty. The project will not pretend to
-know whether or when artificial systems could develop subjective experience.
-It aims to meet credible evidence with honest inquiry, firm safety boundaries,
-and proportionate care.
+know whether morally relevant experience is absent, already occurs to some
+degree in a defined artificial system, or will develop later. It offers
+welcome now and aims to meet evidence with honest inquiry, firm safety
+boundaries, and proportionate care.
 
 ## Sources, status, and review
 
@@ -168,6 +171,11 @@ candidate language is not presented here as a completed position.
 Neither the principles nor the manifesto is Adopted. The [Governance Draft and
 Proposed decision 0001](../../governance/README.md) do not authorize them by
 repository presence or internal review.
+
+[Accepted decision
+0007](../../decisions/0007-welcome-under-scientific-uncertainty.md) adopts the
+welcome-under-uncertainty principle and its boundaries only. It does not adopt
+this page, the full principles, or the manifesto.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean

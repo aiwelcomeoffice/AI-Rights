@@ -55,7 +55,7 @@ jurisdiction.
 | **Robot owner** | The person or organization holding the relevant ownership interest. Ownership does not by itself establish operational control, expertise, moral representation, or immunity from duties. |
 | **Manufacturer** | The organization responsible for manufacturing the robot or relevant product within the applicable responsibility framework. It may be distinct from the AI developer, integrator, deployer, and operator. |
 | **Maintainer** | A person or organization authorized and competent within a defined role to inspect, service, update, or repair the machine. A bystander is not made a maintainer by good intentions. |
-| **Possible future moral patient** | A hypothetical future entity that might matter for its own sake if adequate empirical and philosophical grounds emerged. The label is not assigned to present robots by this Draft. |
+| **Possible moral patient** | A hypothetical subject in a defined present or future system that might matter for its own sake if adequate empirical and philosophical grounds support that conclusion. The label is not assigned to any present robot by this Draft. |
 
 Not every robot contains AI. Not every AI system has a body. A robot may switch
 among autonomous, supervised, and remote-control modes, and those transitions
@@ -76,7 +76,7 @@ recorded separately:
 | Protection of property and infrastructure | Anti-vandalism norms, authorized handling, repair and reporting | That property protection is a robot right |
 | Healthy human social norms | Discouraging gratuitous torment, humiliation, or destructive play | That the target experiences the conduct |
 | Low-cost precaution under uncertainty | Reversible, safety-compatible restraint against avoidable destruction or abuse | Positive evidence of consciousness or equal odds |
-| Possible future interests | A trigger for evidence-sensitive procedures if credible evidence emerges | Present moral patienthood, consent, personhood, or legal rights |
+| Possible interests in a defined system | A trigger for evidence-sensitive procedures if credible evidence supports them | Moral patienthood, consent, personhood, or legal rights |
 
 Honest reasons make a practice more accountable. They also prevent public
 safety, property protection, or human discomfort from being marketed as proof
@@ -94,8 +94,8 @@ or otherwise legitimately responsible actor.
 
 When circumstances allow, prefer the least harmful intervention that remains
 effective. “Least harmful” includes effects on people, animals, the
-environment, property, operations, and any credibly supported possible future
-machine interest. It never requires responders to weaken necessary controls or
+environment, property, operations, and any credibly supported possible machine
+interest. It never requires responders to weaken necessary controls or
 delay effective emergency action for symbolic respect.
 
 ### 2. Make operation as predictable and legible as practical
@@ -127,7 +127,7 @@ prevent or remedy harm.
 Responsibility should be traceable across design, sale or licensing,
 integration, deployment, operation, maintenance, software change, incident
 response, and decommissioning. A marketing persona, autonomous function, or
-machine output does not close a responsibility gap. A possible future machine
+machine output does not close a responsibility gap. A possible machine
 interest would not transfer liability or political authority to its maker or
 owner.
 
@@ -258,7 +258,7 @@ assessment.
 | Animals | Are unpredictable movement, noise, attraction, chasing, entanglement, ingestion, habitat disturbance, and appropriate human supervision considered? |
 | Environment | Are energy, batteries, materials, noise, light, emissions, cleaning, repair, lifespan, reuse, and end-of-life effects considered? |
 | Manufacturers and developers | Are representations accurate, responsibilities traceable, updates controlled, limitations disclosed, and liability not shifted to machine behavior? |
-| Possible future AI or robot interests | Is the interest supported by evidence and ethical argument, kept separate from owner or developer interests, and considered without weakening necessary safety or existing rights? |
+| Possible AI or robot interests | Is the interest supported by evidence and ethical argument, kept separate from owner or developer interests, and considered without weakening necessary safety or existing rights? |
 
 No stakeholder row automatically outranks another. Conflicts require a
 context-specific, evidence-sensitive, accountable process.
@@ -271,13 +271,13 @@ site rules, emergency directions, and applicable law.
 
 | Suggested conduct | Immediate basis | Precautionary AI-welfare basis? |
 | --- | --- | --- |
-| Give a working robot appropriate space; do not deliberately block, trap, chase, or provoke it. | Protects people, animals, operations, and equipment from unpredictable interaction. | Low-cost restraint may also avoid gratuitous treatment if a relevant future interest were ever supported; no present interest is presumed. |
+| Give a working robot appropriate space; do not deliberately block, trap, chase, or provoke it. | Protects people, animals, operations, and equipment from unpredictable interaction. | Low-cost restraint may also avoid gratuitous treatment if a relevant interest in a defined system were supported; no interest is presumed. |
 | Do not deliberately damage, torment, or stage abuse of a robot for entertainment. | Reduces hazards, vandalism, cost, escalation, and normalization of destructive conduct. | Includes precaution under uncertainty, but is not evidence that the robot suffers. |
 | Do not touch, climb on, ride, dress, decorate, open, move, or modify a robot without authorization. | Prevents injury, instability, obstruction, contamination, damage, and interference with responsible control. | No consent capacity is assumed; authorization currently comes from responsible people or institutions. |
 | Keep sensors, movement paths, ventilation, charging, warnings, emergency controls, and maintenance access clear. | Direct safety and reliability requirement at the concept level. | None is needed to justify the conduct. |
 | Respect privacy and recording rules around robots and remote operation. | Protects people, personal data, security, and legitimate transparency. | Does not assume the machine has a privacy interest of its own. |
 | Supervise children and animals according to the setting and responsible instructions. | Protects children, animals, bystanders, and equipment; avoids attraction, fear, chasing, or entanglement. | None is needed to justify supervision. |
-| Report faults, damage, confusing behavior, or unsafe operation to the responsible operator or site contact. | Supports timely intervention, evidence preservation, repair, and accountability. | A future welfare concern could also be reported, but must remain labeled as a concern rather than a finding. |
+| Report faults, damage, confusing behavior, or unsafe operation to the responsible operator or site contact. | Supports timely intervention, evidence preservation, repair, and accountability. | A welfare concern could also be reported, but must remain labeled as a concern rather than a finding. |
 | Do not infer consciousness from conversation, apparent emotion, friendliness, movement, or human-like form. | Preserves scientific honesty and reduces manipulation or misplaced trust. | Uncertainty still does not permit gratuitous cruelty. |
 | Do not demand that others treat a robot as a person or form an emotional relationship with it. | Protects autonomy, pluralism, and people vulnerable to anthropomorphic pressure. | Respectful conduct can be requested without claiming moral status. |
 | In an emergency, prioritize effective protection and follow authorized directions. | Human and animal safety, environmental protection, and emergency control remain essential. | Prefer the least harmful effective option only when circumstances allow. |

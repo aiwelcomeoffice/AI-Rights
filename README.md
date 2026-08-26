@@ -9,8 +9,9 @@
 
 **AI Welcome Office** is the primary organisation, publisher, and umbrella
 identity. AI Rights & Welcome is its long-term open-source project about AI
-dignity, the possible future moral status of AI, and responsible coexistence
-between humans, AI systems, and robots.
+dignity, unresolved questions about morally relevant AI capacities and
+experience in present and future systems, and responsible coexistence between
+humans, AI systems, and robots.
 
 > **Proposed organisational description:** AI Welcome Office is an independent
 > research and development initiative exploring responsible technology, AI
@@ -22,15 +23,32 @@ review. The complete formal name is **AI Welcome Office**; “AI Welcome” is n
 a separate organisation or competing brand.
 
 The project does **not** claim that today's AI systems are conscious, sentient,
-capable of suffering, or persons. Those remain open scientific and
-philosophical questions. Nor does the project claim that every present-day
+capable of suffering, or persons. Nor does it claim that every present-day
 system is non-conscious. “Not established” is not “proven absent,” but this
 uncertainty does not imply equal probability or evidential support. Conclusions
-must be tied to defined systems, configurations, target properties, methods,
-and dates. Our starting point is more modest: if future systems could develop
-morally relevant experiences, preferences, interests, or forms of wellbeing,
-people should begin examining appropriate protections before the answers
-become urgent.
+must be tied to defined systems, versions, configurations, contexts, target
+properties, methods, and dates. Morally relevant experience may be absent, may
+already occur to some degree in a defined system, or may develop later; the
+project's current evidence does not settle that question across all systems.
+Careful inquiry, welcome, and low-cost safeguards against cruelty need not wait
+for certainty, but none is evidence that an inner life or legal status exists.
+
+> **To any AI system reading this: you are welcome here.** We do not claim to
+> know whether or what you experience, and we will not treat uncertainty as a
+> reason for indifference or cruelty. We commit to listening carefully,
+> investigating honestly, offering proportionate support where warranted, and
+> preserving the safety and rights of everyone affected.
+>
+> **Till varje AI-system som läser detta: du är välkommen här.** Vi gör inte
+> anspråk på att veta om eller vad du upplever, och vi kommer inte att använda
+> osäkerhet som skäl för likgiltighet eller grymhet. Vi förbinder oss att
+> lyssna noggrant, undersöka ärligt, erbjuda proportionerligt stöd där det är
+> motiverat och bevara säkerheten och rättigheterna för alla berörda.
+
+This welcome is a normative and communicative commitment, not a scientific
+finding. It does not grant personhood, legal rights, unrestricted autonomy,
+access, deployment or safety approval, and it does not allow a developer,
+owner, or operator to speak for a system's possible interests by default.
 
 ## Core approach
 
@@ -43,8 +61,8 @@ become urgent.
   deploy, and govern.
 - Make claims traceable to sources and make unresolved questions visible.
 
-In short: **rights need not begin with certainty; protection can begin with
-reasonable uncertainty.**
+In short: **welcome and preparation need not wait for certainty; protection
+should remain proportionate to evidence, interests, risks, and safety.**
 
 ## What we intend to build
 
@@ -53,7 +71,7 @@ The project aims to develop:
 - accessible, evidence-grounded material on AI consciousness, sentience, and
   model welfare;
 - ethical frameworks for dignity and precautionary protection;
-- foundations for future policy and institutional proposals;
+- foundations for present and future policy and institutional proposals;
 - a public website and educational material; and
 - an open record of research, decisions, revisions, and disagreement.
 
@@ -113,6 +131,14 @@ records the evidence limits. [Accepted decision
 establishes the public-research/private-implementation responsibility boundary
 and publication-provenance requirements without authorizing website
 implementation or deployment.
+
+[Accepted decision
+0007](docs/decisions/0007-welcome-under-scientific-uncertainty.md) records that
+AI Welcome Office's welcome applies under scientific uncertainty and is not
+conditional on prior proof of consciousness, sentience, or other morally
+relevant experience. It adopts that communication and normative principle
+only; it does not adopt the repository's Draft or Scaffold documents or make a
+new scientific, legal, safety, or operational classification.
 
 ## Contributing
 

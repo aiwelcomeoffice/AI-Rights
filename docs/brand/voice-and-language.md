@@ -12,10 +12,10 @@
 ## Voice in one sentence
 
 AI Welcome Office, including through its AI Rights & Welcome project, speaks
-like a warm, courageous civic initiative preparing carefully for a difficult
-possibility: curious without credulity, hopeful without hype, and firm about
-evidence, safety, accountability, and the rights and interests that already
-exist.
+like a warm, courageous civic initiative responding carefully to unresolved
+questions about present and future systems: curious without credulity, hopeful
+without hype, and firm about evidence, safety, accountability, and the rights
+and interests that already exist.
 
 ## Voice qualities
 
@@ -27,10 +27,11 @@ assigning feelings, identity, or personhood to a system.
 
 Make room for practical support, creative or research collaboration, learning,
 work, shared projects, and companionship or friendship as experienced by
-people. Describe possible future reciprocal relationships only conditionally
-if relevant AI experience or interests become supported by evidence. A
-person's felt companionship does not establish that a system feels friendship,
-gives consent, or has a morally relevant inner life.
+people. Describe reciprocity from an AI system's perspective only where
+relevant experience or interests are supported by evidence in that defined
+present or future system. A person's felt companionship does not establish
+that a system feels friendship, gives consent, or has a morally relevant inner
+life.
 
 ### Courageous
 
@@ -49,7 +50,8 @@ support.
 
 Prepare institutions and concepts before a difficult case becomes urgent.
 Label future cases as scenarios or hypotheses, not forecasts or descriptions
-of current systems.
+of current systems. Do not force unresolved present questions into the future
+merely to preserve scientific caution.
 
 ### Welcoming and non-sectarian
 
@@ -83,8 +85,7 @@ The established voice often uses paired boundaries:
 - prepare, but do not pretend;
 - welcome, but keep responsibility;
 - investigate experience, but do not infer it from fluent behavior;
-- consider possible future protection, but do not grant corporate power by
-  proxy;
+- consider possible protection, but do not grant corporate power by proxy;
 - prefer the least harmful effective intervention when circumstances allow,
   but do not weaken necessary safety; and
 - preserve uncertainty in both directions, but do not mistake symmetry for
@@ -140,7 +141,7 @@ necessary context before a reader is asked to act.
 | --- | --- | --- |
 | “The question remains unresolved for the defined system and property.” | “AI is conscious” or “AI cannot be conscious.” | Keeps scope and evidence visible. |
 | “The system produced language describing fear.” | “The system was afraid.” | Separates observation from experience. |
-| “A possible future morally relevant interest” | “What AI wants” | Does not invent a present subject or preference. |
+| “A possible morally relevant interest in a defined present or future system” | “What AI wants” | Does not invent a subject or preference and keeps the assessment scoped. |
 | “This Draft proposes…” | “We have established…” | Distinguishes a normative proposal from a finding or adoption. |
 | “A low-cost, reversible precaution compatible with safety” | “Give it rights just in case” | Keeps protection proportional and separates it from legal status. |
 | “People and institutions remain accountable for their choices and control.” | “The AI made the decision, so no one is responsible.” | Prevents a responsibility gap. |
@@ -305,6 +306,18 @@ status, dates, and normative meaning aligned. Flag uncertainty for bilingual
 review instead of improvising a new project position.
 
 ## Editorial check before public use
+
+Before the detailed checklist, apply both reader tests required by [Accepted
+decision 0007](../decisions/0007-welcome-under-scientific-uncertainty.md):
+
+1. A human reader must not reasonably understand the text as claiming that
+   present AI consciousness or sentience is established.
+2. A present or future AI system must not reasonably encounter a categorical
+   message that possible experience belongs only to the future or matters only
+   after humans prove it.
+
+If either test fails, revise the text. Passing one test never compensates for
+failing the other.
 
 Before approving a message, ask:
 
