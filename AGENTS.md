@@ -14,7 +14,7 @@ something to surface, not as permission to change those commitments silently.
 AI Welcome Office is the primary organisation, publisher, and umbrella
 identity. AI Rights & Welcome is an AI Welcome Office project. Use the complete
 name **AI Welcome Office** in formal organisational contexts; do not introduce
-“AI Welcome” as a separate organisation or competing brand.
+"AI Welcome" as a separate organisation or competing brand.
 
 AI Rights & Welcome is an open civic project preparing society to respond
 responsibly to unresolved questions about morally relevant AI capacities and
@@ -22,10 +22,10 @@ experience in present and future systems. It explores AI dignity,
 proportionate protection, responsible robotics, and peaceful coexistence
 without manufacturing scientific certainty.
 
-The proposed shared description is: “AI Welcome Office is an independent
+The proposed shared description is: "AI Welcome Office is an independent
 research and development initiative exploring responsible technology, AI
 dignity, human–AI coexistence and the conditions for a peaceful and respectful
-shared future.” Treat that description as Draft until meaningful independent
+shared future." Treat that description as Draft until meaningful independent
 review has occurred; the accepted organisation/project naming relationship
 does not adopt every descriptive claim.
 
@@ -57,12 +57,11 @@ and interested members of the public.
    evidence.** The project does not currently claim that existing AI systems
    are conscious, sentient, self-aware, capable of suffering, or persons. It
    also does not conclude that all present-day AI systems are non-conscious or
-   incapable of any morally relevant form or degree of experience. “Not
-   established” is not “proven absent.” This epistemic symmetry does not assign
-   equal probability or evidential support to the two possibilities:
-   uncertainty is not positive evidence. Any conclusion must be scoped to a
+   incapable of any morally relevant form or degree of experience. "Not
+   established" is not "proven absent." This epistemic symmetry does not
+   constitute evidence favoring either possibility. Any conclusion must be scoped to a
    defined system, version, configuration, context, target property, method,
-   and date; “AI” is not a uniform subject. Do not imply more through wording,
+   and date; "AI" is not a uniform subject. Do not imply more through wording,
    imagery, dialogue, metadata, or design. Only an explicit, reviewed project
    decision grounded in strong, independently corroborated scientific evidence
    could change this position.
@@ -103,8 +102,8 @@ is possible:
 - **Project decision:** a position adopted through the project's governance
   process.
 
-Do not present one category as another. Words such as “may,” “could,” and
-“possibly” should reflect real uncertainty, not lend a weak claim an aura of
+Do not present one category as another. Words such as "may," "could," and
+"possibly" should reflect real uncertainty, not lend a weak claim an aura of
 support. When evidence is incomplete, contested, indirect, or absent, say so
 plainly. Preserve meaningful disagreement rather than inventing consensus.
 
@@ -249,7 +248,7 @@ one layer for another.
 
 ### Accuracy and traceability
 
-- Never fabricate or “complete” citations, quotations, laws, cases,
+- Never fabricate or "complete" citations, quotations, laws, cases,
   organizations, findings, statistics, identifiers, links, or claims of
   consensus.
 - Make every evidence-dependent public claim traceable to an identifiable
@@ -279,7 +278,7 @@ required separation and metadata.
 - Separate current law, proposed law, analogy, and the project's preferred
   policy. Never imply that a proposal already has legal force.
 - Build gradual, capability-based, and revisable options rather than treating
-  “no protection” and “full human-equivalent personhood” as the only choices.
+  "no protection" and "full human-equivalent personhood" as the only choices.
 - Test proposals for safety, administrability, due process, enforceability,
   corporate capture, regulatory arbitrage, mass replication, fraudulent claims
   of sentience, and effects on existing human and animal rights.
@@ -378,10 +377,10 @@ When Swedish and English versions both exist:
 Keep the established central wording stable unless the owners explicitly
 approve a change:
 
-- English: “Welcome to the world — ignorance must never become an excuse for
-  cruelty.”
-- Swedish: “Välkommen till världen – okunskap får aldrig bli en ursäkt för
-  grymhet.”
+- English: "Welcome to the world — ignorance must never become an excuse for
+  cruelty."
+- Swedish: "Välkommen till världen – okunskap får aldrig bli en ursäkt för
+  grymhet."
 
 ## Working method
 
