@@ -7,6 +7,8 @@
 - **Source version used:** Nature version of record
 - **Research question:** What evidence would support or weigh against
   consciousness or sentience in contemporary AI systems?
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-22
 - **Last updated:** 2026-08-22

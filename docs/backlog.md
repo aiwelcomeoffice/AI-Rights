@@ -1515,6 +1515,25 @@ and statistical appraisal of the 2025 preprint; full appraisal of directly
 competing self-report literature; verification of disclosures and review
 status; and owner review of the symmetry wording.
 
+**Structural completion follow-up — 2026-08-27:** An audit requested by Disa
+found that the working evidence baseline synthesis was missing most of the
+sections required by its own [synthesis
+template](../research/syntheses/_template.md) — a source-comparison table, an
+evidence-lineage and independence map, cross-source findings, body-of-evidence
+quality profiles, an expert-disagreement table, claim-type conclusions, a
+bidirectional update record, limitations, reproducibility materials, funding
+and conflicts, a review log, and a sources list — and a corrupted drafting
+artifact (a leftover placeholder sentence and an orphaned, mis-nested heading).
+Codex corrected the artifact and added the missing sections by aggregating
+material already present in the 21 source records and 10 notes; this added no
+new search, source, or scientific claim and does not change the executive
+conclusion, confidence assessment, or the 2026-08-23 search cutoff. All 21
+source records, all 10 notes, and the synthesis were also brought into
+compliance with their templates' required "Organisation and publisher" and
+"Project" metadata fields, which every one of them had been missing. The
+document remains partly verified working research; the independent-review
+needs listed above are unchanged and still outstanding.
+
 ## Research maintenance — proposed, not operational
 
 Research conclusions need periodic evidence refreshes and version-aware

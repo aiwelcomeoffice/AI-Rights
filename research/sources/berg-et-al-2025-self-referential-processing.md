@@ -5,6 +5,8 @@
 - **Protocol version:** 0.1-draft
 - **Record created:** 2026-08-23
 - **Last updated:** 2026-08-23
+- **Organisation and publisher:** AI Welcome Office
+- **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Reviewed by:** Not yet independently reviewed
 
