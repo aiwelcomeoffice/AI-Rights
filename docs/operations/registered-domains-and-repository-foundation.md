@@ -1,7 +1,7 @@
 # Registered Domains and Repository Foundation
 
-**Status: Draft — operational record and implementation proposal; the
-repository responsibility boundary is Accepted, but this document is not
+**Status: Draft — operational record and implementation proposal; Disa
+approved the repository responsibility boundary, but this document is not
 Adopted**
 
 - **Date prepared and technical-observation cutoff:** 2026-08-24
@@ -12,17 +12,16 @@ Adopted**
 - **Final reviewer, committer, and pusher:** Disa
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Related decision:** [0005 — Registered domains and repository
-  responsibility
-  boundary](../decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
-  (**Accepted 2026-08-24**)
+- **Related owner record:** [Work Cycle 016 — registered domains and repository
+  role foundation](../backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation),
+  approved by Disa on 2026-08-24
 - **Purpose:** Record the completed owner action and current observable state,
-  document the Accepted boundary between research authority and future website
+  document the approved boundary between research authority and future website
   implementation, and propose operational details without building,
   connecting, or deploying a site
 
 This record separates established actions, public technical observations,
-owner-provided repository facts, the Accepted repository responsibility
+owner-provided repository facts, the approved repository responsibility
 boundary, and proposed implementation details. Domain registration is not
 trademark clearance, exclusivity, registrability,
 non-infringement, public launch, or production readiness. Repository presence
@@ -34,10 +33,10 @@ does not make a Draft document Adopted or independently reviewed.
 | --- | --- | --- |
 | Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on 2026-08-24 | Established owner action | **Owner-reported.** Public registry data independently confirms that both domain records were created on that date, but it does not independently establish the registrant's identity or account action |
 | Both domains were purchased for a three-year term | Established owner action | **Owner-reported.** The public `.com` expiry date aligns with three years. The public `.org` expiry date is 2030-08-24, so the purchase term and registry expiry cannot yet be independently reconciled |
-| `aiwelcomeoffice.org` is the intended canonical primary domain | Project decision | **Confirmed** as the direction accepted in [decision 0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md); canonical hosting is not configured |
-| `aiwelcomeoffice.com` is complementary or defensive and is intended eventually to redirect to `.org` | Project decision | **Confirmed** as the direction accepted in decision 0004; the redirect is not configured |
-| Registration occurred as a separate manual owner action | Established owner action | **Owner-reported.** It was not performed or authorized by decision 0004, the professional packet, or this repository work cycle |
-| Registration does not establish trademark clearance or launch readiness | Legal and operational boundary | **Confirmed** as a boundary of decision 0004 and the current Draft brand records; no professional clearance or deployment decision is recorded |
+| `aiwelcomeoffice.org` is the intended canonical primary domain | Project decision | **Confirmed** as the direction accepted in [Work Cycle 015 owner record](../backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted); canonical hosting is not configured |
+| `aiwelcomeoffice.com` is complementary or defensive and is intended eventually to redirect to `.org` | Project decision | **Confirmed** as the direction accepted in Work Cycle 015 owner record; the redirect is not configured |
+| Registration occurred as a separate manual owner action | Established owner action | **Owner-reported.** It was not performed or authorized by Work Cycle 015 owner record, the professional packet, or this repository work cycle |
+| Registration does not establish trademark clearance or launch readiness | Legal and operational boundary | **Confirmed** as a boundary of Work Cycle 015 owner record and the current Draft brand records; no professional clearance or deployment decision is recorded |
 
 The owner report is the evidence for who registered the domains, the manual
 nature of the action, and the purchased term. The read-only checks below
@@ -128,11 +127,11 @@ Any later security claim should state its verification date and scope.
 
 | Repository | Current or proposed authority | Boundary |
 | --- | --- | --- |
-| Public [`aiwelcomeoffice/AI-Rights`](https://github.com/aiwelcomeoffice/AI-Rights) | Current authoritative repository for traceable research; rights and dignity frameworks; policy and governance; education and public-interest documents; decisions and work-cycle records; and source-grounded Draft content | Public visibility does not make every document final, Adopted, or independently reviewed. Each document's own status, version, evidence cutoff, and review record controls |
-| Private [`aiwelcomeoffice/aiwelcomeoffice`](https://github.com/aiwelcomeoffice/aiwelcomeoffice) | **Accepted** authoritative repository for website code; presentation components and accessibility implementation; build and validation tooling; deployment and infrastructure configuration; and future separately approved integrations | It must not become a second uncontrolled source of truth for research, policy, governance, or document status |
+| Public [`aiwelcomeoffice/AI-Rights`](https://github.com/aiwelcomeoffice/AI-Rights) | Current authoritative repository for traceable research; rights and dignity frameworks; policy and governance; education and public-interest documents; backlog and work-cycle records; and source-grounded Draft content | Public visibility does not make every document final, Adopted, or independently reviewed. Each document's own status, version, evidence cutoff, and review record controls |
+| Private [`aiwelcomeoffice/aiwelcomeoffice`](https://github.com/aiwelcomeoffice/aiwelcomeoffice) | Owner-approved authoritative repository for website code; presentation components and accessibility implementation; build and validation tooling; deployment and infrastructure configuration; and future separately approved integrations | It must not become a second uncontrolled source of truth for research, policy, governance, or document status |
 
 The public repository role above is owner-provided current state. The private
-repository role was accepted by Disa in decision 0005 on 2026-08-24. The
+repository role was approved by Disa in the Work Cycle 016 owner record on 2026-08-24. The
 public URL and the local `origin` were independently checked on 2026-08-24; the
 URL was reachable without authentication and the local remote matched it.
 Private visibility and the renamed private URL are owner-provided, and
@@ -164,7 +163,7 @@ implementation work, obtain authenticated read access, re-audit the renamed
 remote, and reconcile its instructions through a separately authorized change
 in that repository.
 
-### Decision-recording local follow-up — 2026-08-24
+### Owner-resolution follow-up — 2026-08-24
 
 A later local-only check found `../aiwelcomeoffice` clean on `main` at
 `0978cf45007892d84927642d2dcc6e3124e19ef7`, with `origin` set to
@@ -173,9 +172,9 @@ present. This updates the local planning snapshot but does not rewrite the
 historical WC016 observation. No fetch or authenticated remote inspection was
 performed, so current remote contents and freshness remain unverified.
 
-## 7. Accepted boundary and Draft first-phase content-update details
+## 7. Approved boundary and Draft first-phase content-update details
 
-Decision 0005 establishes rules 1–4 below. Rules 5–6 and their implementation
+Work Cycle 016 owner record establishes rules 1–4 below. Rules 5–6 and their implementation
 details remain Draft operational proposals:
 
 1. `AI-Rights` remains authoritative for research, governance, policy,
@@ -200,7 +199,7 @@ details remain Draft operational proposals:
 
 ### Required publication fields and simple source-state note
 
-Decision 0005 requires the following publication-provenance meanings before
+Work Cycle 016 owner record requires the following publication-provenance meanings before
 public publication. They do not require a serialized manifest engine for an
 early private prototype:
 
@@ -238,10 +237,9 @@ delivery remain unimplemented and separately gated**
 
 On 2026-08-25, Disa approved Astro 7 for static non-production work and asked
 for the first content-update model to be simplified. The owner direction and
-revised workflow are established in [Accepted decision
-0006](../decisions/0006-non-production-website-platform-and-content-handoff.md).
+revised workflow are established in [Work Cycle 017 owner direction](../backlog.md#work-cycle-017--private-implementation-baseline-and-proposed-technical-decision).
 Disa accepted the complete record on 2026-08-25 without additional conditions.
-Decision 0006 does not itself authorize a scaffold, dependency installation,
+Work Cycle 017 owner record does not itself authorize a scaffold, dependency installation,
 content update, or external action.
 
 The current bounded direction is:
@@ -253,7 +251,7 @@ The current bounded direction is:
 - a Disa-requested agent update from the then-latest verified public
   `AI-Rights` revision, recorded through a small source-state note.
 
-The following delivery choices remain future candidates outside decision 0006:
+The following delivery choices remain future candidates outside Work Cycle 017 owner record:
 
 - Cloudflare Workers Static Assets as a hosting candidate;
 - Cloudflare DNS and DNSSEC as DNS candidates;
@@ -271,8 +269,8 @@ nothing was deployed in WC016 or WC017.
 ## 9. Decision resolution and unresolved decisions
 
 The WC016 responsibility-boundary question was resolved when Disa accepted
-decision 0005 on 2026-08-24 without additional conditions. The platform and
-simplified first-phase workflow were resolved when Disa accepted decision 0006
+Work Cycle 016 owner record on 2026-08-24 without additional conditions. The platform and
+simplified first-phase workflow were resolved when Disa approved the Work Cycle 017 owner record
 on 2026-08-25 without additional conditions. Disa should still decide:
 
 1. how the owner-reported three-year `.org` purchase term should be reconciled
@@ -288,7 +286,7 @@ on 2026-08-25 without additional conditions. Disa should still decide:
    deployment.
 
 The exact WC016 approval point was the repository responsibility boundary, and
-it is now resolved by Accepted decision 0005. Registration had already
+it is now resolved by the approved Work Cycle 016 owner record. Registration had already
 occurred and did not receive retroactive approval through that decision.
 Hosting, DNS connection, redirect, and production deployment remain separate
 future decisions.

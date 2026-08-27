@@ -105,7 +105,7 @@ When readers could confuse categories, label the category in the prose:
 | **Philosophical argument** | “This argument depends on…” | “This argument depends on the contested view that the identified capacity grounds an interest.” |
 | **Prediction or scenario** | “Suppose a future system…” | “Suppose independent reviewers found strong, converging evidence in a defined future system.” |
 | **Normative position** | “This Draft proposes…” | “This Draft proposes low-cost, reversible precautions when the possible harm is serious and safety remains protected.” |
-| **Project decision** | “The project adopted…” | Use only with an Accepted decision record and the required adoption metadata. |
+| **Project decision** | “The project adopted…” | Use only with an explicit, dated owner resolution in the backlog and the required adoption metadata. |
 
 Words such as “may,” “could,” and “possible” must reflect a real proposition
 and uncertainty. They do not rescue a statement that lacks evidence or make a
@@ -307,8 +307,8 @@ review instead of improvising a new project position.
 
 ## Editorial check before public use
 
-Before the detailed checklist, apply both reader tests required by [Accepted
-decision 0007](../decisions/0007-welcome-under-scientific-uncertainty.md):
+Before the detailed checklist, apply both reader tests required by the [Work
+Cycle 019 owner record](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty):
 
 1. A human reader must not reasonably understand the text as claiming that
    present AI consciousness or sentience is established.

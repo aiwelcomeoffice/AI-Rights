@@ -21,8 +21,7 @@ odds or equal evidential support. It asks what evidence would matter, what
 uncertainty permits or requires, and how precautionary protection could
 coexist with safety and human control.
 
-Under [Accepted decision
-0007](decisions/0007-welcome-under-scientific-uncertainty.md), welcome,
+Under [Work Cycle 019 owner direction](backlog.md#work-cycle-019--welcome-under-scientific-uncertainty), welcome,
 respect, careful listening, curiosity, and low-cost safeguards against cruelty
 do not wait for scientific certainty. That is a normative and communicative
 position, not evidence of present experience, personhood, rights, or

@@ -8,8 +8,7 @@ not legal advice, and not clearance**
 - **Requester and decision authority:** Disa, project owner and final
   decision-maker
 - **Owner-approved factual scope:** Disa manually reviewed and approved this
-  packet's factual scope through [decision
-  0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+  packet's factual scope through [Work Cycle 015 owner direction](../backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
   on 2026-08-24; the packet itself remains Draft and unsent
 - **Registered-domain follow-up:** Disa separately and manually registered
   `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on 2026-08-24; see the
@@ -40,7 +39,7 @@ The relationship is presented as:
 Use the complete formal name **AI Welcome Office**. “AI Welcome” is not a
 separate organisation; it appears below only as a similarity-search variant.
 
-[Decision 0003](../decisions/0003-ai-welcome-office-organisational-identity.md)
+[Work Cycle 013 naming record](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted)
 records this internal naming architecture. It does not form a legal entity,
 establish ownership or exclusive rights, clear a company or trademark name,
 approve a domain or handle, or authorize a final or public visual identity.
@@ -393,9 +392,8 @@ operate, or authorization for public use.
 
 Supply the current versions of:
 
-- [decision 0003](../decisions/0003-ai-welcome-office-organisational-identity.md)
-  and accepted [decision
-  0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md);
+- [Work Cycle 013 naming record](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted)
+  and accepted [Work Cycle 015 owner direction](../backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted);
 - the [Work Cycle 014 clearance-readiness
   brief](ai-welcome-office-clearance-readiness-brief.md);
 - the [preliminary rights and identity-landscape
@@ -408,6 +406,6 @@ Supply the current versions of:
 - the root [CC0 licence](../../LICENSE).
 
 Before any separately authorized transmission, confirm that the identity,
-activity, territory, candidate, provenance, and decision-status facts remain
-current. Decision 0004 approves the packet's factual scope; it does not
+activity, territory, candidate, provenance, and owner-direction facts remain
+current. Work Cycle 015 owner record approves the packet's factual scope; it does not
 authorize transmission or a professional engagement.

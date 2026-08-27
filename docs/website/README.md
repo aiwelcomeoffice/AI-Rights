@@ -66,7 +66,8 @@ implement the site.
 These ten pages form the current core website-ready Draft set. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
 executive-brief and protection-framework adaptations, manifesto adaptation,
-and decisions index remain specifications rather than completed website pages.
+and backlog/change-log presentation remain specifications rather than completed
+website pages.
 No Draft is an instruction to publish before its review dependencies are met.
 
 ## Source audit
@@ -108,8 +109,8 @@ long, or procedurally detailed to serve most visitors without orientation:
 - the [Draft AI Rights Protection
   Framework](../policy/ai-rights-protection-framework.md); and
 - the [Draft adoption and review
-  process](../governance/adoption-and-review.md) and [Proposed decision
-  0001](../decisions/0001-governance-and-adoption-process.md).
+  process](../governance/adoption-and-review.md) and its [open owner-approval
+  question](../backlog.md#owner-decisions-needed).
 
 Website summaries must lead readers to these records for methods, evidence,
 limitations, proposals, and unresolved questions. The working synthesis must

@@ -4,7 +4,7 @@
 
 - **Date prepared:** 2026-08-23
 - **Authority:** Neutral decision aid with Disa's Work Cycle 011 comparison and
-  later Many Forms C exploration decision recorded; not an adopted identity
+  later Many Forms C exploration direction recorded; not an adopted identity
   or project position
 - **Scope:** Comparison of the three Draft directions and six matched
   prototype variants; no final logo, asset, implementation, trademark,
@@ -26,8 +26,8 @@
 
 All remain exploratory proposals. **Many Forms C — Balanced Intervals** is the
 primary exploration direction for **AI Welcome Office** under decisions
-[0002](../decisions/0002-primary-visual-exploration-direction.md) and
-[0003](../decisions/0003-ai-welcome-office-organisational-identity.md). None is
+[Work Cycle 013 visual direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) and
+[Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted). None is
 the official identity, and no prototype is a production asset.
 
 ### Work Cycle 011 direction recorded

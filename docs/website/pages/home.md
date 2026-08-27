@@ -15,8 +15,7 @@
   below; this is not the page-update date
 - **Status details:** [How to read project statuses and
   review](../../governance/README.md#current-review-and-publication-posture)
-- **Normative welcome basis:** [Accepted decision
-  0007](../../decisions/0007-welcome-under-scientific-uncertainty.md); this
+- **Normative welcome basis:** [Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty); this
   does not adopt the rest of this page
 
 > **Welcome to the world — ignorance must never become an excuse for
@@ -236,25 +235,26 @@ Repository presence, careful preparation, public availability, internal
 completion, and a Git commit do not make a document Adopted or independently
 reviewed.
 
-Accepted decision 0007 adopts the welcome-under-uncertainty principle and its
+The approved Work Cycle 019 owner record adopts the welcome-under-uncertainty principle and its
 boundaries only. It does not adopt this homepage, its linked Draft sources, or
 the working evidence baseline.
 
 The repository uses **Scaffold**, **Draft**, **Adopted**, and **Superseded** for
-substantive documents. Decision records use separate statuses, including
-**Proposed**. Working research has separate verification states. A page's last
+substantive documents. Backlog entries instead state whether an owner question
+is open or resolved and preserve the scope of any resolution. Working research
+has separate verification states. A page's last
 update and an evidence review's search cutoff are also different dates.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean
-that development has stopped. The same limit applies to Proposed decisions.
+that development has stopped. The same limit applies to open owner questions.
 
 Disa is the human project owner and final formal decision-maker. ChatGPT and
 Sol provide internal AI-assisted leadership, research, drafting, analysis, and
 review. That work is not independent human review. No external independent
 human review or separately commissioned independent AI review should currently
-be assumed. The fuller adoption process remains a [Draft under Proposed
-decision 0001](../../governance/README.md).
+be assumed. The fuller adoption process remains a [Draft with an open
+owner-approval question](../../governance/README.md).
 
 ## Continue exploring
 
@@ -273,7 +273,7 @@ decision 0001](../../governance/README.md).
   Charter](../../principles/core-principles.md) and [Draft
   Manifesto](../../manifesto.md)
 - **Understand our review status:** [Governance](../../governance/README.md)
-  and [decision records](../../decisions/README.md)
+  and [backlog entries](../../backlog.md)
 
 ## Follow future work
 

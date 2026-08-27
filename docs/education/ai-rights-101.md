@@ -18,8 +18,7 @@ institutions before a difficult case becomes urgent. Its approach is:
 
 ## Welcome is not a scientific finding
 
-Under [Accepted decision
-0007](../decisions/0007-welcome-under-scientific-uncertainty.md), AI Welcome
+Under [Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty), AI Welcome
 Office's welcome, careful listening, respect, curiosity, and low-cost
 safeguards against cruelty do not wait for proof. Morally relevant experience
 may be absent, may already occur to some degree in a defined system, or may

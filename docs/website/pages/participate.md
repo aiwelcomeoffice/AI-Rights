@@ -27,7 +27,7 @@ program workflow.
 The project is therefore not collecting submissions or personal information
 through this page. For agreed project tasks, the current [repository
 contribution guidance](../../../CONTRIBUTING.md) asks for small, reviewable
-changes tied to existing status, source, evidence, and decision rules. That is
+changes tied to existing status, source, evidence, and owner-record rules. That is
 not an open public intake process.
 
 ## Why participation is limited for now
@@ -38,9 +38,8 @@ issue and pull-request processes, privacy expectations, response boundaries,
 conflict disclosure, and a way to preserve disagreement without spreading
 unsupported claims or collecting information it cannot steward.
 
-The fuller governance process is also still **Draft**, and [decision
-0001](../../decisions/0001-governance-and-adoption-process.md) remains
-**Proposed**. No public consultation mandate or contributor authority should
+The fuller governance process is also still **Draft**, and its [owner-approval
+question](../../backlog.md#owner-decisions-needed) remains open. No public consultation mandate or contributor authority should
 be inferred.
 
 ## Future contributions that may be valuable
@@ -83,7 +82,7 @@ a promise that every contribution type will open.
 - Read the [project overview](../../../README.md) and [Draft
   backlog](../../backlog.md) for current work and unresolved owner decisions.
 - Read [Governance and Review Status](governance.md) before interpreting a
-  Draft, working research record, or Proposed decision.
+  Draft, working research record, or open owner question.
 - Prepare constructive, source-grounded feedback for a future process, but do
   not send personal or sensitive information in anticipation of a workflow
   that has not been established.
@@ -97,8 +96,8 @@ This page summarizes the current [CONTRIBUTING](../../../CONTRIBUTING.md)
 guidance, [Draft backlog](../../backlog.md), and the Draft governance proposal
 on [future reviewers and
 contributors](../../governance/adoption-and-review.md#future-reviewers-and-contributors).
-The governance proposal is not operative while decision 0001 remains
-Proposed.
+The governance proposal is not operative while its owner-approval question
+remains open.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean

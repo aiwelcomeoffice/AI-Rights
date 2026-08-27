@@ -18,8 +18,7 @@ professional clearance**
 > Welcome** remains its project. This historical screen did **not** search or
 > clear AI Welcome Office. Its AI Rights name findings and Many Forms C visual
 > limitations remain relevant evidence, but official organisation-name and
-> trademark clearance is still outstanding. See [decision
-> 0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
+> trademark clearance is still outstanding. See [Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted).
 
 > **Work Cycle 014 follow-up — 2026-08-24:** The [AI Welcome Office
 > clearance-readiness

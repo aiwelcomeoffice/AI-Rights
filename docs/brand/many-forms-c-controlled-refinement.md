@@ -17,11 +17,9 @@ condition; not adopted**
 
 ## Outcome
 
-An Accepted decision names Many Forms C the primary exploration direction for
-**AI Welcome Office**, not an official identity. [Decision
-0002](../decisions/0002-primary-visual-exploration-direction.md) records that
-exploration-only choice, and [decision
-0003](../decisions/0003-ai-welcome-office-organisational-identity.md) assigns
+An approved owner record names Many Forms C the primary exploration direction for
+**AI Welcome Office**, not an official identity. [Work Cycle 013 visual direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) records that
+exploration-only choice, and [Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) assigns
 it to the organisation while retaining **AI Rights & Welcome** as the project.
 
 The original Work Cycle 011 geometry remains unchanged. In Work Cycle 013, the
@@ -237,8 +235,7 @@ pause, rejection, specialist review, or a text-first small-size fallback.
 
 The organisation/project naming question is now resolved: AI Welcome Office is
 the organisation and publisher, and AI Rights & Welcome remains its project.
-[Decision
-0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+[Work Cycle 015 owner direction](../backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
 now also approves the staged professional word-name-review scope and authorizes
 only Draft, reversible, internal, text-first work under Gate 1. **Gate 2 and
 C1–C3 remain paused.** The professional word-name review must address AI

@@ -28,25 +28,24 @@ separate from the working material in [`research/`](../research/README.md).
 - [`research/`](research/README.md) — publishable research summaries
 - [`governance/`](governance/README.md) — Draft adoption, review, correction,
   and accountability process
-- [`decisions/`](decisions/README.md) — proposed and resolved project decision
-  records
 - [`operations/`](operations/README.md) — Draft registered-domain,
   repository-responsibility, publication-provenance, and delivery-readiness
   records; no website deployment authority
 - [`website/`](website/README.md) — Draft public website information
   architecture, source map, page specifications, and ten core page Drafts,
   including an inactive Campaigns concept page
-- [`backlog.md`](backlog.md) — prioritized foundation work and open decisions
+- [`backlog.md`](backlog.md) — single project backlog, change log, owner
+  directions, and prioritized foundation work
 
-The current organisation/project naming architecture is recorded in [decision
-0003](decisions/0003-ai-welcome-office-organisational-identity.md). It does not
+The current organisation/project naming architecture is recorded in [Work
+Cycle 013](backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted). It does not
 change the status or authority of the documents listed here.
 
-[Accepted decision
-0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+The [Work Cycle 015 owner
+record](backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
 authorizes bounded Draft, reversible, internal, text-first identity work and
 approves a later professional word-name-review scope. Gate 2 and C1–C3 remain
-paused. The professional packet remains Draft and unsent; the decision does
+paused. The professional packet remains Draft and unsent; the owner record does
 not authorize public identity use, external contact, spending, filing,
 registration, domain acquisition, or legal reliance.
 
@@ -54,17 +53,17 @@ registration, domain acquisition, or legal reliance.
 > registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com`. The `.org`
 > domain remains the intended canonical primary domain and `.com` the
 > complementary or defensive domain intended eventually to redirect to it.
-> This later action does not retroactively change decision 0004's authority or
+> This later action does not retroactively change the Work Cycle 015 scope or
 > the historical Work Cycle 014–015 records. No website connection, redirect,
 > hosting, or production deployment is established. See the [Draft registered-
 > domain and repository
 > foundation](operations/registered-domains-and-repository-foundation.md) and
-> [Accepted decision
-> 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md).
-> Decision 0005 establishes distinct public research and private implementation
+> [Work Cycle 016 owner
+> record](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation).
+> That record establishes distinct public research and private implementation
 > responsibilities and mandatory publication provenance. The operational
 > foundation remains Draft, and no framework, website implementation, DNS,
-> hosting, redirect, publication, or deployment is authorized by that decision.
+> hosting, redirect, publication, or deployment is authorized by that owner record.
 
 For a concise policy entry point, start with the [one-page policy
 summary](policy/one-page-policy-summary.md), then read the [executive policy
@@ -77,15 +76,17 @@ Every substantive document should state one of these statuses near the top:
 
 - **Scaffold** — structure and questions; not a project position.
 - **Draft** — proposed content under review; not yet adopted.
-- **Adopted** — approved current project position, with a date or decision link.
-- **Superseded** — retained for history and linked to its replacement.
+- **Adopted** — approved current project position, with a date and backlog
+  owner-record link.
+- **Superseded** — retained for history and linked to its replacement and
+  relevant backlog entry.
 
 No document becomes **Adopted** merely by being committed to the repository.
-Decision records separately use **Proposed**, **Accepted**, **Rejected**, and
-**Superseded**; those are not document statuses. The [Draft governance
-process](governance/adoption-and-review.md) proposes the fuller lifecycle and
-review requirements but is not itself adopted while [decision
-0001](decisions/0001-governance-and-adoption-process.md) remains Proposed.
+Proposals, owner resolutions, and material revisions are recorded in dated
+work-cycle entries in the [backlog and change log](backlog.md); they do not use
+a second document-status system. The [Draft governance
+process](governance/adoption-and-review.md) proposes fuller review requirements
+but is not itself adopted while its owner-approval question remains open.
 
 Draft and Proposed material may still be publicly useful and worthy of serious
 consideration. Those labels disclose limits of review, resources, and

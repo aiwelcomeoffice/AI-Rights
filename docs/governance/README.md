@@ -6,8 +6,8 @@
 - **Authority:** Proposed for Disa's review; not adopted
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Related decision:** [0001 — Governance and adoption
-  process](../decisions/0001-governance-and-adoption-process.md) (**Proposed**)
+- **Owner-approval status:** Open; tracked in the [project backlog and change
+  log](../backlog.md#owner-decisions-needed)
 
 AI Rights & Welcome is an AI Welcome Office project. This section contains the
 proposed governance and document-adoption process for the project. It explains
@@ -18,23 +18,23 @@ accountability.
 AI Welcome Office is the organisation and publisher; AI Rights & Welcome is
 the project whose positions and documents this process governs. Organisational
 publication does not make a Draft project document Adopted. The accepted naming
-relationship is recorded in [decision
-0003](../decisions/0003-ai-welcome-office-organisational-identity.md); the
-broader governance process remains Draft while decision 0001 is unresolved.
+relationship is recorded in [Work Cycle
+013](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted);
+the broader governance process remains Draft while its owner-approval question
+is unresolved.
 
-The proposal does not adopt itself. Until Disa explicitly accepts decision
-0001, the documents here remain Drafts and do not create a new source of
-formal authority.
+The proposal does not adopt itself. Until Disa explicitly accepts it in a
+dated backlog entry, the documents here remain Drafts and do not create a new
+source of formal authority.
 
 ## Current proposal
 
 - [Adoption and review](adoption-and-review.md) — proposed roles, document and
-  decision lifecycles, current publication posture, human and AI review
+  document lifecycles, current publication posture, human and AI review
   layers, adoption records, disagreement, corrections, conflicts of interest,
   and the bootstrap process
-- [Decision 0001](../decisions/0001-governance-and-adoption-process.md) — the
-  Proposed record through which Disa may accept, reject, or request revision
-  of the process
+- [Project backlog and change log](../backlog.md) — the single record for the
+  open approval question and any later owner resolution or revision
 
 ## How to read this section
 
@@ -76,7 +76,7 @@ Disa is the human project owner, repository authority, and existing final
 formal decision-maker. Sol prepared this Draft proposal for Disa's review.
 Disa may accept, reject, return, or revise it under that existing authority.
 If Disa accepts it, later governance changes should follow the adopted process
-and be recorded in a new decision record.
+and be appended as dated backlog entries.
 
 No existing substantive Draft is adopted by this proposal or by its presence
 in the repository.

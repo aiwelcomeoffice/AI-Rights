@@ -80,16 +80,15 @@ Home  /
 ├── Robot Welcome  /robot-welcome/
 ├── About  /about/
 ├── Governance  [footer group; no empty landing page]
-│   ├── Status and review  /governance/status-and-review/
-│   └── Decisions  /governance/decisions/
+│   └── Status, review, and change log  /governance/status-and-review/
 └── Participate  /participate/
 ```
 
 `/learn/`, `/research/`, `/policy/`, and `/principles/` are useful orientation
 pages, not empty index screens. `/policy/` carries the one-page policy summary;
 `/principles/` carries the core principles overview. Governance is a footer
-group whose two destinations answer distinct questions, so it does not need a
-thin intermediate page.
+group with one status-and-review destination, so it does not need a thin
+intermediate page. The project backlog and change log is linked from that page.
 
 The routes are content concepts. They do not select a URL scheme, generator,
 framework, or content management system.
@@ -172,7 +171,7 @@ prepared first.
 | --- | --- | --- |
 | Draftable from accessible sources | Home; Why AI Rights?; Learn pages; Policy; Executive brief; Principles; Manifesto; About | Preserve source status and review notices; Disa reviews page adaptation |
 | Draftable with prominent working-research disclosure | Research; Evidence baseline; Sources and limitations | Keep cutoff, method, verification, access, reviewer, and non-systematic limits visible |
-| Draftable as a guided technical layer | Research methods; Protection framework; Status and review; Decisions | Summarize navigation and purpose; link detail rather than flattening it |
+| Draftable as a guided technical layer | Research methods; Protection framework; Status, review, and change log | Summarize navigation and purpose; link detail rather than flattening it |
 | Focused Draft prepared; specialist review remains pending | Robot Welcome | Keep physical coexistence, accountability, accessibility, safety, emergency access, etiquette, and marking or accessory concepts distinct from engineering validation and product claims |
 | Informational notice only | Participate | Do not invite broad contributions, consultation, membership, or donations yet |
 | Not ready to become substantive pages | Scientific position, dignity charter, and precaution framework as standalone claims | They remain Scaffolds; show them only as work still to be developed |

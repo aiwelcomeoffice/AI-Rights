@@ -149,10 +149,8 @@ description, visual system, lockups, and applications remain Draft.
 ## Current primary exploration
 
 **Many Forms C — Balanced Intervals** is the primary visual exploration for AI
-Welcome Office. The selection remains exploration-only under [decision
-0002](../decisions/0002-primary-visual-exploration-direction.md), with its
-identity target clarified by [decision
-0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
+Welcome Office. The selection remains exploration-only under [Work Cycle 013 visual direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted), with its
+identity target clarified by [Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted).
 
 Its geometry is not refined in Work Cycle 013. Existing evaluation sheets are
 relabelled to AI Welcome Office, while C1–C3 remain paused pending professional

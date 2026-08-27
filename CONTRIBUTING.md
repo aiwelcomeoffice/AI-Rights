@@ -39,7 +39,7 @@ Use the [research workspace](research/README.md) for working material. A source
 entry must make the original source identifiable. Notes and syntheses must not
 be written so that interpretation is mistaken for a source's own conclusion.
 
-## Decisions
+## Owner directions and material changes
 
 Material scientific, ethical, product, governance, and architecture choices
 should be proposed to Disa rather than silently embedded in a draft. ChatGPT,
@@ -48,11 +48,12 @@ Disa may formally accept a project decision. Their AI-assisted review must not
 be described as independent human review.
 
 The [Draft governance and adoption
-process](docs/governance/adoption-and-review.md) proposes the full lifecycle.
-It remains unadopted while [decision
-0001](docs/decisions/0001-governance-and-adoption-process.md) is **Proposed**.
-Record accepted choices in [`docs/decisions/`](docs/decisions/README.md) only
-after Disa's explicit approval.
+process](docs/governance/adoption-and-review.md) proposes the fuller lifecycle.
+It remains unadopted while its owner-approval question remains open. Record
+proposals, Disa's explicit approval or rejection, scope, rationale, review
+limits, and later material changes in a dated work-cycle entry in the [project
+backlog and change log](docs/backlog.md). Do not create a parallel record or
+imply approval from a commit alone.
 
 The contribution and review process will be expanded before public
 contributions are invited.

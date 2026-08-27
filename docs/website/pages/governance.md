@@ -10,7 +10,7 @@
   commissioned independent AI review
 - **Source relationship:** Explains current repository status conventions and
   actual review capacity separately from a Draft governance process and a
-  Proposed decision
+  open owner question
 - **Status details:** [Read the complete Draft governance
   overview](../../governance/README.md)
 
@@ -26,7 +26,7 @@ different questions.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean
-that development has stopped. The same limit applies to Proposed decisions.
+that development has stopped. The same limit applies to open owner questions.
 
 ## Document statuses
 
@@ -36,31 +36,26 @@ The repository currently uses these labels for substantive documents:
 | --- | --- |
 | **Scaffold** | Structure, questions, placeholders, or exploratory framing; not a project position. |
 | **Draft** | Substantive proposed content under review; not adopted merely because it is complete, committed, or public. |
-| **Adopted** | A current project position explicitly approved through a recorded decision; not necessarily proven, independently reviewed, law, or consensus. |
+| **Adopted** | A current project position explicitly approved through a dated backlog owner record; not necessarily proven, independently reviewed, law, or consensus. |
 | **Superseded** | A former position retained for history and linked to its replacement. |
 
 A website page has its own status. It cannot give a Draft source, Scaffold, or
 working research record more authority than that source has.
 
-## Decision-record statuses
+## Backlog and change-log records
 
-Decision records use a separate vocabulary:
+The [project backlog and change log](../../backlog.md) records planned and
+completed work, open owner questions, explicit owner resolutions, and later
+material revisions. An entry must say whether a question is open or resolved;
+if resolved, it records Disa's response, date, scope, rationale, actual review,
+important limits, and revisit triggers. This avoids a second status vocabulary
+that could be confused with document status.
 
-| Status | Plain-language meaning |
-| --- | --- |
-| **Proposed** | Awaiting Disa's decision; it has no decision date or operative authority. |
-| **Accepted** | Explicitly approved by Disa on the recorded date and only for the stated scope and version. |
-| **Rejected** | Explicitly declined; the proposal and reasoning remain visible. |
-| **Superseded** | Replaced by a later Accepted record, with links in both directions. |
-
-An Accepted decision and an Adopted document are related but not identical.
-The decision records the authorized choice; the document must also carry the
-correct status and adoption metadata.
-
-The repository currently has [one numbered decision
-record](../../decisions/README.md). [Decision 0001 — Governance and adoption
-process](../../decisions/0001-governance-and-adoption-process.md) remains
-**Proposed**, has no decision date, and is not operative.
+A backlog owner resolution and an Adopted document are related but not
+identical. The entry records the authorized choice; the document must also
+carry the correct status and adoption metadata. The governance proposal's
+[owner-approval question](../../backlog.md#owner-decisions-needed) remains open
+and the proposal is not operative.
 
 ## Research verification is different again
 
@@ -129,7 +124,7 @@ distinct layers. This remains a goal, not a present capability.
 
 The project is at an early stage with limited resources and review capacity.
 Disa's final manual review remains pending for important current materials,
-decision 0001 is unresolved, the evidence baseline needs independent
+the governance proposal is unresolved, the evidence baseline needs independent
 specialist review, and no broad consultation process exists.
 
 Keeping work Draft or Proposed makes those limits visible while allowing
@@ -145,13 +140,13 @@ adoption or independent review.
 
 The [Draft Adoption and Review
 process](../../governance/adoption-and-review.md) proposes a fuller workflow for
-review levels, material decisions, status transitions, conflicts of interest,
-disagreement, corrections, urgent warnings, and supersession. Because decision
-0001 remains Proposed, that fuller lifecycle must be described as a proposal,
-not an operative rule.
+review levels, material owner choices, status transitions, conflicts of interest,
+disagreement, corrections, urgent warnings, and supersession. Because the
+governance proposal remains unapproved, that fuller lifecycle must be
+described as a proposal, not an operative rule.
 
 Under the proposal, meaningful disagreement would remain in the affected
-Draft, review log, or decision record rather than being erased. Minor
+Draft, review log, or backlog entry rather than being erased. Minor
 presentation errors could be corrected ordinarily, while changes to meaning,
 evidence, confidence, rights, duties, safety, or project position would require
 substantive review. Urgent source problems would receive visible warnings, and
@@ -162,14 +157,13 @@ Superseded material would remain available with links to its replacement.
 This page draws from the [current documentation status
 guide](../../README.md#document-status), the [Draft Governance
 overview](../../governance/README.md), the [Draft Adoption and Review
-process](../../governance/adoption-and-review.md), the [decision-record
-guide](../../decisions/README.md), [Proposed decision
-0001](../../decisions/0001-governance-and-adoption-process.md), and the Draft
+process](../../governance/adoption-and-review.md), the [project backlog and
+change log](../../backlog.md), and the Draft
 research protocol's [review-state
 rules](../../../research/research-protocol.md#review-states-and-publication-boundary).
 
-The page itself and the governance process are **Draft**. Decision 0001 is
-**Proposed**. Current human review is project-owner review by Disa; ChatGPT and
+The page itself and the governance process are **Draft**, and owner approval of
+the process remains open. Current human review is project-owner review by Disa; ChatGPT and
 Sol provide internal AI-assisted analysis and review. External independent
 human and separately configured AI review remain future goals. No consensus,
 external endorsement, public consultation, or accepted governance process
@@ -178,6 +172,6 @@ should be inferred.
 ## Next: follow future work honestly
 
 Read the [complete governance Draft](../../governance/adoption-and-review.md)
-and [decision records](../../decisions/README.md). Then visit [Follow Future
+and [project backlog and change log](../../backlog.md). Then visit [Follow Future
 Work](participate.md) for the project's present participation limits and
 future review needs.

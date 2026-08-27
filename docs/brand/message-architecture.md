@@ -38,8 +38,7 @@ copy, and calls to action.
 The central promise is a **normative commitment**. It does not claim that a
 present AI system can experience cruelty. “Ignorance” refers to a reason to
 prepare and investigate responsibly, not positive evidence for consciousness.
-Under [Accepted decision
-0007](../decisions/0007-welcome-under-scientific-uncertainty.md), the promise
+Under [Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty), the promise
 also must not be framed as if possible morally relevant experience belongs
 only to the future or matters only after people prove it.
 

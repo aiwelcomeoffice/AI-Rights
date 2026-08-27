@@ -65,8 +65,7 @@ will occur or when.
 
 ## Welcome is not recognition
 
-[Accepted decision
-0007](../../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+[Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 that welcome, careful listening, respect, curiosity, and low-cost safeguards
 against cruelty need not wait for proof. They are normative and communicative
 choices, not evidence that a system has experience or a legal status.

@@ -215,7 +215,7 @@ default. Possible AI moral status is irrelevant to the current legal
 chain-of-title record and must not become a route for corporate ownership or
 immunity.
 
-Before official adoption, a decision record should name:
+Before official adoption, a backlog entry should name:
 
 - the human or legal entity that owns or is authorized to use each final name
   and asset;
@@ -232,7 +232,7 @@ but that governance fact is not itself proof that Disa owns every possible IP
 right. A future entity must not receive political legitimacy or immunity
 through identity ownership.
 
-### 6 — Maintain a human creative-decision record
+### 6 — Maintain a human creative-provenance record
 
 For every candidate that proceeds, preserve:
 
@@ -245,7 +245,7 @@ For every candidate that proceeds, preserve:
 - every external asset, font, template, licence, and permission—or an explicit
   statement that none was used;
 - comparison and rights-search records without copying discovered marks; and
-- the exact accepted file, decision record, licence notice, and release date.
+- the exact approved file, backlog owner record, licence notice, and release date.
 
 The record should describe actual choices rather than inflate routine prompting
 or approval into creative authorship. It supports provenance and later legal
@@ -288,7 +288,7 @@ questions.
    prospective, file-specific identity exception.
 5. Legal review confirms the wording and transition before `LICENSE`, an asset
    directory, or a future `TRADEMARKS.md` changes.
-6. A separate decision record adopts the exact name, files, owner,
+6. A separate backlog entry adopts the exact name, files, owner,
    authorization policy, licence treatment, use scope, and review record.
 
 No step authorizes public use until the later decision says so explicitly.

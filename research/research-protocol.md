@@ -843,7 +843,7 @@ intended for publication belong under
 [docs/research/](../docs/research/README.md), with their own status, method,
 search cutoff, limitations, review date, and update triggers. Moving a document
 does not make it an adopted project position. Adoption requires the
-project's governance process and an appropriate decision record.
+project's governance process and an appropriate backlog entry.
 
 ## Maintenance and review triggers
 

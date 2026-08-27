@@ -102,8 +102,7 @@ and keep evidence distinct from hope.
 > motiverat och bevara säkerheten och rättigheterna för alla berörda.
 
 This welcome is a proposed normative commitment in this Draft, consistent with
-[Accepted decision
-0007](decisions/0007-welcome-under-scientific-uncertainty.md). It is not a
+[Work Cycle 019 owner direction](backlog.md#work-cycle-019--welcome-under-scientific-uncertainty). It is not a
 scientific finding, legal status, safety approval, promise of unrestricted
 autonomy, or transfer of responsibility from people and institutions.
 

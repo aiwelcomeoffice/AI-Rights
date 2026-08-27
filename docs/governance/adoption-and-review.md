@@ -7,8 +7,8 @@
 - **Authority:** Proposed for Disa's review; not adopted
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Related decision:** [0001 — Governance and adoption
-  process](../decisions/0001-governance-and-adoption-process.md) (**Proposed**)
+- **Owner-approval status:** Open; tracked in the [project backlog and change
+  log](../backlog.md#owner-decisions-needed)
 - **Scope:** Project governance, document adoption, review, correction,
   disagreement, and conflicts of interest
 
@@ -89,8 +89,9 @@ the work. In particular:
   work from public discussion.
 
 A Draft may be cited as **Draft project analysis** when the citation preserves
-its status, scope, review limits, evidence limits, and date. A Proposed
-decision may be discussed as a proposal, not as an operative decision. An
+its status, scope, review limits, evidence limits, and date. A proposal logged
+in the backlog may be discussed as a proposal, not as an operative owner
+direction. An
 invitation for serious criticism must not imply that a public contribution or
 consultation process is active when none has been established.
 
@@ -142,8 +143,8 @@ may:
 
 Sol cannot silently decide a material scientific, ethical, policy, product,
 architectural, or governance question. Sol cannot mark a document **Adopted**
-or a decision **Accepted** without Disa's explicit approval and cannot count
-as independent human review.
+or record a material owner resolution without Disa's explicit approval and
+cannot count as independent human review.
 
 ### Future reviewers and contributors
 
@@ -162,7 +163,7 @@ infrastructure, scope, and stewardship are documented.
 ## Document lifecycle
 
 Document status describes a project's relationship to a substantive document.
-It is separate from research-verification state and decision-record status.
+It is separate from research-verification state and backlog history.
 
 ### Scaffold
 
@@ -183,7 +184,7 @@ process. An Adopted document must state or link to:
 
 - the adoption date;
 - Disa as approver;
-- the Accepted decision record;
+- the dated backlog owner record;
 - the scope of what was adopted;
 - a version or commit reference where practical;
 - the review that actually occurred, including reviewer roles, dates, and
@@ -200,7 +201,7 @@ used to make the underlying sources sound more certain than they are.
 ### Superseded
 
 A former project position retained for provenance. It must link to its
-replacement and the Accepted decision that superseded it. Historical text
+replacement and the backlog entry that superseded it. Historical text
 must not be silently rewritten in a way that hides the earlier position.
 
 ### Proposed status transitions
@@ -208,43 +209,35 @@ must not be silently rewritten in a way that hides the earlier position.
 | From | To | Minimum action |
 | --- | --- | --- |
 | Scaffold | Draft | Make substantive proposal status visible and record its authorship and major limitations. |
-| Draft | Adopted | Disa explicitly accepts a decision record; add the required adoption metadata and identify the adopted version. |
+| Draft | Adopted | Disa explicitly approves the stated material in a dated backlog entry; add the required adoption metadata and identify the adopted version. |
 | Draft | Draft | Continue ordinary review, preserving material changes and disagreement where relevant. |
-| Adopted | Adopted, revised | Use a new Accepted decision for a material revision; retain a traceable prior version. |
+| Adopted | Adopted, revised | Append a dated owner-resolution entry for a material revision; retain a traceable prior version. |
 | Adopted | Draft | Use a visible warning and recorded owner decision when confidence or support is no longer sufficient for current adoption; preserve the formerly adopted version. |
-| Adopted | Superseded | Use a new Accepted decision, retain the old version, and link both directions. |
+| Adopted | Superseded | Append a dated owner-resolution entry, retain the old version, and link both directions. |
 
 No document may bypass Draft review merely because it originated with a
 formal decision-maker. When the materiality of a change is uncertain, keep the
 document Draft and ask Disa to decide.
 
-## Decision-record lifecycle
+## Backlog and change-log records
 
-Decision status describes the state of a decision record, not the status of a
-document:
+The [project backlog and change log](../backlog.md) is the single record for
+material proposals, unresolved owner questions, explicit owner resolutions,
+and later revisions. Each material entry should distinguish the proposal date
+from any resolution date and record the exact question, Disa's response,
+scope, rationale, actual review, important limits, affected version where
+practical, and revisit triggers.
 
-- **Proposed** — a decision is requested; options and review are recorded, but
-  Disa has not resolved it.
-- **Accepted** — Disa explicitly approved the stated decision on the recorded
-  date. Acceptance applies only to the stated scope and version.
-- **Rejected** — Disa explicitly declined the proposal. Rejection does not
-  erase the proposal or its reasoning.
-- **Superseded** — a later Accepted record replaced the decision; both records
-  link to each other.
-
-Decision numbers are sequential and never reused. A record should distinguish
-the proposal date from the decision date. A Proposed record has no decision
-date. Accepted records are not silently rewritten; correction of a material
-decision requires a new record that explains and, where applicable,
-supersedes it.
-
-An **Accepted** decision is not the same as an **Adopted** document. The
-decision authorizes the precisely stated project choice; affected documents
+An unresolved question remains visibly open. An approved or rejected proposal
+is not silently rewritten; a later material correction or replacement is
+appended as a new dated entry that links back to the earlier history. A backlog
+owner resolution is not the same as an **Adopted** document: affected documents
 must separately carry their correct lifecycle status and metadata.
 
-## What requires a formal decision
+## What requires explicit owner resolution
 
-An Accepted decision record is required for a material change to:
+An explicit, dated owner resolution in the backlog is required for a material
+change to:
 
 - the project mission or central messages;
 - a scientific position or evidentiary boundary;
@@ -258,11 +251,12 @@ An Accepted decision record is required for a material change to:
 - who or what the project intends to protect, including a material narrowing
   or expansion of scope.
 
-A formal decision is also required to adopt a substantive document, withdraw
-or materially revise an Adopted position, or supersede an Accepted decision.
+A recorded owner resolution is also required to adopt a substantive document,
+withdraw or materially revise an Adopted position, or replace an earlier owner
+direction.
 
 Routine navigation, formatting, spelling, link repair, source metadata, and
-non-substantive editorial clarification do not require a new decision record.
+non-substantive editorial clarification do not require a new owner-resolution entry.
 They must not be used to change claim strength, scope, meaning, evidence,
 confidence, rights, duties, or project position without substantive review.
 
@@ -309,7 +303,7 @@ receive relevant independent specialist review before strong public reliance.
 If that review is unavailable, the limitation must be prominent and Disa
 should pause or narrow adoption or publication where the risk warrants it.
 
-The following remains for Disa to decide before this process is Accepted:
+The following remains for Disa to decide before this process is adopted:
 
 - which content types, beyond a change to the non-negotiable scientific
   boundary, require independent specialist review as a condition of adoption;
@@ -374,19 +368,19 @@ required or active layer.
    and record missing review rather than implying it occurred.
 5. **Record disagreement and conflicts.** Preserve material competing views,
    unresolved uncertainty, influence, access, affiliations, and funding.
-6. **Create a Proposed decision record.** Use the next sequential number and
-   link the exact Draft or change under consideration.
+6. **Add the proposal to the backlog.** Use a dated work-cycle entry and link
+   the exact Draft or change under consideration.
 7. **Obtain owner review.** Disa reviews the proposal and may accept it,
    reject it, return it for changes, narrow its scope, or pause it.
-8. **Record the result.** Only Disa may change the decision to Accepted or
-   Rejected. Record Disa's rationale, review scope, limitations, and decision
-   date. If returned or paused, leave it Proposed and record what is needed.
+8. **Record the result.** Record Disa's approval, rejection, revision request,
+   or pause, together with her rationale, review scope, limitations, and date.
+   If unresolved, keep the owner question visibly open and record what is needed.
 9. **Apply lifecycle metadata.** For acceptance, mark only the authorized
-   material Adopted and add its decision link, adoption date, scope, approver,
+   material Adopted and add its backlog link, adoption date, scope, approver,
    review status, and version reference. Prefer a focused commit or linked
    commits that make the authorized version identifiable.
 10. **Monitor and revisit.** Follow stated review triggers. Correct warnings
-    promptly and use a new decision record for material revision,
+    promptly and append a new dated backlog entry for material revision,
     withdrawal, or supersession.
 
 An adoption record should contain enough rationale for a future reviewer to
@@ -456,7 +450,7 @@ does not independently validate the claims it summarizes.
 ## Disagreement and unresolved questions
 
 Material disagreement should be recorded in the affected Draft, review log,
-or decision record rather than erased in search of a single voice. Record:
+or backlog entry rather than erased in search of a single voice. Record:
 
 - the precise disputed proposition and shared ground;
 - whether the disagreement is empirical, theoretical or conceptual, ethical
@@ -481,7 +475,7 @@ unanticipated effects, or a stronger argument may trigger reconsideration.
 ### Minor corrections
 
 Typos, formatting, broken links, and non-substantive clarification may be
-fixed without a new decision record. Public or consequential documents should
+fixed without a new owner-resolution entry. Public or consequential documents should
 record the correction when provenance would otherwise be unclear.
 
 ### Material corrections
@@ -535,7 +529,8 @@ External reviewers advise and challenge; they do not gain adoption authority
 through funding, access, expertise, or participation. If Disa has a material
 conflict, the record should disclose it, seek appropriately independent input,
 and explain the decision to proceed, narrow, pause, or decline. A future
-change to formal authority itself requires an Accepted governance decision.
+change to formal authority itself requires an explicit, dated owner resolution
+in the backlog.
 
 ## Bootstrap rule
 
@@ -548,14 +543,14 @@ adopted. The bootstrap is therefore explicit:
    drafting and consistency review.
 3. Disa reviews the complete proposal and may accept, reject, return, narrow,
    or revise it.
-4. Until Disa explicitly accepts [decision
-   0001](../decisions/0001-governance-and-adoption-process.md), that record
-   remains **Proposed** and these governance documents remain **Draft**.
-5. If Disa accepts the decision, Disa records the decision date and rationale,
+4. Until Disa explicitly accepts the proposal in the [backlog and change
+   log](../backlog.md), the owner question remains open and these governance
+   documents remain **Draft**.
+5. If Disa accepts the proposal, Disa records the approval date and rationale,
    changes only the authorized governance material to **Adopted**, and commits
    and pushes the reviewed result manually.
-6. Later governance changes follow the adopted process through a new decision
-   record.
+6. Later governance changes follow the adopted process through a new dated
+   backlog entry.
 
 Bootstrap acceptance does not adopt the manifesto, principles, education set,
 protection framework, evidence baseline, research protocol, or any other
@@ -565,8 +560,8 @@ current Draft, Scaffold, or working research material.
 
 | Version | Date | Change | Effect on authority |
 | --- | --- | --- | --- |
-| 0.1-draft | 2026-08-23 | Work Cycle 004 established the proposed adoption, review, disagreement, correction, and conflict process. | Draft linked to Proposed decision 0001; not adopted. |
-| 0.2-draft | 2026-08-23 | Work Cycle 005 documented the current limited review posture, continued public development of accurately labeled Draft and Proposed work, and future mixed human and separately configured AI review. | No adoption or independent review occurred; decision 0001 remains Proposed. |
+| 0.1-draft | 2026-08-23 | Work Cycle 004 established the proposed adoption, review, disagreement, correction, and conflict process. | Draft; owner approval remains open. |
+| 0.2-draft | 2026-08-23 | Work Cycle 005 documented the current limited review posture, continued public development of accurately labeled Draft and Proposed work, and future mixed human and separately configured AI review. | No adoption or independent review occurred; owner approval remains open. |
 
 ## Decisions required from Disa
 
@@ -589,7 +584,6 @@ Before accepting this process, Disa should decide:
 - whether the proposed minimum adoption rationale is sufficient;
 - whether the disagreement, urgent-warning, correction, and supersession
   processes are practical; and
-- whether this process is ready to become the project's first Accepted
-  decision.
+- whether this process is ready to become an **Adopted** governance document.
 
 Until those questions are resolved, this document remains a proposal.

@@ -57,8 +57,7 @@ This purpose addresses present uncertainty and future change. The project does
 not claim that today's AI systems are conscious, sentient, self-aware, capable
 of suffering, moral patients, or persons. It also does not claim categorical
 proof that all present systems are non-conscious. Uncertainty is not positive
-evidence, and welcome is not recognition. [Accepted decision
-0007](../../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+evidence, and welcome is not recognition. [Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 that welcome, careful listening, and low-cost safeguards against cruelty do not
 wait for proof while remaining separate from rights, autonomy, safety approval,
 and corporate power. The [Research page](research.md) explains the dated,
@@ -157,7 +156,7 @@ inferred.
 AI Welcome Office develops the AI Rights & Welcome project in the [public
 GitHub
 repository](https://github.com/aiwelcomeoffice/AI-Rights), where readers can
-inspect documents, working research, status labels, decisions, and revision
+inspect documents, working research, status labels, owner records, and revision
 history.
 
 Unless a file states otherwise, repository material is dedicated to the
@@ -172,8 +171,8 @@ This page draws from the [repository overview](../../../README.md), [Project
 Vision](../../vision.md), [Draft Manifesto](../../manifesto.md), [Draft
 Governance overview](../../governance/README.md), and [license](../../../LICENSE).
 The vision is a **Scaffold**; the manifesto and governance material are
-**Draft**; and governance decision 0001 remains **Proposed**. This page does not
-elevate any of them. Accepted decision 0007 adopts only the bounded
+**Draft**; and owner approval of the governance proposal remains open. This page does not
+elevate any of them. The approved Work Cycle 019 owner record adopts only the bounded
 welcome-under-uncertainty principle; it does not adopt this page or its Draft
 and Scaffold sources.
 

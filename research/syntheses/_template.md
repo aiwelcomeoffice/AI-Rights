@@ -226,7 +226,7 @@ or adopted project positions.]
 
 ### Project position or decision
 
-[Usually none. Link an authorized decision record if one exists. A synthesis
+[Usually none. Link an authorized backlog entry if one exists. A synthesis
 does not adopt a position.]
 
 ## Confidence and uncertainty

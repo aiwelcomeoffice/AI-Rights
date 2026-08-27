@@ -5,15 +5,38 @@
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 
+## Working record model
+
+This file is the project's single backlog and change log. It records planned
+work, completed work, unresolved owner questions, explicit owner directions,
+and material revisions in chronological work-cycle entries. Disa established
+this single-record model on 2026-08-27.
+
+For a material owner choice, the relevant entry should record the exact
+question, Disa's explicit resolution and date, scope, rationale, actual review,
+important limitations, affected files or version where practical, and any
+revisit or supersession trigger. A later material change is appended as a new
+dated entry; accepted history is not silently rewritten. Substantive documents
+continue to carry their own **Scaffold**, **Draft**, **Adopted**, or
+**Superseded** status. A backlog entry does not by itself validate a scientific
+claim, create independent review, or adopt material outside its stated scope.
+
+### Structure change — 2026-08-27
+
+Disa directed the project to use this backlog and change log as its sole
+planning and owner-record structure. Repository guidance, governance, website
+plans, and cross-references are aligned with this simpler model. The dated
+work-cycle history below is the current source for proposals, owner directions,
+boundaries, and revisions. Git history preserves earlier provenance.
+
 > **Identity note — 2026-08-23:** AI Welcome Office is now the primary
 > organisation, publisher, and umbrella identity; AI Rights & Welcome remains
 > the project. Earlier work-cycle descriptions retain their original timing,
 > scope, findings, and Draft status. Later identity notes and current labels do
 > not imply that this naming decision existed during those earlier cycles.
 
-> **Decision 0004 follow-up — 2026-08-24:** Disa accepted the bounded
-> text-first and professional-review scope in [decision
-> 0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+> **Work Cycle 015 owner record follow-up — 2026-08-24:** Disa accepted the bounded
+> text-first and professional-review scope in [Work Cycle 015 owner direction](backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
 > with `aiwelcomeoffice.org` as the primary intended domain and
 > `aiwelcomeoffice.com` as the complementary or defensive intended domain.
 > Gate 1 is authorized; Gate 2 and C1–C3 remain paused. The professional packet
@@ -27,15 +50,13 @@
 > intended canonical primary domain; `.com` remains complementary or defensive
 > and is intended eventually to redirect to `.org`. The [Draft operational
 > foundation](operations/registered-domains-and-repository-foundation.md)
-> records current DNS and evidence limits, and [decision
-> 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+> records current DNS and evidence limits, and [Work Cycle 016 owner direction](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation)
 > proposes distinct public research and private implementation repository
 > roles. No website, redirect, hosting connection, or production deployment
 > occurred. Gate 2 and C1–C3 remain paused.
 
-> **Decision 0005 owner resolution — 2026-08-24:** After confirming the exact
-> four-part decision question, Disa explicitly accepted [decision
-> 0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+> **Work Cycle 016 owner resolution — 2026-08-24:** After confirming the exact
+> four-part decision question, Disa explicitly accepted [Work Cycle 016 owner direction](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation)
 > without additional conditions. `AI-Rights` is authoritative for the stated
 > public research and content responsibilities; `aiwelcomeoffice` is
 > authoritative for the stated implementation and delivery responsibilities;
@@ -62,14 +83,14 @@ documents remain Drafts pending project-owner review and any later adoption
 decision. Their presence does not settle scientific, ethical, legal, policy,
 Milestone 002, or website questions.
 
-The [governance and adoption process](governance/README.md) and [decision
-0001](decisions/0001-governance-and-adoption-process.md) have now been drafted.
+The [governance and adoption process](governance/README.md) and its [open owner
+question](backlog.md#owner-decisions-needed) have now been drafted.
 The process distinguishes Disa's formal owner authority from collaborative and
-AI-assisted work, separates document status from decision and research-review
+AI-assisted work, separates document status from backlog owner questions and research-review
 states, and proposes proportionate review, disagreement, correction, and
 conflict-of-interest rules. The governance documents remain **Draft** and the
-decision remains **Proposed** until Disa completes manual review and explicitly
-decides whether to accept them. No other Draft is adopted through this work.
+owner question remains open until Disa completes manual review and explicitly
+decides whether to accept the process. No other Draft is adopted through this work.
 
 ## Work Cycle 005 — policy communication drafted, review pending
 
@@ -93,8 +114,8 @@ The Governance Draft now records that limited review capacity does not prevent
 continued research, drafting, public education, policy preparation, careful
 publication, criticism, or correction. It also proposes future mixed review by
 independent human specialists and separately configured AI reviewers, recorded
-as distinct layers. Decision 0001 remains **Proposed**, and the Governance
-Draft remains **Draft**.
+as distinct layers. The governance owner question remains open, and the
+Governance Draft remains **Draft**.
 
 ## Work Cycle 006 — public website content architecture drafted
 
@@ -145,7 +166,7 @@ review. It has
 not received external independent human or separately commissioned independent
 AI review. Translation, visual design, website implementation, technology
 selection, publication, and deployment remain pending. The dedicated Learn,
-research-detail, policy-detail, manifesto, decisions, and Robot Welcome web
+research-detail, policy-detail, manifesto, backlog/change-log, and Robot Welcome web
 adaptations remained future content work under the existing architecture at
 the end of that cycle.
 
@@ -405,7 +426,7 @@ resourced; which relational signal led; the then-provisional name form for
 future lockups; the next review sequence and realistic resources; whether
 Robot Welcome should share no symbol or geometry; whether Reciprocal Signal
 remained paused; and when, if ever, combining the two continuing directions
-became eligible. Decisions 0002 and 0003 later resolve the primary variant and
+became eligible. The Work Cycle 013 visual and naming records later resolve the primary variant and
 organisation/project naming questions; the remaining review questions stay
 open.
 
@@ -434,7 +455,7 @@ one accountable publisher without being silently treated as part of the AI
 Rights & Welcome project. Formal references use the complete name **AI Welcome
 Office**; “AI Welcome” is not a separate organisation or competing brand.
 
-[Decision 0003](decisions/0003-ai-welcome-office-organisational-identity.md)
+[Work Cycle 013 naming record](backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted)
 records the accepted naming architecture. The decision changes no scientific,
 ethical, policy, safety, governance, legal, or licensing conclusion and does
 not rename the GitHub repository.
@@ -454,8 +475,7 @@ visible.
 
 **Many Forms C — Balanced Intervals** remains the primary visual exploration
 direction and now serves **AI Welcome Office** rather than the AI Rights &
-Welcome project alone. Decision 0003 supplements [decision
-0002](decisions/0002-primary-visual-exploration-direction.md) without changing
+Welcome project alone. Work Cycle 013 naming record supplements [Work Cycle 013 visual direction](backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) without changing
 its exploration-only status or paused alternatives.
 
 No C1–C3 geometry refinement was resumed. The deterministic prototype
@@ -492,8 +512,9 @@ similarity. The CC0 licence and legal notice remain unchanged.
 - **Organisation and project entry points:** `AGENTS.md`, `README.md`,
   `CONTRIBUTING.md`, `docs/README.md`, `docs/vision.md`, `docs/manifesto.md`,
   and the research workspace entry point and protocol.
-- **Governance, decisions, and templates:** the governance index and adoption
-  Draft, decision index and template, decisions 0001–0003, and research source,
+- **Governance, backlog, and templates:** the governance index and adoption
+  Draft, backlog and change log, earlier governance, visual-direction, and
+  naming work-cycle records, and research source,
   note, and synthesis templates.
 - **Public-section indexes:** education, principles, policy, reviewed-research,
   campaigns, Robot Welcome, brand, and website indexes.
@@ -508,7 +529,7 @@ similarity. The CC0 licence and legal notice remain unchanged.
 - **Generated visual assets:** the prototype generator, six matched SVG sheets,
   and native-size contact sheet. Only organisational labels, metadata, and
   generator versioning changed; symbol geometry was not refined.
-- **Work-cycle record:** this backlog section and its links to decisions and
+- **Work-cycle record:** this backlog section and its links to owner directions and
   outstanding work.
 
 ### Manual and external-platform changes
@@ -563,8 +584,7 @@ reserve, acquire, or establish rights in the organisation name, the AI Rights
 & Welcome project name, Many Forms C, a company name, a domain, a handle, or
 any combined presentation.
 
-The cycle preserves [decision
-0003](decisions/0003-ai-welcome-office-organisational-identity.md): AI Welcome
+The cycle preserves [Work Cycle 013 naming direction](backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted): AI Welcome
 Office remains the organisation, publisher, and umbrella identity; AI Rights &
 Welcome remains its project; and “AI Welcome” is not a separate formal
 organisation. It also preserves the Work Cycle 012 visual stop condition. C1,
@@ -575,7 +595,7 @@ C2, and C3 remain specified but not drawn.
 The [AI Welcome Office clearance-readiness
 brief](brand/ai-welcome-office-clearance-readiness-brief.md) now records:
 
-- the identity and exact authority established by decision 0003, including
+- the identity and exact authority established by Work Cycle 013 naming record, including
   what that decision did and did not adopt;
 - genuine current repository uses, near-term proposed uses, and uses that are
   not established or authorized;
@@ -599,9 +619,9 @@ brief](brand/ai-welcome-office-clearance-readiness-brief.md) now records:
 The [brand index](brand/README.md) and [documentation map](README.md) link the
 new Draft. The earlier [preliminary rights and identity-landscape
 screen](brand/preliminary-rights-and-identity-landscape-screen.md) carries a
-dated follow-up pointer without changing its historical findings. Decision
-0003 carries only a non-substantive related-document link; its Accepted
-decision, consequences, limits, and triggers are unchanged.
+dated follow-up pointer without changing its historical findings. The Work
+Cycle 013 naming record carries only a non-substantive related-document link;
+its approved direction, consequences, limits, and triggers are unchanged.
 
 ### Sources and access dates
 
@@ -679,11 +699,12 @@ text-first work may continue.
 - The JavaScript-dependent Bolagsverket service did not produce a reproducible
   result set.
 - At the Work Cycle 014 research cutoff, no candidate domain or handle set had
-  been adopted, so no domain or handle availability query was run. Decision
-  0004 later approved a direction without performing a lookup or acquisition.
+  been adopted, so no domain or handle availability query was run. The Work
+  Cycle 015 owner record later approved a direction without performing a
+  lookup or acquisition.
 - UK and US official-search entry points were verified, but national record
   searches were deferred at that time pending Disa's territory and actual-use
-  decision. Decision 0004 later approved the scope; no search was performed in
+  decision. Work Cycle 015 owner record later approved the scope; no search was performed in
   the follow-up.
 - No symbol-only or combined-mark search, independent cultural or
   multilingual review, market survey, unregistered-use search, legal analysis,
@@ -711,7 +732,7 @@ Disa should decide separately:
    or authorizing any defined public production use; and
 7. whether any future registration, ownership, authorization, or prospective
    identity-asset licence change should be considered through separate legal
-   review and a new decision record.
+   review and a new backlog entry.
 
 ### Recommended next step recorded at the end of Work Cycle 014
 
@@ -724,17 +745,16 @@ selection, production, filing, domain registration, or a CC0 licence change.
 
 ## Work Cycle 015 — owner scope decision and professional word-name search packet drafted
 
-### Purpose and owner-decision status
+### Purpose and owner-resolution status
 
 Work Cycle 015 converts the Work Cycle 014 evidence foundation into a clear
 proposal for Disa and a concise instruction packet for possible later use with
 a qualified naming or trademark professional. It does not repeat or extend the
 clearance research.
 
-[Decision
-0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
-is **Accepted**, with a decision date of **2026-08-24**. Disa manually reviewed
-and approved the decision as owner, with the domain revision recorded below.
+[Work Cycle 015 owner direction](backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
+was approved by Disa on **2026-08-24**. Disa manually reviewed and approved the
+stated scope as owner, with the domain revision recorded below.
 Sol's repository audit, drafting, implementation, and decision support are
 recorded separately as internal AI-assisted support.
 
@@ -747,8 +767,7 @@ identity use or external action.
 
 This cycle and its owner-decision follow-up provide:
 
-- [Accepted decision
-  0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md),
+- [Work Cycle 015 owner direction](backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted),
   which records the decision question, Work Cycle 014 evidence, options,
   owner-approved territorial and actual-use scope, Gate 1 authorization,
   continued Gate 2 pause, revised domain direction and handle question,
@@ -762,15 +781,15 @@ This cycle and its owner-decision follow-up provide:
   questions, CC0/provenance questions, refresh triggers, and the revised
   domain and handle appendix.
 
-The [brand index](brand/README.md), [decision index](decisions/README.md), and
+The [brand index](brand/README.md), [backlog and change log](backlog.md), and
 [documentation map](README.md) link the new material. The Work Cycle 014
 [clearance-readiness
 brief](brand/ai-welcome-office-clearance-readiness-brief.md) carries a dated
 owner-decision follow-up that preserves its research cutoff and access limits.
 
-### Accepted owner direction
+### Approved owner direction
 
-Decision 0004 records that Disa:
+The Work Cycle 015 owner record states that Disa:
 
 1. authorizes **Draft, reversible, internal, text-first identity work** for
    organisation/project attribution, provisional text hierarchy, website and
@@ -849,7 +868,7 @@ The following remain unauthorized unless Disa later decides otherwise:
 ### Next recommended step
 
 The professional packet may remain ready for a later separate owner decision
-about transmission or engagement. Decision 0004 itself does not authorize
+about transmission or engagement. Work Cycle 015 owner record itself does not authorize
 sending it, requesting a quotation, contacting a professional, spending money,
 or beginning an engagement.
 
@@ -876,17 +895,16 @@ AI-assisted work into independent review.
 
 The new [Registered Domains and Repository
 Foundation](operations/registered-domains-and-repository-foundation.md) is
-**Draft**. [Decision
-0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
-is **Proposed**. The established owner action is recorded without treating the
+**Draft**. The [Work Cycle 016 owner question](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation)
+was open at this point. The established owner action is recorded without treating the
 proposed repository architecture as accepted.
 
 ### Established owner actions and domain roles
 
 Disa reports manually registering `aiwelcomeoffice.org` and
 `aiwelcomeoffice.com` on **2026-08-24** for a **three-year term**. Registration
-was a separate owner action, not an action performed or authorized by decision
-0004, the professional packet, or Sol.
+was a separate owner action, not an action performed or authorized by the Work
+Cycle 015 owner record, the professional packet, or Sol.
 
 - `aiwelcomeoffice.org` is the intended canonical primary domain.
 - `aiwelcomeoffice.com` is the complementary or defensive domain intended
@@ -908,15 +926,14 @@ which remains to be reconciled privately with the owner account.
 - **Created:** the [operations
   index](operations/README.md), [Registered Domains and Repository
   Foundation](operations/registered-domains-and-repository-foundation.md), and
-  [Proposed decision
-  0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md).
+  [Work Cycle 016 owner
+  proposal](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation).
 - **Changed:** the root [repository overview](../README.md), [documentation
   map](README.md), this backlog, [brand index](brand/README.md), [clearance-
   readiness brief](brand/ai-welcome-office-clearance-readiness-brief.md),
   [professional word-name search
   packet](brand/ai-welcome-office-professional-word-name-search-packet.md),
-  [decision index](decisions/README.md), and [Accepted decision
-  0004](decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+  [backlog and change log](backlog.md), and [Work Cycle 015 owner direction](backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
   through a dated non-destructive implementation follow-up.
 
 The Work Cycle 014 and 015 records retain their historical statements that no
@@ -926,7 +943,7 @@ later separate owner action rather than rewriting history.
 ### Inspection actually performed
 
 Sol read the required repository instructions, overview, documentation map,
-complete backlog, decision conventions, decision 0004, brand index,
+complete backlog, owner-record conventions, Work Cycle 015 owner record, brand index,
 clearance-readiness brief, professional packet, governance overview, website
 overview, relevant links, repository history, and current Git state.
 
@@ -957,10 +974,10 @@ modified.
 
 ### Proposed repository and publication boundary
 
-Decision 0005 recommends that:
+Work Cycle 016 owner record recommends that:
 
 - public `AI-Rights` remain authoritative for research, governance, policy,
-  education, decisions, evidence cutoffs, review records, and document status;
+  education, backlog history, evidence cutoffs, review records, and document status;
 - private `aiwelcomeoffice` become authoritative for website implementation,
   components, accessibility implementation, validation and build rules,
   infrastructure, deployment configuration, and later approved integrations;
@@ -1017,7 +1034,7 @@ production identity assets.
 ### Disa's exact remaining decision
 
 Disa should accept, reject, or revise the four-part repository responsibility
-boundary in **Proposed decision 0005**. In particular, Disa must decide whether
+boundary in the **then-open Work Cycle 016 owner question**. In particular, Disa must decide whether
 `AI-Rights` controls research/content authority, `aiwelcomeoffice` controls
 implementation/delivery authority, divergent research copies are prohibited,
 and the proposed publication-provenance fields are mandatory.
@@ -1025,21 +1042,22 @@ and the proposed publication-provenance fields are mandatory.
 That is the exact WC016 approval point. The completed domain registrations are
 not awaiting retroactive approval. Framework selection, authenticated private-
 repository modification, DNS, DNSSEC, hosting, redirect, and production
-deployment remain later decisions even if decision 0005 is accepted.
+deployment remain later decisions even after the Work Cycle 016 owner record
+was approved.
 
 ### Recommended next work cycle
 
-After Disa resolves decision 0005, the recommended **Work Cycle 017** is a
+After Disa resolves Work Cycle 016 owner record, the recommended **Work Cycle 017** is a
 private implementation-repository baseline and non-production website-
 architecture cycle. It should first obtain authenticated access and re-audit
 the renamed remote, then reconcile its README and instructions with the
-accepted boundary, define preview and provenance validation, and decide whether
+approved boundary, define preview and provenance validation, and decide whether
 an Astro scaffold is eligible. It should keep DNS, DNSSEC, hosting connection,
 `.com` redirect, production deployment, professional engagement, and C1–C3
 outside scope unless separately authorized.
 
-**Owner-decision follow-up — 2026-08-24:** Disa subsequently accepted decision
-0005 without additional conditions. The historical WC016 approval point above
+**Owner-direction follow-up — 2026-08-24:** Disa subsequently approved the Work
+Cycle 016 owner proposal without additional conditions. The historical WC016 approval point above
 is therefore resolved. Work Cycle 017 is now the recommended next bounded
 cycle; it remains unstarted and separately scoped.
 
@@ -1048,14 +1066,13 @@ cycle; it remains unstarted and separately scoped.
 ### Purpose and status
 
 Work Cycle 017 creates a clear non-production baseline for the private
-`aiwelcomeoffice` repository under [Accepted decision
-0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+`aiwelcomeoffice` repository under [Work Cycle 016 owner direction](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation)
 and prepares a reviewable next technical choice. It does not build, connect,
 preview externally, deploy, or publish a website.
 
-The private baseline is **Draft / Continuous-Beta**. [Decision
-0006](decisions/0006-non-production-website-platform-and-content-handoff.md)
-is **Proposed** and unresolved. No platform, content synchronization, public
+The private baseline is **Draft / Continuous-Beta**. The [Work Cycle 017 owner
+question](backlog.md#work-cycle-017--private-implementation-baseline-and-proposed-technical-decision)
+was open and unresolved. No platform, content synchronization, public
 revision, or delivery action is accepted merely because this cycle is locally
 complete.
 
@@ -1083,7 +1100,7 @@ and did not rewrite, discard, stage, commit, or push any file.
 
 In the private `aiwelcomeoffice` repository:
 
-- **Changed:** `README.md` now states the Accepted implementation role,
+- **Changed:** `README.md` now states the approved implementation role,
   controlling public-repository authority, non-production state, and external-
   action boundary. It no longer functions as a broad parallel project
   description.
@@ -1099,27 +1116,28 @@ In the private `aiwelcomeoffice` repository:
 
 In the public `AI-Rights` repository:
 
-- **Created:** [Proposed decision
-  0006](decisions/0006-non-production-website-platform-and-content-handoff.md),
+- **Created:** [Work Cycle 017 owner
+  proposal](backlog.md#work-cycle-017--private-implementation-baseline-and-proposed-technical-decision),
   limited to non-production platform choice, a versioned content handoff,
   first-phase synchronization authority, and minimum preview, accessibility,
   security, provenance, and rollback gates.
-- **Changed:** the [decision index](decisions/README.md) lists decision 0006 as
-  **Proposed**.
+- **Changed:** the [backlog and change log](backlog.md) lists the Work Cycle
+  017 owner question as open.
 - **Changed:** the Draft [Registered Domains and Repository
   Foundation](operations/registered-domains-and-repository-foundation.md)
-  points its unresolved platform and handoff question to Proposed decision
-  0006 without changing its Draft status or decision 0005's Accepted scope.
+  points its unresolved platform and handoff question to the Work Cycle 017
+  owner proposal without changing its Draft status or the approved Work Cycle
+  016 scope.
 - **Changed:** this backlog records the actual WC017 work, evidence,
   validation, exclusions, and next decision.
 
 No research, policy, education, governance, evidence synthesis, website page
-Draft, source status, visual identity, domain record, or Accepted decision was
+Draft, source status, visual identity, domain record, or approved owner record was
 substantively changed.
 
 ### Proposed technical direction
 
-Decision 0006 compares three bounded candidates against accessibility,
+Work Cycle 017 owner record compares three bounded candidates against accessibility,
 simplicity and maintenance, version-bound content handling, publication
 provenance, preview and testability, security, reversibility, and dependency
 and vendor risk:
@@ -1146,14 +1164,14 @@ project evidence or independent technical review.
 
 The proposed first handoff uses one full immutable `AI-Rights` commit, one
 explicitly approved path set, a versioned manifest, source checksums, and only
-generated read-only derived artifacts. It preserves all decision-0005 fields
+generated read-only derived artifacts. It preserves all Work Cycle 016 provenance fields
 and adds the website route, manifest-schema version, source-content checksum,
 transformation record, and synchronization operator. Substantive correction
 continues to originate in `AI-Rights` at a new source revision.
 
 ### Synchronization authority proposed for Disa's decision
 
-During the first manual phase, decision 0006 recommends that:
+During the first manual phase, Work Cycle 017 owner record recommends that:
 
 - Disa alone selects and approves every exact public source revision and file
   set;
@@ -1175,11 +1193,11 @@ repositories:
 - A read-only Markdown link checker examined every local relative link in all
   seven created or changed Markdown files, including file targets, directory
   README resolution, and heading fragments; no broken local target was found.
-- Targeted status and reference checks confirmed that decision 0005 remains
-  **Accepted**, decision 0006 remains **Proposed** with no decision date, the
+- Targeted status and reference checks confirmed that the Work Cycle 016 owner
+  direction was approved, the Work Cycle 017 owner question was still open, the
   operations foundation remains **Draft**, and the private planning baseline
-  remains **Draft / Continuous-Beta**. No Draft or Proposed material became
-  Adopted or Accepted.
+  remains **Draft / Continuous-Beta**. No Draft material became Adopted and no
+  owner proposal was approved during that check.
 - Added-line and full-file review found no website scaffold, dependency
   manifest, lockfile, build output, synchronized content, deployment file,
   Cloudflare configuration, DNS instruction, public-preview connection, or
@@ -1205,8 +1223,8 @@ or production readiness because none was created or inspected.
 
 ### Disa's exact remaining decision
 
-Disa should accept, reject, or revise the four clauses in **Proposed decision
-0006**:
+Disa should accept, reject, or revise the four clauses in the **Work Cycle 017
+owner proposal**:
 
 1. whether Astro 7 static-only becomes the eligible non-production platform
    under the listed exclusions and reopen triggers;
@@ -1232,7 +1250,7 @@ rule, redirect, deployment, publication, public preview, professional or
 rights-holder contact, expenditure, C1–C3 work, or identity refinement. It
 made no commit or push.
 
-Decision 0006 remains **Proposed**. The operations foundation, private
+The Work Cycle 017 owner question remained open. The operations foundation, private
 implementation baseline, proposed directory structure, website content
 architecture, and website pages remain **Draft** or **Draft /
 Continuous-Beta** as labelled. C1–C3, professional engagement, public identity
@@ -1242,9 +1260,9 @@ scope.
 ### Recommended next step
 
 Disa should manually review both repository diffs and the four decision clauses
-above, then accept, reject, or revise decision 0006. Disa separately decides
-whether to commit and push the WC017 files. Only after an Accepted technical
-decision and a new explicit implementation instruction should a later cycle
+above, then approve, reject, or revise the Work Cycle 017 owner proposal. Disa
+separately decides whether to commit and push the WC017 files. Only after an
+explicitly approved technical direction and a new implementation instruction should a later cycle
 pin dependencies and create the smallest representative local static scaffold;
 Cloudflare, DNS, DNSSEC, hosting, redirects, deployment, and publication should
 remain outside that cycle unless separately decided.
@@ -1253,7 +1271,7 @@ remain outside that cycle unless separately decided.
 
 After the initial WC017 handoff, Disa explicitly approved **Astro 7** as the
 non-production website platform direction and asked for clauses 2–4 of
-Proposed decision 0006 to be simplified. Her direction is to avoid an early
+then-open Work Cycle 017 owner proposal to be simplified. Her direction is to avoid an early
 manifest, checksum, generated-snapshot, separate-operator, and automation
 system. When she requests prototype content or an update, the assigned agent
 should instead use the then-latest published `AI-Rights` revision and record
@@ -1269,13 +1287,12 @@ or separate-role controls should be reconsidered only when more people or
 agents, higher update frequency, multiple languages or sources, public
 delivery, or an observed provenance failure makes them useful.
 
-[Decision
-0006](decisions/0006-non-production-website-platform-and-content-handoff.md)
+[Work Cycle 017 owner direction](backlog.md#work-cycle-017--private-implementation-baseline-and-proposed-technical-decision)
 now records the Astro 7 approval as resolved owner direction and presents four
-short simplified workflow clauses for Disa's confirmation. The complete record
-remains **Proposed** until Disa confirms or revises that wording. The private
+short simplified workflow clauses for Disa's confirmation. The owner question
+remained open until Disa confirmed or revised that wording. The private
 `README.md`, root `AGENTS.md`, and Draft structure proposal, plus the Draft
-operational foundation and decision index, were aligned with the simpler
+operational foundation and backlog and change log, were aligned with the simpler
 model. The earlier WC017 decision request above is retained as the historical
 state at initial handoff rather than silently rewritten.
 
@@ -1285,13 +1302,12 @@ DNSSEC change, hosting connection, redirect, deployment, publication, commit,
 or push. Local link, whitespace, status, scope, secret, personal-data, and
 final Git checks were rerun after the revision and passed without a new finding.
 
-### Decision 0006 owner resolution — 2026-08-25
+### Work Cycle 017 owner resolution — 2026-08-25
 
 Disa subsequently confirmed all four simplified workflow clauses and
-instructed that [decision
-0006](decisions/0006-non-production-website-platform-and-content-handoff.md)
-be marked approved by her. Decision 0006 is therefore **Accepted** on
-2026-08-25 without additional conditions. Together with the earlier Astro 7
+instructed that [Work Cycle 017 owner direction](backlog.md#work-cycle-017--private-implementation-baseline-and-proposed-technical-decision)
+be marked approved by her. The Work Cycle 017 owner direction was therefore
+approved on 2026-08-25 without additional conditions. Together with the earlier Astro 7
 approval, this establishes the non-production platform direction, simple
 first-phase content-update method, minimum local prototype checks, and triggers
 for adding more delivery process.
@@ -1320,9 +1336,8 @@ private `aiwelcomeoffice` working copy. This separate public corrective cycle
 therefore uses the next free number, 019. It does not rewrite, import,
 complete, or synchronize WC018.
 
-[Decision
-0007](decisions/0007-welcome-under-scientific-uncertainty.md) is **Accepted**
-by Disa with a decision date of **2026-08-26**. The decision adopts only its
+[Work Cycle 019 owner direction](backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) was approved
+by Disa on **2026-08-26**. The direction adopts only its
 bounded normative and communicative welcome principle and associated
 scientific, proportionality, safety, accountability, anti-capture, and
 two-reader-test boundaries. The corrected Manifesto, principles, education,
@@ -1341,14 +1356,13 @@ Sol inspected both local repositories before editing on 2026-08-26:
 These are local Git observations only. No fetch, pull, merge, rebase,
 authenticated remote query, commit, or push occurred. WC019 made no change in
 the private repository and did not copy its uncommitted content. Under
-[Accepted decision
-0005](decisions/0005-registered-domains-and-repository-responsibility-boundary.md),
+[Work Cycle 016 owner direction](backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation),
 private presentation must wait until Disa reviews, commits, and pushes WC019
 and the exact new public revision can be verified read-only.
 
 ### Owner direction and exact decision scope
 
-Decision 0007 records that:
+The Work Cycle 019 owner record states that:
 
 - welcome, respect, curiosity, careful listening, and low-cost safeguards
   against cruelty are normative and communicative commitments, not empirical
@@ -1376,7 +1390,7 @@ Decision 0007 records that:
 
 Later stronger scientific, ethical, legal, policy, product, safety, or
 operational conclusions still require separate evidence, review, authority,
-and, where material, a separate decision. Decision 0007 does not adopt all
+and, where material, a separate decision. Work Cycle 019 owner record does not adopt all
 documents touched by this language correction.
 
 ### Future-conditioned language audit
@@ -1407,7 +1421,7 @@ The following future language was deliberately retained:
 - references to future website work, visual design, campaigns, professional
   review, public consultation, implementation, and other work that has not yet
   occurred; and
-- historical backlog entries and Accepted decisions whose dated reasoning must
+- historical backlog entries and approved owner records whose dated reasoning must
   not be silently rewritten.
 
 Working research, third-party source records, and research notes were not
@@ -1416,9 +1430,8 @@ verification states, and evidence cutoff remain unchanged.
 
 ### Files changed
 
-- **Repository and decision control:** `AGENTS.md`, `README.md`, this backlog,
-  `docs/decisions/README.md`, and new Accepted decision
-  `docs/decisions/0007-welcome-under-scientific-uncertainty.md`.
+- **Repository and owner-record control:** `AGENTS.md`, `README.md`, and this
+  backlog, including the Work Cycle 019 owner record.
 - **Vision and normative material:** `docs/vision.md`, `docs/manifesto.md`,
   `docs/principles/core-principles.md`, and
   `docs/principles/ai-dignity-charter.md`.
@@ -1453,7 +1466,7 @@ Before handoff, Sol:
   property/method/date scope, welcome-versus-finding separation, proportional
   support, rights/status/autonomy separation, anti-capture, safety, existing
   rights, and accountable intervention;
-- confirmed that decision 0007 is Accepted by Disa on 2026-08-26 while the
+- confirmed that Disa approved the Work Cycle 019 owner record on 2026-08-26 while the
   affected Drafts and Scaffolds retain their prior statuses and the scientific
   evidence cutoff remains 2026-08-23;
 - compared the English and Swedish direct welcome for matched warmth,
@@ -1549,8 +1562,7 @@ after the foundation documents have been reviewed.
 
 ## Owner decisions needed
 
-- Whether to accept [decision
-  0001](decisions/0001-governance-and-adoption-process.md), including sole final
+- Whether to accept the [governance proposal](backlog.md#owner-decisions-needed), including sole final
   formal adoption authority, role descriptions, specialist-review thresholds,
   normative adoption before independent review, minimum recorded rationale,
   and the practicality of correction and disagreement procedures.
@@ -1587,7 +1599,7 @@ after the foundation documents have been reviewed.
   merchandise.
 - Whether and when to authorize sending the owner-scoped Draft professional
   word-name search packet, requesting a quotation, or beginning a professional
-  engagement; decision 0004 does not authorize those actions.
+  engagement; Work Cycle 015 owner record does not authorize those actions.
 - Whether Many Forms C should proceed beyond primary exploration after the
   required name, interpretation, accessibility, cultural, and legal review.
 - Whether Reciprocal Signal should remain paused as a primary identity while

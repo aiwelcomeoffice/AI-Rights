@@ -291,7 +291,7 @@ that a mark is original, confusingly similar, registrable, or legally usable.
    accessibility, cultural, originality, and authority-confusion findings are
    recorded for both continuing directions.
 
-Those decisions were later narrowed to Many Forms C under decision 0002 and
-assigned to AI Welcome Office under decision 0003. All six variants remain
+Those decisions were later narrowed to Many Forms C under Work Cycle 013 visual-direction record and
+assigned to AI Welcome Office under Work Cycle 013 naming record. All six variants remain
 Draft/Exploratory; none should be refined into production assets or used
 publicly without the required later review and decision.

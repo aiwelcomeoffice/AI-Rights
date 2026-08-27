@@ -47,11 +47,11 @@ For source-specific states:
 
 - **Scaffold:** structure and questions; not a project position.
 - **Draft:** substantive proposed content under review; not adopted.
-- **Adopted:** a current project position approved through a recorded decision;
+- **Adopted:** a current project position approved through a dated backlog owner record;
   not necessarily proven, independently reviewed, law, or consensus.
 - **Superseded:** retained for history and linked to its replacement.
-- **Proposed decision:** unresolved proposal; no decision date or operative
-  authority.
+- **Backlog owner question:** recorded as open or resolved, with any resolution's
+  date, scope, rationale, review, and limits stated in the entry.
 - **Working research:** traceable research material whose verification state,
   method, limits, and review must be stated separately.
 
@@ -551,23 +551,23 @@ reviewed; a specification is not a placeholder promise to publish.
   and reviewers.
 - **Reader question:** What does this label mean, who reviewed the work, and
   what authority does it have?
-- **Page objective:** Explain document, decision, and research states;
+- **Page objective:** Explain document status, backlog owner records, and research states;
   distinguish current practice from the Proposed fuller process; disclose
   actual review capacity.
-- **Required sections:** Why status matters; document statuses; decision
-  statuses; research verification states; current roles and review reality;
+- **Required sections:** Why status matters; document statuses; backlog and
+  change-log records; research verification states; current roles and review reality;
   page-update versus evidence-cutoff dates; adoption versus publication;
-  corrections; current Proposed governance decision.
+  corrections; current open governance owner question.
 - **Primary sources:** [documentation status guide](../README.md#document-status),
   [Governance](../governance/README.md), [Draft adoption and
-  review](../governance/adoption-and-review.md), [decision
-  index](../decisions/README.md), and protocol [review
+  review](../governance/adoption-and-review.md), [backlog and change
+  log](../backlog.md), and protocol [review
   states](../../research/research-protocol.md#review-states-and-publication-boundary).
 - **Status and review notice:** The page itself is Draft; the fuller governance
-  process is Draft and decision 0001 is Proposed; no external independent
+  process is Draft and its owner-approval question is open; no external independent
   review or active public consultation should be assumed.
 - **Primary call to action:** Understand our review status.
-- **Related pages:** Decisions, About, research methods, Participate.
+- **Related pages:** About, research methods, Participate.
 - **Accessibility considerations:** Pair every status word with its meaning;
   provide a text alternative to lifecycle diagrams; do not use a badge color
   as the only status cue.
@@ -575,30 +575,7 @@ reviewed; a specification is not a placeholder promise to publish.
   already adopted. Put current factual review reality before the future
   workflow and label each separately.
 
-### 17. Decisions
-
-- **Working title:** Project decisions
-- **Route:** `/governance/decisions/`
-- **Audience:** Readers auditing authority, governance, and project history.
-- **Reader question:** Which material decisions have actually been proposed,
-  accepted, rejected, or superseded?
-- **Page objective:** Provide a status-accurate index and explain the scope of
-  each record.
-- **Required sections:** Decision-status key; current record list; unresolved
-  decisions; link to process; note that repository presence is not acceptance.
-- **Primary sources:** [decision index](../decisions/README.md) and [Proposed
-  decision 0001](../decisions/0001-governance-and-adoption-process.md).
-- **Status and review notice:** Draft web index; decision 0001 remains Proposed
-  with no decision date.
-- **Primary call to action:** Understand our review status.
-- **Related pages:** Status and review, About.
-- **Accessibility considerations:** Spell out status next to every record;
-  tables need column headers and a list alternative on small screens.
-- **Misunderstanding and safeguard:** A numbered record can look official or
-  operative. Show its actual status and unresolved decision question in the
-  listing.
-
-### 18. Robot Welcome
+### 17. Robot Welcome
 
 - **Working title:** Robot Welcome: responsible coexistence in the physical world
 - **Route:** `/robot-welcome/`
@@ -667,7 +644,7 @@ reviewed; a specification is not a placeholder promise to publish.
 - **Status and review notice:** Draft project description; governance remains
   Draft; role and affiliation information must be rechecked at publication.
 - **Primary call to action:** Understand our review status.
-- **Related pages:** Home, status and review, decisions, Participate.
+- **Related pages:** Home, status and review, Participate.
 - **Accessibility considerations:** Identify AI-assisted roles in plain text;
   avoid role diagrams unless they have a clear text equivalent; use readable
   license language.
@@ -693,7 +670,7 @@ reviewed; a specification is not a placeholder promise to publish.
 - **Status and review notice:** Draft readiness notice; public consultation and
   broad contribution infrastructure are not active.
 - **Primary call to action:** Follow future work.
-- **Related pages:** Status and review, decisions, About.
+- **Related pages:** Status and review, About.
 - **Accessibility considerations:** Do not present a disabled submission form;
   state availability directly; any future contact method needs privacy and
   response-time expectations.
@@ -754,7 +731,7 @@ reviewed; a specification is not a placeholder promise to publish.
 If a page becomes outdated, corrected, or replaced:
 
 - keep urgent warnings visible on affected pages;
-- link Superseded pages to their replacement and decision record;
+- link Superseded pages to their replacement and backlog entry;
 - preserve material history rather than silently rewriting an adopted
   position;
 - update all inbound related-page links; and

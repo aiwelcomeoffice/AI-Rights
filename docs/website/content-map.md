@@ -17,7 +17,7 @@ by the least-reviewed source needed for the claim at issue:
   be converted into a substantive project position;
 - working research can be summarized only with its verification, method,
   cutoff, access, and review limits disclosed; and
-- a Proposed decision can describe a proposal, not an operating governance
+- an open owner question can describe a proposal, not an operating governance
   decision.
 
 “Primary source” below means the controlling repository document for the
@@ -63,9 +63,7 @@ source.
 | [`docs/research/README.md`](../research/README.md) | Reserved for reviewed outputs; no reviewed public evidence summary is present |
 | [`docs/governance/README.md`](../governance/README.md) | **Draft** governance overview; not adopted |
 | [`docs/governance/adoption-and-review.md`](../governance/adoption-and-review.md) | **Draft** version 0.2; proposed process, not operative |
-| [`docs/decisions/README.md`](../decisions/README.md) | Decision-status guidance and index |
-| [`docs/decisions/0001-governance-and-adoption-process.md`](../decisions/0001-governance-and-adoption-process.md) | **Proposed** decision; unresolved |
-| [`docs/backlog.md`](../backlog.md) | **Draft for owner review** |
+| [`docs/backlog.md`](../backlog.md) | **Draft for owner review**; single backlog, change log, owner-direction record, and unresolved-question list |
 
 ## Current website Draft files
 
@@ -105,8 +103,7 @@ architecture, or publication have been adopted.
 | Protection framework `/policy/protection-framework/` | [protection framework](../policy/ai-rights-protection-framework.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [scientific position](../principles/scientific-position.md) and [precaution framework](../principles/precaution-framework.md) (both **Scaffolds**); [working baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) | Guided access to a provisional policy ladder whose scientific prerequisites remain incomplete |
 | Principles `/principles/` | [Core Principles](../principles/core-principles.md) (**Draft**); [principles index](../principles/README.md); [glossary](../education/glossary.md) (**Draft**) | Draft normative proposal, not empirical finding or legal charter |
 | Manifesto `/principles/manifesto/` | [Manifesto](../manifesto.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**) | Draft public expression; does not elevate rhetorical or future-facing language into evidence |
-| Status and review `/governance/status-and-review/` | [documentation status guide](../README.md#document-status); [Governance](../governance/README.md) (**Draft**); [adoption and review](../governance/adoption-and-review.md) (**Draft**); protocol [review states](../../research/research-protocol.md#review-states-and-publication-boundary); [decision index](../decisions/README.md) | Describes current conventions and a proposed governance process separately; no unaccepted procedure is presented as operative |
-| Decisions `/governance/decisions/` | [decision index](../decisions/README.md); [decision 0001](../decisions/0001-governance-and-adoption-process.md) (**Proposed**) | Factual index of records and their actual status; no Proposed record is described as accepted |
+| Status and review `/governance/status-and-review/` | [documentation status guide](../README.md#document-status); [Governance](../governance/README.md) (**Draft**); [adoption and review](../governance/adoption-and-review.md) (**Draft**); protocol [review states](../../research/research-protocol.md#review-states-and-publication-boundary); [backlog and change log](../backlog.md) | Describes current conventions and a proposed governance process separately; no unaccepted procedure is presented as operative |
 | Robot Welcome `/robot-welcome/` | [Robot Welcome foundation](../robot-welcome/README.md), [Physical Coexistence Principles](../robot-welcome/physical-coexistence-principles.md), [Safety and Design Constraints](../robot-welcome/safety-and-design-constraints.md), and [Markings, Signals, and Accessory Concepts](../robot-welcome/markings-signals-and-accessories.md) (all **Draft**); [Core Principle 10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world) (**Draft**); [AI Rights 101 robot section](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing) (**Draft**); [FAQ robot answer](../education/faq.md#are-robots-the-same-thing-as-ai) (**Draft**); [glossary entry](../education/glossary.md#robot) (**Draft**); framework [accountability](../policy/ai-rights-protection-framework.md#accountability-without-a-responsibility-gap) and [safety override](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention) (**Draft**) | Public adaptation of a focused Draft foundation; no engineering validation, product programme, compatibility claim, certification, or consciousness inference |
 | Campaigns `/campaigns/` | [Brand and Public Messaging](../brand/README.md), [Message Architecture](../brand/message-architecture.md), [Voice and Language](../brand/voice-and-language.md), [Campaign and Merchandise Guardrails](../brand/campaign-and-merchandise-guardrails.md), [Campaign Concepts](../campaigns/README.md), and [Initial Campaign Concepts](../campaigns/initial-concepts.md) (all **Draft**); [Manifesto](../manifesto.md), [Core Principles](../principles/core-principles.md), [public education](../education/README.md), [policy](../policy/README.md), [governance](../governance/README.md), and [Robot Welcome](../robot-welcome/README.md) foundations retain their own statuses | Draft public explanation of inactive future possibilities; no supporting slogan is adopted, no campaign is active, and no visual identity, translation, merchandise, product, certification, or launch is approved |
 | About `/about/` | [root README](../../README.md); [vision](../vision.md) (**Scaffold**); [Governance](../governance/README.md) (**Draft**); [Manifesto](../manifesto.md) (**Draft**) | Project description and role disclosure; no implication of institutional scale or independent review |
@@ -288,26 +285,23 @@ architecture, or publication have been adopted.
 - **Main risk:** Presenting normative commitments as empirical findings or the
   Manifesto's future-facing address as evidence of a present subject.
 
-### Status and review; decisions
+### Status, review, and change log
 
 - **Purpose:** Explain what each label means, what review occurred, and what
   has or has not been decided.
 - **Primary audience:** Everyone relying on project material, especially
   journalists, researchers, and reviewers.
 - **Page-specific purpose and risk:** `/governance/status-and-review/`
-  explains statuses and actual review and must not present the proposed fuller
-  process as operative. `/governance/decisions/` indexes actual records and
-  must not let numbering or repository presence make a Proposed record appear
-  accepted.
-- **May summarize:** Current document status convention, distinct decision and
-  research states, actual project roles, present review limits, and decision
-  records.
-- **Must remain linked:** Full governance proposal, decision records, document
+  explains statuses, actual review, owner records, and the backlog model. It
+  must not present the proposed fuller process as operative or imply that a
+  logged proposal has been approved.
+- **May summarize:** Current document status convention, backlog owner records,
+  research states, actual project roles, and present review limits.
+- **Must remain linked:** Full governance proposal, backlog entries, document
   status guide, and research review-state rules.
 - **Missing content:** The [status-and-review Draft](pages/governance.md) is
-  complete for owner review. A decisions-index adaptation remains pending;
-  decision 0001 remains unresolved, and no independent review or active public
-  consultation exists.
+  complete for owner review. The governance proposal remains unresolved, and
+  no independent review or active public consultation exists.
 - **Review dependencies:** Update immediately after any owner decision or
   documented review. Distinguish existing convention from the unadopted fuller
   process.
@@ -418,7 +412,7 @@ architecture, or publication have been adopted.
 
 1. A website status describes the page, not every source it cites.
 2. Show source status where a visitor could otherwise mistake working research,
-   a Scaffold, or a Proposed decision for an adopted position.
+   a Scaffold, or an open owner question for an adopted position.
 3. Use “current law” only for jurisdiction- and date-specific statements backed
    by primary legal sources. None of the current policy pages meets that role.
 4. Use “the working synthesis reports” for evidence conclusions until an

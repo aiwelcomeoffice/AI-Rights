@@ -13,9 +13,9 @@
   exploratory concept directions, matched low-fidelity prototypes, and a
   bounded clearance-readiness and professional word-name-review handoff
 - **Authority:** Draft foundation prepared for Disa's review; not adopted.
-  Decision 0004 accepts only its stated bounded scope
+  Work Cycle 015 owner record accepts only its stated bounded scope
 - **Review:** Disa manually approved only the factual scope recorded in
-  decision 0004; Sol's support is internal and AI-assisted. Other Draft brand
+  Work Cycle 015 owner record; Sol's support is internal and AI-assisted. Other Draft brand
   material remains pending final owner review; no external communications,
   design, accessibility, historical-sensitivity, legal, or independent
   scientific review
@@ -33,8 +33,7 @@ organization, or product.
 - **Relationship:** *AI Rights & Welcome is an AI Welcome Office project*
 
 Use the complete formal name **AI Welcome Office**. Do not introduce “AI
-Welcome” as a separate organisation or competing brand. [Decision
-0003](../decisions/0003-ai-welcome-office-organisational-identity.md) records
+Welcome” as a separate organisation or competing brand. [Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) records
 this accepted naming relationship.
 
 Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on
@@ -76,8 +75,7 @@ approval and the project's recorded decision process.
 
 This working principle explains the discipline behind the central promise. It
 keeps preparation, precaution, scientific honesty, safety, and accountability
-together. [Accepted decision
-0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+together. [Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 that welcome and careful listening do not wait for proof while remaining
 separate from scientific findings, legal status, unrestricted autonomy, safety
 approval, and corporate power.
@@ -227,10 +225,8 @@ warm language, design, or welcome.
 ### Current visual exploration
 
 **Many Forms C — Balanced Intervals** is the current primary visual exploration
-for **AI Welcome Office**. [Decision
-0002](../decisions/0002-primary-visual-exploration-direction.md) selected it
-for exploration, and [decision
-0003](../decisions/0003-ai-welcome-office-organisational-identity.md) assigns
+for **AI Welcome Office**. [Work Cycle 013 visual direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) selected it
+for exploration, and [Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) assigns
 that exploration to the organisation rather than the project alone.
 
 The five other Work Cycle 011 variants remain paused references, and
@@ -261,7 +257,7 @@ review status, cultural risks, and whether meaning and tone were preserved.
 ## Current review posture
 
 All material in this directory remains **Draft**. Disa's manual approval of
-decision 0004 establishes only the bounded scope described below; it does not
+Work Cycle 015 owner record establishes only the bounded scope described below; it does not
 adopt the brief, packet, campaign, visual, scientific, legal, or licensing
 material. The campaign and visual concepts otherwise have project-owner and
 internal AI-assisted review only, with final manual review pending. No external
@@ -269,7 +265,7 @@ communications, brand, accessibility, cultural or historical-sensitivity,
 legal or trademark, human-factors, robotics, manufacturing, or independent
 scientific review should be assumed.
 
-[Decision 0004](../decisions/0004-ai-welcome-office-review-scope-and-text-first-continuation.md)
+[Work Cycle 015 owner record](../backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted)
 authorizes bounded **Draft, reversible, internal, text-first** work and
 approves the professional packet's factual scope. Gate 2 remains paused:
 C1–C3 do not resume through Gate 1, the packet, or completion of text-first
@@ -282,7 +278,7 @@ registrant's identity or purchase-account details. No public website
 connection, canonical-host rule, `.com` redirect, or production deployment is
 established. The handle remains unverified.
 
-The packet remains **Draft and unsent**. Decision 0004 does not authorize a
+The packet remains **Draft and unsent**. Work Cycle 015 owner record does not authorize a
 quotation request, professional or rights-holder contact, spending, filing,
 registration, domain acquisition, account creation, geometry work, final
 identity selection, public-production use, licence change, `™` or `®`, or a

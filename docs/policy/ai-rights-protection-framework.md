@@ -266,7 +266,7 @@ reason—under a stated decision standard—to believe that the assessed system 
 instance has morally relevant subjective experience or welfare interests.
 “Probable” names a provisional governance judgment, not a numerical
 consciousness estimate or a claim of scientific consensus. Certainty may
-remain unavailable. The decision record must separately state the empirical
+remain unavailable. The backlog entry must separately state the empirical
 assessment of capacities and the philosophical or normative inference that
 those capacities matter for the system's own sake. It must also explain why
 competing non-conscious explanations are no longer sufficient for the policy
@@ -664,7 +664,7 @@ risk ends, or a protection is shown to be ineffective or disproportionate.
 Precaution should not harden into irreversible dogma, and uncertainty should
 not be opportunistically invoked to remove protections without fair review.
 
-A decision record should include:
+A backlog entry should include:
 
 - the assessed system boundary, version, instances, and deployment context;
 - the level and each resulting protection;

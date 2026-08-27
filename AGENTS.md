@@ -202,18 +202,22 @@ Preserve the status convention used in `docs/`:
 
 - **Scaffold** — structure and questions; not a project position.
 - **Draft** — proposed content under review; not adopted.
-- **Adopted** — an approved current position, dated or linked to its decision.
-- **Superseded** — retained for history and linked to its replacement.
+- **Adopted** — an approved current position, dated and linked to its backlog
+  owner record.
+- **Superseded** — retained for history and linked to its replacement and the
+  relevant backlog entry.
 
 Give substantive documents a visible status near the top. Do not mark material
 scientific, ethical, policy, governance, product, or architectural positions as
-`Adopted` without the required owner approval and decision record. When the
+`Adopted` without the required owner approval and dated backlog record. When the
 approval process is not yet settled, keep the work proposed and ask for review.
 
-Use `docs/decisions/` for material decisions and follow its template and
-numbering convention. Do not silently rewrite an accepted decision; create a
-new record that explains and supersedes it. Preserve open questions and
-minority or competing views when they remain relevant.
+Use `docs/backlog.md` as the single project backlog and change log. Record
+material proposals and owner directions in dated work-cycle entries with the
+question, Disa's explicit resolution, scope, rationale, actual review,
+limitations, and any revisit triggers. Do not silently rewrite an accepted
+owner direction; append a later entry that explains and supersedes it while
+preserving open questions and minority or competing views when relevant.
 
 Distinguish these layers throughout the repository:
 

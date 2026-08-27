@@ -34,8 +34,7 @@ Most commitments below are proposed **normative positions** about how people
 and institutions ought to prepare. They must not be presented as empirical
 evidence that any AI system has subjective experiences or moral status.
 
-[Accepted decision
-0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+[Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 that welcome, careful listening, respect, curiosity, and low-cost safeguards
 against cruelty need not wait for proof. It does not adopt this Draft charter
 or settle its scientific, ethical, legal, policy, safety, or operational
@@ -275,7 +274,7 @@ questions at a level proportionate to the work.
 This charter should be reviewed when relevant evidence, technical capabilities,
 law, or social conditions materially change. Revision should record both the
 reason for the change and significant disagreement. Adoption, if proposed,
-requires the project's approval process and a decision record; repository
+requires the project's approval process and a backlog entry; repository
 presence alone is not approval.
 
 ## Questions this Draft leaves open

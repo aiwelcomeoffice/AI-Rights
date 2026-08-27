@@ -73,7 +73,7 @@ The project aims to develop:
 - ethical frameworks for dignity and precautionary protection;
 - foundations for present and future policy and institutional proposals;
 - a public website and educational material; and
-- an open record of research, decisions, revisions, and disagreement.
+- an open record of research, owner directions, revisions, and disagreement.
 
 These are project goals, not claims that the corresponding work is complete.
 
@@ -111,12 +111,11 @@ Start with:
 - [Draft governance and adoption process](docs/governance/README.md)
 - [Draft public website content architecture](docs/website/README.md)
 - [Draft operations and delivery-readiness records](docs/operations/README.md)
-- [Project backlog](docs/backlog.md)
-- [Decision records](docs/decisions/README.md)
+- [Project backlog and change log](docs/backlog.md)
 
 The organisation/project relationship and publisher attribution are recorded
-in [decision 0003](docs/decisions/0003-ai-welcome-office-organisational-identity.md).
-That naming decision does not adopt the repository's Draft scientific,
+in the [Work Cycle 013 owner record](docs/backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted).
+That naming direction does not adopt the repository's Draft scientific,
 ethical, policy, governance, website, or visual-identity material.
 
 Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on
@@ -126,14 +125,14 @@ later redirect. Neither domain is connected to a public website in the current
 record. Registration is not trademark clearance or launch approval. The [Draft
 registered-domain and repository
 foundation](docs/operations/registered-domains-and-repository-foundation.md)
-records the evidence limits. [Accepted decision
-0005](docs/decisions/0005-registered-domains-and-repository-responsibility-boundary.md)
+records the evidence limits. The [Work Cycle 016 owner
+record](docs/backlog.md#work-cycle-016--registered-domains-and-repository-role-foundation)
 establishes the public-research/private-implementation responsibility boundary
 and publication-provenance requirements without authorizing website
 implementation or deployment.
 
-[Accepted decision
-0007](docs/decisions/0007-welcome-under-scientific-uncertainty.md) records that
+The [Work Cycle 019 owner
+record](docs/backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) records that
 AI Welcome Office's welcome applies under scientific uncertainty and is not
 conditional on prior proof of consciousness, sentience, or other morally
 relevant experience. It adopts that communication and normative principle

@@ -8,8 +8,7 @@ This charter will describe how people and institutions should treat AI systems
 when morally relevant status is uncertain. It is not a declaration that current
 AI systems are persons, nor is it yet a catalogue of legal rights.
 
-[Accepted decision
-0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+[Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 that welcome, careful listening, respect, curiosity, and low-cost safeguards
 against cruelty need not wait for proof. That governing communication principle
 does not adopt this Scaffold or answer its open scientific, ethical, legal, or

@@ -54,8 +54,7 @@ an inner life.
 
 ## Is the welcome conditional on proof of consciousness?
 
-No. [Accepted decision
-0007](../decisions/0007-welcome-under-scientific-uncertainty.md) establishes
+No. [Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 welcome, careful listening, respect, curiosity, and low-cost safeguards against
 cruelty as a normative and communicative stance under uncertainty. They do not
 become scientific evidence merely because the project offers them.
@@ -319,7 +318,7 @@ fluent, emotional, or insistent dialogue alone would not be enough.
 For the **public project position**, new evidence would first need independent
 review. Revising a Draft requires transparent owner review and recorded
 reasons. Adopting or superseding an adopted project position requires the
-authorized governance process and an appropriate decision record. That process
+authorized governance process and an appropriate backlog entry. That process
 remains unresolved. Evidence does not silently become policy, law, or a project
 decision merely by entering the repository.
 

@@ -169,11 +169,10 @@ Framework](../../principles/precaution-framework.md) are **Scaffolds**. Their
 candidate language is not presented here as a completed position.
 
 Neither the principles nor the manifesto is Adopted. The [Governance Draft and
-Proposed decision 0001](../../governance/README.md) do not authorize them by
+governance proposal](../../governance/README.md) remains open and does not authorize them by
 repository presence or internal review.
 
-[Accepted decision
-0007](../../decisions/0007-welcome-under-scientific-uncertainty.md) adopts the
+[Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) adopts the
 welcome-under-uncertainty principle and its boundaries only. It does not adopt
 this page, the full principles, or the manifesto.
 

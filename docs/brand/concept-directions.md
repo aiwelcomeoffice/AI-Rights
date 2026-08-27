@@ -42,9 +42,8 @@ continuing direction under equivalent conditions.
 
 **Many Forms C — Balanced Intervals** is the primary visual exploration for
 **AI Welcome Office**. **AI Rights & Welcome** remains an AI Welcome Office
-project. This disposition is recorded in [decisions
-0002](../decisions/0002-primary-visual-exploration-direction.md) and
-[0003](../decisions/0003-ai-welcome-office-organisational-identity.md).
+project. This disposition is recorded in the [Work Cycle 013 visual direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted) and
+[Work Cycle 013 naming direction](../backlog.md#work-cycle-013--ai-welcome-office-organisational-identity-adopted).
 
 Many Forms A and B and all Open Threshold variants are paused references.
 Reciprocal Signal remains paused as a primary identity direction. None is an
