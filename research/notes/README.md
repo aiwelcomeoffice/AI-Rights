@@ -25,3 +25,10 @@ These ten notes are **partly verified** and await independent human review:
 - [Colombatto and Fleming (2024): public attributions](colombatto-fleming-2024-folk-attributions.md)
 - [Berg, de Lucena, and Rosenblatt (2025): self-referential processing and experience reports](berg-et-al-2025-self-referential-processing.md)
 - [Berg (2026): learning and feeling](berg-2026-learning-requires-feeling.md)
+
+## Emerging capability and safety investigation
+
+- [OpenAI–Hugging Face incident and August 2026 AGI proximity
+  claims](openai-hugging-face-incident-and-agi-claims-2026.md) — **Partly
+  verified cross-source working note; not a project conclusion and not part of
+  the AI consciousness evidence baseline**

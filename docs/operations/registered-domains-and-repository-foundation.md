@@ -244,10 +244,16 @@ content update, or external action.
 
 The current bounded direction is:
 
-- Astro 7 in static-output mode, with the exact supported patch and dependency
-  graph pinned when a scaffold is separately authorized;
-- no initial client framework, server adapter, server-side rendering, actions,
-  live loading, MDX, third-party scripts, or experimental Astro features; and
+- Astro 7 as the non-production platform, with the current WC018 prototype's
+  static output treated as its implementation state rather than a permanent
+  output-mode constraint;
+- the exact supported patch and dependency graph pinned for each separately
+  authorized implementation state;
+- later architecture and feature choices may become more advanced when a
+  defined requirement and proportionate review justify them; the earlier
+  static-only baseline and blanket initial-feature exclusions are no longer
+  categorical constraints under
+  [Work Cycle 020 owner direction](../backlog.md#work-cycle-020--advanced-website-features-made-eligible); and
 - a Disa-requested agent update from the then-latest verified public
   `AI-Rights` revision, recorded through a small source-state note.
 
@@ -312,8 +318,7 @@ Review this foundation and, where necessary, create a later decision if:
   authority;
 - a new integration, automation, media workflow, secret, or personal-data flow
   is proposed;
-- the owner-approved Astro 7 constraints are to be changed or broadened, or a
-  host, DNS provider, deployment model, or production gate is to be selected;
-  or
+- a new architecture, feature, dependency, host, DNS provider, deployment
+  model, or production gate is proposed and needs scoped risk validation; or
 - professional name or trademark review produces a material result relevant
   to either registered domain or intended public use.

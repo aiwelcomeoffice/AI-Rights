@@ -42,3 +42,20 @@ endorsement.
 - [Campero (2024): candidate indicators for conscious valenced experience](campero-2024-valenced-experience-indicators.md)
 - [Berg, de Lucena, and Rosenblatt (2025): self-referential processing and experience reports](berg-et-al-2025-self-referential-processing.md)
 - [Berg (2026): learning and feeling](berg-2026-learning-requires-feeling.md)
+
+## Emerging capability and safety horizon records
+
+These records were added on 2026-08-28 for a separate working investigation
+of frontier-agent capability, containment, and AGI-proximity claims. They are
+not part of the AI consciousness evidence baseline, and four accounts of one
+incident must not be counted as four independent events.
+
+- [OpenAI–Hugging Face Incident Technical Report](openai-hugging-face-incident-technical-report-2026.md)
+  — **Partly verified corporate incident report**
+- [Hugging Face agent-intrusion technical timeline](hugging-face-agent-intrusion-timeline-2026.md)
+  — **Partly verified affected-party incident report**
+- [METR and Redwood Hugging Face incident investigation](metr-redwood-hugging-face-investigation-2026.md)
+  — **Partly verified external shared-data analysis**
+- [TIME: Inside OpenAI’s Reboot](heath-openai-reboot-2026.md)
+  — **Verified only for the attribution and context of reported leadership
+  claims**

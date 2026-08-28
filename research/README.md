@@ -41,6 +41,15 @@ they use and must not imply that the method has been adopted.
 Reviewed outputs intended for publication belong in
 [`docs/research/`](../docs/research/README.md).
 
+## Emerging capability and safety horizon work
+
+The [OpenAI–Hugging Face incident and AGI proximity investigation
+note](notes/openai-hugging-face-incident-and-agi-claims-2026.md) begins a
+separate, partly verified evidence line for material frontier-capability,
+autonomy, containment, and AGI-timeline signals. It does not change the AI
+consciousness evidence baseline, establish AGI, or mean that continuous
+monitoring now exists. Its source search and access date is 2026-08-28.
+
 ## Minimum research rules
 
 - Never invent a citation, finding, quotation, or consensus.

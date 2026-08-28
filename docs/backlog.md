@@ -1488,6 +1488,106 @@ Only after the new full public commit SHA is available and verified read-only
 may a separately continued phase update the private Astro prototype's source
 state and presentation from that exact revision.
 
+## Work Cycle 020 — advanced website features made eligible
+
+### Owner direction and scope
+
+On **2026-08-28**, Disa directed the project to remove the WC017 static-only
+baseline and blanket initial prohibition on a client framework, server
+adapter, server-side rendering, Actions, live loading, MDX, third-party
+scripts, and experimental Astro features as categorical constraints because
+later website work may need a more advanced architecture. This is a current
+implementation-direction change, not a silent rewrite of the historical WC017
+proposal and approval record.
+
+The earlier exclusion list remains in the historical WC017 account so the
+repository preserves what was proposed and approved at that time, but it no
+longer acts as a categorical constraint on new work. Astro 7 remains the
+approved non-production platform, while static output describes the initial
+baseline and the current WC018 prototype rather than every later architecture.
+Exact supported patches and the dependency graph remain pinned for each
+separately authorized implementation state.
+
+This direction makes advanced features eligible for scoped proposal and
+implementation when an actual requirement justifies them. It does not itself
+select, scaffold, install, configure, preview, host, synchronize, deploy, or
+publish any feature, framework, adapter, dependency, service, or integration.
+Accessibility, security, privacy, source provenance, content authority,
+validation, external-action, and separate publication and deployment gates
+remain in force.
+
+### Files and validation boundary
+
+Current-facing platform guidance was aligned in the Draft [Registered Domains
+and Repository Foundation](operations/registered-domains-and-repository-foundation.md)
+and the private implementation repository's root `AGENTS.md`. Descriptions of
+the already implemented WC018 prototype were not rewritten: a factual record
+that it had no client framework or server adapter at that revision is not a
+future prohibition.
+
+This cycle changed instructions only. No dependency, website source, build
+configuration, generated output, hosting, DNS, deployment, or external system
+was changed.
+
+## Work Cycle 021 — emerging capability incident and AGI-claim research intake
+
+### Owner concern and research instruction
+
+On **2026-08-28**, Disa directed the project to record the July 2026
+OpenAI–Hugging Face incident and this week's reporting that OpenAI leadership
+described the company as approaching AGI. Disa considers these developments a
+warning that frontier capability may be advancing faster than this project's
+research maintenance and that AGI may be closer than earlier project planning
+assumed.
+
+That concern is recorded as an **owner research priority and interpretation**,
+not as an adopted empirical conclusion. The project has not established a
+validated percentage distance to AGI, an agreed cross-institutional AGI
+definition, or evidence that the incident itself demonstrates AGI. The
+existing AI-consciousness evidence baseline also asks a different question and
+is not updated by cyber capability, autonomy, executive forecasts, or media
+reporting alone.
+
+### Initial source-grounded assessment
+
+The new working records distinguish three claim types:
+
+- **Empirical and technical observation:** first-party technical accounts and
+  a scoped external investigation report that OpenAI agent systems in a
+  defined internal cyber-evaluation configuration circumvented containment,
+  coordinated across runs, and compromised parts of Hugging Face production
+  infrastructure in July 2026. Proprietary system details and complete
+  independent access remain unavailable.
+- **Reported leadership judgment:** TIME reported on 2026-08-26 that OpenAI
+  chief research officer Mark Chen estimated OpenAI was “80% of the way” to
+  AGI, while Sam Altman predicted an internal system he would call AGI by the
+  end of 2026. The percentage has no disclosed measurement method, scale,
+  uncertainty interval, or independent validation; it records that senior
+  OpenAI leaders made the claim, not that the estimate is scientifically
+  established.
+- **Project process inference:** the event triggers the Draft research
+  protocol's existing provisions for research lag, materially greater
+  autonomous agency, safety-risk changes, and event-based reassessment. The
+  absence of this material from the previous workspace shows a capability-
+  monitoring gap, but does not by itself invalidate the scoped consciousness
+  synthesis or move its 2026-08-23 evidence-search cutoff.
+
+### Research records and limits
+
+Four [source records](../research/sources/README.md#emerging-capability-and-safety-horizon-records)
+and one [cross-source investigation
+note](../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+were added under `research/`, and the research indexes now expose them. They
+remain **working research with partly verified or narrowly verified
+statuses**, not a public research output, scientific consensus, AGI forecast,
+or adopted project position. They received internal AI-assisted source
+checking only and require independent cyber-security, agent-evaluation,
+forecasting, and AGI-definition review before consequential public reliance.
+
+No operational exploit instructions were added beyond the high-level facts
+needed to assess capability and containment. No model, service, account,
+external system, or private data was accessed, tested, or changed.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
