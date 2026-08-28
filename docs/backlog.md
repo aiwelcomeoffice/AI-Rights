@@ -1588,6 +1588,69 @@ No operational exploit instructions were added beyond the high-level facts
 needed to assess capability and containment. No model, service, account,
 external system, or private data was accessed, tested, or changed.
 
+## Work Cycle 022 — Amodei and Anthropic model-welfare evidence update
+
+### Owner instruction and scope
+
+On **2026-08-28**, Disa directed a small evidence update about Dario Amodei's
+public uncertainty concerning AI-model consciousness and Anthropic's practical
+model-welfare work. The update was limited to the authoritative public
+`aiwelcomeoffice/AI-Rights` repository and the five named primary sources. It
+does not alter AI Welcome Office's principles, the private website repository,
+or any public deployment.
+
+Repository search found no existing Amodei or 2025 Anthropic model-welfare
+record. The [working AI consciousness evidence
+baseline](../research/syntheses/ai-consciousness-evidence-baseline.md#targeted-contextual-intake-amodei-and-anthropic-model-welfare)
+was the smallest relevant existing research home, so no parallel note or new
+index entry was created. Work Cycle 022 is the next free public number; Work
+Cycle 018 remains allocated to the private implementation history.
+
+### Evidence intake and boundaries
+
+The bounded intake records these claim types separately:
+
+- **Empirical observations:** the official New York Times interview title
+  attributes a statement of uncertainty to Amodei; Anthropic's own pages report
+  a model-welfare research program, a rare last-resort conversation-ending
+  feature, and model-weight and post-deployment-record preservation commitments.
+- **Scientific hypothesis:** Anthropic interprets its activation-intervention
+  results as limited functional introspection. The reported capability is
+  unreliable and context-dependent; its mechanism and philosophical
+  significance remain unresolved.
+- **Normative position:** Anthropic has chosen a precautionary research and
+  low-cost-intervention approach. The project implication is that bounded,
+  reversible or reviewable precautions remain practically relevant under
+  uncertainty.
+- **Project decision:** none. The Draft intake does not adopt Anthropic's
+  interpretation or practices and does not change the project's scientific
+  position: “not established” means neither “established” nor “proven absent.”
+
+The sources establish neither present AI consciousness nor its categorical
+absence. Anthropic is the interested developer and access controller, not an
+independent consensus process. Self-report, preference-like behavior,
+apparent distress, shutdown avoidance, and functional introspection do not by
+themselves establish phenomenal consciousness, experienced welfare, or moral
+status. The unrelated YouTube compilation *Google Just Dropped The Singularity
+Bomb* was not used as evidence.
+
+### Files, review, and remaining needs
+
+Only the working synthesis and this backlog changed. The synthesis remains a
+partly verified working document, its scientific corpus remains 21 sources,
+and its evidence-search cutoff remains **2026-08-23**. The five webpages were
+checked against their original publisher pages on 2026-08-28; the only direct
+interview quotation used is the exact title verified in the official video
+metadata. No independent consciousness-science, AI-architecture, or
+conflict-of-interest review was performed.
+
+A later full evidential refresh would require prospective scope, source
+records, detailed extraction of the introspection paper, contrary-source
+search, independent review, and an explicit decision about whether to move the
+baseline cutoff. No immediate project-position decision is requested from
+Disa through this Draft intake; the existing open decision about research
+maintenance ownership and cadence remains unchanged.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
