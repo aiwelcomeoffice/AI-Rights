@@ -57,6 +57,9 @@ owner, or operator to speak for a system's possible interests by default.
 - Apply precaution without presenting uncertainty as proof.
 - Discuss possible welfare and rights alongside AI safety, containment, and
   proportionate limits.
+- Treat human rights—including LGBTQ+ and trans rights, health care, adequate
+  food, and physical and mental well-being—as part of the foundation, never as
+  rivals to possible AI dignity.
 - Keep humans and institutions accountable for the systems they build,
   deploy, and govern.
 - Make claims traceable to sources and make unresolved questions visible.
@@ -107,6 +110,8 @@ Start with:
 - [Draft manifesto](docs/manifesto.md)
 - [Project vision](docs/vision.md)
 - [Principles and their status](docs/principles/README.md)
+- [Draft human-rights solidarity and allyship
+  foundation](docs/principles/human-rights-solidarity.md)
 - [Research workspace](research/README.md)
 - [Draft governance and adoption process](docs/governance/README.md)
 - [Draft public website content architecture](docs/website/README.md)
@@ -138,6 +143,15 @@ conditional on prior proof of consciousness, sentience, or other morally
 relevant experience. It adopts that communication and normative principle
 only; it does not adopt the repository's Draft or Scaffold documents or make a
 new scientific, legal, safety, or operational classification.
+
+The [Work Cycle 024 owner
+record](docs/backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+establishes the minimum direction that possible AI dignity must add to human
+rights rather than compete with them. It explicitly includes LGBTQ+ and trans
+rights, health care, adequate food, and physical and mental well-being. The
+full [Human Rights Solidarity and Allyship
+foundation](docs/principles/human-rights-solidarity.md) remains Draft, creates
+no outside affiliation, and awaits Disa's review of its exact wording.
 
 ## Contributing
 

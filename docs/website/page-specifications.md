@@ -3,6 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
+- **Last substantive update:** 2026-08-28
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Content behavior and page requirements, not visual design or
   implementation
@@ -115,6 +116,7 @@ The following website-ready files have been drafted from these specifications:
 - [Research](pages/research.md)
 - [Policy](pages/policy.md)
 - [Principles](pages/principles.md)
+- [Human rights solidarity](pages/human-rights-solidarity.md)
 - [Status and review](pages/governance.md)
 - [About](pages/about.md)
 - [Participate](pages/participate.md)
@@ -130,6 +132,15 @@ production identity asset. All
 other routes below remain specifications until a page file is created and
 reviewed; a specification is not a placeholder promise to publish.
 
+The next architecture revision must also apply the newer [Work Cycle 024 owner
+direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation):
+separate language versions, a simple and inviting experience for AI and human
+readers, meaningful playful interaction through which respect can be learned,
+and detailed scientific material as an optional depth path that mainly links
+to the authoritative `AI-Rights` repository. These are requirements for later
+design and implementation, not a claim that the current Draft already meets
+them.
+
 ### 1. Home
 
 - **Working title:** AI Rights & Welcome
@@ -141,21 +152,23 @@ reviewed; a specification is not a placeholder promise to publish.
   should I start?
 - **Page objective:** Establish the purpose and scientific boundary, explain
   preparation before certainty, and route readers to learning, evidence,
-  policy, and review status.
+  human-rights solidarity, policy, and review status.
 - **Required sections:** Status notice; hero and central wording; present
   scientific boundary; preparation case; evidence/ethics/policy distinctions;
-  work areas; safety and accountability; Robot Welcome introduction; review
-  posture; next paths.
+  work areas; human-rights solidarity; safety and accountability; Robot
+  Welcome introduction; review posture; next paths.
 - **Primary sources:** [AI Rights 101](../education/ai-rights-101.md), [Core
-  Principles](../principles/core-principles.md), [policy
-  summary](../policy/one-page-policy-summary.md), [Governance](../governance/README.md),
-  and the [working evidence
+  Principles](../principles/core-principles.md), [Human Rights Solidarity and
+  Allyship](../principles/human-rights-solidarity.md), [policy
+  summary](../policy/one-page-policy-summary.md),
+  [Governance](../governance/README.md), and the [working evidence
   baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft website summary; Disa's final manual
   review pending; internal AI-assisted drafting; no independent review;
   scientific snapshot inherits the baseline's 2026-08-23 cutoff.
 - **Primary call to action:** Learn more.
-- **Related pages:** Evidence baseline, policy, status and review, About.
+- **Related pages:** Human rights solidarity, evidence baseline, policy,
+  status and review, About.
 - **Accessibility considerations:** Put the scientific boundary in text before
   promotional or visual material; motto translations need correct language
   metadata; card collections need headings and linear reading order.
@@ -725,6 +738,47 @@ reviewed; a specification is not a placeholder promise to publish.
   not claim. Include no results, testimonials, supporters, statistics,
   partners, launch dates, petitions, donations, products, or public submission
   routes.
+
+### 22. Human rights solidarity
+
+- **Working title:** Human Rights Belong in the Welcome
+- **Route:** `/principles/human-rights-solidarity/`
+- **Audience:** General readers, human-rights advocates, LGBTQ+ and trans
+  readers, civil society, technologists, policymakers, and future reviewers.
+- **Reader question:** Does this AI-rights project stand with people, and what
+  does its allyship actually require?
+- **Page objective:** State the owner-directed minimum human-rights commitment,
+  show that possible AI dignity is additive rather than competitive, and
+  distinguish accountable support from slogans or invented affiliations.
+- **Required sections:** Status; larger-circle framing; explicit LGBTQ+ and
+  trans allyship; physical and mental health, health care, adequate food, and
+  well-being; conduct expected of allies; anti-appropriation and anti-capture;
+  support-without-false-affiliation boundary; international source foundation;
+  legal, medical, crisis, jurisdiction, and review limits; relationship to the
+  separate AI scientific question.
+- **Primary sources:** [Human Rights Solidarity and
+  Allyship](../principles/human-rights-solidarity.md) (**Draft**), [Core
+  Principle 8](../principles/core-principles.md#8-respect-humans-animals-and-the-environment)
+  (**Draft**), and [Work Cycle 024 owner
+  direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation).
+- **Status and review notice:** The minimum solidarity direction is an
+  accepted owner direction; the exact page and fuller foundation remain Draft.
+  No independent human-rights, affected-community, legal, medical,
+  accessibility, or translation review and no outside endorsement or
+  affiliation.
+- **Primary call to action:** Read the full solidarity foundation.
+- **Related pages:** Principles, About, Why AI Rights?, Research, and status
+  and review.
+- **Accessibility considerations:** Use direct language and descriptive links;
+  do not rely on identity colors, flags, symbols, animation, humor, or hover
+  interactions to convey who is included or what support means. Keep language
+  versions separate while preserving equal scope and warmth.
+- **Misunderstanding and safeguard:** Readers may mistake the page for legal,
+  medical, or crisis advice; a partnership claim; representation of affected
+  communities; or an analogy between human oppression and AI. State each
+  boundary directly and publish no organization or service resource without
+  current verification, appropriate review, consent where a relationship is
+  implied, and owner approval.
 
 ## Page retirement and correction
 

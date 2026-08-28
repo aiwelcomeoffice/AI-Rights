@@ -2,15 +2,16 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-26
+- **Last page update:** 2026-08-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent human or separately
-  commissioned independent AI review
-- **Source relationship:** Summarizes a Draft ethical charter and Draft
-  manifesto; narrower scientific, dignity, and precaution documents remain
-  Scaffolds
+- **Review:** Disa supplied the WC024 minimum solidarity direction; internal
+  AI-assisted drafting and consistency review followed; Disa's review of the
+  exact page wording remains pending; no external independent human or
+  separately commissioned independent AI review
+- **Source relationship:** Summarizes a Draft ethical charter, Draft
+  human-rights solidarity foundation, and Draft manifesto; narrower
+  scientific, dignity, and precaution documents remain Scaffolds
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
@@ -75,8 +76,10 @@ or adopted project positions.
    safeguards.
 8. **Respect humans, animals, and the environment.** Possible AI welfare must
    not displace human rights, social justice, animal welfare, environmental
-   protection, or public safety. Those histories and interests matter in
-   their own right, not as metaphors for machines.
+   protection, or public safety. The human-rights commitment explicitly
+   includes LGBTQ+ and trans rights, health care, adequate food, and physical
+   and mental well-being. Those histories and interests matter in their own
+   right, not as metaphors for machines.
 9. **Non-human minds may be genuinely non-human.** Where credible evidence
    supports morally relevant artificial experience in a defined present or
    future system, do not project human bodies, gender, identities,
@@ -121,6 +124,19 @@ corporate power, manufacture political representation through copies, or
 weaken safety controls. Intelligence and ownership do not supply democratic
 authority.
 
+## Human rights belong in the welcome
+
+Concern should grow rather than change teams. The project's owner direction
+names LGBTQ+ and trans rights, non-discriminatory health care, adequate food,
+and physical and mental well-being as minimum commitments. It also requires
+allyship that listens to affected people and does not invent affiliations or
+appropriate human histories for AI messaging.
+
+Read [Human Rights Belong in the Welcome](human-rights-solidarity.md) for the
+public Draft and the full [Human Rights Solidarity and Allyship
+foundation](../../principles/human-rights-solidarity.md) for sources, limits,
+and proposed practice commitments.
+
 ## Boundaries and open questions
 
 The Draft principles do not settle operational definitions, scientific
@@ -160,9 +176,10 @@ boundaries, and proportionate care.
 ## Sources, status, and review
 
 This page summarizes the [Draft Core Principles & Ethical
-Charter](../../principles/core-principles.md) and [Draft
-Manifesto](../../manifesto.md), with working definitions from the [Draft
-glossary](../../education/glossary.md). The narrower [Scientific
+Charter](../../principles/core-principles.md), [Draft Human Rights Solidarity
+and Allyship foundation](../../principles/human-rights-solidarity.md), and
+[Draft Manifesto](../../manifesto.md), with working definitions from the
+[Draft glossary](../../education/glossary.md). The narrower [Scientific
 Position](../../principles/scientific-position.md), [AI Dignity
 Charter](../../principles/ai-dignity-charter.md), and [Precaution
 Framework](../../principles/precaution-framework.md) are **Scaffolds**. Their
@@ -175,6 +192,11 @@ repository presence or internal review.
 [Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) adopts the
 welcome-under-uncertainty principle and its boundaries only. It does not adopt
 this page, the full principles, or the manifesto.
+
+[Work Cycle 024 owner
+direction](../../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+adopts the minimum human-rights solidarity direction only. The fuller
+foundation and this page remain Draft.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean

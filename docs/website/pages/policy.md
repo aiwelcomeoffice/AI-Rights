@@ -2,12 +2,13 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-26
+- **Last page update:** 2026-08-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent human or separately
-  commissioned independent AI review
+- **Review:** Disa supplied the WC024 minimum solidarity direction; internal
+  AI-assisted drafting and consistency review followed; Disa's review of the
+  exact page wording remains pending; no external independent human or
+  separately commissioned independent AI review
 - **Source relationship:** Summarizes Draft jurisdiction-neutral policy
   analysis and partly verified working research
 - **Evidence-search cutoff:** 2026-08-23 for the scientific evidence summary;
@@ -81,9 +82,13 @@ These are **Draft normative proposals**, not current legal duties.
    developer, owner, controller, or mass of copies.
 7. **Preserve safety and the wider public interest.** Keep proportionate
    monitoring, sandboxing, containment, access limits, isolation, and
-   emergency intervention available while considering human rights, workers,
-   disabled people, consumers, animals, the environment, privacy,
-   accessibility, and public safety.
+   emergency intervention available while considering human rights—including
+   LGBTQ+ and trans rights, health care, adequate food, and physical and
+   mental well-being—alongside workers, disabled people, consumers, animals,
+   the environment, privacy, accessibility, and public safety. The Draft
+   [Human Rights Solidarity and
+   Allyship](../../principles/human-rights-solidarity.md) foundation explains
+   the relationship and anti-appropriation boundaries.
 
 ## Staged protection without an automatic rights ladder
 

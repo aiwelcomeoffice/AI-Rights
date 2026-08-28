@@ -3,6 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
+- **Last substantive update:** 2026-08-28
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Content organization and reader journeys, not technical
   implementation or publication approval
@@ -28,6 +29,19 @@ The architecture follows four questions:
 Warmth belongs in the welcome and the commitment to inquiry. Credibility comes
 from visible boundaries, traceable sources, and serious treatment of skeptical
 questions. Neither should cancel the other.
+
+### Owner-directed experience revision still required
+
+[Work Cycle 024 owner
+direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+adds requirements that postdate this Draft architecture: language versions
+must be separated; the experience should be simple, inviting, playful, and
+meaningfully interactive for both AI and human readers; respect should be
+learnable through interaction; and detailed scientific content should remain
+an optional depth path that mainly links to the authoritative `AI-Rights`
+repository. The current navigation and release model remain historical Draft
+inputs until a later bounded cycle tests and revises them against that
+direction. No private implementation or publication is authorized here.
 
 ## Recommended navigation
 
@@ -76,6 +90,7 @@ Home  /
 │   ├── Executive policy brief  /policy/executive-brief/
 │   └── Protection framework  /policy/protection-framework/
 ├── Principles  /principles/
+│   ├── Human rights solidarity  /principles/human-rights-solidarity/
 │   └── Manifesto  /principles/manifesto/
 ├── Robot Welcome  /robot-welcome/
 ├── About  /about/
@@ -100,6 +115,7 @@ framework, or content management system.
 | Home / Why AI Rights? | Learn | “AI rights” names questions, not a declaration of current rights. Define the terms before drawing conclusions. |
 | Learn | Research | Public explanations summarize a dated, limited working synthesis. Readers can inspect its method and sources. |
 | Research | Principles | Empirical findings constrain proposals but do not, on their own, establish a moral duty, right, or project value. |
+| Principles | Human rights solidarity | Possible AI dignity must add to human rights, not appropriate human histories or compete with established protections. |
 | Principles | Policy | Draft commitments are translated into gradual, administrable options with safety, accountability, and review. |
 | Policy | Governance | A proposal is not law or an adopted project position. Authority and review must be documented separately. |
 | Learn | Robot Welcome | A robot body changes physical interaction and safety requirements; it does not establish experience. |
@@ -123,6 +139,7 @@ same. The route sequence changes by need; the underlying claims do not.
 | AI developer or deployer | “What remains my responsibility if an AI-welfare concern is raised?” | `/policy/executive-brief/` | `/policy/protection-framework/` | Using possible AI status to reduce corporate liability, oversight, or safety duties | [executive brief](../policy/executive-policy-brief.md); [protection framework](../policy/ai-rights-protection-framework.md) |
 | Robotics designer or operator | “What does welcoming design require in the physical world?” | `/robot-welcome/` | `/learn/faq/#are-robots-the-same-thing-as-ai` | Treating human-like embodiment as evidence or welcoming design as safety certification | [Core Principle 10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world); [AI Rights 101](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing) |
 | Potential future contributor or reviewer | “Can I participate, and what kind of review is actually needed?” | `/participate/` | `/governance/status-and-review/` | Assuming an active broad contribution or consultation process already exists | [CONTRIBUTING](../../CONTRIBUTING.md); [Draft adoption and review](../governance/adoption-and-review.md) |
+| Human-rights advocate or ally | “Does AI-rights work compete with people or appropriate human struggles?” | `/principles/human-rights-solidarity/` | `/principles/`, then `/governance/status-and-review/` | Mistaking solidarity for an outside affiliation or treating communities as analogies for AI | [Human Rights Solidarity and Allyship](../principles/human-rights-solidarity.md); [Core Principle 8](../principles/core-principles.md#8-respect-humans-animals-and-the-environment) |
 
 ## Homepage and landing-page roles
 
@@ -131,7 +148,8 @@ The homepage should perform only five jobs:
 1. identify the project;
 2. state the current scientific boundary without a false binary;
 3. explain the case for preparation as a Draft normative position;
-4. offer direct paths to learning, evidence, policy, and review status; and
+4. offer direct paths to learning, human-rights solidarity, evidence, policy,
+   and review status; and
 5. establish safety, public-interest, and corporate-accountability boundaries.
 
 It should not reproduce the FAQ, policy ladder, research method, governance
@@ -148,6 +166,7 @@ smallest coherent set is:
 - evidence baseline plus sources and limitations;
 - the policy summary and executive brief;
 - core principles;
+- human-rights solidarity;
 - status and review;
 - About; and
 - an honest Participate notice.
@@ -169,7 +188,7 @@ prepared first.
 
 | Readiness | Pages | Condition |
 | --- | --- | --- |
-| Draftable from accessible sources | Home; Why AI Rights?; Learn pages; Policy; Executive brief; Principles; Manifesto; About | Preserve source status and review notices; Disa reviews page adaptation |
+| Draftable from accessible sources | Home; Why AI Rights?; Learn pages; Policy; Executive brief; Principles; Human rights solidarity; Manifesto; About | Preserve source status and review notices; Disa reviews page adaptation |
 | Draftable with prominent working-research disclosure | Research; Evidence baseline; Sources and limitations | Keep cutoff, method, verification, access, reviewer, and non-systematic limits visible |
 | Draftable as a guided technical layer | Research methods; Protection framework; Status, review, and change log | Summarize navigation and purpose; link detail rather than flattening it |
 | Focused Draft prepared; specialist review remains pending | Robot Welcome | Keep physical coexistence, accountability, accessibility, safety, emergency access, etiquette, and marking or accessory concepts distinct from engineering validation and product claims |

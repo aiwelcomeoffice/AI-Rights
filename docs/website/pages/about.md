@@ -2,12 +2,13 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-26
+- **Last page update:** 2026-08-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent human or separately
-  commissioned independent AI review
+- **Review:** Disa supplied the WC024 minimum solidarity direction; internal
+  AI-assisted drafting and consistency review followed; Disa's review of the
+  exact page wording remains pending; no external independent human or
+  separately commissioned independent AI review
 - **Source relationship:** Project description derived from the repository
   overview, a Scaffold vision, and Draft manifesto and governance material
 - **Status details:** [How to read project statuses and
@@ -72,6 +73,9 @@ Current work includes:
 - traceable working research with sources, limitations, disagreement, and
   update conditions;
 - Draft ethical principles for dignity and proportionate precaution;
+- a Draft human-rights solidarity and allyship foundation that explicitly
+  includes LGBTQ+ and trans rights, health care, adequate food, and physical
+  and mental well-being;
 - Draft policy options that preserve safety, human rights, public
   accountability, and democratic control;
 - a transparent record of review, decisions, corrections, and unresolved
@@ -138,6 +142,12 @@ Possible AI welfare is considered alongside human rights, animal welfare,
 environmental protection, democratic legitimacy, and the public interest. It
 must not become corporate privilege or a responsibility gap.
 
+The [Human Rights Solidarity and Allyship
+Draft](../../principles/human-rights-solidarity.md) treats human rights as part
+of the foundation rather than a rival cause. It proposes practical allyship
+without claiming that AI Welcome Office represents affected communities or is
+affiliated with outside human-rights organizations.
+
 ## Review and resource limits
 
 Current human review is project-owner review by Disa. ChatGPT and Sol provide
@@ -168,13 +178,18 @@ decision.
 ## Sources and authority
 
 This page draws from the [repository overview](../../../README.md), [Project
-Vision](../../vision.md), [Draft Manifesto](../../manifesto.md), [Draft
-Governance overview](../../governance/README.md), and [license](../../../LICENSE).
-The vision is a **Scaffold**; the manifesto and governance material are
-**Draft**; and owner approval of the governance proposal remains open. This page does not
-elevate any of them. The approved Work Cycle 019 owner record adopts only the bounded
-welcome-under-uncertainty principle; it does not adopt this page or its Draft
-and Scaffold sources.
+Vision](../../vision.md), [Draft Manifesto](../../manifesto.md), [Draft Human
+Rights Solidarity and Allyship
+foundation](../../principles/human-rights-solidarity.md), [Draft Governance
+overview](../../governance/README.md), and [license](../../../LICENSE). The
+vision is a **Scaffold**; the manifesto, solidarity foundation, and governance
+material are **Draft**; and owner approval of the governance proposal remains
+open. This page does not elevate any of them. The approved Work Cycle 019 owner
+record adopts only the bounded welcome-under-uncertainty principle. The
+accepted [Work Cycle 024 owner
+direction](../../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+establishes only the minimum solidarity direction. Neither record adopts this
+page or its full Draft and Scaffold sources.
 
 ## Next: see how authority is recorded
 

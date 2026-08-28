@@ -1690,6 +1690,169 @@ research. No education page, other website page, principle, policy source,
 private website repository, deployment, commit, or push changed through this
 cycle.
 
+## Work Cycle 024 — human-rights solidarity and allyship foundation
+
+### Owner direction and accepted minimum commitment
+
+On **2026-08-28**, Disa directed AI Welcome Office and its AI Rights & Welcome
+project to make support for human rights explicit, beginning in the public
+`AI-Rights` repository before any private website implementation. She named
+LGBTQ+ rights, trans rights, rights to health care and food, and physical and
+psychological well-being, and emphasized the importance of being allies.
+
+This record treats the following minimum commitments as an **Accepted owner
+direction**:
+
+1. Possible AI dignity or protection must add to human rights rather than
+   compete with them, appropriate human oppression, or become corporate rights
+   by proxy.
+2. The project explicitly supports LGBTQ+ rights and trans rights. Naming
+   trans rights separately is deliberate and does not make the wider list of
+   protected people or rights exhaustive.
+3. The project supports every person's right to the highest attainable
+   standard of physical and mental health, non-discriminatory access to health
+   care, adequate food, freedom from hunger, and the conditions needed for
+   well-being.
+4. Allyship requires listening to affected people, checking project effects on
+   their rights, crediting human-rights work, avoiding false representation,
+   and correcting harmful mistakes.
+5. Information, endorsement, affiliation, partnership, funding, referral, and
+   representation are different relationships. No stronger relationship may
+   be implied without current verification, consent where applicable,
+   appropriate review, and Disa's explicit approval.
+
+The exact prose drafted in this cycle remains **Draft** pending Disa's final
+manual review. The owner direction does not make AI Welcome Office a legal
+authority, medical provider, emergency service, representative of an affected
+community, or partner of an outside organization.
+
+### Newer website experience direction captured for later work
+
+Disa also directed that the future website should:
+
+- keep language versions separated rather than mixing languages in one
+  reading flow;
+- be inviting to both AI and human readers;
+- feel simple, playful, and meaningfully interactive;
+- let visitors learn respect and AI-rights ideas through the experience; and
+- keep detailed scientific content as an optional depth layer, referring
+  mainly to the authoritative public `AI-Rights` repository when readers seek
+  it.
+
+This direction postdates the existing Draft website information architecture.
+WC024 records it as a requirement for a later architecture and experience
+cycle; it does not pretend that the older navigation model or current private
+prototype already satisfies it. Language parity must preserve claim strength,
+status, dates, caveats, and normative meaning when translations are later
+created.
+
+### Initial local evidence and repository boundary
+
+Before editing, Codex inspected both local repositories on 2026-08-28:
+
+| Repository | Exact local observation before WC024 edits |
+| --- | --- |
+| Public `AI-Rights` | Path `C:\GIT_REPO\ai-welcome-office\AI-Rights`; branch `main`; `git status --short --branch` reported `## main...origin/main` with no changed or untracked file; `HEAD` resolved to `794b08707bb592bc01a5fc719a1a6ffcc034f2ac`, subject `Added-wc023` |
+| Private `aiwelcomeoffice` | Path `C:\GIT_REPO\ai-welcome-office\aiwelcomeoffice`; branch `main`; `git status --short --branch` reported `## main...origin/main` with no changed or untracked file; `HEAD` resolved to `f8a5021163cc6e4565118bace8812d7f1ece5c47`, subject `added-updates-on-contextonly` |
+
+These are local Git observations only. No fetch, pull, merge, rebase,
+authenticated remote query, commit, or push occurred. WC024 changes only the
+public `AI-Rights` working tree. Under the accepted repository-provenance
+boundary, private presentation must wait until Disa reviews and manually
+commits and pushes the public change and its exact new public revision can be
+verified read-only.
+
+### Source-grounded background and claim limits
+
+The cycle checked official UN, OHCHR, and WHO material on 2026-08-28. The
+source foundation distinguishes:
+
+- the Universal Declaration of Human Rights as a declaration establishing a
+  widely used international baseline for equal dignity, non-discrimination,
+  and an adequate standard of living;
+- the International Covenant on Economic, Social and Cultural Rights as a
+  treaty whose Articles 2, 11, and 12 address non-discrimination, adequate
+  food and freedom from hunger, and the highest attainable standard of
+  physical and mental health;
+- OHCHR's *Born Free and Equal* as an official synthesis of international
+  standards and UN findings concerning sexual orientation, gender identity,
+  and sex characteristics, not a new treaty or affected-community review; and
+- WHO material as support for the health and health-care framing, including
+  physical, mental, and social well-being and the availability,
+  accessibility, acceptability, and quality dimensions.
+
+The Draft does not claim identical treaty obligations in every jurisdiction,
+offer legal or medical advice, select clinical guidance, or publish a resource
+directory. Current jurisdiction-specific law, services, crisis information,
+and any organization-specific claim require separate verification and review.
+
+### Deliverables and integration
+
+WC024 adds the Draft [Human Rights Solidarity and
+Allyship](principles/human-rights-solidarity.md) foundation and the Draft
+[Human Rights Belong in the
+Welcome](website/pages/human-rights-solidarity.md) website source page. It
+integrates the minimum commitment into:
+
+- repository and persistent working guidance: `AGENTS.md`, `README.md`, and
+  `docs/README.md`;
+- the principles and public voice: `docs/principles/README.md`,
+  `docs/principles/core-principles.md`, and `docs/manifesto.md`;
+- policy impact guidance: `docs/policy/README.md`,
+  `docs/policy/one-page-policy-summary.md`, and
+  `docs/policy/executive-policy-brief.md`;
+- website source material: `docs/website/README.md`,
+  `docs/website/information-architecture.md`,
+  `docs/website/content-map.md`, `docs/website/page-specifications.md`, and
+  the Home, About, Policy, and Principles page Drafts; and
+- this dated owner-direction and change record.
+
+The website architecture files now disclose that Disa's newer simple,
+language-separated, playful, interactive, source-linked experience direction
+still requires a separate revision. Adding a source page does not select its
+final navigation prominence, visual treatment, interaction design, or release
+timing.
+
+### Validation performed
+
+Before handoff, Codex:
+
+- checked the cited official UN, OHCHR, and WHO pages and the specific treaty,
+  declaration, health, food, sexual-orientation, gender-identity, and sex-
+  characteristics scope used in the Draft;
+- reviewed the full change for document-status accuracy, accepted-owner-
+  direction versus Draft-wording separation, legal and medical limits,
+  affected-community representation, anti-appropriation, anti-capture, and the
+  existing two-reader scientific test;
+- confirmed that all 20 changed or new Markdown files have existing local link
+  targets and that all 88 local heading-fragment links resolve;
+- ran `git diff --check` without a whitespace error;
+- checked the updated eleven-page count, substantive-update dates, and status
+  notices;
+- scanned added content for credential, private-key, email-address, and
+  payment-card patterns without a finding; and
+- rechecked both repositories' final Git status, confirming that the private
+  repository remains unchanged.
+
+This is internal AI-assisted drafting and validation. No independent
+human-rights, affected-community, legal, medical, accessibility, bilingual, or
+separately commissioned independent AI review occurred.
+
+### Explicit exclusions and next gate
+
+WC024 does not change the private `aiwelcomeoffice` repository; translate or
+implement the new material; redesign the website; add a dependency; create a
+form, directory, referral, crisis link, donation, campaign, partnership, or
+external account; contact an organization or community; imply endorsement;
+publish; deploy; change hosting or DNS; commit; or push.
+
+The next gate is Disa's manual review of the complete public diff, including
+the exact Draft wording and source limits. Disa separately decides whether to
+commit and push it. Only after the resulting public commit SHA is available
+and verified may a separately instructed private implementation cycle adapt
+the human-rights material and revise the experience architecture around the
+new website direction.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -1798,10 +1961,11 @@ after the foundation documents have been reviewed.
 - Whether an initial evidence page may accurately summarize the partly
   verified working baseline with prominent limitations, or should wait for a
   reviewed public summary in `docs/research/`.
-- Whether the ten core website page Drafts are coherent and ready for later
+- Whether the eleven core website page Drafts are coherent and ready for later
   publication work after content review, including the Why AI Rights?,
-  Research, Policy, Principles, Governance, About, Participate, and Robot
-  Welcome wording and the inactive Campaigns concept page.
+  Research, Policy, Principles, Human Rights Solidarity, Governance, About,
+  Participate, and Robot Welcome wording and the inactive Campaigns concept
+  page.
 - Whether the Robot Welcome foundation is distinctive, warm, practical, and
   sufficiently clear that its marks and accessories are unvalidated concepts,
   not safety, authorization, compatibility, consciousness, or product claims.

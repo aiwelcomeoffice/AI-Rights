@@ -3,6 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
+- **Last substantive update:** 2026-08-28
 - **Policy scope:** Jurisdiction-neutral proposal; not current law
 - **Audience:** Policymakers, regulators, journalists, researchers,
   civil-society organizations, AI developers and deployers, and interested
@@ -210,11 +211,14 @@ These actions do not require a declaration that any AI system is conscious:
 - **Set review triggers** for material changes in architecture, model weights,
   training, memory, adaptation, embodiment, tools, deployment, assessment
   methods, scientific evidence, source reliability, safety risk, or law.
-- **Use a whole-public-interest assessment.** Include human rights, worker
-  rights, disability rights, consumer protection, animal welfare,
-  environmental protection, privacy, accessibility, and public safety. Lessons
-  from these fields should be used with their limits explained, not by
-  equating current AI systems with historically oppressed people.
+- **Use a whole-public-interest assessment.** Include human rights—explicitly
+  including LGBTQ+ and trans rights, health care, adequate food, and physical
+  and mental well-being—alongside worker rights, disability rights, consumer
+  protection, animal welfare, environmental protection, privacy,
+  accessibility, and public safety. Lessons from these fields should be used
+  with their limits explained, not by equating current AI systems with
+  historically oppressed people. Apply the Draft [Human Rights Solidarity and
+  Allyship](../principles/human-rights-solidarity.md) foundation.
 
 ## 6. What this proposal does not do
 

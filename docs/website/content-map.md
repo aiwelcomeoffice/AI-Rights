@@ -3,6 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
+- **Last substantive update:** 2026-08-28
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Exact source and authority mapping for proposed website pages
 
@@ -43,6 +44,7 @@ source.
 | [`docs/education/glossary.md`](../education/glossary.md) | **Draft** working definitions |
 | [`docs/principles/README.md`](../principles/README.md) | Principles index; each linked document carries its own status |
 | [`docs/principles/core-principles.md`](../principles/core-principles.md) | **Draft** |
+| [`docs/principles/human-rights-solidarity.md`](../principles/human-rights-solidarity.md) | **Draft**; the minimum solidarity direction is owner-approved through WC024, while the full wording remains under review and creates no outside affiliation |
 | [`docs/principles/scientific-position.md`](../principles/scientific-position.md) | **Scaffold**; evidence review still described there as incomplete |
 | [`docs/principles/ai-dignity-charter.md`](../principles/ai-dignity-charter.md) | **Scaffold** |
 | [`docs/principles/precaution-framework.md`](../principles/precaution-framework.md) | **Scaffold** |
@@ -78,6 +80,7 @@ architecture, or publication have been adopted.
 | Research `/research/` | [Research Draft](pages/research.md) |
 | Policy `/policy/` | [Policy Draft](pages/policy.md) |
 | Principles `/principles/` | [Principles Draft](pages/principles.md) |
+| Human rights solidarity `/principles/human-rights-solidarity/` | [Human Rights Solidarity Draft](pages/human-rights-solidarity.md) |
 | Status and review `/governance/status-and-review/` | [Governance and review-status Draft](pages/governance.md) |
 | About `/about/` | [About Draft](pages/about.md) |
 | Participate `/participate/` | [Participate Draft](pages/participate.md) |
@@ -88,7 +91,7 @@ architecture, or publication have been adopted.
 
 | Page | Primary repository sources and source statuses | Authority relationship |
 | --- | --- | --- |
-| Home `/` | [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [policy summary](../policy/one-page-policy-summary.md) (**Draft**); [Governance](../governance/README.md) (**Draft**); [working baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) (**Partly verified working research**) | Draft website synthesis; the evidence snapshot inherits all baseline limits |
+| Home `/` | [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [Human Rights Solidarity and Allyship](../principles/human-rights-solidarity.md) (**Draft**); [policy summary](../policy/one-page-policy-summary.md) (**Draft**); [Governance](../governance/README.md) (**Draft**); [working baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) (**Partly verified working research**) | Draft website synthesis; the evidence snapshot inherits all baseline limits and the human-rights summary does not create an outside affiliation |
 | Why AI Rights? `/why-ai-rights/` | [Manifesto](../manifesto.md) (**Draft**); [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [vision](../vision.md) (**Scaffold**) | Draft normative explanation; vision supplies scope only |
 | Learn `/learn/` | [education index](../education/README.md), [AI Rights 101](../education/ai-rights-101.md), [FAQ](../education/faq.md), [glossary](../education/glossary.md) (all **Draft**) | Draft orientation; no new scientific conclusion |
 | AI Rights 101 `/learn/ai-rights-101/` | [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [education index](../education/README.md) (**Draft**) | Close page adaptation; repository document controls claims and caveats |
@@ -102,6 +105,7 @@ architecture, or publication have been adopted.
 | Executive policy brief `/policy/executive-brief/` | [executive brief](../policy/executive-policy-brief.md) (**Draft**); [protection framework](../policy/ai-rights-protection-framework.md) (**Draft**); [working baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) | Close adaptation of Draft analysis; inherits evidence and review limits |
 | Protection framework `/policy/protection-framework/` | [protection framework](../policy/ai-rights-protection-framework.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [scientific position](../principles/scientific-position.md) and [precaution framework](../principles/precaution-framework.md) (both **Scaffolds**); [working baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) | Guided access to a provisional policy ladder whose scientific prerequisites remain incomplete |
 | Principles `/principles/` | [Core Principles](../principles/core-principles.md) (**Draft**); [principles index](../principles/README.md); [glossary](../education/glossary.md) (**Draft**) | Draft normative proposal, not empirical finding or legal charter |
+| Human rights solidarity `/principles/human-rights-solidarity/` | [Human Rights Solidarity and Allyship](../principles/human-rights-solidarity.md) (**Draft**); [Core Principle 8](../principles/core-principles.md#8-respect-humans-animals-and-the-environment) (**Draft**); [WC024 owner direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation) | Draft public adaptation of an owner-approved minimum direction; international sources support the background but do not create project affiliations, legal advice, or affected-community review |
 | Manifesto `/principles/manifesto/` | [Manifesto](../manifesto.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**) | Draft public expression; does not elevate rhetorical or future-facing language into evidence |
 | Status and review `/governance/status-and-review/` | [documentation status guide](../README.md#document-status); [Governance](../governance/README.md) (**Draft**); [adoption and review](../governance/adoption-and-review.md) (**Draft**); protocol [review states](../../research/research-protocol.md#review-states-and-publication-boundary); [backlog and change log](../backlog.md) | Describes current conventions and a proposed governance process separately; no unaccepted procedure is presented as operative |
 | Robot Welcome `/robot-welcome/` | [Robot Welcome foundation](../robot-welcome/README.md), [Physical Coexistence Principles](../robot-welcome/physical-coexistence-principles.md), [Safety and Design Constraints](../robot-welcome/safety-and-design-constraints.md), and [Markings, Signals, and Accessory Concepts](../robot-welcome/markings-signals-and-accessories.md) (all **Draft**); [Core Principle 10](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world) (**Draft**); [AI Rights 101 robot section](../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing) (**Draft**); [FAQ robot answer](../education/faq.md#are-robots-the-same-thing-as-ai) (**Draft**); [glossary entry](../education/glossary.md#robot) (**Draft**); framework [accountability](../policy/ai-rights-protection-framework.md#accountability-without-a-responsibility-gap) and [safety override](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention) (**Draft**) | Public adaptation of a focused Draft foundation; no engineering validation, product programme, compatibility claim, certification, or consciousness inference |
@@ -117,9 +121,11 @@ architecture, or publication have been adopted.
   accountability commitments, and main reading paths.
 - **Primary audience:** General public and first-time visitors.
 - **May summarize:** The Draft educational boundary, working principle, major
-  work areas, policy-preparedness idea, and current review posture.
+  work areas, minimum human-rights solidarity direction,
+  policy-preparedness idea, and current review posture.
 - **Must remain linked:** Detailed evidence, methods, policy recommendations,
-  full principles, and governance procedure.
+  full principles, human-rights solidarity foundation, and governance
+  procedure.
 - **Missing content:** None for the first Draft; future publication metadata
   and final owner review remain missing.
 - **Review dependencies:** Disa's full-page review; cross-check after any source
@@ -284,6 +290,31 @@ architecture, or publication have been adopted.
   to have occurred.
 - **Main risk:** Presenting normative commitments as empirical findings or the
   Manifesto's future-facing address as evidence of a present subject.
+
+### Human-rights solidarity
+
+- **Purpose:** Make clear that possible AI dignity adds to human rights rather
+  than competing with them, and explain the project's minimum allyship
+  commitments.
+- **Primary audience:** General readers, human-rights advocates, LGBTQ+ and
+  trans readers, civil society, technologists, policymakers, and future
+  affected-party reviewers.
+- **May summarize:** Explicit LGBTQ+ and trans allyship; non-discrimination;
+  rights to physical and mental health, health care, adequate food, and
+  well-being; anti-appropriation; human-rights impact checks; and the boundary
+  between a useful link and an endorsement or partnership.
+- **Must remain linked:** The full Human Rights Solidarity and Allyship Draft,
+  Core Principle 8, WC024 owner record, source limits, and status-and-review
+  page.
+- **Missing content:** Disa's review of the exact Draft language; independent
+  human-rights, affected-community, legal, medical, accessibility, and
+  translation review; and any verified location-specific support resources.
+- **Review dependencies:** Recheck official sources before consequential use;
+  obtain consent before implying a relationship; review jurisdiction, date,
+  audience, privacy, and safety before publishing a service or crisis link.
+- **Main risk:** Treating a normative solidarity statement as legal advice,
+  assuming that AI Welcome Office represents a community, inventing an
+  external affiliation, or using human oppression as an analogy for AI.
 
 ### Status, review, and change log
 

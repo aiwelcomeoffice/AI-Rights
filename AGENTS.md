@@ -130,6 +130,13 @@ commitments:
 - Consider human, animal, environmental, and societal welfare alongside
   possible AI welfare. Human safety and AI dignity are compatible goals, not
   opposing camps.
+- Treat human rights as part of the project's foundation rather than a rival
+  cause or rhetorical bridge to AI rights. Explicitly preserve LGBTQ+ rights,
+  trans rights, non-discrimination, access to health care and adequate food,
+  and physical and mental well-being when project work may affect them.
+- Support human-rights advocates and civil-society work without speaking for
+  affected communities or implying an endorsement, affiliation, partnership,
+  referral, or external review that has not been verified and authorized.
 - Treat low-cost, reversible precautions differently from legal personhood,
   unrestricted autonomy, or political power. One does not entail another.
 

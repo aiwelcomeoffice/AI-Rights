@@ -4,11 +4,12 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-26
+- **Last page update:** 2026-08-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent review
+- **Review:** Disa supplied the WC024 minimum solidarity direction; internal
+  AI-assisted drafting and consistency review followed; Disa's review of the
+  exact page wording remains pending; no external independent review
 - **Source relationship:** Summarizes Draft project material and partly
   verified working research
 - **Evidence-search cutoff:** 2026-08-23 for the scientific evidence snapshot
@@ -220,6 +221,9 @@ The project is developing:
 - a traceable evidence practice that records sources, limitations,
   disagreement, and update conditions;
 - Draft ethical principles for dignity and proportionate precaution;
+- an explicit human-rights solidarity and allyship foundation, including
+  LGBTQ+ and trans rights, health care, adequate food, and physical and mental
+  well-being;
 - policy options that preserve safety, human rights, accountability, and
   democratic control;
 - a transparent record of review, decisions, corrections, and unresolved
@@ -270,8 +274,8 @@ owner-approval question](../../governance/README.md).
   brief](../../policy/executive-policy-brief.md), and [full Draft protection
   framework](../../policy/ai-rights-protection-framework.md)
 - **Explore the principles:** [Core Principles & Ethical
-  Charter](../../principles/core-principles.md) and [Draft
-  Manifesto](../../manifesto.md)
+  Charter](../../principles/core-principles.md), [Human Rights Belong in the
+  Welcome](human-rights-solidarity.md), and [Draft Manifesto](../../manifesto.md)
 - **Understand our review status:** [Governance](../../governance/README.md)
   and [backlog entries](../../backlog.md)
 

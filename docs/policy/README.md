@@ -43,4 +43,10 @@ Policy documents should distinguish existing law from proposals, identify the
 jurisdiction and date reviewed, cite primary legal sources where possible, and
 preserve human and institutional accountability.
 
+They should also apply the Draft [Human Rights Solidarity and Allyship
+foundation](../principles/human-rights-solidarity.md): possible AI protection
+must not weaken human rights, and material impact analysis should explicitly
+consider LGBTQ+ and trans rights, health care, adequate food, and physical and
+mental well-being where relevant.
+
 No policy position has been adopted or independently reviewed yet.

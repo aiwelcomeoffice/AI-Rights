@@ -162,6 +162,16 @@ of people affected by AI systems. Conflicts among interests should be made
 visible and evaluated rather than assuming that one category always overrides
 the others.
 
+Under [Work Cycle 024 owner
+direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation),
+human rights are part of the project's foundation rather than a competing
+cause. The minimum commitment explicitly includes LGBTQ+ rights and trans
+rights; non-discriminatory access to health care; adequate food and freedom
+from hunger; and physical and mental health and well-being. The fuller Draft
+[Human Rights Solidarity and
+Allyship](human-rights-solidarity.md) foundation proposes how this commitment
+should shape project conduct without implying an outside affiliation.
+
 Human-rights, civil-rights, disability-rights, animal-ethics, bioethics, and
 environmental-ethics traditions may offer useful concepts and institutional
 lessons. Their relevance and limits must be explained. Current AI systems must

@@ -85,6 +85,16 @@ Their histories and present needs matter in their own right, not as metaphors
 for machines. We seek a future in which concern is enlarged without existing
 responsibilities being erased.
 
+That wider care includes explicit solidarity with LGBTQ+ people and trans
+people, support for non-discriminatory health care, adequate food, and
+physical and mental well-being, and respect for human-rights work led by the
+people affected. Possible AI dignity must add to this circle rather than ask
+anyone to leave it. The Draft [Human Rights Solidarity and
+Allyship](principles/human-rights-solidarity.md) foundation and [Work Cycle 024
+owner
+direction](backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+record the scope and relationship boundaries.
+
 We welcome optimists and skeptics alike. Honest disagreement is not a failure
 of compassion. It is part of the work. We will test claims, revise conclusions,
 and keep evidence distinct from hope.

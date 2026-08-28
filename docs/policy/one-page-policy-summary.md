@@ -3,6 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
+- **Last substantive update:** 2026-08-28
 - **Scope:** Jurisdiction-neutral proposal; not current law
 
 > **Review notice:** This Draft has received project-owner direction and review
@@ -72,8 +73,9 @@ experience.
    a developer, owner, controller, or mass of copies.
 7. **Preserve safety and the wider public interest.** Retain proportionate
    monitoring, containment, access limits, and emergency intervention while
-   protecting human rights, worker and disability rights, consumers, animals,
-   the environment, and public safety.
+   protecting human rights—including LGBTQ+ and trans rights, health care,
+   adequate food, and physical and mental well-being—alongside worker and
+   disability rights, consumers, animals, the environment, and public safety.
 
 ## What is not being proposed
 

@@ -3,7 +3,8 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Scope:** Content structure and ten core website page Drafts; no
+- **Last substantive update:** 2026-08-28
+- **Scope:** Content structure and eleven core website page Drafts; no
   implementation or publication decision
 - **Authority:** Prepared for Disa's review; not adopted
 - **Publisher:** AI Welcome Office
@@ -23,6 +24,17 @@ It does not select a framework, host, domain, visual identity, content
 management system, or publication date. Those choices remain outside this
 work cycle.
 
+> **Newer owner direction — 2026-08-28:** The future website must separate its
+> language versions, welcome both AI and human readers, remain simple,
+> playful, and meaningfully interactive, and let visitors learn respect through
+> the experience. Detailed scientific material should be an optional depth
+> layer and should usually link to the authoritative `AI-Rights` repository
+> rather than be duplicated. This direction is recorded in [Work Cycle
+> 024](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation).
+> The existing content architecture predates that experience direction and
+> needs a separately scoped revision before it controls private website
+> implementation.
+
 ## Deliverables
 
 - [Information architecture](information-architecture.md) — navigation,
@@ -41,6 +53,9 @@ work cycle.
 - [Policy Draft](pages/policy.md) — jurisdiction-neutral preparedness overview
 - [Principles Draft](pages/principles.md) — proposed ethical commitments and
   boundaries
+- [Human Rights Solidarity Draft](pages/human-rights-solidarity.md) — explicit
+  LGBTQ+ and trans allyship, health, food, well-being, and support-without-
+  false-affiliation boundaries
 - [Governance and review-status Draft](pages/governance.md) — current status,
   authority, and review reality separated from the Proposed fuller process
 - [About Draft](pages/about.md) — mission, stage, human–AI roles, repository,
@@ -63,7 +78,7 @@ Intervals** is the primary AI Welcome Office visual exploration. It remains a
 Draft design input, not an approved or cleared identity or authorization to
 implement the site.
 
-These ten pages form the current core website-ready Draft set. The Learn
+These eleven pages form the current core website-ready Draft set. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
 executive-brief and protection-framework adaptations, manifesto adaptation,
 and backlog/change-log presentation remain specifications rather than completed
@@ -81,6 +96,8 @@ Drafts or, in the case of the vision, a Scaffold:
   [FAQ](../education/faq.md), and the [glossary](../education/glossary.md);
 - the [Manifesto](../manifesto.md) and [Core Principles & Ethical
   Charter](../principles/core-principles.md);
+- the [Human Rights Solidarity and Allyship
+  foundation](../principles/human-rights-solidarity.md);
 - the [one-page policy summary](../policy/one-page-policy-summary.md) and
   [executive policy brief](../policy/executive-policy-brief.md);
 - the [Robot Welcome & Physical Coexistence

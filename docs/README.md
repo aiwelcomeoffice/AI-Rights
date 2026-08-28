@@ -20,7 +20,8 @@ separate from the working material in [`research/`](../research/README.md).
 - [`manifesto.md`](manifesto.md) — Draft public-facing expression of the
   project's principles
 - [`vision.md`](vision.md) — project purpose, scope, and boundaries
-- [`principles/`](principles/README.md) — scientific and ethical foundations
+- [`principles/`](principles/README.md) — scientific and ethical foundations,
+  including the Draft human-rights solidarity and allyship commitment
 - [`policy/`](policy/README.md) — draft policy analysis and proposals
 - [`robot-welcome/`](robot-welcome/README.md) — Draft principles and concepts
   for safe, accessible, accountable physical coexistence; no product or
@@ -32,8 +33,8 @@ separate from the working material in [`research/`](../research/README.md).
   repository-responsibility, publication-provenance, and delivery-readiness
   records; no website deployment authority
 - [`website/`](website/README.md) — Draft public website information
-  architecture, source map, page specifications, and ten core page Drafts,
-  including an inactive Campaigns concept page
+  architecture, source map, page specifications, and eleven core page Drafts,
+  including human-rights solidarity and an inactive Campaigns concept page
 - [`backlog.md`](backlog.md) — single project backlog, change log, owner
   directions, and prioritized foundation work
 
@@ -48,6 +49,13 @@ approves a later professional word-name-review scope. Gate 2 and C1–C3 remain
 paused. The professional packet remains Draft and unsent; the owner record does
 not authorize public identity use, external contact, spending, filing,
 registration, domain acquisition, or legal reliance.
+
+The [Work Cycle 024 owner
+record](backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+establishes a minimum human-rights solidarity direction, while the fuller
+[Human Rights Solidarity and Allyship
+foundation](principles/human-rights-solidarity.md) remains Draft and creates no
+outside endorsement, affiliation, partnership, referral, or representation.
 
 > **Registered-domain follow-up — 2026-08-24:** Disa separately and manually
 > registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com`. The `.org`
