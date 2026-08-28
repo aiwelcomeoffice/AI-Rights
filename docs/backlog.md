@@ -1651,6 +1651,45 @@ baseline cutoff. No immediate project-position decision is requested from
 Disa through this Draft intake; the existing open decision about research
 maintenance ownership and cadence remains unchanged.
 
+## Work Cycle 023 — education and website research-alignment audit
+
+### Owner instruction and finding
+
+On **2026-08-28**, Disa asked whether `docs/education` or
+`docs/website/pages` needed alignment after Work Cycles 021 and 022 and
+directed updates where necessary. The audit found no substantive mismatch in
+the education set: its consciousness-baseline cutoff, provisional conclusion,
+capability-versus-consciousness distinction, research-lag explanation, and
+statement that continuous monitoring does not yet exist remain accurate.
+
+The Draft website [Research and Evidence
+page](website/pages/research.md#separate-capability-and-safety-horizon-work) did
+need a narrow update. It described the consciousness baseline accurately but
+still presented the research workspace as containing only its 21 source
+records and ten notes. The workspace now also contains four source records and
+one cross-source note for the separate capability and safety horizon
+investigation.
+
+### Change and boundaries
+
+The Research page now:
+
+- distinguishes the baseline's **2026-08-23** search cutoff from the separate
+  horizon intake's **2026-08-28** access date and the page-update date;
+- records the Work Cycle 022 Amodei/Anthropic material as contextual only;
+- exposes the separate OpenAI–Hugging Face/AGI-proximity investigation with
+  its partly verified status and review needs; and
+- reports the current index totals as 25 source records and 11 notes while
+  preserving the 21-source and ten-note consciousness-baseline counts.
+
+This alignment does not move the consciousness-baseline cutoff or change its
+conclusion. It does not establish AGI, consciousness, sentience, welfare, or
+moral status; treat capability progress as consciousness evidence; claim that
+continuous monitoring now exists; or adopt the website page or working
+research. No education page, other website page, principle, policy source,
+private website repository, deployment, commit, or push changed through this
+cycle.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry

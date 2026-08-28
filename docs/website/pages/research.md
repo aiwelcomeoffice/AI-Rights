@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -10,8 +10,9 @@
   commissioned independent AI review
 - **Source relationship:** Orientation to a Draft research protocol, partly
   verified working research, and a reserved area for reviewed outputs
-- **Evidence-search cutoff:** 2026-08-23 for the working evidence baseline;
-  this is not the page-update date
+- **Evidence-search cutoff:** 2026-08-23 for the working consciousness
+  evidence baseline; the separate capability and safety horizon intake was
+  accessed on 2026-08-28; neither date is the page-update date
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
@@ -61,6 +62,13 @@ These are scoped working conclusions, not permanent verdicts. Uncertainty does
 not constitute evidence favoring either possibility, and non-detection is
 informative only when the method could detect the defined property in the
 relevant system.
+
+A bounded [2026-08-28 contextual
+intake](../../../research/syntheses/ai-consciousness-evidence-baseline.md#targeted-contextual-intake-amodei-and-anthropic-model-welfare)
+records Dario Amodei's public uncertainty statement and Anthropic's reported
+model-welfare research and precautions. It adds no included scientific source,
+independent corroboration, or change to the baseline cutoff, confidence
+assessment, or conclusion.
 
 ## Behavior and self-report are observations
 
@@ -127,16 +135,37 @@ checkpoint, configuration, runtime, memory, tools, embodiment, context,
 method, observation date, and evidence-search cutoff. A later document edit
 does not move an earlier search cutoff.
 
+## Separate capability and safety horizon work
+
+The [OpenAI–Hugging Face incident and AGI proximity investigation
+note](../../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+begins a separate, partly verified evidence line for frontier-agent capability,
+autonomy, containment, incident response, and reported AGI-timeline judgments.
+It records a July 2026 incident and August 2026 reporting for scoped follow-up;
+it is not part of the consciousness baseline and does not establish AGI,
+consciousness, sentience, or moral status.
+
+The note identifies a capability-monitoring gap and possible event-based review
+triggers. It does not mean that continuous monitoring, a recurring horizon-scan
+owner, or a review cadence now exists. The underlying proprietary system
+details and complete independent access remain unavailable, and the note needs
+independent cyber-security, agent-evaluation, forecasting, and AGI-definition
+review before consequential public reliance.
+
 ## Sources, notes, and syntheses serve different roles
 
 - [Source records](../../../research/sources/README.md) identify the original
   source and version, what role it can play, what it supports, what it does not
   support, and its verification, access, funding, and conflict information.
-  The current index contains 21 partly verified working records. Inclusion is
-  not endorsement.
+  The current index contains 25 working records: 21 for the consciousness
+  baseline and four for the separate capability and safety horizon
+  investigation. Their verification states differ; inclusion is not
+  endorsement.
 - [Research notes](../../../research/notes/README.md) separate what a source
   reports from quotations, interpretation, criticism, competing explanations,
-  and open questions. The current index contains ten partly verified notes.
+  and open questions. The current index contains 11 notes: ten for the
+  consciousness baseline and one cross-source capability and safety
+  investigation note.
 - [Syntheses](../../../research/syntheses/README.md) compare multiple sources,
   evidence lineages, negative or contradictory material, confidence, and
   limitations. They remain working material until reviewed for publication.
@@ -192,10 +221,12 @@ This page draws from the [research workspace](../../../research/README.md),
 the [Draft Research Protocol](../../../research/research-protocol.md), the
 [working evidence baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
 its [working research plan](../../../research/syntheses/ai-consciousness-evidence-baseline-plan.md),
+the [capability and safety investigation
+note](../../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md),
 and the [reserved reviewed-output area](../../research/README.md). The protocol
-is **Draft**; the baseline and plan are working research, not project
-positions; and no reviewed public synthesis currently exists under
-`docs/research/`.
+is **Draft**; the baseline, plan, and capability and safety note are working
+research, not project positions; and no reviewed public synthesis currently
+exists under `docs/research/`.
 
 Draft material may be important, carefully prepared, and publicly useful. Its
 status communicates current limits of review and authority; it does not mean
@@ -209,6 +240,9 @@ goals. No consensus or external endorsement should be inferred.
 Read the [full working evidence
 baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
 the [Draft method](../../../research/research-protocol.md), or the [source
-records](../../../research/sources/README.md). To see how the project separates
-uncertain evidence from institutional preparation, continue to the [Draft
-Policy overview](policy.md).
+records](../../../research/sources/README.md). The separate [capability and
+safety investigation](../../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+shows how a material horizon signal is recorded without merging capability,
+AGI, or consciousness claims. To see how the project separates uncertain
+evidence from institutional preparation, continue to the [Draft Policy
+overview](policy.md).
