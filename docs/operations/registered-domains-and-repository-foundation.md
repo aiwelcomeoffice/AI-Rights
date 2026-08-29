@@ -5,8 +5,10 @@ approved the repository responsibility boundary, but this document is not
 Adopted**
 
 - **Date prepared and technical-observation cutoff:** 2026-08-24
+- **Owner-authorized mailbox-evidence follow-up:** 2026-08-29
 - **Prepared by:** Sol (repository audit, read-only technical checks, internal
-  AI-assisted drafting, and validation)
+  AI-assisted drafting and validation, and later read-only mailbox evidence
+  review)
 - **Scope coordination:** ChatGPT with Disa
 - **Decision-maker:** Disa, project owner
 - **Final reviewer, committer, and pusher:** Disa
@@ -31,18 +33,20 @@ does not make a Draft document Adopted or independently reviewed.
 
 | Claim | Claim category | Evidence level and limit |
 | --- | --- | --- |
-| Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` on 2026-08-24 | Established owner action | **Owner-reported.** Public registry data independently confirms that both domain records were created on that date, but it does not independently establish the registrant's identity or account action |
-| Both domains were purchased for a three-year term | Established owner action | **Owner-reported.** The public `.com` expiry date aligns with three years. The public `.org` expiry date is 2030-08-24, so the purchase term and registry expiry cannot yet be independently reconciled |
+| Disa manually registered `aiwelcomeoffice.org` and `aiwelcomeoffice.com` through Cloudflare Registrar on 2026-08-24 | Established owner action and registrar | **Owner-reported identity and action; provider corroborated.** Public registry data confirms both creation dates but not the registrant. Owner-authorized read-only review of the connected project mailbox found separate authenticated Cloudflare Registrar confirmations for both exact domains on that date. No account credential or registrar setting was inspected |
+| Disa describes the purchase as a three-year term for both domains | Established owner action | **Owner-reported intent, with term evidence now reconciled.** Cloudflare's `.com` confirmation states registration through 2029-08-24. Cloudflare first confirmed `.org` through 2027-08-24 and then sent a same-day successful-renewal confirmation through 2030-08-24, matching the registry expiry but producing four years of total `.org` coverage from creation |
 | `aiwelcomeoffice.org` is the intended canonical primary domain | Project decision | **Confirmed** as the direction accepted in [Work Cycle 015 owner record](../backlog.md#work-cycle-015--owner-scope-decision-and-professional-word-name-search-packet-drafted); canonical hosting is not configured |
 | `aiwelcomeoffice.com` is complementary or defensive and is intended eventually to redirect to `.org` | Project decision | **Confirmed** as the direction accepted in Work Cycle 015 owner record; the redirect is not configured |
 | Registration occurred as a separate manual owner action | Established owner action | **Owner-reported.** It was not performed or authorized by Work Cycle 015 owner record, the professional packet, or this repository work cycle |
 | Registration does not establish trademark clearance or launch readiness | Legal and operational boundary | **Confirmed** as a boundary of Work Cycle 015 owner record and the current Draft brand records; no professional clearance or deployment decision is recorded |
 
-The owner report is the evidence for who registered the domains, the manual
-nature of the action, and the purchased term. The read-only checks below
-confirm only public registry and DNS observations. They do not expose or
-verify registrar-account details, payment, recovery information, personal
-registrant data, or private settings.
+The owner report remains the evidence for Disa's identity and the manual
+nature and intended term of the action. Public checks confirm registry and DNS
+observations; the later owner-authorized mailbox review corroborates
+Cloudflare Registrar as provider, each successful registration, the stated
+expiry sequence, and automatic-renewal state at registration time. These
+checks do not expose or verify current registrar-account settings, payment,
+recovery information, personal registrant data, or credentials.
 
 ## 2. Registration date and owner-reported term
 
@@ -55,11 +59,24 @@ Public RDAP records accessed on 2026-08-24 reported:
   creation at `2026-08-24T20:09:10Z` and expiry at
   `2029-08-24T20:09:10Z`.
 
-Disa reports a three-year registration term for both domains. The `.org`
-registry expiry currently extends four years from its creation timestamp.
-That may reflect registrar or registry handling, but no explanation is
-verified. Disa should compare the non-public order and account record with the
-registry expiry without copying sensitive details into this repository.
+Disa reports a three-year registration term for both domains. A later
+owner-authorized read-only review of the connected project mailbox found
+Cloudflare Registrar transactional messages dated 2026-08-24 that state:
+
+- `.com` was successfully registered through 2029-08-24 and was set to
+  automatic renewal at that time;
+- `.org` was initially successfully registered through 2027-08-24 and was set
+  to automatic renewal at that time; and
+- a separate same-day renewal then succeeded for `.org` through 2030-08-24.
+
+This resolves the earlier unexplained `.org` registry date: the provider
+messages and public registry agree on 2030-08-24 after the renewal. It also
+shows that the completed `.org` order sequence produced four years of total
+coverage from creation, even though Disa describes the intended purchase as
+three years. The messages establish provider transaction results, not current
+account settings. No message ID, account identifier, dashboard link, amount,
+payment detail, contact record, or other private mailbox content is recorded
+here.
 
 ## 3. Intended domain roles
 
@@ -82,10 +99,11 @@ Only the following status values are used: **Confirmed**, **Owner-reported**,
 | Item | `aiwelcomeoffice.org` | `aiwelcomeoffice.com` | Evidence or limit at 2026-08-24 |
 | --- | --- | --- | --- |
 | Public registration record | Confirmed | Confirmed | Registry RDAP returned records created on 2026-08-24 |
-| Disa's manual registration action | Owner-reported | Owner-reported | Account identity and transaction were not independently inspected |
-| Three-year purchased term | Owner-reported | Owner-reported | `.com` public expiry aligns; `.org` public expiry reports 2030-08-24 and needs owner review |
+| Disa's manual registration action | Owner-reported | Owner-reported | Provider messages corroborate the successful transactions; Disa's identity and manual account action were not independently inspected |
+| Registrar provider | Confirmed | Confirmed | Owner-authorized mailbox review found authenticated Cloudflare Registrar registration confirmations for both exact domains |
+| Three-year intended term | Owner-reported | Owner-reported | `.com` provider and registry evidence run through 2029-08-24; `.org` was first confirmed through 2027-08-24 and then renewed through 2030-08-24 |
 | Registrar lock | Confirmed | Confirmed | RDAP reported `client transfer prohibited` for both domains |
-| Automatic renewal | Not verified | Not verified | Registrar-account setting not inspected |
+| Automatic renewal | Not verified | Not verified | Provider messages said enabled at registration; the current account setting was not inspected and may have changed |
 | Account MFA | Not verified | Not verified | Registrar-account security not inspected |
 | Recovery arrangements | Not verified | Not verified | No private recovery information was requested or recorded |
 | Nameserver provider | Confirmed | Confirmed | Public nameservers were `carol.ns.cloudflare.com` and `dean.ns.cloudflare.com` |
@@ -109,7 +127,7 @@ connected to a publicly addressable website.
 | Control | Current status | Owner review or future action |
 | --- | --- | --- |
 | Registrar transfer lock | Confirmed | Recheck after registrar transfer, ownership change, or an unexplained registry-status change |
-| Automatic renewal and payment-failure alerts | Not verified | Verify privately for both domains and record only completion, not payment details |
+| Automatic renewal and payment-failure alerts | Not verified | Registration messages said automatic renewal was enabled on 2026-08-24; verify the current setting and alerts privately for both domains and record only completion, not payment details |
 | Registrar-account MFA | Not verified | Enable strong MFA if unavailable; keep factors and recovery codes outside both repositories |
 | Account recovery and continuity | Not verified | Confirm a secure recovery path and succession/continuity arrangement without publishing personal data |
 | Least-privilege account access | Not verified | Limit registrar and DNS access to accountable people and review access periodically |
@@ -279,17 +297,16 @@ Work Cycle 016 owner record on 2026-08-24 without additional conditions. The pla
 simplified first-phase workflow were resolved when Disa approved the Work Cycle 017 owner record
 on 2026-08-25 without additional conditions. Disa should still decide:
 
-1. how the owner-reported three-year `.org` purchase term should be reconciled
-   with the public 2030 registry expiry;
-2. whether automatic renewal, MFA, recovery, notifications, access control,
+1. whether automatic renewal, MFA, recovery, notifications, access control,
    and DNS backup have been privately verified;
-3. when a separate cycle may scaffold the owner-approved Astro 7 direction in
+2. when a separate cycle may scaffold the owner-approved Astro 7 direction in
    the private repository;
-4. whether and when a manual update command, dedicated update agent, or more
+3. whether and when a manual update command, dedicated update agent, or more
    formal manifest and validation process becomes useful; and
-5. what fuller preview, accessibility, security, provenance, rollback, and
-   production-approval gates should apply before any public connection or
-   deployment.
+4. whether to approve the bounded preview, accessibility, security,
+   provenance, rollback, and domain conditions proposed in
+   [WC029](../backlog.md#work-cycle-029--first-public-preview-readiness), and
+   what additional gate should apply before a later production launch.
 
 The exact WC016 approval point was the repository responsibility boundary, and
 it is now resolved by the approved Work Cycle 016 owner record. Registration had already

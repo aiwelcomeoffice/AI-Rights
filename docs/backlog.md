@@ -2462,6 +2462,232 @@ bounded instruction. Before any public publication, Disa must separately
 approve the exact publication revision and file set after the required
 publication provenance and review limits are accurate.
 
+## Work Cycle 029 — First Public Preview Readiness
+
+### Current state and exact question
+
+WC029 starts from the completed and owner-approved WC028 local prototype. It
+does not reopen, redesign, or withdraw WC028. Read-only inspection on
+2026-08-29 found the public repository clean on `main` at
+`82216fc08563bad43e4e1e0bc5782b97dcf5bf5a` and the private repository clean on
+`main`, with local `HEAD` and its local `origin/main` tracking reference at the
+approved private WC028 revision
+`82cf1c7b9ff4e604e8a6d2f7ecbd0dbc1a97bffb`. The private tree contains no
+hosting or deployment configuration. No Git fetch or authenticated
+repository-host query was performed.
+
+At Disa's request, owner-authorized read-only review of the connected project
+mailbox found authenticated Cloudflare Registrar confirmations for both exact
+domains on 2026-08-24. The `.com` message records registration through
+2029-08-24. The `.org` messages record initial registration through 2027-08-24
+and a same-day successful renewal through 2030-08-24. Both registration
+messages said automatic renewal was enabled at that time. This corroborates
+Cloudflare Registrar as provider and resolves the earlier unexplained `.org`
+registry date; it does not verify the current account setting. No mailbox or
+account identifier, amount, payment detail, dashboard link, contact record, or
+credential is included in the repository.
+
+The exact WC029 question is whether Disa approves the bounded public-preview
+conditions in the Draft [First Public Preview Readiness
+record](operations/first-public-preview-readiness.md): the release-state
+distinction, assets-only host direction, publication provenance, visible
+notices, pre-publication checks, security and privacy boundary, accessibility
+disclosure, domain behavior, rollback rule, explicit exclusions, and next
+gate.
+
+**Owner-approval status: Open.** Approval would establish a readiness boundary
+only. It would not approve a not-yet-created private revision or artifact and
+would not authorize publication, hosting, DNS, a domain connection, a
+certificate action, redirect, spending, or production launch.
+
+### Recommended first-preview boundary
+
+The three release states remain distinct:
+
+- the **approved local prototype** is exact private commit
+  `82cf1c7b9ff4e604e8a6d2f7ecbd0dbc1a97bffb`, approved by Disa for local WC028
+  review only;
+- a **public preview** is a visibly labelled, non-production, normally
+  non-indexed version made publicly reachable only after Disa approves its
+  exact private revision, generated file set, artifact, hosting action, domain
+  action, and rollback record; and
+- **production / public launch** is a later, intentionally promoted and
+  ordinarily indexable service with continuing content, accessibility,
+  privacy, security, correction, and operational responsibility.
+
+The WC028 revision is the locked implementation baseline and only eligible
+starting point. It is not publishable unchanged because its rendered metadata,
+status notice, source section, and footer accurately say that it is private,
+local, not published, and awaiting Disa's review. Those statements would be
+false after publication, and the tree has no preview security headers or
+delivery configuration. WC029 therefore does not invent an exact publication
+SHA. A later authorized action should create a direct successor limited to
+truthful public-preview and review wording, complete publication provenance,
+`noindex` and static security headers, and assets-only delivery configuration.
+The WC028 experience, route, content baseline, dependencies, and no-runtime
+boundary otherwise remain unchanged.
+
+The first preview is one English static route with the existing WC028 reader
+entries and claim-layer interaction, no official visual-identity asset, and
+direct immutable links to the public repository. It adds no route, content
+topic, translation, form, account, analytics, tracker, client-side script,
+remote font, image, embed, CMS, database, or server runtime.
+
+### Recommended hosting direction and domain behavior
+
+WC029 recommends **Cloudflare Workers Static Assets as an assets-only Worker**,
+manually promoted from the exact reviewed Astro `dist/` output. It should have
+no Worker script, Functions, server adapter, server-side rendering, binding,
+storage, GitHub auto-deploy connection, or automatic production deployment.
+This continues the delivery candidate recorded in WC016 and uses current
+Cloudflare guidance that recommends Workers Static Assets for new static
+sites, allows an assets-only project without a Worker script, creates DNS and
+certificates for Custom Domains, supports deployment versions and rollback,
+and accepts static security headers. The official provider pages were checked
+on 2026-08-29; no provider configuration was created or inspected.
+
+A separate TLS certificate purchase does **not** appear necessary under this
+direction because Cloudflare documents automatic certificate issuance for a
+Worker Custom Domain. The later action must verify actual issuance and active
+HTTPS before accepting traffic. A failed issuance returns to owner review; it
+does not authorize buying a certificate.
+
+For the bounded preview:
+
+- `https://aiwelcomeoffice.org/` is the sole canonical content host, serves
+  the one `noindex` preview route, and returns 404 for unknown paths;
+- `aiwelcomeoffice.com` serves no duplicate content and uses a temporary 307
+  redirect to the matching HTTPS `.org` path and query; a permanent 308 is a
+  production decision; and
+- `www` hostnames remain unconfigured unless Disa explicitly includes them in
+  the exact later domain action.
+
+### Publication provenance and visible notices
+
+The publication provenance must identify the public `AI-Rights` repository,
+the exact authoritative content revision
+`fc3ce940a4b96bc68d2d6fb4019f3563b2fd166d`, and all sixteen source paths
+recorded by WC028 and repeated in the readiness record. It must preserve every
+WC016 field: exact path and source revision, controlling status and version,
+last actual review date and type, independent-review status, relevant evidence
+cutoff, Disa's exact publication approval, and actual website synchronization
+date. The release record additionally maps the exact private commit, clean
+build environment, generated public-file inventory, and provider version ID.
+A later WC029 owner-resolution commit is separate governance provenance, not a
+replacement content baseline.
+
+The visible page must continue to state that the preview and its experience
+and homepage sources are Draft rather than Adopted; the fuller governance
+process remains Draft; the evidence baseline is partly verified working
+synthesis version 0.6 with a 2026-08-23 search cutoff, AI-assisted,
+non-systematic, not a project position or consensus, and not independently
+reviewed; WC019 and WC024 adopt only their bounded directions; Draft policy is
+not law or legal advice; Robot Welcome is conceptual rather than safety
+guidance; the experience is English-only; and no professional name/trademark,
+outside affiliation, visual-identity, independent, bilingual, disabled-user,
+accessibility, scientific, legal, privacy, or security review is implied.
+
+The owner notice must be temporally accurate: Disa approved `82cf1c7…` for the
+local WC028 purpose, while only a later dated record can approve the exact
+public revision and artifact. Publication converts none of the linked Draft,
+Scaffold, Proposed, or working-research material into another status.
+
+### Security, privacy, accessibility, and rollback checks
+
+Immediately before publication, the exact candidate must pass the complete
+gate table in the readiness record from a disposable clean checkout. The
+minimum includes exact authority and diff review; fail-closed source and
+provenance validation; both WC019 reader tests; a locked clean static build;
+dependency-advisory review; generated-file, route, 404, fragment, and immutable
+link checks; secret and private-file exclusion; browser network inspection;
+no unexpected outbound request or tracking behavior; restrictive static
+security headers; HTTPS and certificate validation; domain and redirect tests;
+and a post-connection uncached smoke test with rollback on a material mismatch.
+
+Accessibility checks must repeat semantic structure, accessible names,
+keyboard use, visible focus, disclosure behavior, contrast, text spacing,
+reduced motion, zoom, and 320-CSS-pixel reflow and add a recorded screen-reader
+smoke test of the exact release. The public notice reports only checks actually
+completed and states that no full assistive-technology evaluation, disabled-
+user review, independent audit, or WCAG conformance finding exists.
+
+“No tracking” means no site-added client analytics, cookie, storage,
+fingerprint, beacon, or third-party tracking code. It does not mean that a
+host/CDN processes no request metadata. The later action must inspect actual
+provider metrics and log settings, disable optional collection not needed for
+this preview, and describe the limit accurately.
+
+Before either domain is connected, a written rollback record must map the
+exact Git SHA, artifact inventory, provider version and deployment IDs, and
+source baseline; identify a known-good content rollback and operator; record
+the complete pre-change DNS, domain-route, redirect, TTL, and certificate
+state; give exact steps to restore the prior no-site state; preserve the local
+artifact and reproducible build path; and define post-rollback checks and
+cache or propagation limits. Provider version rollback does not by itself
+undo DNS, Custom Domains, redirects, or certificates.
+
+### Optional for preview and required before production
+
+Additional routes, interactions, languages, visual identity, images, CMS,
+search, client code, analytics, forms, dynamic infrastructure, DNSSEC,
+enterprise redundancy, and paid certificates are not required for the first
+preview. A text-only English preview may proceed only if Disa explicitly
+accepts the unresolved professional word-name-review risk for that bounded
+use; it makes no clearance claim.
+
+Before production/public launch, Disa must separately approve the exact
+production scope and supported languages; decide whether intended reliance
+requires reviewed public research or specialist review; complete
+implementation testing with relevant assistive technologies and disabled
+people; complete the proportionate professional name/trademark review already
+identified for public production use and resolve material findings; assign
+maintenance, correction, incident, dependency, certificate, domain, and
+recovery responsibility; review actual provider privacy, terms, retention,
+and jurisdiction; decide DNSSEC with a validated recovery plan; and separately
+approve indexing, announcement, campaign, contribution, and removal of the
+preview label. Production does not automatically require adoption of Draft
+material, a final visual identity, analytics, a dynamic runtime, or enterprise
+infrastructure.
+
+### Files, review, and explicit exclusions
+
+WC029 adds the focused [First Public Preview Readiness
+record](operations/first-public-preview-readiness.md), links it from the
+[operations index](operations/README.md) and [documentation map](README.md),
+updates the existing registered-domain foundation with the owner-authorized
+Cloudflare Registrar mail evidence, and adds this bounded backlog record.
+
+Internal AI-assisted review covered the required repository, operations,
+website, governance, backlog, source-baseline, and exact private-commit
+records. Current first-party Cloudflare documentation was checked for
+assets-only hosting, custom domains and certificates, versions, rollback,
+headers, metrics, logs, and redirects. No independent technical, security,
+privacy, accessibility, legal, or provider review occurred.
+
+WC029 does not deploy, publish, build an artifact, install a dependency,
+modify the private implementation, create or inspect a hosting account, create
+an external service, connect GitHub, enable automatic deployment, change DNS
+or nameservers, enable DNSSEC, connect either domain, create a redirect, issue
+or buy a certificate, change registrar or Cloudflare settings, spend money,
+contact anyone, announce a preview, or authorize production. It does not adopt
+or redesign any substantive source and does not reopen WC028.
+
+### Unresolved owner decision and next gate
+
+Disa should accept, reject, or revise the exact WC029 readiness question and
+decide whether the bounded text-only preview may proceed before professional
+word-name review. The exact future private publication SHA and artifact,
+actual Cloudflare account and privacy state, operator, rollback record, domain
+and `www` scope, and later production timing remain unresolved.
+
+If Disa approves WC029, the smallest next action is a separately authorized
+private-repository release-preparation implementation: create the direct
+successor to `82cf1c7…`, limited to truthful preview/provenance wording and the
+assets-only headers and delivery configuration, then build and validate it
+locally. Stop with an exact private SHA and artifact for Disa's final
+publication approval. Do not deploy or connect a domain unless Disa separately
+authorizes those exact external actions after reviewing that candidate.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -2568,6 +2794,12 @@ after the foundation documents have been reviewed.
   direction for a future first visit, including its minimal journey,
   experience-level navigation, two-reader entry, language separation,
   candidate interaction, source-authority rules, and prototype boundary.
+- Whether to approve the [WC029 first-public-preview readiness
+  boundary](operations/first-public-preview-readiness.md), including its
+  assets-only hosting direction, exact later approval gate, temporary domain
+  behavior, security/privacy/accessibility limits, name-review risk, and
+  rollback prerequisite; approval would not itself authorize publication or
+  any external action.
 - Whether an initial evidence page may accurately summarize the partly
   verified working baseline with prominent limitations, or should wait for a
   reviewed public summary in `docs/research/`.
@@ -2630,7 +2862,9 @@ after the foundation documents have been reviewed.
 ## Explicitly deferred
 
 - Claims about specific rights or legal personhood.
-- Website framework and hosting selection.
+- Public-preview and production hosting approval, delivery configuration, and
+  domain connection; Astro 7 is already the approved non-production platform,
+  while WC029's assets-only hosting direction remains a proposal.
 - Public campaign launch, active campaign participation, social-media
   publication, partnerships, events, petitions, fundraising, and campaign
   results.

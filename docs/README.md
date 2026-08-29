@@ -30,8 +30,8 @@ separate from the working material in [`research/`](../research/README.md).
 - [`governance/`](governance/README.md) — Draft adoption, review, correction,
   and accountability process
 - [`operations/`](operations/README.md) — Draft registered-domain,
-  repository-responsibility, publication-provenance, and delivery-readiness
-  records; no website deployment authority
+  repository-responsibility, publication-provenance, first-public-preview,
+  and delivery-readiness records; no website deployment authority
 - [`website/`](website/README.md) — Draft first-visit experience architecture,
   source map, page specifications, eleven source-page Drafts, and the
   superseded earlier information architecture retained for history
