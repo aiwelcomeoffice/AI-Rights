@@ -2690,8 +2690,10 @@ authorizes those exact external actions after reviewing that candidate.
 
 ## Work Cycle 030 — First Public Preview Release Candidate
 
-**Status:** Exact publication candidate prepared; Disa's publication approval
-is pending. This record does not publish or deploy it.
+**Status:** Disa approved the exact candidate, generated artifact/file set,
+provenance record, and stated limitations for the bounded first public preview
+on 2026-08-30. It is **approved for publication but not yet published or
+deployed**.
 
 **Recorded:** 2026-08-30
 
@@ -2826,15 +2828,16 @@ sentience is established, no categorical future-only dismissal of possible
 experience, and no unsupported WCAG, scientific, legal, safety, affiliation,
 trademark, or independent-review claim.
 
-### Limits, rollback, and owner gate
+### Limits, rollback, and owner resolution
 
-This remains an English-only **Public Preview — Draft / Continuous-Beta — not
-a production launch** candidate. The website experience and homepage source,
-principles, policy, Robot Welcome, visual identity, and fuller governance
-remain Draft or otherwise retain their recorded source status; the evidence
-baseline remains partly verified AI-assisted working research version 0.6 with
-a 2026-08-23 search cutoff. WC019 and WC024 remain bounded directions rather
-than adoption of the complete page.
+This remains an English-only, publication-approved **Public Preview — Draft /
+Continuous-Beta — not a production launch** revision. The website experience
+and homepage source, principles, policy, Robot Welcome, visual identity, and
+fuller governance remain Draft or otherwise retain their recorded source
+status; the evidence baseline remains partly verified AI-assisted working
+research version 0.6 with a 2026-08-23 search cutoff. WC019 and WC024 remain
+bounded directions rather than adoption of the complete page. Publication
+approval changes none of those source or review statuses.
 
 No full assistive-technology evaluation, disabled-user review, bilingual
 review, independent scientific, legal, human-rights, affected-community,
@@ -2848,15 +2851,23 @@ changed, so the operational rollback state remains the prior no-site state.
 The later delivery action must record the actual provider version and complete
 pre-change and rollback state before connecting anything.
 
-**Final owner question:** Does Disa approve this exact private commit,
+**Owner question asked:** Does Disa approve this exact private commit,
 generated artifact/file set, provenance record, and stated limitations for the
 bounded first public preview?
 
-Until Disa answers yes for this exact candidate, it is not approved for
-publication. WC030 does not deploy, create or configure a Cloudflare Worker,
-connect `.org` or `.com`, change DNS, create a redirect, issue or buy a
+**Owner decision:** Yes. At `2026-08-30T00:57:20+02:00`, Disa approved exact
+private commit `ca1eaf31aabe57494038d2ceb3e1607c6d140b30`, its recorded generated
+artifact/file set and checksum, this provenance record, and the stated
+limitations for the bounded first public preview. Disa also directed the
+repositories to record the approved-for-publication state while explicitly
+instructing that publication must not be performed in this action.
+
+The publication state is therefore **approved for publication — not yet
+published**. No website synchronization date, provider version, or deployment
+ID exists. This approval does not deploy, create or configure a Cloudflare
+Worker, connect `.org` or `.com`, change DNS, create a redirect, issue or buy a
 certificate, enable DNSSEC, spend money, announce the website, or request
-indexing.
+indexing. Those external actions remain outside this status-recording action.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
