@@ -2377,6 +2377,91 @@ Only after that review and a separate explicit instruction may a later cycle
 in the private `aiwelcomeoffice` repository implement one very small static
 prototype. That future cycle is not authorized by WC027.
 
+## Work Cycle 028 — first static AI Welcome Office experience prototype
+
+### Owner approval and exact scope
+
+On **2026-08-29**, after reviewing the completed private prototype, Disa
+described the result as “amazing good” and explicitly directed that approval be
+recorded. Disa therefore approves the exact private `aiwelcomeoffice`
+implementation commit
+`82cf1c7b9ff4e604e8a6d2f7ecbd0dbc1a97bffb` (`Added-WC-028`) as the completed
+**WC028 local experience prototype**.
+
+This approval accepts that identified implementation as a successful private,
+local, non-production expression of the WC027 direction. It resolves the WC028
+prototype review gate only. “Approved” here is an owner decision about an exact
+implementation revision and use; it is not a new substantive document status
+and does not change any **Draft**, **Scaffold**, **Adopted**, **Superseded**,
+working-research, or review status in `AI-Rights`.
+
+### Verified source and implementation state
+
+The prototype records the exact public `AI-Rights` source baseline
+`fc3ce940a4b96bc68d2d6fb4019f3563b2fd166d` (`Added-wc027`). At the start of
+WC028, the clean local public `main` branch and its local `origin/main` tracking
+reference both resolved to that revision. This was a read-only local Git
+observation, not a fetch or authenticated remote query.
+
+The approved private revision changes six implementation files: `README.md`,
+`docs/source-state.md`, `src/components/StatusNotice.astro`,
+`src/layouts/BaseLayout.astro`, `src/pages/index.astro`, and
+`src/styles/global.css`. It implements one English static route, `/`, using the
+Draft sequence **Welcome → Explore → Learn → Go deeper**. The experience
+includes:
+
+- human-reader, AI-reader, and no-lens anchor entries without identity
+  detection, classification, storage, or factual branching;
+- four initially open native disclosures that distinguish an observation, a
+  scientific question, a Draft normative proposal, and an accountable
+  decision;
+- direct immutable links to the exact public sources used; and
+- local CSS and system fonts, with no client-side JavaScript, form, account,
+  analytics, tracking, cookie, image, remote font, third-party script, new
+  dependency, adapter, or delivery configuration.
+
+The presentation preserves welcome as a bounded normative and communicative
+stance rather than an empirical conclusion. It neither claims established
+present AI consciousness or sentience nor categorically confines possible
+experience to the future. Human rights, safety, accountable human and
+institutional responsibility, possible AI interests, and the anti-corporate-
+capture boundary remain visible.
+
+### Validation and review limits
+
+Before Disa's review, internal AI-assisted validation included the locked
+static build and generated-HTML accessibility check; a one-route inventory;
+fragment, source-path, and unexpected-outbound-request checks; HTTP 200 for `/`
+and 404 for an unknown route; wide and narrow browser inspection, including a
+375 CSS-pixel viewport without horizontal overflow; keyboard traversal from
+the skip link through navigation, entries, disclosures, and source links
+without a detected trap; sampled text contrast ratios from 5.58:1 to 13.51:1;
+`git diff --check`; and scans for scripts, forms, trackers, remote runtime
+origins, credentials, and personal data. Both WC019 reader tests were applied.
+
+Disa's positive review establishes owner acceptance for this bounded cycle; it
+is not a usability study or independent specialist review. No screen-reader or
+other assistive-technology evaluation, disabled-user review, bilingual or
+translation review, independent scientific, legal, privacy, security, or
+accessibility review, WCAG conformance finding, production-readiness finding,
+or public-interest consultation is established.
+
+### Approval boundary and next gate
+
+WC028 approval does **not** adopt the WC027 experience architecture, the Draft
+homepage, the linked Draft policy or governance material, or working research.
+It does not authorize content synchronization beyond the recorded revision,
+public preview, hosting, DNS or DNSSEC changes, deployment, publication,
+release, analytics, forms, accounts, external services, spending, or contact
+with another person or organization. The implementation remains **Draft /
+Continuous-Beta**, private, reversible, and non-production.
+
+Any later source update, content change, second language, new route,
+interaction, integration, external review, or delivery action requires a new
+bounded instruction. Before any public publication, Disa must separately
+approve the exact publication revision and file set after the required
+publication provenance and review limits are accurate.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
