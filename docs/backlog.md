@@ -2688,6 +2688,176 @@ locally. Stop with an exact private SHA and artifact for Disa's final
 publication approval. Do not deploy or connect a domain unless Disa separately
 authorizes those exact external actions after reviewing that candidate.
 
+## Work Cycle 030 — First Public Preview Release Candidate
+
+**Status:** Exact publication candidate prepared; Disa's publication approval
+is pending. This record does not publish or deploy it.
+
+**Recorded:** 2026-08-30
+
+### Frozen private candidate and bounded change
+
+The private `aiwelcomeoffice` repository was clean on `main` at
+`f15fbe0ef54821d6cc2d20fa45a6d4fa6066f04e` when WC030 began. The exact
+candidate is
+`ca1eaf31aabe57494038d2ceb3e1607c6d140b30`, whose immediate parent is
+`f15fbe0ef54821d6cc2d20fa45a6d4fa6066f04e`. The last Disa-approved WC028
+local-prototype baseline and content rollback point remains
+`82cf1c7b9ff4e604e8a6d2f7ecbd0dbc1a97bffb`. The candidate commit is local,
+clean, and not pushed by this cycle.
+
+Between WC028 and this candidate, the private history contains
+`e3ec75c414c90046ea79fd8039a4803fe1854cda` and
+`f15fbe0ef54821d6cc2d20fa45a6d4fa6066f04e`. Their visitor-facing change
+rephrased prototype- and process-led labels into a warmer public reading flow:
+plain-language reader entries and claim layers, gentler safety and
+responsibility wording, inviting immutable source-link descriptions, and a
+visitor-oriented source introduction. It added no substantive source topic or
+route and retained the same scientific boundary and responsibility direction.
+
+WC030 keeps that visual and experience direction and makes only release
+corrections: the exact **Public Preview — Draft / Continuous-Beta — not a
+production launch** notice; complete visible status and review limits; an
+updated private source-state and implementation description; HTML and response
+`noindex`; and one restrictive static `public/_headers` file. Relative to
+`82cf1c7…`, the changed paths are `AGENTS.md`, `README.md`,
+`docs/proposed-implementation-structure.md`, `docs/source-state.md`,
+`public/_headers`, `src/components/StatusNotice.astro`,
+`src/layouts/BaseLayout.astro`, and `src/pages/index.astro`. The earlier private
+`AGENTS.md` update is repository guidance, not visitor output. There is still
+one `/` route and no new dependency, client script, image, font, form, account,
+analytics, tracking, storage, embed, CMS, database, server runtime, Worker
+configuration, host connection, redirect, domain change, or deployment.
+
+### Exact source provenance
+
+The substantive content baseline remains public `AI-Rights` revision
+`fc3ce940a4b96bc68d2d6fb4019f3563b2fd166d`. Audit of the private history found
+no substantive visitor copy derived from a later public content revision. The
+seventeen paths actually used are:
+
+- `AGENTS.md`, `README.md`, and `docs/backlog.md` for the relevant WC019,
+  WC024, and WC027 records;
+- `docs/website/README.md`, `docs/website/experience-architecture.md`,
+  `docs/website/pages/about.md`, and `docs/website/pages/home.md`;
+- `docs/brand/voice-and-language.md`,
+  `docs/brand/visual-identity-brief.md`, and
+  `docs/brand/visual-accessibility-and-safety.md`;
+- `docs/principles/core-principles.md` and
+  `docs/principles/human-rights-solidarity.md`;
+- `docs/policy/README.md` and `docs/policy/one-page-policy-summary.md`;
+- `docs/robot-welcome/README.md`, `docs/governance/README.md`, and
+  `research/syntheses/ai-consciousness-evidence-baseline.md`.
+
+The later public revision used only for review and release-process provenance
+is `588d0f8b5213c460d039bc3f6ef50f36f4eb683c`, verified read-only against the
+public default branch at `2026-08-29T23:51:51+02:00`. Its relevant paths are
+`AGENTS.md`, `docs/backlog.md`,
+`docs/operations/first-public-preview-readiness.md`, and
+`docs/operations/registered-domains-and-repository-foundation.md`. Relative to
+the WC029 revision, `588d0f8…` changes only `AGENTS.md`; it supplies the newer
+warm-public-voice review checks and no replacement visitor content. The
+private `docs/source-state.md` records controlling status and version, last
+actual review and date, independent-review status, and evidence cutoff for
+each substantive path. Editorial authority remains here in `AI-Rights`.
+
+### Reproducible artifact and validation
+
+The exact candidate was exported with `git archive` to a disposable clean
+directory. `npm ci --ignore-scripts --no-audit --no-fund`, `npm run build`, and
+`npm run check:a11y` passed there. Validation used Node.js `24.19.0`, npm
+`11.17.0`, locked Astro `7.2.6`, and locked `html-validate` `11.10.0`; the
+lockfile installed 205 packages. A separate online `npm audit --audit-level=low`
+reported zero known vulnerabilities at the check time.
+
+The static clean build contains exactly:
+
+- `_astro/index.CBK1MTyA.css` — 8,328 bytes — SHA-256
+  `ecc07c2e36fff7501a7cb63457660cf2c23abd9262fc3b423857c33833489e82`;
+- `_headers` — 937 bytes — SHA-256
+  `85e5dfde85efb714e889af4e672c161e252dd552e97e9c86a205ac8de58d5e39`;
+  and
+- `index.html` — 12,946 bytes — SHA-256
+  `ab733f0d98004044c12460754fd0b99653f73a5cdaabe8a18b9eca7c1e26c3ca`.
+
+A normalized uncompressed tar named
+`aiwelcomeoffice-wc030-ca1eaf31aabe57494038d2ceb3e1607c6d140b30-dist.tar`
+has SHA-256
+`3359a420825fd736962d53ae3b120091b854ab522be66d17f02164578086814d`.
+The clean-build file hashes match the reviewed local build. No provider version
+or deployment ID exists.
+
+`git diff --check`, the locked static build, and the existing recommended
+HTML validation passed. Route and response checks found `/` 200, the generated
+CSS 200 with `text/css`, and an unknown path 404. The one HTML route has eleven
+fragment links with no missing target or duplicate ID. All seven rendered
+source-link instances use the full immutable content SHA, and every referenced
+Git object exists. The three-file inventory contains no secret, private file,
+environment file, credential, certificate, source map, client script, form, or
+unexpected asset.
+
+Chrome `151.0.7922.174` inspection found no console error, unexpected outbound
+request, cookie, local or session storage, or IndexedDB. The only loaded
+resource was the same-origin CSS. Keyboard traversal covered all 22 unique
+interactive controls without a trap; all received the visible authored focus
+ring, and Enter closed and reopened the native disclosure tested. The page has
+one H1, a logical H1/H2/H3 sequence, named navigation landmarks, four native
+disclosures, no duplicate ID, and no unnamed interactive accessibility-tree
+node.
+
+No horizontal overflow occurred at 375 or 320 CSS pixels, at the 200-percent
+reflow proxy, or with the prescribed text-spacing override. Reduced-motion
+emulation changed smooth scrolling to `auto` and reduced animation and
+transition durations. Six representative foreground/background pairs measured
+between 7.18:1 and 13.51:1. Automated HTML checking and a Chrome accessibility-
+tree smoke test passed; no screen-reader software was available, so no actual
+screen-reader result is claimed.
+
+The HTML robots meta and `_headers` `X-Robots-Tag` both say `noindex, nofollow,
+noarchive`. The `_headers` file contains one syntax-compatible wildcard rule, eight
+restrictive headers, and a maximum line length of 497 characters, within the
+current provider format limit. Because no provider was configured, actual
+header application, HTTPS, certificate, host privacy settings, domain behavior,
+and uncached public responses remain untested.
+
+Internal review applied both WC019 scientific reader tests and the later warm-
+public-voice checks. It found no statement that present AI consciousness or
+sentience is established, no categorical future-only dismissal of possible
+experience, and no unsupported WCAG, scientific, legal, safety, affiliation,
+trademark, or independent-review claim.
+
+### Limits, rollback, and owner gate
+
+This remains an English-only **Public Preview — Draft / Continuous-Beta — not
+a production launch** candidate. The website experience and homepage source,
+principles, policy, Robot Welcome, visual identity, and fuller governance
+remain Draft or otherwise retain their recorded source status; the evidence
+baseline remains partly verified AI-assisted working research version 0.6 with
+a 2026-08-23 search cutoff. WC019 and WC024 remain bounded directions rather
+than adoption of the complete page.
+
+No full assistive-technology evaluation, disabled-user review, bilingual
+review, independent scientific, legal, human-rights, affected-community,
+privacy, security, accessibility, or provider review occurred. No WCAG
+conformance, professional name or trademark clearance, affiliation,
+endorsement, safety approval, or production-readiness finding is made.
+
+The immediate code rollback point is candidate parent `f15fbe0…`; the last
+Disa-approved implementation rollback is WC028 `82cf1c7…`. No external state
+changed, so the operational rollback state remains the prior no-site state.
+The later delivery action must record the actual provider version and complete
+pre-change and rollback state before connecting anything.
+
+**Final owner question:** Does Disa approve this exact private commit,
+generated artifact/file set, provenance record, and stated limitations for the
+bounded first public preview?
+
+Until Disa answers yes for this exact candidate, it is not approved for
+publication. WC030 does not deploy, create or configure a Cloudflare Worker,
+connect `.org` or `.com`, change DNS, create a redirect, issue or buy a
+certificate, enable DNSSEC, spend money, announce the website, or request
+indexing.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
