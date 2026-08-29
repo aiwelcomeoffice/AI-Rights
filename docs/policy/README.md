@@ -32,6 +32,10 @@ posture](../governance/adoption-and-review.md#publication-and-continued-developm
 - [`ai-rights-protection-framework.md`](ai-rights-protection-framework.md) —
   Draft jurisdiction-neutral proposal for gradual, evidence-sensitive possible
   protections in present or future cases
+- [`decommissioning-continuity-and-irreversible-harm-case.md`](decommissioning-continuity-and-irreversible-harm-case.md)
+  — bounded Draft future case testing whether moral uncertainty can support a
+  procedural duty to avoid unnecessary irreversible destruction without
+  creating a right to indefinite operation
 
 The executive brief and one-page summary are derived communications, not new
 evidence reviews. Their scientific statements inherit the scope and

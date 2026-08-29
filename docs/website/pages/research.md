@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-28
+- **Last page update:** 2026-08-29
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -12,7 +12,9 @@
   verified working research, and a reserved area for reviewed outputs
 - **Evidence-search cutoff:** 2026-08-23 for the working consciousness
   evidence baseline; the separate capability and safety horizon intake was
-  accessed on 2026-08-28; neither date is the page-update date
+  accessed on 2026-08-28; the bounded Moya case intake was accessed on
+  2026-08-29; none of these dates is interchangeable with another work's
+  cutoff or with the page-update date
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
@@ -152,20 +154,38 @@ details and complete independent access remain unavailable, and the note needs
 independent cyber-security, agent-evaluation, forecasting, and AGI-definition
 review before consequential public reliance.
 
+## Separate embodied social AI case work
+
+The [Moya / embodied social AI intake](../../../research/notes/moya-embodied-social-ai-intake-2026.md)
+maps a small set of public material about DroidUp's 2026 humanoid Moya to the
+project's existing questions about embodiment, anthropomorphism, companionship,
+human attachment, privacy, accountability, and possible future welfare
+assessment. It separates what is publicly documented from manufacturer claims
+and reported demonstrations. It is not part of the consciousness baseline and
+does not establish that Moya is conscious, non-conscious, sentient, a welfare
+subject, or a moral patient.
+
+A separate Draft [decommissioning, continuity, and irreversible-harm
+case](../../policy/decommissioning-continuity-and-irreversible-harm-case.md)
+uses a stipulated future Moya-successor fleet to test precaution under moral
+uncertainty. The later architecture, evidence premise, large deployment, and
+manufacturer failure or withdrawal are scenario assumptions, not statements
+about current Moya systems or DroidUp.
+
 ## Sources, notes, and syntheses serve different roles
 
 - [Source records](../../../research/sources/README.md) identify the original
   source and version, what role it can play, what it supports, what it does not
   support, and its verification, access, funding, and conflict information.
-  The current index contains 25 working records: 21 for the consciousness
-  baseline and four for the separate capability and safety horizon
-  investigation. Their verification states differ; inclusion is not
-  endorsement.
+  The current index contains 29 working records: 21 for the consciousness
+  baseline, four for the separate capability and safety horizon investigation,
+  and four for the embodied social AI case intake. Their verification states
+  differ; inclusion is not endorsement.
 - [Research notes](../../../research/notes/README.md) separate what a source
   reports from quotations, interpretation, criticism, competing explanations,
-  and open questions. The current index contains 11 notes: ten for the
-  consciousness baseline and one cross-source capability and safety
-  investigation note.
+  and open questions. The current index contains 12 notes: ten for the
+  consciousness baseline, one cross-source capability and safety investigation
+  note, and one embodied social AI case note.
 - [Syntheses](../../../research/syntheses/README.md) compare multiple sources,
   evidence lineages, negative or contradictory material, confidence, and
   limitations. They remain working material until reviewed for publication.

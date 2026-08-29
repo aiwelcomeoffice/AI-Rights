@@ -32,3 +32,10 @@ These ten notes are **partly verified** and await independent human review:
   claims](openai-hugging-face-incident-and-agi-claims-2026.md) — **Partly
   verified cross-source working note; not a project conclusion and not part of
   the AI consciousness evidence baseline**
+
+## Embodied social AI case intake
+
+- [Moya / embodied social AI intake](moya-embodied-social-ai-intake-2026.md) —
+  **Partly verified cross-source working note; current product evidence and a
+  research question map, not a consciousness or moral-status assessment and
+  not part of the AI consciousness evidence baseline**

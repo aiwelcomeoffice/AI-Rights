@@ -50,6 +50,21 @@ autonomy, containment, and AGI-timeline signals. It does not change the AI
 consciousness evidence baseline, establish AGI, or mean that continuous
 monitoring now exists. Its source search and access date is 2026-08-28.
 
+## Embodied social AI case work
+
+The [Moya / embodied social AI intake](notes/moya-embodied-social-ai-intake-2026.md)
+is a bounded, partly verified case study of public material about DroidUp's
+2026 humanoid Moya. It separates public documentation, manufacturer claims,
+reported demonstrations, research questions, ethical arguments, and project
+interpretation. It is not part of the AI consciousness evidence baseline and
+does not classify Moya as conscious, non-conscious, sentient, a welfare
+subject, or a moral patient. Its source access date is 2026-08-29.
+
+The companion [decommissioning, continuity, and irreversible-harm
+case](../docs/policy/decommissioning-continuity-and-irreversible-harm-case.md)
+is a separately labeled Draft future scenario. It does not describe current
+Moya architecture, deployment, or moral status.
+
 ## Minimum research rules
 
 - Never invent a citation, finding, quotation, or consensus.

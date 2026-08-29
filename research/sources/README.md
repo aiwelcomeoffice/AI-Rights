@@ -59,3 +59,21 @@ incident must not be counted as four independent events.
 - [TIME: Inside OpenAI’s Reboot](heath-openai-reboot-2026.md)
   — **Verified only for the attribution and context of reported leadership
   claims**
+
+## Embodied social AI case records
+
+These records were added on 2026-08-29 for the bounded Moya / embodied social
+AI intake. The two DroidUp webpages are first-party corporate material. The
+ShanghaiEye video record and Xinhua-hosted profile provide public documentation
+and reporting, not independent engineering, care-outcome, consciousness, or
+welfare validation. Repeated claims across these sources may share DroidUp as
+their origin and must not be counted as independent confirmation.
+
+- [DroidUp company description](droidup-about-2026.md) — **Partly verified
+  first-party corporate material**
+- [DroidUp Moya company-news index](droidup-company-news-moya-2026.md) —
+  **Partly verified first-party reports of demonstrations and activities**
+- [ShanghaiEye Moya debut video](shanghaieye-moya-debut-video-2026.md) —
+  **Partly verified public video metadata and reported demonstration**
+- [Xinhua-hosted DroidUp and Moya profile](xinhua-droidup-moya-profile-2026.md)
+  — **Partly verified journalism and attributed manufacturer claims**

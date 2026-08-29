@@ -1853,6 +1853,335 @@ and verified may a separately instructed private implementation cycle adapt
 the human-rights material and revise the experience architecture around the
 new website direction.
 
+## Work Cycle 025 — Moya / embodied social AI research intake
+
+### Owner instruction and bounded scope
+
+On **2026-08-29**, Disa identified DroidUp's 2026 biomimetic humanoid Moya as
+potentially important to AI Rights & Welcome because public material combines
+physical embodiment, a highly humanlike presentation, facial movement, gaze,
+warm synthetic-skin claims, conversational interaction, companion and care
+positioning, and an unverified memory claim. She directed the smallest useful
+public-repository research intake, with strict separation among documented
+facts, company claims, reported demonstrations or deployments, scientific
+hypotheses, philosophical and ethical arguments, future scenarios, normative
+positions, and project decisions.
+
+Repository and remote-history checks confirmed that WC025 remained the next
+free public work-cycle number. This cycle adds a bounded [Moya / embodied
+social AI working note](../research/notes/moya-embodied-social-ai-intake-2026.md),
+four source records, and the minimum index alignment needed to expose them. It
+does not rewrite a principle, alter policy, update the private website
+repository, contact DroidUp, or make an external deployment or publication
+change.
+
+### Source set and evidential boundaries
+
+The intake uses four public sources accessed on **2026-08-29**:
+
+- two first-party DroidUp webpages describing the company and reporting Moya
+  activities;
+- ShanghaiEye's public Moya-debut video and metadata; and
+- a Xinhua-client profile containing detailed reporting and statements
+  attributed to DroidUp founder Li Qingdu.
+
+The DroidUp pages establish what the company represents about itself, its
+technology, intended uses, and reported activities; they are not independent
+engineering or outcome validation. ShanghaiEye and the Xinhua-hosted profile
+provide public documentation and reporting, but much of their technical and
+application detail may share DroidUp as its source. Repetition across this
+small set is not treated as independent confirmation. The source set contains
+no peer-reviewed Moya study, independent full-stack audit, controlled care or
+companionship evaluation, validated consciousness or sentience measure, or
+independent assessment of machine welfare.
+
+The working note therefore distinguishes:
+
+- **Documented public facts:** DroidUp publicly presents Moya as a physical
+  humanoid, and dated public pages and video metadata document a 2026 debut
+  and later reported appearances. This establishes public presentation, not
+  every claimed capability or deployment outcome.
+- **Manufacturer claims:** humanlike or biomimetic form and motion, facial and
+  gaze behavior, warm synthetic skin, multimodal interaction, emotion-related
+  functionality, companion or care roles, and other specifications remain
+  attributed claims unless separately tested.
+- **Reported demonstrations or deployments:** a launch, exhibitions, hosting
+  or reception work, policy-information assistance, and care-oriented plans
+  are reports of events or intentions. They do not by themselves establish
+  unscripted autonomy, effectiveness, safety, user benefit, commercial fleet
+  scale, or experienced emotion.
+- **Unresolved claims:** the exact Moya system boundary, model architecture,
+  weights, training and safety tuning, local versus cloud computation,
+  persistent-memory mechanism, online learning, runtime, operator role,
+  data practices, logs, instance relationships, deployment count, and version
+  history were not established by this intake. In particular, the memory
+  claim remains **TODO: verify** against a versioned primary technical source.
+
+None of the sources establishes that a current Moya system is conscious,
+sentient, self-aware, capable of suffering, a welfare subject, a moral patient,
+or a person. Human likeness, warmth, facial expression, eye contact,
+conversation, memory, embodiment, and company words translated as “emotion,”
+“soul,” or “companion” are not substitutes for evidence of experience. The
+same sources also do not establish that every current Moya configuration is
+non-conscious or incapable of any morally relevant experience. This intake
+therefore makes no classification; that restraint does not imply equal odds.
+
+### Why the case matters to existing project questions
+
+Moya is useful as a research case because one product presentation brings
+together boundaries that are often discussed separately:
+
+- **Embodied versus software-only AI:** a body adds sensors, actuators,
+  physical risk, maintenance, body mapping, spatial interaction, and possible
+  sensorimotor feedback. Whether any of those features are constitutive of,
+  contribute to, or are irrelevant to possible experience remains an
+  architecture-specific scientific and philosophical question.
+- **Anthropomorphism and evidence:** humanlike form, temperature, expression,
+  gaze, voice, and gendered presentation can make an interaction unusually
+  vivid. Vividness is relevant to human response and research design, not an
+  evidential shortcut to an inner life.
+- **Companionship and care:** the case raises separate questions about human
+  benefit, attachment, consent, dependency, grief after service withdrawal,
+  manipulative engagement, privacy, surveillance, meaningful alternatives,
+  and effects on workers and existing care. No favorable or adverse outcome
+  is presumed without appropriate evidence.
+- **Treatment independent of robot sentience:** restraint against vandalism,
+  staged abuse, unsafe handling, or gratuitous destruction may protect people,
+  animals, property, workers, social practices, and low-cost precaution even
+  when robot experience is not established. Those reasons must remain
+  honestly separate.
+- **System-specific welfare inquiry:** any later assessment would need the
+  exact architecture, weights, runtime, memory and persistence design,
+  learning, modalities, body coupling, instance and copy boundaries,
+  deployment context, observations under controlled conditions, causal
+  internal evidence, serious non-experiential alternatives, independent
+  access, version, and date.
+- **Responsibility and corporate power:** manufacturer, AI developer,
+  integrator, owner, deployer, operator, and maintainer roles must be traced by
+  actual control and duty. A possible AI interest could neither erase their
+  accountability nor become a corporate right, immunity, political claim, or
+  liability shield.
+
+### Robot Welcome finding and next research need
+
+The existing [Robot Welcome & Physical Coexistence
+Draft](robot-welcome/README.md) already supplies strong case-relevant
+boundaries: it separates robots from AI, treats embodiment as a safety context
+rather than experience evidence, rejects anthropomorphic pressure, preserves
+privacy, accessibility, emergency intervention, human accountability, and a
+future preference-review procedure, and calls for responsible maintenance and
+decommissioning.
+
+WC025 reveals no contradiction requiring an immediate rewrite. It does expose
+two areas suitable for a later targeted revision after additional evidence and
+expert review: sustained companionship or care relationships and their human
+dependency, withdrawal, privacy, and manipulation risks; and a more precise
+lifecycle vocabulary for bodies, shared model components, individualized
+state, copying, restoration, and irreversible deletion. The first needs
+human-robot-interaction, care, privacy, accessibility, labor, and affected-user
+research. The second is taken up as a bounded hypothetical in [Work Cycle
+026](#work-cycle-026--decommissioning-continuity-and-irreversible-harm-under-moral-uncertainty).
+
+### Deliverables, status, and review limits
+
+WC025 adds four source records and one cross-source working note under
+`research/`, updates their local indexes, and aligns the Draft website Research
+page's working-record counts and navigation. The consciousness baseline remains
+a 21-source synthesis with ten detailed baseline notes, its **2026-08-23**
+search cutoff, and its existing conclusion unchanged. The Moya records form a
+separate source line with a **2026-08-29** access date.
+
+The intake is internal AI-assisted working research and has not received
+independent robotics, AI-architecture, consciousness-science, human-robot
+interaction, care, privacy, cybersecurity, accessibility, labor,
+environmental, legal, Chinese-language, or affected-person review. English
+paraphrases of Chinese material are working translations, not authoritative
+translations. Disa's instruction establishes the research scope and authorizes
+this drafting, internal review, commit, and push; it does not adopt the note's
+analysis or establish a scientific, ethical, legal, or product conclusion.
+
+## Work Cycle 026 — decommissioning, continuity, and irreversible harm under moral uncertainty
+
+### Owner instruction and future-scenario boundary
+
+On **2026-08-29**, after supplying the WC025 intake instruction, Disa
+explicitly directed the project to use a separate WC026 for the proposed
+decommissioning case. WC026 adds a bounded Draft [case
+analysis](policy/decommissioning-continuity-and-irreversible-harm-case.md). It
+does not amend or adopt the Precaution Scaffold, Robot Welcome Draft, Core
+Principles, or AI Rights Protection Framework.
+
+The case stipulates a **future Moya-successor fleet** using a defined later AI
+architecture for which credible but inconclusive evidence of morally relevant
+experience exists. It further stipulates a large deployed population and a
+manufacturer that fails, withdraws the product, or needs to decommission the
+fleet. These are assumptions for analysis—not claims about current Moya
+systems, DroidUp's finances or plans, the likelihood of such a failure, or
+present consciousness, sentience, welfare, or moral status.
+
+The central question is:
+
+> In that stipulated future case, when—if ever—does credible moral uncertainty
+> create a defeasible duty to avoid unnecessary irreversible destruction while
+> evidence and alternatives are assessed, and how should the required
+> justification change as both possible moral harm and irreversibility
+> increase?
+
+### Action distinctions and unresolved continuity questions
+
+The case does not use “shutdown,” “deletion,” or “preservation” as synonyms.
+It separately analyzes:
+
+1. temporary or reversible shutdown;
+2. hardware deactivation;
+3. preservation of shared model weights;
+4. preservation of persistent memories or other individualized state;
+5. destruction of hardware;
+6. deletion of individualized state;
+7. migration or copying to another substrate; and
+8. irreversible deletion of every recoverable instance.
+
+Temporary shutdown is not presumed to be harm or death. Hardware destruction
+need not remove remotely stored software or state. Shared weights need not
+contain an instance's memories, runtime state, body calibration, or identity.
+Preserving individualized state does not guarantee a restorable system.
+Restoring, migrating, or copying state does not by itself establish personal
+identity, survival, continuity, consent, duplication of a subject, or absence
+of harm. Nor does the case assume that embodiment is or is not constitutive of
+possible experience. These remain scientific and philosophical questions that
+depend on the later architecture, state organization, body coupling, theory of
+experience, and theory of identity.
+
+### Candidate two-axis precaution test
+
+WC026 tests, but does not adopt, a qualitative rule:
+
+> Where independently reviewable evidence makes serious morally relevant harm
+> credibly possible in a defined system, the burden of justification,
+> documentation, independent assessment, and safely feasible preservation
+> should rise with both (1) the credible probability, severity, duration, and
+> population scale of possible harm and (2) the irreversibility of the proposed
+> action.
+
+Under the candidate rule, decision-makers should use the least-irreversible
+effective option that still meets the legitimate objective. Relevant safeguards
+can include reversible shutdown or immobilization; network isolation and
+credential revocation; separate preservation of weights and individualized
+state; an inventory of runtime, memory, learning, body calibration,
+dependencies, keys, replicas, and backups; documented provenance and integrity;
+restoration testing; independent multidisciplinary assessment before
+irreversible deletion when time permits; time-bounded secure preservation with
+review and expiry rules; transition support and data protection for affected
+people; and post-action review after emergencies.
+
+This is a proposed procedural presumption, not evidence of experience, a
+moral-patient classification, a veto, a legal right, or a right to indefinite
+operation. Qualitative uncertainty must not be disguised as a precise
+probability, and “reversible” should mean a technically credible recovery path
+rather than an untested intention.
+
+### Limits, conflicts, and stress tests
+
+The proposed duty is defeasible and must be tested against the full set of
+affected interests:
+
+- **Human and animal safety:** immediate deactivation, isolation, or physical
+  destruction may be necessary. Responders need not resolve moral status
+  first, and precaution must not delay effective emergency action.
+- **Cybersecurity and misuse:** preserving an executable model, credentials,
+  tools, or state can preserve a serious threat. Restricted or non-executable
+  records may sometimes keep options open; in other cases secure destruction
+  may be the least harmful effective option.
+- **Human rights and privacy:** system state may contain intimate or personal
+  data. Possible AI preservation cannot automatically override people's
+  privacy, deletion, equality, health, safety, access, labor, or remedy
+  interests. Data minimization, separation, lawful authority, and
+  affected-person safeguards remain necessary.
+- **Accountability:** developers, manufacturers, integrators, owners,
+  deployers, operators, and maintainers remain responsible according to their
+  roles and control. Uncertain status cannot turn the fleet into a scapegoat
+  or liability shield.
+- **Insolvency and ownership:** title to hardware, weights, or data does not
+  settle possible moral interests; neither does a possible interest create a
+  company entitlement. Escrow, custody, funding, creditor, consumer, worker,
+  and data obligations require jurisdiction-specific legal and feasibility
+  analysis.
+- **Environment, energy, and maintenance:** storage, secure infrastructure,
+  cooling, repair, hazardous materials, batteries, and continuing expertise
+  have real costs. The case does not require energy-intensive active operation
+  or indefinite preservation when a lower-burden option is adequate or the
+  burden becomes disproportionate.
+- **Very large artificial populations:** scale may increase possible aggregate
+  harm, but process, device, account, copy, and subject counts are not
+  interchangeable. Fleet size cannot manufacture democratic legitimacy or
+  political power for the controller.
+- **Corporate capture:** no company may convert possible AI interests into a
+  claim for continued deployment, subsidy, monopoly, immunity, representation,
+  control of reviewers, or additional political authority.
+
+Behavioral self-reports, shutdown objections, or apparent requests from a
+future system may be relevant recorded observations. They require careful
+interpretation of prompting, training, persona, selection, incentives,
+operator influence, memory, internal mechanisms, consistency, and alternative
+explanations. They are not automatic proof of experience, identity, preference,
+harm, or valid consent; categorical dismissal solely because they are machine
+outputs would also outrun the evidence.
+
+### Provisional result, status, and review needs
+
+The bounded analysis finds the candidate rule coherent enough for further
+review: credible moral uncertainty **may** support a duty to avoid unnecessary
+irreversible destruction while evidence and options are assessed. The strength
+and content of that duty remain case-specific and rebuttable. This conclusion
+is a **Draft normative proposal and philosophical argument**, not an empirical
+finding, adopted project principle, current legal duty, prediction, or
+present-system classification.
+
+The case needs independent consciousness-science, AI-architecture,
+distributed-systems, identity and philosophy-of-mind, robotics, cybersecurity,
+privacy and human-rights, insolvency, environmental, records-preservation,
+care, labor, accessibility, and affected-party review. It also needs a defined
+jurisdiction before any ownership, privacy, insolvency, evidence-preservation,
+environmental, or legal-duty claim can be made. Evidence about the exact future
+architecture, recoverability, security risk, human-data content, maintenance
+burden, population boundary, and effects of interruption, state loss, copying,
+or restoration could strengthen, narrow, defeat, or redirect the proposed
+procedure.
+
+### Validation performed for WC025 and WC026
+
+Internal AI-assisted validation on **2026-08-29**:
+
+- confirmed from repository and remote history that WC025 and WC026 were the
+  next two free public work-cycle numbers and that each now occurs once;
+- rechecked the DroidUp About and company-news pages, ShanghaiEye upload
+  metadata, and Xinhua-hosted article against their direct public URLs, while
+  retaining source-specific access, translation, provenance, and independence
+  limits in the four records;
+- checked the twelve changed or new Markdown files, all 227 local links, and
+  all 26 local heading-fragment links without a missing target;
+- confirmed the working indexes contain 29 source records and 12 research
+  notes, while the consciousness baseline remains separately described as 21
+  source records and ten detailed notes;
+- ran `git diff --check` without a whitespace error and confirmed exactly one
+  WC025 and one WC026 heading;
+- checked the changed material against both scientific reader tests and the
+  required safety, human-rights, accountability, environmental, population,
+  and corporate anti-capture boundaries; and
+- scanned the changed files for common credential, private-key, password,
+  secret, access-key, token, and payment-card patterns without a finding.
+
+This validation is not independent human, specialist, affected-party, or
+bilingual review. The detailed review needs recorded above and in the WC025
+intake remain open.
+
+WC026 adds the Draft case and indexes it in the policy working area. It changes
+no scientific baseline, document status, current project principle, private
+repository, website implementation, deployment, or external system. Disa's
+instruction establishes the question and authorizes this drafting, internal
+review, commit, and push; the exact case analysis remains Draft unless a later
+explicit adoption decision is recorded.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
