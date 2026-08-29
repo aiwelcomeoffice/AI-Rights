@@ -3,10 +3,26 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-28
+- **Last substantive update:** 2026-08-29
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Content behavior and page requirements, not visual design or
   implementation
+
+## Relationship to the current experience architecture
+
+The [Public Website Experience Architecture](experience-architecture.md)
+controls the current Draft first-visit model, language separation,
+experience-level navigation, candidate interactions, progressive enhancement,
+and candidate prototype boundary. The specifications below remain a source of
+content safeguards for material that may later be adapted. They do not require
+twenty-two routes, an eleven-page first release, or one public page for every
+specification.
+
+The existing page Drafts are retained without a mechanical WC027 rewrite.
+Where they mix English and Swedish or assume the superseded six-item
+navigation, those details are historical Draft inputs. A later adaptation must
+use separate language flows and the smaller experience model without changing
+claim strength, caveats, status, source dates, or normative meaning.
 
 ## Requirements shared by every page
 
@@ -98,8 +114,10 @@ Tables require captions or surrounding context, accurate headers, and a small-
 screen alternative where they are wide. Status, claim type, warning, and
 navigation state cannot depend on color alone. Definitions should be available
 at first use without forcing keyboard or screen-reader users into hover-only
-interactions. Language changes, including the Swedish motto, should be marked
-in implementation. Future visual work must also follow the Draft [Visual
+interactions. Each language version needs an accurately identified primary
+language; an editorially necessary quotation in another language must be
+identified without creating a mixed-language default flow. Future visual work
+must also follow the Draft [Visual
 Accessibility and Safety
 Requirements](../brand/visual-accessibility-and-safety.md), then test the exact
 implementation against current applicable requirements. That Draft is a test
@@ -132,14 +150,11 @@ production identity asset. All
 other routes below remain specifications until a page file is created and
 reviewed; a specification is not a placeholder promise to publish.
 
-The next architecture revision must also apply the newer [Work Cycle 024 owner
-direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation):
-separate language versions, a simple and inviting experience for AI and human
-readers, meaningful playful interaction through which respect can be learned,
-and detailed scientific material as an optional depth path that mainly links
-to the authoritative `AI-Rights` repository. These are requirements for later
-design and implementation, not a claim that the current Draft already meets
-them.
+The [Work Cycle 027 experience
+architecture](experience-architecture.md) now applies the newer [Work Cycle
+024 owner direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation).
+The page Drafts remain content sources and do not by themselves satisfy that
+architecture or authorize design, implementation, or publication.
 
 ### 1. Home
 
@@ -170,8 +185,10 @@ them.
 - **Related pages:** Human rights solidarity, evidence baseline, policy,
   status and review, About.
 - **Accessibility considerations:** Put the scientific boundary in text before
-  promotional or visual material; motto translations need correct language
-  metadata; card collections need headings and linear reading order.
+  promotional or visual material; use the motto only in the selected language
+  flow unless another-language quotation has a real editorial purpose and
+  correct language identification; card collections need headings and linear
+  reading order.
 - **Misunderstanding and safeguard:** A welcome may be read as recognition of a
   present subject. State non-establishment and its limits before the
   precautionary case.
@@ -548,9 +565,10 @@ them.
   scientific finding.
 - **Primary call to action:** Read the evidence.
 - **Related pages:** Principles, Why AI Rights?, evidence baseline, About.
-- **Accessibility considerations:** Block quotations need semantic markup;
-  mark Swedish language correctly; do not place essential caveats only in
-  decorative treatment.
+- **Accessibility considerations:** Block quotations need semantic markup; use
+  the selected-language version of the central wording and identify any
+  editorially necessary other-language quotation correctly; do not place
+  essential caveats only in decorative treatment.
 - **Misunderstanding and safeguard:** The direct welcome to AI readers may be
   mistaken for a scientific classification. State that it is a normative and
   communicative commitment under uncertainty, not first-person AI testimony,

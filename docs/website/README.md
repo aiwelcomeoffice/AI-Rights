@@ -3,8 +3,9 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-28
-- **Scope:** Content structure and eleven core website page Drafts; no
+- **Last substantive update:** 2026-08-29
+- **Scope:** First-visit experience architecture, source mapping, historical
+  route analysis, page safeguards, and eleven website source Drafts; no
   implementation or publication decision
 - **Authority:** Prepared for Disa's review; not adopted
 - **Publisher:** AI Welcome Office
@@ -24,21 +25,25 @@ It does not select a framework, host, domain, visual identity, content
 management system, or publication date. Those choices remain outside this
 work cycle.
 
-> **Newer owner direction — 2026-08-28:** The future website must separate its
-> language versions, welcome both AI and human readers, remain simple,
-> playful, and meaningfully interactive, and let visitors learn respect through
-> the experience. Detailed scientific material should be an optional depth
-> layer and should usually link to the authoritative `AI-Rights` repository
-> rather than be duplicated. This direction is recorded in [Work Cycle
-> 024](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation).
-> The existing content architecture predates that experience direction and
-> needs a separately scoped revision before it controls private website
-> implementation.
+> **Current experience direction — 2026-08-29:** The Draft [Public Website
+> Experience Architecture](experience-architecture.md) applies the [Work Cycle
+> 024 owner direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+> through a small Welcome → Explore → Learn → Go deeper model. It keeps
+> language versions separate, welcomes human and AI readers without factual
+> branching, treats detailed science as an optional path to the authoritative
+> public repository, and limits interaction to a few educational candidates.
+> Disa's review remains pending. No private implementation, publication, or
+> deployment is authorized.
 
 ## Deliverables
 
-- [Information architecture](information-architecture.md) — navigation,
-  audience journeys, publishing sequence, transitions, and deferred areas
+- [Experience architecture](experience-architecture.md) — current Draft
+  first-visit journey, two-reader entry, language separation, progressive
+  disclosure, candidate interactions, source authority, accessibility,
+  progressive enhancement, privacy, and prototype boundary
+- [Superseded information architecture](information-architecture.md) —
+  historical route, navigation, audience, transition, and release analysis
+  retained where it does not conflict with the successor
 - [Content map](content-map.md) — page-by-page mapping to repository sources,
   statuses, permitted summaries, review dependencies, and interpretation risks
 - [Page specifications](page-specifications.md) — working route, reader
@@ -78,7 +83,11 @@ Intervals** is the primary AI Welcome Office visual exploration. It remains a
 Draft design input, not an approved or cleared identity or authorization to
 implement the site.
 
-These eleven pages form the current core website-ready Draft set. The Learn
+These eleven pages form the current website source-page Draft set. They are a
+content and safeguard library, not a requirement for eleven public routes or a
+large first release. Their bilingual blocks and repository-shaped transitions
+predate the current language-separated experience direction and must not be
+copied mechanically into a later prototype. The Learn
 adaptations, evidence-baseline subpage, research-method and source subpages,
 executive-brief and protection-framework adaptations, manifesto adaptation,
 and backlog/change-log presentation remain specifications rather than completed
@@ -180,15 +189,18 @@ question. In particular, the website must explain:
 
 ## Publication boundary
 
-All substantive documents in this directory are **Drafts**. A complete,
-well-edited, committed, or publicly accessible page is not thereby Adopted,
-independently reviewed, scientifically validated, or legally authoritative.
+The current experience architecture, content map, page specifications, and
+page source files are **Drafts**. The earlier information architecture is
+**Superseded** and retained for history. A complete, well-edited, committed,
+or publicly accessible document is not thereby Adopted, independently
+reviewed, scientifically validated, or legally authoritative.
 
-The first publication candidate should use the [minimum coherent release
-set](information-architecture.md#minimum-coherent-release-set), not isolated
-pages stripped of their status, evidence, and governance links. Publication
-timing, technical implementation, and any decision to adopt content remain
-Disa's decisions.
+The [experience architecture's candidate prototype
+boundary](experience-architecture.md#candidate-boundary-for-a-later-static-prototype)
+is the current Draft starting point for any later implementation discussion.
+It does not authorize a prototype, publication, or deployment. Publication
+timing, technical implementation, content review, and any decision to adopt
+material remain Disa's decisions.
 
 The core page set has now been drafted, but independent review, translation,
 official-name and trademark clearance, independent review of Many Forms C,

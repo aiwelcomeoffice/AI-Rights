@@ -32,9 +32,9 @@ separate from the working material in [`research/`](../research/README.md).
 - [`operations/`](operations/README.md) — Draft registered-domain,
   repository-responsibility, publication-provenance, and delivery-readiness
   records; no website deployment authority
-- [`website/`](website/README.md) — Draft public website information
-  architecture, source map, page specifications, and eleven core page Drafts,
-  including human-rights solidarity and an inactive Campaigns concept page
+- [`website/`](website/README.md) — Draft first-visit experience architecture,
+  source map, page specifications, eleven source-page Drafts, and the
+  superseded earlier information architecture retained for history
 - [`backlog.md`](backlog.md) — single project backlog, change log, owner
   directions, and prioritized foundation work
 

@@ -2182,6 +2182,201 @@ instruction establishes the question and authorizes this drafting, internal
 review, commit, and push; the exact case analysis remains Draft unless a later
 explicit adoption decision is recorded.
 
+## Work Cycle 027 — AI Welcome Office website experience architecture revision
+
+### Owner instruction and authority boundary
+
+On **2026-08-29**, Disa directed a bounded revision of the future AI Welcome
+Office website experience architecture in the public `AI-Rights` repository.
+The central question was what a human or AI visitor should experience during
+the first few minutes while scientific honesty, human rights, safety,
+governance, accessibility, privacy, and source provenance remain intact.
+
+This cycle implements the website requirements accepted in [Work Cycle
+024](#work-cycle-024--human-rights-solidarity-and-allyship-foundation): separate
+language versions; a welcome for human and AI readers; a simple, warm,
+playful, and meaningfully interactive experience; respect learned through the
+experience; and detailed science as an optional path that mainly links to the
+authoritative public repository.
+
+`AI-Rights` remains authoritative for meaning, content, status, governance,
+and website source direction. Website copy remains a presentation layer. The
+private `aiwelcomeoffice` repository is outside this cycle and no website
+implementation, technology, publication, or deployment is authorized.
+
+### Initial repository observation and cycle number
+
+Before WC027 edits, the public repository was on branch `main` with
+`git status --short --branch` reporting `## main...origin/main` and no changed
+or untracked file. Local `HEAD` and the local `origin/main` tracking reference
+both resolved to `5a80d571a1bfb8987b572375324cc8255ce7f712`, subject
+`research: add Moya and decommissioning case studies`. The configured remote
+was the public `https://github.com/aiwelcomeoffice/AI-Rights.git` repository.
+These are local Git observations; no fetch, pull, merge, rebase, authenticated
+remote query, commit, or push occurred.
+
+The numbered work-cycle headings and repository history showed WC025 and WC026
+as the latest numbered cycles and no WC027. WC027 was therefore the next free
+number.
+
+### Conflict finding and reconciliation
+
+The earlier Draft website information architecture contained useful source,
+audience, transition, and misunderstanding analysis, but several controlling
+assumptions predated and conflicted with WC024:
+
+- its six-item primary navigation and large route tree mirrored the repository
+  more closely than a simple first-visit experience;
+- its minimum coherent release set required many pages before a small
+  prototype could test the welcome;
+- it supplied no small interaction model through which a visitor could learn
+  respect or claim-category distinctions;
+- it did not define an AI-reader entry alongside a human-reader entry; and
+- some existing page Drafts mixed English and Swedish in one reading flow.
+
+The existing authority, source mapping, progressive-depth reasoning, status
+notices, claim separation, human-rights, safety, accountability, accessibility,
+and misunderstanding safeguards remain useful. WC027 therefore preserves
+them while superseding only the older experience, navigation, language-flow,
+and minimum-release assumptions. The eleven page Drafts remain source history
+and were not mechanically rewritten.
+
+### Draft experience decisions and candidates
+
+WC027 adds the Draft [Public Website Experience
+Architecture](website/experience-architecture.md). It proposes:
+
+> **Welcome → Explore → Learn → Go deeper**
+
+Language selection precedes this journey when needed and leads to separate
+single-language flows. Welcome establishes the project relationship, bounded
+normative welcome, compact scientific uncertainty, human-rights foundation,
+safety, accountability, and a visible status/source route. Explore offers
+human-reader, AI-reader, and no-lens entries that may change emphasis but never
+facts, caveats, rights, safety, status, or sources. Learn uses at most one
+small educational interaction in a first prototype. Go deeper links directly
+to canonical `AI-Rights` evidence, principles, human-rights, policy, Robot
+Welcome, governance, and owner records.
+
+The smaller experience-level navigation candidate uses Welcome through the
+AI Welcome Office identity, Explore, Learn, Sources & status, About, and a
+language control. Evidence, Principles, Human rights, Policy, and Robot Welcome
+remain topic destinations rather than mandatory primary-menu items. Existing
+routes remain a source inventory, not a required public page tree.
+
+Three interactions remain conceptual candidates:
+
+1. a human-reader, AI-reader, or no-lens entry that does not detect or store
+   identity;
+2. claim layers that distinguish observation, scientific question, Draft
+   normative proposal, and authorized decision; and
+3. a bounded respect-under-uncertainty thought experiment with no
+   consciousness score, moral score, guilt prompt, or personality verdict.
+
+A later prototype should choose the smallest useful subset. Every candidate
+must have a complete static reading path, work without JavaScript, require no
+account or personal information, and use no tracker or third-party script.
+Keyboard, screen-reader, reduced-motion, visible-focus, language, reflow,
+zoom, text-alternative, and non-color requirements are architecture inputs,
+not claims that an unbuilt site conforms to an accessibility standard.
+
+These journey, label, navigation, interaction, and prototype choices remain
+**Draft**. WC024's bounded owner direction is Accepted, but “Accepted” is not a
+document status and does not adopt WC027 wording or any underlying Draft,
+Scaffold, Proposed, or working-research source.
+
+### Authority boundaries preserved
+
+The architecture makes explicit that:
+
+- research evidence does not automatically establish a normative duty;
+- normative proposals are not scientific findings;
+- Draft policy is not current law or legal advice;
+- possible AI interests do not erase human rights, animal welfare, safety,
+  privacy, accessibility, environmental duties, developer or operator
+  responsibility, emergency intervention, or the public interest; and
+- possible AI protection cannot become corporate rights, political power,
+  immunity, representation by default, or a liability shield.
+
+The cycle changes no scientific conclusion or present-system classification.
+It preserves both reader tests: the experience must neither imply established
+present AI consciousness or sentience nor categorically confine possible
+experience to the future or make welcome conditional on proof.
+
+### Deliverables and status
+
+WC027 changes only seven public-repository Markdown files:
+
+- adds `docs/website/experience-architecture.md` as the focused current Draft;
+- marks `docs/website/information-architecture.md` **Superseded**, links its
+  replacement, and retains its useful historical reasoning;
+- updates `docs/website/README.md` to make the experience architecture the
+  current entry point and the eleven page Drafts a source library rather than
+  a release mandate;
+- updates `docs/website/content-map.md` so its routes remain source mappings,
+  not a required page tree;
+- updates `docs/website/page-specifications.md` so its safeguards remain useful
+  under separate languages and the smaller experience model;
+- updates `docs/README.md` so the documentation map points to the current
+  experience architecture while retaining the superseded earlier Draft; and
+- adds this bounded WC027 owner-instruction and change record.
+
+The new architecture remains **Draft** for Disa's review. Superseding the
+older never-adopted information-architecture Draft resolves a documentation
+conflict; it does not adopt the replacement, the page Drafts, or their sources.
+
+### Explicit exclusions
+
+WC027 does not redesign or rewrite the eleven website page Drafts; choose
+final public copy, routes, URL structure, working language, translations,
+visual identity, illustrations, or interaction implementation; modify the
+private repository; create HTML, CSS, JavaScript, hosting, DNS, analytics,
+accounts, forms, external services, or dependencies; contact anyone; publish;
+deploy; commit; or push.
+
+WC025 and WC026 remain separate research and policy case studies. No direct
+consistency issue required expanding either case or importing its scenario
+into the first-visit experience.
+
+### Validation performed
+
+Before handoff, internal AI-assisted validation:
+
+- inspected the complete public-repository diff and checked the seven changed
+  Markdown files for status, date, scope, scientific, legal, safety,
+  accessibility-conformance, affiliation, and implementation boundaries;
+- checked 466 local Markdown paths and 78 heading fragments across the seven
+  changed files without a missing target;
+- ran `git diff --check` without a whitespace error;
+- searched the website architecture set for contradictory current navigation,
+  language-flow, experience, and release descriptions;
+- confirmed that WC027 occurs exactly once as a work-cycle heading;
+- applied the human-reader and AI-reader scientific tests and rechecked human
+  rights, corporate anti-capture, accountability, safety, emergency-action,
+  animal, privacy, accessibility, environmental, and public-interest
+  boundaries; and
+- confirmed by read-only final status that the private implementation
+  repository remained clean on `main` at
+  `f8a5021163cc6e4565118bace8812d7f1ece5c47`, unchanged from the state recorded
+  before WC024.
+
+This is documentation and internal consistency validation, not independent
+human, specialist, affected-party, bilingual, legal, scientific, privacy,
+security, or accessibility review. No accessibility conformance, scientific
+validation, legal conclusion, deployment readiness, or external approval is
+established.
+
+### Next gate
+
+Disa reviews the complete WC027 diff and decides whether the Draft experience
+architecture is an appropriate direction, including the journey labels,
+reader-lens choice, first learning interaction, language scope, and relative
+prominence of Human rights and Robot Welcome.
+
+Only after that review and a separate explicit instruction may a later cycle
+in the private `aiwelcomeoffice` repository implement one very small static
+prototype. That future cycle is not authorized by WC027.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 The repository-wide scientific boundary now states epistemic symmetry
@@ -2284,9 +2479,10 @@ after the foundation documents have been reviewed.
   how their different limitations should be recorded.
 - Whether the executive policy brief and one-page summary are ready for public
   use as clearly labeled Draft analysis after Disa's final manual review.
-- Whether to approve the Draft website information architecture as the content
-  direction for a future site, including its minimum coherent release set,
-  navigation, source-authority rules, and homepage wording.
+- Whether to approve the Draft website experience architecture as the content
+  direction for a future first visit, including its minimal journey,
+  experience-level navigation, two-reader entry, language separation,
+  candidate interaction, source-authority rules, and prototype boundary.
 - Whether an initial evidence page may accurately summarize the partly
   verified working baseline with prominent limitations, or should wait for a
   reviewed public summary in `docs/research/`.

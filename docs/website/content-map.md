@@ -3,11 +3,18 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-28
+- **Last substantive update:** 2026-08-29
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Exact source and authority mapping for proposed website pages
 
 ## How to use this map
+
+The [Public Website Experience Architecture](experience-architecture.md)
+controls the current Draft first-visit model. Routes and page names in this
+map identify content and source relationships; they do not require a matching
+public page tree, primary-navigation item, or initial-release page. A later
+experience may use a short source-grounded summary and link directly to the
+canonical repository document.
 
 Each website page is a derived communication layer. Its authority is bounded
 by the least-reviewed source needed for the claim at issue:
@@ -71,7 +78,10 @@ source.
 
 The completed file records below remain website **Drafts**. Their presence
 does not mean that their sources, page specifications, information
-architecture, or publication have been adopted.
+architecture, or publication have been adopted. Several predate WC024's
+language-separated direction and contain English and Swedish in one Draft.
+They remain source history and must be adapted into separate language flows
+rather than copied mechanically into a later prototype.
 
 | Page | Current Draft file |
 | --- | --- |
@@ -455,3 +465,7 @@ architecture, or publication have been adopted.
    cutoff** is methodological. One never substitutes for the other.
 7. If a source is corrected, withdrawn, superseded, or materially revised,
    reassess every mapped page before continuing to rely on it.
+8. An interaction, reader lens, shortened journey, or polished presentation
+   cannot change a source's claim category, review state, or authority.
+9. Detailed evidence should normally link to the canonical public repository
+   record rather than be duplicated into a second corpus that can drift.

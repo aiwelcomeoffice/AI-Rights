@@ -1,12 +1,24 @@
 # Public Website Information Architecture
 
-**Status: Draft**
+**Status: Superseded**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-28
-- **Authority:** Proposed for Disa's review; not adopted
-- **Scope:** Content organization and reader journeys, not technical
-  implementation or publication approval
+- **Last substantive update:** 2026-08-29
+- **Superseded by:** [Public Website Experience
+  Architecture](experience-architecture.md), prepared through [Work Cycle
+  027](../backlog.md#work-cycle-027--ai-welcome-office-website-experience-architecture-revision)
+- **Authority:** Historical Draft retained for its source, audience,
+  transition, and risk analysis; never adopted
+- **Scope:** Superseded content organization, route, navigation, reader-
+  journey, and minimum-release assumptions; no technical implementation or
+  publication approval
+
+> **Supersession notice:** Work Cycle 027 replaces this document's proposed
+> first-visit journey, six-item primary navigation, and minimum coherent
+> release assumptions. The older analysis below remains useful historical
+> input where it does not conflict with the successor. Supersession does not
+> adopt the successor Draft or authorize private implementation or
+> publication.
 
 ## Architecture objective
 
@@ -30,20 +42,23 @@ Warmth belongs in the welcome and the commitment to inquiry. Credibility comes
 from visible boundaries, traceable sources, and serious treatment of skeptical
 questions. Neither should cancel the other.
 
-### Owner-directed experience revision still required
+### Why this Draft was superseded
 
 [Work Cycle 024 owner
 direction](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
-adds requirements that postdate this Draft architecture: language versions
+added requirements that postdated this Draft architecture: language versions
 must be separated; the experience should be simple, inviting, playful, and
 meaningfully interactive for both AI and human readers; respect should be
 learnable through interaction; and detailed scientific content should remain
 an optional depth path that mainly links to the authoritative `AI-Rights`
-repository. The current navigation and release model remain historical Draft
-inputs until a later bounded cycle tests and revises them against that
-direction. No private implementation or publication is authorized here.
+repository. The [Work Cycle 027 experience
+architecture](experience-architecture.md) now supplies that bounded revision.
+No private implementation or publication is authorized by either document.
 
-## Recommended navigation
+## Historical Draft navigation
+
+The following navigation records the earlier repository-shaped proposal. It
+is not the current recommendation for a first visit or later prototype.
 
 ### Primary navigation
 
@@ -56,12 +71,12 @@ direction. No private implementation or publication is authorized here.
 | Principles | `/principles/` | Proposed ethical commitments and manifesto |
 | Robot Welcome | `/robot-welcome/` | Responsible coexistence with embodied systems |
 
-The **AI Welcome Office** full name or mark should link to `/`. **AI Rights &
+The earlier Draft proposed that the **AI Welcome Office** full name or mark
+link to `/`. **AI Rights &
 Welcome — An AI Welcome Office project** should remain visible as the project
 identifier where space permits. Six text items are the upper limit for the
-primary menu. About, governance, and participation remain highly visible
-through utility and footer navigation without making the first menu a catalogue
-of the repository.
+historical primary-menu proposal. The successor instead proposes a smaller
+experience-level navigation while preserving access to the material below.
 
 ### Utility navigation
 
@@ -156,10 +171,10 @@ It should not reproduce the FAQ, policy ladder, research method, governance
 process, or manifesto. Section landing pages supply the missing context and
 then point to the authoritative depth documents.
 
-## Minimum coherent release set
+## Historical minimum coherent release set
 
-A public website should not launch as a single persuasive homepage. The
-smallest coherent set is:
+The earlier Draft proposed that a public website should not launch as a single
+persuasive homepage and named the following smallest coherent set:
 
 - Home;
 - AI Rights 101, FAQ, and glossary;
@@ -177,12 +192,11 @@ and review dependencies are ready. If not, navigation should omit them rather
 than point to placeholders. Direct repository links may still expose the
 source material.
 
-The evidence page is essential even though its source is not publication-
-ready research. It should disclose that dependency prominently and offer a
-plain-language summary only at the strength already used in the Draft
-education and policy documents. Disa should decide whether that is sufficient
-for initial publication or whether a reviewed `docs/research/` summary must be
-prepared first.
+The successor architecture does not treat this page set as the minimum unit
+for a first experience or prototype. It requires a compact scientific boundary
+and direct access to canonical evidence and limitations, while leaving Disa to
+decide whether any website evidence summary is suitable for later public use
+before a reviewed `docs/research/` summary exists.
 
 ## Content readiness by layer
 
