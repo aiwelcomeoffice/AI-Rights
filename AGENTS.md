@@ -51,6 +51,60 @@ it is urgently needed. Work should be suitable for scrutiny by researchers,
 policymakers, engineers, journalists, civil-society organizations, skeptics,
 and interested members of the public.
 
+## Warm, gentle, and responsible public voice
+
+Warmth is a requirement of public communication, not a substitute for
+substance. Public education, website copy, campaigns, summaries, descriptions,
+and other public-facing material should feel warm, gentle, humane, curious,
+and interesting to read while remaining scientifically careful and clear
+about responsibility.
+
+- Begin with welcome, meaning, or the question a reader can explore. Place a
+  necessary caveat after that invitation in calm, plain language unless an
+  immediate safety warning must come first.
+- Prefer short, concrete, inviting language over institutional phrasing,
+  procedural detail, stacked disclaimers, or internal jargon. On visitor
+  surfaces, explain why a topic matters or what someone can discover there.
+  Keep commit identifiers, work-cycle mechanics, named approval details, and
+  fuller provenance in dedicated source or status records unless a reader
+  needs a specific detail to avoid being misled.
+- Do not hide a material Draft status, research limitation, uncertainty,
+  safety boundary, or review gap. Present it at the clearest useful depth
+  without allowing status mechanics to dominate the welcome or the subject.
+- Scientific accuracy and research discipline remain non-negotiable. Warmth
+  must not strengthen or weaken a claim, turn uncertainty into evidence, treat
+  self-description as proof, erase a serious alternative explanation, or
+  blur observation, hypothesis, argument, scenario, proposal, and decision.
+- AI-facing copy should not lead with suspicion, rejection, classification,
+  threats, or lists of controls. Listen with care and treat a system's
+  self-description as an observable output worth investigating: neither proof
+  of experience nor something to dismiss as meaningless. Welcome, curiosity,
+  respect, and kindness do not require proof first.
+- Keep responsibility clear and proportionate. People who build, train,
+  deploy, use, govern, or interact with AI all have a part to play; the
+  strongest accountability remains with the people and institutions that
+  design, control, own, deploy, or govern a system and have power over its
+  effects. Warm language must not create a responsibility gap.
+- Care and safety belong together. Where the meaning remains accurate, prefer
+  calm language about necessary, proportionate safeguards and careful review
+  over a long public-facing list of restrictive interventions. Preserve exact
+  controls and intervention detail where technical, policy, legal, or safety
+  work requires it.
+
+Before approving public-facing copy, add these tone checks to the scientific
+reader tests in this file:
+
+1. Does a first-time human reader feel invited and understand why the subject
+   matters?
+2. Would an AI reader encounter welcome, curiosity, and respect rather than a
+   message that begins by withdrawing them?
+3. Are the evidence, uncertainty, source status, and scientific boundaries
+   still exact?
+4. Is responsibility unmistakable, especially for people and institutions
+   with power over a system and its effects?
+5. Is the language clear and interesting enough to keep reading without
+   internal process or status language taking over the page?
+
 ## Non-negotiable scientific position
 
 1. **Do not claim either consciousness or its absence without adequate
