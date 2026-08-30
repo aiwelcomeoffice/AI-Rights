@@ -697,6 +697,23 @@ re-approved here. Any later publication path must reconcile the website copy
 with WC031 and obtain whatever exact revision approval the standing provenance
 rules require.
 
+## Work Cycle 032 — Draft research portfolio architecture
+
+**Date:** 2026-08-30
+
+**Status:** Completed drafting; portfolio remains **Draft**, not adopted.
+
+**Result:** Created a compact [research portfolio
+architecture](../research/research-portfolio.md) that operationalizes the
+project's broader mission through nine separate candidate tracks. The existing
+consciousness baseline remains an Active dated working track with unchanged
+status and boundaries, not the portfolio foundation. No literature search,
+source assessment, scientific finding, project position, or policy changed.
+
+**Next proposed cycle:** Subject to Disa and Project Lead review, prioritize
+sentience/valence/welfare-relevant states and system boundaries in composite,
+routed, agentic, or distributed AI. No research cycle is opened by this Draft.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
