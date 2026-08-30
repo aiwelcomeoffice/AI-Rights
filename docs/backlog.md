@@ -3060,3 +3060,5 @@ after the foundation documents have been reviewed.
 - Broad public contribution requests.
 
 Deferral keeps the first cycle focused; it is not a rejection of these goals.
+
+## Added correction Disa and projectlead 2026-08-30
