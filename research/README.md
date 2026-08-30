@@ -14,6 +14,9 @@ and does not itself establish any scientific conclusion.
 
 ## Workspace map
 
+- [Draft research portfolio architecture](research-portfolio.md) — three-layer
+  allocation of external evidence intake, supporting methodology, and active
+  applied civic-transition research
 - [Sources](sources/README.md) — one record per identifiable source and
   version; start with the [source template](sources/_template.md)
 - [Notes](notes/README.md) — reading and investigation notes tied to sources;

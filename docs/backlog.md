@@ -714,6 +714,30 @@ source assessment, scientific finding, project position, or policy changed.
 sentience/valence/welfare-relevant states and system boundaries in composite,
 routed, agentic, or distributed AI. No research cycle is opened by this Draft.
 
+## Work Cycle 033 — applied civic-transition research architecture
+
+**Date:** 2026-08-30
+
+**Status:** Owner- and Project-Lead-directed amendment completed; portfolio
+remains **Draft**, not adopted.
+
+**Result:** Amended the [research portfolio
+architecture](../research/research-portfolio.md) into three functional layers:
+external specialist evidence intake, supporting methodology, and active
+applied civic-transition research. This redirects scarce project capacity
+without making a new literature search, scientific finding, moral or legal
+classification, rights or responsibility determination, policy change, or
+continuous-monitoring claim.
+
+**WC032 and baseline boundary:** WC032 remains preserved as the Draft that
+identified the nine foundational evidence domains; WC033 changes their
+operational roles rather than erasing or superseding them. The consciousness
+baseline remains unchanged in status, scope, findings, and evidence boundaries.
+
+**First applied candidate:** Evidence-to-governance transition triggers is
+recorded but not researched or opened. It must allow no action and increased
+uncertainty as legitimate outcomes.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
