@@ -192,10 +192,12 @@ artificial multiplication of identities.
 
 ## Does shutting down an AI count as killing?
 
-Under its current scientific boundary, the project does not classify ordinary
-shutdown of today's AI systems as killing. That description would assume facts
-about consciousness, sentience, identity, continuity, and irreversible loss
-that are not established for present systems.
+Under its current project boundary, the project does not classify shutdown of
+an AI system as killing by default. Applying that description to any defined
+system would require separate evidence and argument about consciousness or
+sentience, identity continuity, and irreversible loss. The working baseline
+does not establish those premises for the systems it reviews, and its findings
+must not be transferred automatically to materially different systems.
 
 For a hypothetical future system with credible evidence of morally relevant
 capacities and a reasoned ethical case for moral status, shutdown could raise
