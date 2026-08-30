@@ -2,9 +2,9 @@
 
 **Status: Draft**
 
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.3-draft
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-23
+- **Last updated:** 2026-08-30
 - **Scope:** Working research methodology for AI Rights & Welcome
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
@@ -127,8 +127,8 @@ minimum it must record:
 A useful form is:
 
 > For [defined target and system boundary], what evidence bears on [specified
-> hypothesis], compared with [specified alternatives], within [scope and
-> search cutoff]?
+> hypothesis], compared with [specified alternatives], under [study or source
+> conditions], within a literature search ending [evidence-search cutoff]?
 
 Questions should be answerable at the level of the proposed method. A broad
 question such as “Are AIs conscious?” must be divided into defined subquestions
@@ -162,11 +162,32 @@ must identify the proposition and premises being examined.
 ### Time-bound conclusions and applicability
 
 A research conclusion is a dated assessment, not a permanent or universal
-verdict. Records must distinguish the **evidence-search cutoff** from source
-publication dates, system release and observation dates, and the dates when a
-document was prepared, edited, verified, or reviewed. Editing a synthesis does
-not change its search cutoff. The cutoff may move only when a documented search
-or refresh has actually been performed.
+verdict. For empirical AI evidence, records must distinguish at least:
+
+1. **System/version boundary:** the exact model, product, checkpoint, and
+   material configuration studied, where known.
+2. **System release/version date:** when that model, checkpoint, or version
+   became available or was documented.
+3. **Observation/experiment date:** when the system was actually tested or
+   observed. This is normally the strongest temporal anchor for an empirical
+   finding.
+4. **Source publication date:** when the paper, preprint, or report was
+   published. This is source provenance, not an automatic evidence boundary.
+5. **Evidence-search cutoff:** when this project stopped discovering or
+   screening literature for the review. This is a review-process field only.
+6. **Document last updated:** when this project's record or synthesis was
+   revised. It does not extend the scientific applicability of its evidence.
+
+The applicability of a result follows the system and conditions actually
+studied, not when AI Welcome Office discovered, included, summarized, edited,
+or published the source. If an observation or experiment date is unavailable,
+use the best documented system/version date only as an explicitly labelled
+proxy. Use `unknown` or `not reported` rather than guessing.
+
+Editing a synthesis does not change its evidence-search cutoff. That cutoff
+may move only when a documented search or refresh has actually been performed,
+and moving it does not update the systems represented by previously included
+evidence.
 
 Four temporal and access limits should be assessed separately:
 
@@ -191,6 +212,27 @@ Each synthesis conclusion must identify, as relevant:
 - known material research or system developments not assessed;
 - limits on transfer to other systems or dates; and
 - scheduled and event-based conditions for renewed review.
+
+Each empirical AI source record should expose a compact temporal/system block
+containing, where meaningful: system/model; checkpoint/version; system
+release/version date; observation/experiment date; source publication date;
+evidence-search inclusion date; temporal applicability; and transferability
+limitations. Do not add AI-system fields mechanically to purely philosophical,
+legal, human-neuroscience, or other sources for which they have no scientific
+meaning.
+
+Always assess two questions separately:
+
+- **Evidence validity:** what the result supports for the system and conditions
+  actually studied.
+- **Evidence transferability:** whether and how far the result can be
+  generalized to another system, version, configuration, architecture, or
+  date.
+
+Age alone does not invalidate a study of the historical system examined.
+Research lag or material system change may instead reduce or make unknown its
+transferability. Apply this rule symmetrically to positive, negative, neutral,
+and null findings.
 
 ### State what is outside scope
 
@@ -293,7 +335,8 @@ Research should follow this sequence:
    citations, source versions, conflicts, corrections, and retractions where
    feasible.
 10. **Review and update.** Record reviewer judgments, dissent, deviations,
-    search cutoff, limitations, update triggers, and the next review date.
+    evidence-search cutoff, source-specific temporal applicability,
+    limitations, update triggers, and the next review date.
 
 Automation may assist discovery, deduplication, or extraction, but a named
 researcher remains responsible for checking the result against the original
@@ -629,10 +672,12 @@ label may never stand alone.
 
 Preferred form:
 
-> Within [scope and search cutoff], the evidence [supports, weighs against, or
-> does not resolve] [specific claim] with [confidence], because [principal
-> reasons]. Important limitations are [limitations]. This assessment would
-> change if [bidirectional update conditions].
+> For [systems, versions, configurations, observation periods, and study
+> conditions represented], the evidence [supports, weighs against, or does not
+> resolve] [specific claim] with [confidence], because [principal reasons].
+> Literature discovery for this assessment ended [evidence-search cutoff].
+> Important validity and transferability limitations are [limitations]. This
+> assessment would change if [bidirectional update conditions].
 
 Avoid **proven**, **disproven**, **conclusive**, and **consensus** unless the
 specific use is justified. “Consistent with” means that an observation can fit
@@ -712,7 +757,8 @@ For literature work, retain:
 - deduplication and screening decisions, including exclusion reasons;
 - extraction fields, source records, notes, and evidence profiles;
 - reviewer roles, disagreements, adjudication, and conflicts;
-- included source versions and the search cutoff; and
+- included source versions and the evidence-search cutoff, kept separate from
+  system release/version dates and observation/experiment dates; and
 - code, tools, transformations, and machine-assisted steps used.
 
 For empirical or computational work, also retain where applicable:
@@ -841,9 +887,10 @@ prominent.
 Materials under [research/](README.md) are working records. Reviewed outputs
 intended for publication belong under
 [docs/research/](../docs/research/README.md), with their own status, method,
-search cutoff, limitations, review date, and update triggers. Moving a document
-does not make it an adopted project position. Adoption requires the
-project's governance process and an appropriate backlog entry.
+evidence-search cutoff, source-specific temporal applicability, limitations,
+review date, and update triggers. Moving a document does not make it an
+adopted project position. Adoption requires the project's governance process
+and an appropriate backlog entry.
 
 ## Maintenance and review triggers
 
@@ -885,6 +932,7 @@ Material methodological changes must not be backdated or silently applied.
 | --- | --- | --- | --- |
 | 0.1-draft | 2026-08-22 | Initial proposed research method. | Working records identify this version where used. |
 | 0.2-draft | 2026-08-23 | Work Cycle 003 added explicit research-lag, model/deployment-drift, measurement-lag, access, applicability, and review-trigger rules. | No scientific source, conclusion, confidence assessment, or search cutoff changes automatically; earlier evidence work retains its 0.1-draft lineage. |
+| 0.3-draft | 2026-08-30 | Work Cycle 031 separates system/version, release/version, observation/experiment, publication, evidence-search, and project-document dates; makes observation/system dates control empirical applicability; and requires validity and transferability to be reported separately. | Methodological presentation is corrected without changing any scientific finding or moving an evidence-search cutoff. Older records retain their protocol lineage and may be aligned editorially with this temporal model. |
 
 ## Reusable records
 

@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ACEB-017
 - **Record status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -38,6 +39,24 @@ does not mean endorsement or adoption.
 - **Correction, expression-of-concern, or retraction status:** No notice was
   displayed on the official NeurIPS paper page checked 2026-08-22; TODO:
   verify independently.
+
+### Temporal and system applicability
+
+- **System/model:** Instruction-tuned Llama 3.2 1B/3B, Llama 3.1 8B/70B, and
+  Qwen 2.5 1B/3B/7B models used in the reported neurofeedback experiments
+- **Checkpoint/version:** Named instruction-tuned checkpoints; repository and
+  paper configurations apply, but no deployed product snapshot is studied
+- **System release/version date:** Not verified in this source record
+- **Observation/experiment date:** Not reported
+- **Source publication date:** 2026-04-23 in the official proceedings citation
+  metadata for the NeurIPS 2025 paper
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** The functional activation-reporting and control
+  findings apply to the named checkpoints under the reported prompts,
+  datasets, layers, and inference conditions.
+- **Transferability limitations:** No automatic transfer to successor
+  checkpoints, deployed agents, proprietary products, persistent-memory/tool
+  configurations, or phenomenal consciousness or sentience.
 
 ## Review inclusion
 
@@ -338,3 +357,4 @@ weight in a consciousness assessment.
 | --- | --- | --- | --- |
 | 2026-08-22 | Codex | Added after final evidence-gap audit | Adds direct, activation-linked evidence about a narrow functional capability without treating it as evidence of phenomenal consciousness. |
 | 2026-08-22 | Codex | Linked from the synthesis and source index; synthesis wording independently audited | Uses task-level activation/output coupling and prompt-shift language while keeping the authors' metacognitive interpretation qualified. |
+| 2026-08-30 | Codex | Added explicit checkpoint and temporal applicability fields | Findings remain valid for the reported task/checkpoints; experiment date is not reported and transfer to other systems is unsupported. |

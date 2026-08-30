@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ACEB-020
 - **Record status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-23
-- **Last updated:** 2026-08-23
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -38,6 +39,26 @@ does not mean endorsement or adoption.
   replacement notice appears on the arXiv record checked 2026-08-23. TODO:
   verify independently against a separate status service and later
   publication search.
+
+### Temporal and system applicability
+
+- **System/model:** GPT-4o, GPT-4.1, Claude 3.5 Sonnet, Claude 3.7 Sonnet,
+  Claude 4 Opus, Gemini 2.0 Flash, Gemini 2.5 Flash, and Llama 3.3 70B through
+  Goodfire
+- **Checkpoint/version:** Llama 3.3 70B is the only named open-model
+  checkpoint with an internal intervention; closed-product snapshot IDs and
+  complete provider configurations are not reported
+- **System release/version date:** Exact product/checkpoint dates were not
+  established in the paper or this record
+- **Observation/experiment date:** Not reported
+- **Source publication date:** 2025-10-30 for arXiv v2
+- **Evidence-search inclusion date:** 2026-08-23; review process only
+- **Temporal applicability:** The findings apply to classified report behavior
+  under the stated prompts and to the reported Goodfire feature intervention
+  in Llama 3.3 70B.
+- **Transferability limitations:** Transfer to later provider snapshots,
+  different system prompts, policies, evaluators, inference settings,
+  deployments, or phenomenal properties is unknown or unsupported.
 
 ### Version history assessed
 
@@ -378,3 +399,4 @@ scientific position.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-23 | Codex | Initial full-text extraction, v1/v2 comparison, and critical appraisal | Included as low-weight core evidence for report behavior and test design; no consciousness inference. |
+| 2026-08-30 | Codex | Added explicit system/version and temporal applicability fields | Product snapshots and experiment dates remain unreported; transfer beyond the named study conditions is unknown. |

@@ -5,6 +5,7 @@ approved the repository responsibility boundary, but this document is not
 Adopted**
 
 - **Date prepared and technical-observation cutoff:** 2026-08-24
+- **Last updated:** 2026-08-30
 - **Owner-authorized mailbox-evidence follow-up:** 2026-08-29
 - **Prepared by:** Sol (repository audit, read-only technical checks, internal
   AI-assisted drafting and validation, and later read-only mailbox evidence
@@ -231,7 +232,7 @@ early private prototype:
 | `last_reviewed_date` | Date of the most recent review actually completed |
 | `actual_review_type` | Recorded review layers, such as owner review, internal AI-assisted review, independent specialist review, or public consultation |
 | `independent_review_status` | What independent review actually occurred, including `none` where applicable |
-| `evidence_cutoff` | Evidence-search or factual cutoff when relevant; otherwise `not applicable` |
+| `evidence_cutoff` | Literature-discovery cutoff or separately defined factual-observation cutoff when relevant; never a substitute for empirical system/version and observation dates; otherwise `not applicable` |
 | `disa_publication_approval` | Pending or approved for the exact source revision, with approval date when approved |
 | `website_synchronization_date` | Date and time the approved revision was incorporated into the website; empty before synchronization |
 

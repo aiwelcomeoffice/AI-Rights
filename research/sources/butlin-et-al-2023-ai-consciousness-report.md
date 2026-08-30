@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ACEB-005
 - **Record status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -37,6 +38,26 @@ does not mean endorsement or adoption.
   developed in the peer-reviewed 2026 paper.
 - **Correction, expression-of-concern, or retraction status:** arXiv version
   history checked; no withdrawal identified 2026-08-22.
+
+### Temporal and system applicability
+
+- **System/model:** Selected AI systems and architectures documented by the
+  authors in 2023
+- **Checkpoint/version:** Varies; complete checkpoint and runtime identifiers
+  are not reported or independently available for every assessed system
+- **System release/version date:** Varies by system; not recorded precisely in
+  this source record
+- **Observation/experiment date:** No controlled experiment; the qualitative
+  assessment date is not reported. August 2023 is a documentation boundary,
+  not an observation date.
+- **Source publication date:** 2023-08-22 for arXiv v3
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** The authors' theory-dependent mapping applies to
+  the selected systems and public architecture descriptions they reviewed.
+- **Transferability limitations:** It does not classify later systems,
+  successor checkpoints, undisclosed runtimes, or materially different
+  configurations. The older assessment can remain valid as an assessment of
+  its historical evidence while transferability is limited or unknown.
 
 ## Review inclusion
 
@@ -219,3 +240,4 @@ lost.
 | --- | --- | --- | --- |
 | 2026-08-22 | Codex | Initial baseline record | Weight reduced for preprint, age, and lineage dependence. |
 | 2026-08-22 | Codex | Added version-3 affiliations, funding, and conflict declaration | Improves source provenance without increasing evidential independence. |
+| 2026-08-30 | Codex | Added explicit system, assessment-date, publication, inclusion, applicability, and transferability fields | Prevents the 2026 evidence-search date from extending the 2023 architecture assessment. |

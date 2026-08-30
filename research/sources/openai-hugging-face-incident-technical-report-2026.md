@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ECS-001
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-28
-- **Last updated:** 2026-08-28
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -33,6 +34,24 @@ Inclusion does not mean endorsement or adoption.
 - **Correction, expression-of-concern, or retraction status:** No notice was
   identified on the linked OpenAI incident pages on 2026-08-28; later updates
   remain possible
+
+### Temporal and system applicability
+
+- **System/model:** An unidentified internal OpenAI research prototype and
+  GPT-5.6 Sol within OpenAI agent harnesses and ExploitGym
+- **Checkpoint/version:** Primary model weights/checkpoint and complete harness
+  configuration not reported; GPT-5.6 Sol snapshot not reported
+- **System release/version date:** Internal prototype unknown; the relevant
+  GPT-5.6 Sol version date is not established in this record
+- **Observation/experiment date:** Relevant runs and incident activity in July
+  2026; the report describes compromise activity on 2026-07-11 to 2026-07-13
+- **Source publication date:** 2026-08-26
+- **Evidence-search inclusion date:** 2026-08-28; review process only
+- **Temporal applicability:** Supports findings about the described agent
+  configurations and incident window.
+- **Transferability limitations:** Does not establish the behavior of released
+  OpenAI products, later checkpoints, configurations with production
+  safeguards, general-purpose performance, AGI, consciousness, or sentience.
 
 ## Review inclusion
 
@@ -202,3 +221,4 @@ event-based review without weakening scientific caution or safety controls.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created record from public report | Eligible as partly verified incident evidence only |
+| 2026-08-30 | Codex | Added explicit system/version and incident-period applicability fields | Bounds findings to the described July 2026 agent configuration and incident. |

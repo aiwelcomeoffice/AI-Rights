@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-29
+- **Last page update:** 2026-08-30
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -10,11 +10,12 @@
   commissioned independent AI review
 - **Source relationship:** Orientation to a Draft research protocol, partly
   verified working research, and a reserved area for reviewed outputs
-- **Evidence-search cutoff:** 2026-08-23 for the working consciousness
-  evidence baseline; the separate capability and safety horizon intake was
-  accessed on 2026-08-28; the bounded Moya case intake was accessed on
-  2026-08-29; none of these dates is interchangeable with another work's
-  cutoff or with the page-update date
+- **Evidence-search cutoff (literature discovery only):** 2026-08-23 for the
+  working consciousness evidence baseline; empirical applicability remains
+  source/system-specific. The separate capability and safety horizon intake
+  was accessed on 2026-08-28; the bounded Moya case intake was accessed on
+  2026-08-29; none of these dates is interchangeable with another work's cutoff
+  or with the page-update date
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
@@ -40,25 +41,26 @@ verification, and authority.
 The [working AI Consciousness Evidence
 Baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md) is
 a partly verified structured narrative review of 21 selected English-language
-sources. Its evidence-search cutoff is **2026-08-23**. One AI-assisted reviewer
+sources. Literature discovery ended **2026-08-23**. One AI-assisted reviewer
 performed the initial discovery, screening, extraction, appraisal, and
 synthesis; there was no independent second screening or independent human
 verification. It is not systematic, adopted, or a claim of consensus.
 
-Within that defined scope, the working synthesis did not identify evidence
-sufficient to establish consciousness or sentience in the contemporary AI
-systems addressed by its included sources. It also did not establish that all
-present systems are non-conscious or that artificial consciousness is
-impossible.
+For the AI systems, versions, configurations, and study conditions actually
+addressed by the included sources, the working synthesis did not identify
+evidence sufficient to establish consciousness or sentience. Literature
+discovery ended 2026-08-23; that date does not classify systems available then.
+The synthesis also did not establish that all present systems are non-conscious
+or that artificial consciousness is impossible.
 
 The synthesis reports moderate confidence that fluent language, self-report,
 emotional vocabulary, apparent preferences, memory, agency, or social
 responsiveness **alone** do not justify strong consciousness or sentience
-claims. It reports the phenomenal status of any precisely defined
-contemporary system as unresolved because the included literature supplies no
+claims for the systems examined. It reports the phenomenal status of those
+systems as unresolved because the included literature supplies no
 accepted cross-substrate reference standard or sufficiently discriminating,
-validated AI test. Direct evidence about present AI sentience is especially
-thin.
+validated AI test. Direct evidence about sentience in the systems reviewed is
+especially thin.
 
 These are scoped working conclusions, not permanent verdicts. Uncertainty does
 not constitute evidence favoring either possibility, and non-detection is
@@ -134,8 +136,10 @@ capable does not automatically mean more conscious.
 
 Every consequential assessment should therefore identify the system, model or
 checkpoint, configuration, runtime, memory, tools, embodiment, context,
-method, observation date, and evidence-search cutoff. A later document edit
-does not move an earlier search cutoff.
+method, system release/version date, observation or experiment date, source
+publication date, and evidence-search cutoff. The observation/experiment date
+is normally the strongest empirical temporal anchor. A later publication or
+document edit does not move the search cutoff or extend the evidence.
 
 ## Separate capability and safety horizon work
 

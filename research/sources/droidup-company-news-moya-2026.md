@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-MOYA-002
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-29
-- **Last updated:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -35,6 +36,25 @@ verified deployments.
 - **Peer-review status:** Not applicable; not scientific research
 - **Correction, expression-of-concern, or retraction status:** No index-level
   correction or version notice was visible; linked-item status was not checked
+
+### Temporal and system applicability
+
+- **System/model:** Systems described under the product name Moya in selected
+  DroidUp event summaries
+- **Checkpoint/version:** Unit, hardware revision, software stack, model,
+  runtime, and control mode not reported
+- **System release/version date:** Unknown
+- **Observation/experiment date:** Manufacturer-reported appearances include
+  2026-07-01 and 2026-08-12; dates for other visible summaries vary or are not
+  established in this record
+- **Source publication date:** Dynamic index; visible item dates include
+  2026-08-19
+- **Evidence-search inclusion date:** 2026-08-29; review process only
+- **Temporal applicability:** Establishes that DroidUp published these dated
+  event claims; it does not independently establish the systems' behavior.
+- **Transferability limitations:** No finding transfers to a different Moya
+  unit, event, configuration, sustained deployment, or later version; autonomy
+  and control arrangements are unknown.
 
 ## Review inclusion
 
@@ -256,3 +276,4 @@ about without assuming that the announced scale was achieved.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-29 | Codex | Created record from DroidUp's company-news index | Allows attribution of manufacturer reports only |
+| 2026-08-30 | Codex | Added source-specific event and system-version fields | Event claims remain attributed and do not transfer across Moya units or dates. |

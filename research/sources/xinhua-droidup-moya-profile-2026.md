@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-MOYA-004
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-29
-- **Last updated:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -41,6 +42,23 @@ validation, especially where claims are attributed to the manufacturer.
 - **Correction, expression-of-concern, or retraction status:** No correction
   or withdrawal notice was visible on the article on 2026-08-29; no external
   status archive was checked
+
+### Temporal and system applicability
+
+- **System/model:** Moya at product-name level
+- **Checkpoint/version:** Unit, hardware revision, AI model, weights, runtime,
+  memory, operator, and deployment configuration not reported
+- **System release/version date:** Reported only as formally released in 2026;
+  exact date unknown
+- **Observation/experiment date:** No controlled observation or test date is
+  reported
+- **Source publication date:** 2026-07-02 10:24:29 as displayed
+- **Evidence-search inclusion date:** 2026-08-29; review process only
+- **Temporal applicability:** Supports attribution of the profile's statements
+  and reported 2026 release, not independent technical performance findings.
+- **Transferability limitations:** Does not establish properties of a specific
+  Moya configuration, later unit/version, deployment, consciousness, sentience,
+  welfare, or moral status.
 
 ## Review inclusion
 
@@ -290,3 +308,4 @@ not a robot is sentient.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-29 | Codex | Created record from the Xinhua-hosted profile | Allows attribution and claim mapping only |
+| 2026-08-30 | Codex | Added explicit unknown system/version and observation-date fields | Bounds use to attribution of the profile's claims; no technical result is inferred. |

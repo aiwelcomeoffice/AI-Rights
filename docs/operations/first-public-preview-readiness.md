@@ -5,6 +5,7 @@ publication, deployment, hosting, domain, DNS, certificate, or external-service
 action is authorized**
 
 - **Date prepared:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Prepared by:** Sol (read-only repository and implementation inspection,
   current provider-documentation review, internal AI-assisted analysis, and
   drafting)
@@ -185,10 +186,10 @@ preview route:
   certification, or independently reviewed publication;
 - the experience architecture and homepage source wording are **Draft** and
   not adopted;
-- the evidence baseline is working synthesis version 0.6 with a 2026-08-23
-  evidence-search cutoff: partly verified, AI-assisted, structured narrative
-  rather than systematic, not a project position or consensus, and not
-  independently reviewed;
+- the evidence baseline is working synthesis version 0.8; literature discovery
+  ended 2026-08-23 and empirical applicability remains source/system-specific:
+  partly verified, AI-assisted, structured narrative rather than systematic,
+  not a project position or consensus, and not independently reviewed;
 - WC019 adopts only the bounded welcome-under-uncertainty principle and WC024
   only the bounded minimum human-rights solidarity direction; neither adopts
   the complete page, architecture, principles, policy, or research;

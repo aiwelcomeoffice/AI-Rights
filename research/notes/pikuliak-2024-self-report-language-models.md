@@ -2,7 +2,8 @@
 
 - **Note ID:** NOTE-ACEB-008
 - **Note status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Source record:** [Pikuliak 2024](../sources/pikuliak-2024-self-report-language-models.md)
 - **Source version used:** NEJLT version of record, official article record,
   and linked materials landing page
@@ -12,11 +13,26 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Reviewed by:** Not yet independently reviewed
 
 These are working interpretations under the [research protocol](../research-protocol.md),
 not project conclusions.
+
+## Temporal and system applicability
+
+- **System/model and version:** Selected 2021–2023 studies, including
+  incompletely documented aggregate Claude configurations
+- **System release/version date:** Varies; not established in the record
+- **Observation/experiment date:** Underlying study and reanalysis dates not
+  reported
+- **Source publication date:** 2024-09-18
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** Direct for the selected questionnaire-style
+  evaluations and reanalyses
+- **Transferability limitations:** Empirical effects do not automatically
+  transfer to later models, instruments, prompts, or runtime conditions; the
+  general methodological cautions require system-specific testing
 
 ## What the source actually says
 
@@ -211,3 +227,4 @@ consciousness.
 | --- | --- | --- | --- |
 | 2026-08-22 | Codex | Initial full-text extraction and methodological appraisal | Treats questionnaire output as low-specificity unless validated; no consciousness conclusion. |
 | 2026-08-22 | Codex | Recorded article/issue date distinction, dependencies, contrary material, and disclosure gaps | Improves provenance and prevents the critique from being overgeneralized. |
+| 2026-08-30 | Codex | Added source-specific temporal and transferability block | Keeps reanalysis findings tied to the older, incompletely versioned studies. |

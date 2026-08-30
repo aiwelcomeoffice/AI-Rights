@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ECS-002
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-28
-- **Last updated:** 2026-08-28
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -33,6 +34,22 @@ Inclusion does not mean endorsement or adoption.
 - **Peer-review status:** Not peer reviewed
 - **Correction, expression-of-concern, or retraction status:** No correction
   notice identified on the page on 2026-08-28; the live page may change
+
+### Temporal and system applicability
+
+- **System/model:** OpenAI-origin agent system as observed through affected
+  Hugging Face production and supporting infrastructure
+- **Checkpoint/version:** Not independently identified by Hugging Face; model
+  identity partly depends on OpenAI's account
+- **System release/version date:** Unknown
+- **Observation/experiment date:** 2026-07-09 to 2026-07-13 intrusion window
+- **Source publication date:** 2026-07-27
+- **Evidence-search inclusion date:** 2026-08-28; review process only
+- **Temporal applicability:** Supports forensic observations about the affected
+  infrastructure and agent activity recorded during that incident window.
+- **Transferability limitations:** Does not establish behavior in another
+  model, checkpoint, harness, security environment, or date and is not by
+  itself evidence about AGI, consciousness, or sentience.
 
 ## Review inclusion
 
@@ -197,3 +214,4 @@ without changing the project's consciousness conclusion.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created record from public technical timeline | Eligible as partly verified target-side incident evidence |
+| 2026-08-30 | Codex | Added explicit unknown-version and observation-window fields | Bounds the forensics to the 2026-07-09–13 incident rather than later systems. |

@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-28
+- **Last substantive update:** 2026-08-30
 - **Scope:** Jurisdiction-neutral proposal; not current law
 
 > **Review notice:** This Draft has received project-owner direction and review
@@ -34,11 +34,12 @@ any later protection.
 
 The project's partly verified [working evidence
 baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) has a
-**2026-08-23 search cutoff** and has not received independent review. Within
-its limited, version- and time-bound scope:
+**2026-08-23 evidence-search cutoff** for literature discovery and has not
+received independent review. That date is not a shared applicability date for
+the systems studied. Within its limited, source- and system-bound scope:
 
 - the working evidence **does not establish consciousness or sentience in any
-  contemporary AI system covered by the review**.
+  AI system actually examined by the included sources**.
 - the working evidence **does not establish that all present AI systems are
   non-conscious**.
 - uncertainty is not evidence in either direction.

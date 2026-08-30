@@ -39,6 +39,27 @@ not mean endorsement or adoption.
 - **Correction, expression-of-concern, or retraction status:** [Status, notice
   link, and date checked]
 
+### Temporal and system applicability, for empirical AI evidence
+
+Use this block for empirical evidence about an AI system or its behavior.
+Omit it where these fields are not scientifically meaningful, such as a purely
+philosophical, legal, or human-neuroscience source. Do not infer missing dates
+from the publication date.
+
+- **System/model:** [Exact model, product, composite system, or unknown]
+- **Checkpoint/version:** [Exact checkpoint, snapshot, configuration, or not
+  reported]
+- **System release/version date:** [YYYY-MM-DD, best documented precision, or
+  unknown]
+- **Observation/experiment date:** [YYYY-MM-DD or range, or not reported]
+- **Source publication date:** [Repeat the bibliographic date for contrast]
+- **Evidence-search inclusion date:** [Date this project included the source;
+  a review-process field only]
+- **Temporal applicability:** [What systems and observation period the finding
+  directly supports]
+- **Transferability limitations:** [Limits for other versions,
+  configurations, architectures, deployments, or dates]
+
 ### Legal or regulatory metadata, if applicable
 
 - **Jurisdiction:** [Jurisdiction]
@@ -74,8 +95,9 @@ argument. Attribute it to the source.]
 
 - **Design or argument form:** [Design, method, or structure]
 - **Population, sample, corpus, or authorities:** [Details and selection]
-- **System boundary and version:** [Model, checkpoint, runtime, memory, tools,
-  embodiment, deployment context, and dates where applicable]
+- **System boundary and version:** [Refer to the temporal/system block and add
+  runtime, memory, tools, embodiment, deployment context, or other material
+  configuration details]
 - **Measures and operational definitions:** [Constructs and how measured]
 - **Comparators and controls:** [Details or not applicable]
 - **Analysis:** [Analytical, statistical, doctrinal, or philosophical method]

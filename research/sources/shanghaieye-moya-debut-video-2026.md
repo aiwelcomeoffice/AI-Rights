@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-MOYA-003
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-29
-- **Last updated:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -39,6 +40,24 @@ interview claims, technical validation, and any inference about experience.
 - **Correction, expression-of-concern, or retraction status:** Video remained
   available and no correction notice was visible on 2026-08-29; no external
   correction archive was searched
+
+### Temporal and system applicability
+
+- **System/model:** One or more humanoid bodies presented as Moya, plus Walker
+  product-line footage in the accessed edit
+- **Checkpoint/version:** Unit identity, hardware revision, controller/model,
+  software stack, runtime, and control mode not reported
+- **System release/version date:** The report presents this as Moya's debut;
+  an exact release/version date is not independently established
+- **Observation/experiment date:** Recording dates are not reported; the
+  2026-01-30 upload date must not be treated as the filming date
+- **Source publication date:** 2026-01-30
+- **Evidence-search inclusion date:** 2026-08-29; review process only
+- **Temporal applicability:** Supports only the visible behavior and attributed
+  statements in this specific edited upload.
+- **Transferability limitations:** The edit does not establish continuous or
+  repeatable performance, autonomy, technical configuration, deployment
+  behavior, experience, or properties of another Moya unit or version.
 
 ## Review inclusion
 
@@ -296,3 +315,4 @@ or out in this or any later architecture.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-29 | Codex | Created record from YouTube metadata, visible captions, and frame-level review | Supports limited edited-demo observations and attribution only |
+| 2026-08-30 | Codex | Separated upload date from unknown recording and release/version dates | Prevents the publication date from being treated as an experiment date. |

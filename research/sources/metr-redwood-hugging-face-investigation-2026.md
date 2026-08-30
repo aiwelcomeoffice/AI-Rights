@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ECS-003
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-28
-- **Last updated:** 2026-08-28
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -33,6 +34,24 @@ Inclusion does not mean endorsement or adoption.
 - **Peer-review status:** Not peer reviewed
 - **Correction, expression-of-concern, or retraction status:** No notice
   identified on 2026-08-28; the live report may be revised
+
+### Temporal and system applicability
+
+- **System/model:** OpenAI agent runs associated with ExploitGym, including an
+  unidentified proprietary research model
+- **Checkpoint/version:** Exact model checkpoint, training details, and full
+  configuration not reported
+- **System release/version date:** Unknown; the principal model was internal
+- **Observation/experiment date:** Source scope covers 2026-06-26 to
+  2026-07-13, with incident activity inside that window
+- **Source publication date:** 2026-08-26
+- **Evidence-search inclusion date:** 2026-08-28; review process only
+- **Temporal applicability:** Supports behavioral findings for the transcripts,
+  message data, agents, and evaluation conditions examined in the defined
+  window.
+- **Transferability limitations:** Generalization to other models, safeguards,
+  agent counts, incentives, tools, environments, or later versions is untested;
+  the source does not measure AGI, consciousness, or sentience.
 
 ## Review inclusion
 
@@ -206,3 +225,4 @@ model in general.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created record from public investigation | Eligible as partly verified shared-data external analysis |
+| 2026-08-30 | Codex | Added explicit system/version and investigation-window fields | Limits behavioral findings to the examined data and configuration. |

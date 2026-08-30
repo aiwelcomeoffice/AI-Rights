@@ -4,7 +4,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-28
+- **Last page update:** 2026-08-30
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the WC024 minimum solidarity direction; internal
@@ -12,8 +12,9 @@
   exact page wording remains pending; no external independent review
 - **Source relationship:** Summarizes Draft project material and partly
   verified working research
-- **Evidence-search cutoff:** 2026-08-23 for the scientific evidence snapshot
-  below; this is not the page-update date
+- **Evidence-search cutoff (literature discovery only):** 2026-08-23 for the
+  scientific evidence snapshot below; empirical applicability remains
+  source/system-specific and this is not the page-update date
 - **Status details:** [How to read project statuses and
   review](../../governance/README.md#current-review-and-publication-posture)
 - **Normative welcome basis:** [Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty); this
@@ -131,16 +132,18 @@ evidence that could change a conclusion in either direction.
 The project's [AI Consciousness Evidence
 Baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md) is
 a partly verified working structured narrative review of selected English-
-language sources, with an evidence-search cutoff of **2026-08-23**. It was
+language sources; literature discovery ended **2026-08-23**. It was
 prepared through a single AI-assisted review process, has not received
 independent human review, and is not a systematic review, an adopted project
 position, or a claim of consensus.
 
-Within that limited scope, the working synthesis did not identify evidence
-sufficient to establish consciousness or sentience in the contemporary AI
-systems addressed by its included sources. It also did not establish that all
-present AI systems are non-conscious or that artificial consciousness is
-impossible. No included behavior or internal measure was validated as a
+For the systems, versions, configurations, and study conditions actually
+addressed by its included sources, the working synthesis did not identify
+evidence sufficient to establish consciousness or sentience. The 2026-08-23
+date records when literature discovery stopped, not which systems the evidence
+characterizes. The synthesis also did not establish that all present AI
+systems are non-conscious or that artificial consciousness is impossible. No
+included behavior or internal measure was validated as a
 stand-alone, AI-specific test of subjective experience.
 
 A conclusion must remain tied to a defined system, version, configuration,

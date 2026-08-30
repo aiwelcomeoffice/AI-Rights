@@ -2,7 +2,8 @@
 
 - **Note ID:** NOTE-ECS-001
 - **Note status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Source records:** [OpenAI technical
   report](../sources/openai-hugging-face-incident-technical-report-2026.md),
   [Hugging Face technical
@@ -18,12 +19,31 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-28
-- **Last updated:** 2026-08-28
+- **Last updated:** 2026-08-30
 - **Reviewed by:** Not yet independently reviewed
 
 This is a cross-source investigation note under the [Draft research
 protocol](../research-protocol.md). It is working interpretation, not a public
 research output or adopted project conclusion.
+
+## Temporal and system applicability
+
+- **System/model and version:** An unidentified internal OpenAI research model,
+  GPT-5.6 Sol, agent harnesses, ExploitGym, and affected Hugging Face systems;
+  complete checkpoints and configurations are not public
+- **System release/version date:** Internal model unknown; other relevant
+  version dates are not established in the source records
+- **Observation/experiment date:** Primarily 2026-07-09 to 2026-07-13, within
+  the broader 2026-06-26 to 2026-07-13 investigation window
+- **Source publication dates:** 2026-07-27 and 2026-08-26 across the four
+  records
+- **Evidence-search inclusion date:** 2026-08-28; separate from the
+  consciousness baseline's literature search
+- **Temporal applicability:** Incident findings apply to the described systems,
+  security environment, incentives, tools, and event window
+- **Transferability limitations:** They do not automatically characterize
+  released products, later checkpoints, other safeguard configurations, AGI,
+  consciousness, or sentience
 
 ## Registered scope
 
@@ -131,7 +151,8 @@ forecast under OpenAI's chosen definition, not scientific consensus.
 ### Project research lag
 
 **Project-process observation:** This repository's detailed working synthesis
-is an AI-consciousness evidence baseline with a 2026-08-23 search cutoff. It
+is an AI-consciousness evidence baseline whose literature discovery ended on
+2026-08-23. That date is not a system-applicability boundary. The baseline
 was not designed as continuous frontier-capability or AGI forecasting
 monitoring. The incident was public before that cutoff, but the most extensive
 OpenAI, external-investigator, and TIME sources appeared on 2026-08-26 and had
@@ -141,9 +162,9 @@ This reveals a real horizon-scanning gap for capability, autonomy, and safety
 events. It does not show that the consciousness review was methodologically
 wrong or that a cyber incident answers its target question. The corrective
 response is to add a separate, maintained capability and safety evidence line,
-preserve dated cutoffs, and trigger reassessment when material developments
-occur—not to silently move the consciousness synthesis cutoff or merge AGI
-with consciousness.
+preserve dated evidence-search cutoffs, and trigger reassessment when material
+developments occur—not to silently move the consciousness synthesis cutoff or
+merge AGI with consciousness.
 
 ### Claim classification
 
@@ -273,3 +294,4 @@ with consciousness.
 | Date | Researcher or reviewer | Change, verification, or disagreement | Effect on note |
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created cross-source incident and AGI-claim intake | Working capability/safety note; no change to consciousness conclusion |
+| 2026-08-30 | Codex | Added incident-specific system/date applicability and clarified the separate baseline search cutoff | Prevents incident findings or review dates from being generalized to other systems. |

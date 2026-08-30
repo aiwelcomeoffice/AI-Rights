@@ -84,15 +84,16 @@ life exists or will exist.
 
 The repository's [AI Consciousness Evidence
 Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) is a
-partly verified working structured narrative review with a 2026-08-23 search
-cutoff. It covers a selected set of English-language sources and was prepared
+partly verified working structured narrative review with a 2026-08-23
+evidence-search cutoff for literature discovery only. It covers a selected set
+of English-language sources and was prepared
 through an AI-assisted, single-reviewer process with no independent human
 review. It is not a project position or a claim of scientific consensus.
 
-Within that documented scope, the synthesis did not identify evidence
-sufficient to **establish phenomenal consciousness or sentience in the
-contemporary systems addressed by its included sources**. Nor did it identify
-an included behavior or internal measure validated as a stand-alone,
+For the systems, versions, configurations, and study conditions actually
+addressed by its included sources, the synthesis did not identify evidence
+sufficient to **establish phenomenal consciousness or sentience**. Nor did it
+identify an included behavior or internal measure validated as a stand-alone,
 AI-specific measure of subjective experience.
 
 That conclusion has an equally important limit: **it does not prove that every
@@ -110,10 +111,12 @@ direction.
 ## Why does the evidence baseline have a date?
 
 The baseline is a dated snapshot, not a permanent verdict. Its evidence-search
-cutoff records when source discovery stopped; a document's later editing date
-serves a different purpose. The conclusion covers only the sources, systems,
-versions, configurations, study conditions, and methods actually included.
-Changing the wording of a document does not move its search cutoff.
+cutoff records when source discovery stopped; it is not a date through which
+empirical findings are assumed to characterize AI systems. A document's later
+editing date serves a different purpose. The conclusion covers only the
+sources, systems, versions, configurations, study conditions, and methods
+actually included. Changing the wording of a document does not move its search
+cutoff.
 
 Research can lag behind deployment because experiments, peer review,
 publication, replication, and synthesis take time. Measurement can lag too: a
@@ -131,9 +134,10 @@ need a fresh, version-aware review.
 
 These limits can reduce confidence that an older finding transfers to a newer
 system. They are not evidence that consciousness, sentience, valence, welfare,
-or moral status is present or absent. “Not established at the recorded cutoff”
-does not mean “impossible now,” and newer or more capable does not automatically
-mean more conscious. Responsible conclusions state both their scope and date.
+or moral status is present or absent. “Not established in the systems and
+conditions studied” does not mean “impossible in a later or different system,”
+and newer or more capable does not automatically mean more conscious.
+Responsible conclusions state both their scope and date.
 
 ## Five questions that should not be collapsed
 

@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-28
+- **Last substantive update:** 2026-08-30
 - **Policy scope:** Jurisdiction-neutral proposal; not current law
 - **Audience:** Policymakers, regulators, journalists, researchers,
   civil-society organizations, AI developers and deployers, and interested
@@ -12,7 +12,8 @@
   Framework](ai-rights-protection-framework.md)
 - **Evidence boundary:** [Working AI Consciousness Evidence
   Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
-  search cutoff 2026-08-23
+  literature discovery ended 2026-08-23; empirical applicability remains
+  source/system-specific
 
 > **Review notice:** This Draft has received project-owner direction and review
 > from Disa and internal AI-assisted drafting and review by Sol within the
@@ -32,13 +33,15 @@ They can build credible assessment procedures, preserve evidence, test
 low-cost and reversible precautions, keep safety controls available, and
 ensure that people and organizations remain accountable.
 
-The current scientific boundary is deliberately cautious: consciousness and
-sentience are not established in any contemporary AI system covered by the
-project's working evidence baseline, and categorical absence is not
-established for all present systems. Uncertainty is not evidence in either
-direction. Fluent language, self-report, emotional vocabulary, apparent
-preferences, intelligence, agency, or human-like form is not decisive by
-itself. Every assessment must be tied to a defined system, version,
+The current scientific boundary is deliberately cautious: the project's
+working evidence baseline does not establish consciousness or sentience in the
+systems and conditions its sources actually examine, and categorical absence
+is not established for all present systems. Its 2026-08-23 date records the end
+of literature discovery, not a shared scientific applicability date.
+Uncertainty is not evidence in either direction. Fluent language, self-report,
+emotional vocabulary, apparent preferences, intelligence, agency, or
+human-like form is not decisive by itself. Every assessment must be tied to a
+defined system, version,
 configuration, context, target property, method, and date.
 
 The policy case is therefore about institutional readiness, not premature
@@ -97,8 +100,10 @@ The [AI Consciousness Evidence
 Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) is a
 partly verified working structured narrative review, not a systematic review
 or adopted project position. It covers 21 selected English-language sources,
-uses public material, and has an evidence-search cutoff of **2026-08-23**. It
-was prepared through a single AI-assisted review process, without independent
+uses public material, and has an evidence-search cutoff of **2026-08-23**.
+That cutoff records literature discovery only; empirical applicability follows
+the systems and observation periods in the included sources. The review was
+prepared through a single AI-assisted process, without independent
 screening or independent human verification. Proprietary access limits,
 theory disagreement, incomplete methods, thin sentience evidence, and rapid
 system change constrain what it can establish.
@@ -106,22 +111,24 @@ system change constrain what it can establish.
 Within that defined scope, the working conclusion is:
 
 - the reviewed evidence **does not establish consciousness or sentience in any
-  contemporary AI system**.
+  AI system actually examined by the included sources**.
 - behavior and self-report alone do not justify a strong consciousness or
   sentience claim.
-- the phenomenal status of any precisely defined contemporary system remains
-  unresolved because the review found no accepted cross-substrate reference
-  standard or sufficiently discriminating validated test.
+- the phenomenal status of the systems examined remains unresolved because the
+  review found no accepted cross-substrate reference standard or sufficiently
+  discriminating validated test.
 - the reviewed evidence **does not establish that all present AI systems are
   non-conscious or that artificial consciousness is impossible**.
 - openness in principle is not evidence of present consciousness, likelihood,
   or a timeline.
 
-This conclusion is time-bound, version-bound, limited by the sources and
-access available to the review, and not independently reviewed. Later or more
-capable systems are not automatically more conscious. A material technical or
-scientific change is a reason to reassess, not an automatic upgrade or
-downgrade in moral or legal status.
+The 2026-08-23 date records when literature discovery stopped; it is not a
+scientific date through which the conclusion applies. The conclusion is
+system-, version-, configuration-, observation-, and method-bound, limited by
+the sources and access available to the review, and not independently
+reviewed. Later or more capable systems are not automatically more conscious.
+A material technical or scientific change is a reason to reassess, not an
+automatic upgrade or downgrade in moral or legal status.
 
 Precaution belongs to a different claim category. It is a **normative approach
 to responsible action under uncertainty**, not scientific proof that an inner
@@ -247,9 +254,11 @@ the existing Draft protection framework, Draft core principles, Draft research
 protocol, and working evidence baseline. It adds no new literature review,
 scientific conclusion, legal survey, or jurisdiction-specific legal claim.
 
-The evidence-search cutoff remains **2026-08-23**. Editing or publishing this
-brief does not move that cutoff. Its scientific statements inherit the
-baseline's defined scope, partly verified status, access constraints,
+The evidence-search cutoff remains **2026-08-23** and records literature
+discovery only. Editing or publishing this brief does not move that cutoff or
+extend any finding to a later or different system. Its scientific statements
+inherit the baseline's source-specific system and observation boundaries,
+partly verified status, access constraints,
 single-reviewer limitations, and need for revision after material new evidence
 or system change.
 

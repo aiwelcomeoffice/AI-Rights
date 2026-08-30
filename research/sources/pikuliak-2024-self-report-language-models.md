@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ACEB-018
 - **Record status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -40,6 +41,26 @@ does not mean endorsement or adoption.
 - **Correction, expression-of-concern, or retraction status:** No notice was
   identified on the official article record checked 2026-08-22; TODO: verify
   independently against a separate status service.
+
+### Temporal and system applicability
+
+- **System/model:** Several systems in studies published in 2021–2023,
+  including aggregate Claude results labelled `claude_v13_s100` and an
+  incompletely documented `helpful_s50`
+- **Checkpoint/version:** Not reported sufficiently to reconstruct stable
+  product snapshots
+- **System release/version date:** Varies; not established in this record
+- **Observation/experiment date:** Original study dates and the author's
+  reanalysis date are not reported
+- **Source publication date:** 2024-09-18
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** The reanalyses and controls bear on the selected
+  questionnaire-style evaluations and aggregate results from the underlying
+  2021–2023 studies.
+- **Transferability limitations:** The methodological concerns may motivate
+  tests elsewhere, but their empirical magnitude does not transfer
+  automatically to later systems, different instruments, or materially
+  different prompting and runtime conditions.
 
 ## Review inclusion
 
@@ -297,3 +318,4 @@ question is whether a measurement has been validated for the system and claim.
 | --- | --- | --- | --- |
 | 2026-08-22 | Codex | Initial source extraction from the official article record and full text | Included as methodological critique, not consciousness evidence. |
 | 2026-08-22 | Codex | Separated the article's 2024-09-18 date from the issue's 2024-03-14 metadata | Prevents issue metadata from being misreported as the article date. |
+| 2026-08-30 | Codex | Added explicit temporal/system applicability fields | Empirical reanalyses remain bounded to the incompletely versioned 2021–2023 studies; missing experiment dates remain reported as missing. |

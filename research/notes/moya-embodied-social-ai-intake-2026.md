@@ -3,14 +3,15 @@
 - **Note ID:** NOTE-ESAI-001
 - **Work cycle:** 025
 - **Note status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Source records:** [DroidUp company profile](../sources/droidup-about-2026.md),
   [DroidUp Moya company-news index](../sources/droidup-company-news-moya-2026.md),
   [ShanghaiEye Moya debut video](../sources/shanghaieye-moya-debut-video-2026.md),
   and [Xinhua-hosted DroidUp profile](../sources/xinhua-droidup-moya-profile-2026.md)
 - **Source versions used:** Live pages and public video versions accessed
   2026-08-29
-- **Evidence-search cutoff:** 2026-08-29
+- **Evidence-search cutoff (source discovery only):** 2026-08-29
 - **Research question:** What does the bounded public record establish about
   DroidUp's Moya as an embodied social-AI case, and which scientific, human
   welfare, accountability, and physical-coexistence questions does the case
@@ -19,7 +20,7 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-29
-- **Last updated:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Reviewed by:** Not yet independently reviewed
 
 This is a bounded cross-source intake under the [Draft research
@@ -28,9 +29,10 @@ research output, scientific conclusion, endorsement of DroidUp, or adopted
 project position.
 
 **Scientific boundary:** The reviewed public sources do not establish that any
-current Moya system is conscious, sentient, capable of suffering, a welfare
-subject, or a moral patient. They also do not support a categorical conclusion
-that every current Moya configuration lacks any morally relevant experience.
+Moya configuration they document is conscious, sentient, capable of suffering,
+a welfare subject, or a moral patient. They also do not support a categorical
+conclusion that every documented or later Moya configuration lacks any morally
+relevant experience.
 The latter openness is not positive evidence and does not imply equal
 probability. Human likeness, facial movement, warm material, eye orientation,
 conversation-like interaction, apparent memory, embodiment, and company terms
@@ -54,9 +56,10 @@ appearance involved:
 - software shared with DroidUp's Walker, Rena, “DroidSoul,” or other product
   lines.
 
-Accordingly, this note's unit is **the bounded public Moya case as documented
-through 2026-08-29**, not a scientifically individuated subject. “Moya” must
-not be treated as one continuing mind or one uniform fleet. Any later welfare
+Accordingly, this note's unit is **the bounded public Moya case in the sources
+discovered by 2026-08-29**, with direct observations separately tied to their
+reported event or recording dates, not a scientifically individuated subject.
+“Moya” must not be treated as one continuing mind or one uniform fleet. Any later welfare
 assessment would have to identify the exact body, sensors, actuators, model
 architecture and weights, runtime, instructions, memory, tools, connectivity,
 control mode, operator, deployment, instance relationships, and dates.
@@ -78,6 +81,23 @@ control mode, operator, deployment, instance relationships, and dates.
   material represented in the four source records. No source-code, weights,
   system card, technical manual, raw logs, procurement record, data-protection
   assessment, field study, or direct system access was available.
+
+### Temporal applicability summary
+
+- **System/model and checkpoint/version:** Moya at product-name level; exact
+  unit, hardware revision, model, runtime, and control configuration unknown
+- **System release/version date:** Reported as released in 2026; exact date not
+  established
+- **Observation/event dates:** Video filming date not reported; manufacturer-
+  reported appearances include 2026-07-01 and 2026-08-12
+- **Source publication dates:** Not stated for the About page; 2026-01-30 for
+  the video upload; 2026-07-02 for the Xinhua-hosted profile; variable dates on
+  the company-news index
+- **Evidence-search inclusion date:** 2026-08-29; review process only
+- **Temporal applicability:** Each observation or attributed claim applies only
+  to its identified source, unit or product description, and event period.
+- **Transferability limitations:** No source supports automatic transfer to
+  another Moya body, software state, deployment, or later version.
 
 ## Source map and evidential status
 
@@ -531,3 +551,4 @@ warrant changing the Draft's status or its scientific boundary.
 | Date | Researcher or reviewer | Change, verification, or disagreement | Effect on note |
 | --- | --- | --- | --- |
 | 2026-08-29 | Codex | Created bounded WC025 Moya / embodied social-AI research intake from four source records | Working case note; no change to consciousness conclusions, project principles, or document status |
+| 2026-08-30 | Codex | Separated discovery, publication, event, recording, release, and document-update dates | Keeps direct observations and manufacturer claims bounded to their source-specific Moya cases; no scientific finding changed. |

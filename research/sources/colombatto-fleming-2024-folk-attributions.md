@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ACEB-013
 - **Record status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -32,6 +33,21 @@ does not mean endorsement or adoption.
 - **Peer-review status:** Peer reviewed
 - **Correction, expression-of-concern, or retraction status:** None identified
   on journal/PubMed record checked 2026-08-22; TODO: verify independently.
+
+### Temporal and system applicability
+
+- **System/model:** ChatGPT as named to survey participants; the study outcome
+  is human attribution, not system behavior
+- **Checkpoint/version:** Not reported
+- **System release/version date:** Unknown for the product snapshot judged
+- **Observation/experiment date:** July 2023
+- **Source publication date:** 2024-04-13
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** The findings apply to the sampled U.S.
+  participants' judgments about ChatGPT in July 2023.
+- **Transferability limitations:** They do not establish ChatGPT's mental state
+  and do not automatically generalize to later participants, cultures,
+  interfaces, product versions, or AI systems.
 
 ## Review inclusion
 
@@ -192,3 +208,4 @@ evidence and supports public communication safeguards.
 | 2026-08-22 | Codex | Initial baseline record | Kept contextual; no inference to experience. |
 | 2026-08-22 | Codex | Corrected Colombatto's given name, publication date, and affiliations against Oxford/PubMed | Bibliographic correction; findings unchanged. |
 | 2026-08-22 | Codex | Removed an unsupported preregistration label after checking the primary article and materials | Methodological appraisal made more conservative. |
+| 2026-08-30 | Codex | Separated the July 2023 survey observation from source publication and project inclusion dates | Keeps the finding about human judgments bounded to the sample and period; ChatGPT snapshot remains unknown. |

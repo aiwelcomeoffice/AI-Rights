@@ -2,7 +2,8 @@
 
 - **Note ID:** NOTE-ACEB-007
 - **Note status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Source record:** [Colombatto and Fleming 2024](../sources/colombatto-fleming-2024-folk-attributions.md)
 - **Source version used:** Version of record and OSF materials landing page
 - **Research question:** What evidence would support or weigh against
@@ -11,11 +12,25 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Reviewed by:** Not yet independently reviewed
 
 These are working interpretations under the [research protocol](../research-protocol.md),
 not project conclusions.
+
+## Temporal and system applicability
+
+- **System/model and version:** ChatGPT as named to participants; product
+  snapshot not reported; human judgments are the outcome
+- **System release/version date:** Unknown
+- **Observation/experiment date:** July 2023
+- **Source publication date:** 2024-04-13
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** Direct for the sampled U.S. participants'
+  attributions at that time
+- **Transferability limitations:** Not evidence about ChatGPT's experience and
+  not automatically generalizable to later systems, interfaces, populations,
+  or dates
 
 ## What the source actually says
 
@@ -138,3 +153,4 @@ fluency, or participants' emotional response.
 | Date | Researcher or reviewer | Change, verification, or disagreement | Effect on note |
 | --- | --- | --- | --- |
 | 2026-08-22 | Codex | Initial extraction | Classified as contextual human-subject evidence. |
+| 2026-08-30 | Codex | Added the July 2023 observation period and unknown ChatGPT snapshot | Separates human-attribution findings from system mental-state claims and later products. |

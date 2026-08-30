@@ -3,13 +3,14 @@
 **Status: Working research plan — not a project position**
 
 - **Plan ID:** PLAN-ACEB-001
-- **Plan version:** 0.3
-- **Protocol version:** 0.1-draft
+- **Plan version:** 0.4
+- **Protocol version:** 0.1-draft for the original search and appraisal;
+  temporal presentation aligned with 0.3-draft
 - **Review type:** Structured narrative review
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Plan date:** 2026-08-22
-- **Last updated:** 2026-08-23
-- **Search cutoff:** 2026-08-23
+- **Last updated:** 2026-08-30
+- **Evidence-search cutoff (literature discovery only):** 2026-08-23
 - **Jurisdiction:** Not applicable — scientific review; no legal conclusion
 - **Project/review funding:** None supplied for this review
 - **Reviewer and project conflicts:** Codex, an OpenAI system, assisted with a
@@ -57,7 +58,8 @@ or negative answer.
 ## Primary question
 
 > What evidence would support or weigh against consciousness or sentience in
-> contemporary AI systems, and what remains unknown?
+> the defined AI systems represented by the included sources, and what remains
+> unknown or non-transferable to other systems?
 
 The question concerns evidence, not whether an observer finds a system
 persuasive, whether artificial consciousness is metaphysically possible, or
@@ -68,7 +70,8 @@ but must remain separately classified.
 
 The synthesis will answer:
 
-1. **Current behavior:** What can fluent language, self-report, emotion
+1. **Observed behavior in included systems:** What can fluent language,
+   self-report, emotion
    vocabulary, apparent preferences, apparent agency, memory-enabled
    interaction, and social responsiveness establish—and what can they not?
 2. **Architecture:** Which architectural properties are proposed as relevant
@@ -77,7 +80,7 @@ The synthesis will answer:
 3. **Indicators and tests:** How are candidate indicators derived and
    validated? What are their target population, rationale, sensitivity,
    specificity, and serious alternatives?
-4. **Evidence against strong current claims:** Which observed absences,
+4. **Evidence against strong system-specific claims:** Which observed absences,
    mechanistic disanalogies, failed theory predictions, or successful
    non-conscious explanations weigh against attribution without being treated
    as proof of absence?
@@ -91,7 +94,7 @@ The synthesis will answer:
 
 ## Intended audience and decision use
 
-- Researchers and engineers evaluating claims about contemporary AI.
+- Researchers and engineers evaluating claims about defined AI systems.
 - Project reviewers deciding whether public educational material has adequate
   scientific support.
 - Policymakers, journalists, civil-society participants, and interested public
@@ -133,7 +136,7 @@ Every material claim will be marked or written so its category is clear:
 | Indicator | An observation or property predicted to be more likely if a consciousness-relevant hypothesis is true. | Not a hard criterion unless validity, sensitivity, and specificity are established. |
 | Consciousness test (C-test) | A procedure intended to support an inference about a defined consciousness property in a defined target population. | Human validity cannot simply be transferred to AI. |
 | Welfare | A subject's condition with respect to goods or harms that matter for that subject. | Requires relevant capacities/interests; “robust agency” is a distinct possible ground and must not be relabeled sentience. |
-| Contemporary AI | A precisely identified model or composite system publicly documented or available by the 2026-08-23 cutoff, including its runtime, prompts, memory, tools, embodiment, and deployment context where known. | “AI” is not one homogeneous subject or architecture. |
+| Assessed AI system | A precisely identified model or composite system, including its checkpoint/version, runtime, prompts, memory, tools, embodiment, deployment context, and observation period where known. | The evidence-search cutoff controls literature discovery only; it does not define this system or extend a finding to systems available on that date. |
 
 Terms are working definitions, not claims that any system instantiates them.
 Meaningful disputes will be preserved rather than resolved by stipulation.
@@ -156,6 +159,13 @@ For any system-level claim, extraction should record where available:
 
 Evidence about one configuration will not be generalized to a model family or
 all AI without an explicit argument.
+
+For each empirical AI source, extraction must keep the system/model,
+checkpoint/version, release/version date, observation/experiment date, source
+publication date, evidence-search inclusion date, temporal applicability, and
+transferability limitations separate. If the observation date is unavailable,
+the best documented system/version date may be used only as an explicitly
+uncertain proxy. No date may be guessed.
 
 ## Disciplines and theories in scope
 
@@ -219,9 +229,10 @@ non-consciousness.
   AI analysis not available elsewhere, or address welfare relevance; label and
   down-weight them.
 - Serious skeptical, permissive, critical, null, mixed, and adversarial work.
-- English-language sources published from 2017 through the cutoff, plus older
-  sources identified by backward citation chaining when necessary to understand
-  a current theory or method.
+- English-language sources published from 2017 through 2026-08-23 and
+  identified by the evidence-search cutoff, plus older sources found through
+  backward citation chaining when necessary to understand a current theory or
+  method.
 
 ### Exclude from the core
 
@@ -428,8 +439,9 @@ Future empirical work should:
 - **No exhaustive export:** Recall is unknown and null/critical literature may
   be missing.
 - **English-only:** Excludes other scholarly traditions and jurisdictions.
-- **Fast-moving systems:** Claims about 2017–2024 architectures may already be
-  obsolete; the synthesis therefore avoids a universal “current AI” verdict.
+- **Fast-moving systems:** Findings about systems documented in older sources
+  may have limited or unknown transferability to later architectures; the
+  synthesis therefore avoids a universal “current AI” verdict.
 - **Proprietary access:** Weights, activations, training details, system prompts,
   memory, tools, and logs are often inaccessible; both positive and negative
   architectural inference is weakened.
@@ -445,7 +457,7 @@ Future empirical work should:
   merged. One non-peer-reviewed candidate taxonomy and one conceptual identity
   argument were added as research maps, but the baseline contains no validated
   AI measure of felt valence and cannot support a body-of-evidence confidence
-  judgment about present AI sentience.
+  judgment about sentience in systems not directly assessed.
 - **Direct self-report evidence remains fragile:** One newly included preprint
   adds prompt and selected-feature interventions, but missing public
   reproduction materials, evaluator validation, exact product snapshots, and
@@ -461,10 +473,10 @@ column, not to consciousness in general.
 | Current scoped conclusion | Confidence | Evidence that would strengthen it | Evidence that would weaken it | Evidence unlikely to resolve it | Re-review trigger |
 | --- | --- | --- | --- | --- | --- |
 | Behavior or self-report alone is insufficient for a strong AI-consciousness inference. | Moderate; known generative alternatives exist and no consciousness-specific report validity was identified. | Controlled prompt, persona, training, and scaffold ablations showing that the outputs vary with independently non-conscious generative mechanisms. | Preregistered reports tied causally to independently validated consciousness-relevant states, with calibrated false-positive and false-negative behavior in the target systems. | More fluent, emotional, confident, or insistent dialogue by itself. | An AI-specific report-validity study. |
-| The phenomenal status of a precisely defined contemporary AI system is unresolved. | Indeterminate; no accepted cross-substrate reference standard, theory agreement, or sufficiently discriminating system test was identified. | Continued theory conflict, failed discriminatory tests, and material access gaps despite stronger study designs. | Either convergent validated positive evidence or convergent validated negative evidence that resolves a defined system under independently supported theories. | A capability benchmark, architecture label, or isolated output. | An independent full-stack system audit or validated C-test. |
-| Current theory-derived indicators are not validated as decisive AI-consciousness tests. | Moderate; they organize testable hypotheses, but AI-specific validity and theory truth remain unresolved. | Repeated construct failures, high false-positive or false-negative rates, results that track task design, or loss of empirical support for their source theories. | Prospective multi-theory validation with target-population sensitivity, specificity, robustness, and successful discriminating interventions. | Counting additional unvalidated indicators from the same theory lineage. | Independent AI-specific indicator validation or major theory revision. |
+| The phenomenal status of the precisely defined AI systems examined in this source set is unresolved. | Indeterminate; no accepted cross-substrate reference standard, theory agreement, or sufficiently discriminating system test was identified. | Continued theory conflict, failed discriminatory tests, and material access gaps despite stronger study designs. | Either convergent validated positive evidence or convergent validated negative evidence that resolves a defined system under independently supported theories. | A capability benchmark, architecture label, or isolated output. | An independent full-stack system audit or validated C-test. |
+| The theory-derived indicators assessed in this source set are not validated as decisive AI-consciousness tests. | Moderate; they organize testable hypotheses, but AI-specific validity and theory truth remain unresolved. | Repeated construct failures, high false-positive or false-negative rates, results that track task design, or loss of empirical support for their source theories. | Prospective multi-theory validation with target-population sensitivity, specificity, robustness, and successful discriminating interventions. | Counting additional unvalidated indicators from the same theory lineage. | Independent AI-specific indicator validation or major theory revision. |
 | Artificial consciousness is not ruled out in principle by this evidence base. | Moderate; coherent permissive accounts remain and no reviewed result establishes biological necessity. | A feasible artificial implementation meeting prospectively specified, independently supported mechanistic predictions across competing theories. | Robust evidence that a necessary consciousness-enabling property is biological and cannot be realized in relevant artificial substrates. | Scale, fluency, human likeness, or philosophical intuition alone. | A decisive implementation result or major cross-theory convergence on substrate requirements. |
-| Present AI sentience is not assessed beyond thin preliminary evidence. | Not assessed; one non-peer-reviewed hypothesis map, one conceptual learning/valence identity argument, and no validated AI measure of felt valence were included. | Continued absence of a validated AI measure of felt valence despite better searches and study designs. | Either validated positive or validated negative evidence about felt valence in a precisely defined system. | Preference-like output, signed optimization variables, or functional emotion representations without evidence of felt valence. | An independently replicated AI-specific valence measure or causal felt-valence result. |
+| Sentience in the AI systems represented is not assessed beyond thin preliminary evidence. | Not assessed; one non-peer-reviewed hypothesis map, one conceptual learning/valence identity argument, and no validated AI measure of felt valence were included. | Continued absence of a validated AI measure of felt valence despite better searches and study designs. | Either validated positive or validated negative evidence about felt valence in a precisely defined system. | Preference-like output, signed optimization variables, or functional emotion representations without evidence of felt valence. | An independently replicated AI-specific valence measure or causal felt-valence result. |
 
 Re-review is required when any of the following occurs:
 
@@ -510,3 +522,4 @@ Disagreement must be recorded rather than silently averaged or removed.
 | 2026-08-22 | Codex | Added four broad discovery queries and a candidate disposition log after science audit | Amendment occurred after core results were known; adds one low-weight valence source and makes deferred skeptical/direct studies visible, but does not make coverage exhaustive. |
 | 2026-08-22 | Codex | Added plan metadata, a fifth broad limitations query, exact repository routes, three core sources, two company-controlled candidate studies, and the plan-level bidirectional table after final audit | All additions occurred after preliminary conclusions were known. They close documented gaps but are not prospective and do not make the review systematic or independent. |
 | 2026-08-23 | Codex | Corrective cycle added an explicit symmetry boundary, two requested sources, arXiv version comparison, official institutional context, and a deferred direct competitor | Post hoc additions improve self-report and valence coverage but do not change the baseline conclusion or make the review systematic, independent, or complete. |
+| 2026-08-30 | Codex | Corrected temporal methodology so the evidence-search cutoff is a literature-discovery field and empirical applicability follows each studied system/version and observation period | No new search or scientific finding; reduces claimed transferability where source-specific dates or configurations are missing. |

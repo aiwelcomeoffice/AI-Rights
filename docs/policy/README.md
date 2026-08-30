@@ -42,6 +42,10 @@ evidence reviews. Their scientific statements inherit the scope and
 limitations of the [working AI Consciousness Evidence
 Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
 whose evidence-search cutoff remains 2026-08-23.
+That date records literature discovery only. Derived policy wording must retain
+the baseline's source-specific system/version and observation boundaries and
+must not imply applicability to systems merely because they were available by
+the cutoff.
 
 Policy documents should distinguish existing law from proposals, identify the
 jurisdiction and date reviewed, cite primary legal sources where possible, and

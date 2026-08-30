@@ -11,6 +11,12 @@ questions. Mark every unchecked quotation or claim **TODO: verify**.
 
 Notes are working material, not project conclusions.
 
+For empirical AI evidence, notes must carry forward the source's actual
+system/version and observation period. If the experiment date is not reported,
+say so and use a documented system/version date only as an explicitly labelled
+proxy. Do not let a source publication, project inclusion, access, or note
+update date stand in for evidence applicability.
+
 ## AI consciousness evidence baseline notes
 
 These ten notes are **partly verified** and await independent human review:

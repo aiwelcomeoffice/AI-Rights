@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-29
+- **Last substantive update:** 2026-08-30
 - **Scope:** First-visit experience architecture, source mapping, historical
   route analysis, page safeguards, and eleven website source Drafts; no
   implementation or publication decision
@@ -142,6 +142,9 @@ Website summaries must lead readers to these records for methods, evidence,
 limitations, proposals, and unresolved questions. The working synthesis must
 always be described as partly verified, AI-assisted, non-systematic, and not
 independently human-reviewed, with its 2026-08-23 evidence-search cutoff.
+That cutoff records literature discovery only; website wording must preserve
+the source-specific system/version and observation boundaries and must not
+present the cutoff or a page-update date as extending scientific applicability.
 
 ### Sources that must not be presented as completed positions
 

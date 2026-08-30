@@ -32,10 +32,12 @@ something it is like to be the system.
 The repository's [working evidence
 synthesis](../../research/syntheses/ai-consciousness-evidence-baseline.md#executive-conclusion)
 reports that, within its selected set of English-language sources and
-2026-08-23 cutoff, it did not identify evidence sufficient to establish
-phenomenal consciousness or sentience in the contemporary systems addressed
-by its included sources. The synthesis is partly verified, has no independent
-human review, and is not a project position or a claim of consensus.
+systems actually addressed by those sources, it did not identify evidence
+sufficient to establish phenomenal consciousness or sentience. Literature
+discovery ended 2026-08-23; that review-process date does not extend the
+finding to systems available then. The synthesis is partly verified, has no
+independent human review, and is not a project position or a claim of
+consensus.
 
 This is the synthesis's provisional result, not an adopted project conclusion
 or a field-wide verdict. “Not established” does not mean “proven absent.” The
@@ -116,10 +118,13 @@ system's protections or status.
 
 ## How does the project keep its research current?
 
-The Draft research process uses dated search cutoffs, versioned records, stated
-limitations, scheduled review where one has been set, and event-based review
-triggers. A new search should be recorded as a new search; editing a document
-must not silently move its evidence cutoff.
+The Draft research process uses dated evidence-search cutoffs, versioned
+records, stated limitations, scheduled review where one has been set, and
+event-based review triggers. A new search should be recorded as a new search;
+editing a document must not silently move its evidence-search cutoff. That
+cutoff records when literature discovery stopped; empirical applicability
+instead follows the system/version and observation or experiment date in each
+source.
 
 The project does not yet claim continuous monitoring or an adopted repository-
 wide review cadence. Assigning maintenance owners and deciding a cadence remain

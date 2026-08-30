@@ -35,6 +35,12 @@ and does not itself establish any scientific conclusion.
 6. Verify consequential claims and quotations, preserve disagreement, and
    record uncertainty and review triggers.
 
+For empirical AI findings, the observation/experiment date is normally the
+strongest temporal anchor. Keep it separate from the system release/version
+date, source publication date, literature-search cutoff, and this project's
+document-update date. An older result can remain valid for the system studied
+while having limited or unknown transferability to another version or date.
+
 Until the protocol is reviewed, records should name the Draft protocol version
 they use and must not imply that the method has been adopted.
 

@@ -2,7 +2,8 @@
 
 - **Note ID:** NOTE-ACEB-009
 - **Note status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Source record:** [Berg et al. 2025](../sources/berg-et-al-2025-self-referential-processing.md)
 - **Source version used:** arXiv:2510.24797v2, with v1/v2 source-package
   comparison
@@ -12,11 +13,27 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-23
-- **Last updated:** 2026-08-23
+- **Last updated:** 2026-08-30
 - **Reviewed by:** Not yet independently reviewed
 
 These are working interpretations under the [research protocol](../research-protocol.md),
 not project conclusions.
+
+## Temporal and system applicability
+
+- **System/model and version:** Seven named closed-model products without
+  stable snapshot identifiers, plus Llama 3.3 70B through Goodfire for the
+  internal feature intervention
+- **System release/version date:** Exact dates not established in the source
+  record
+- **Observation/experiment date:** Not reported
+- **Source publication date:** 2025-10-30 for arXiv v2
+- **Evidence-search inclusion date:** 2026-08-23; review process only
+- **Temporal applicability:** Direct for classified report behavior in the
+  stated prompt conditions and the one-checkpoint feature intervention
+- **Transferability limitations:** Unknown for later product snapshots,
+  different prompts/policies/evaluators, other checkpoints, or phenomenal
+  properties
 
 ## What the source actually says
 
@@ -281,3 +298,4 @@ and monitor peer-review, correction, withdrawal, and replication status.
 | Date | Researcher or reviewer | Change, verification, or disagreement | Effect on note |
 | --- | --- | --- | --- |
 | 2026-08-23 | Codex | Initial full-text extraction, v1/v2 comparison, and bidirectional appraisal | Treats the study as direct report-generation evidence and low-specificity phenomenal evidence. |
+| 2026-08-30 | Codex | Added explicit temporal/system applicability block | Missing product snapshots and experiment dates now constrain transferability visibly. |

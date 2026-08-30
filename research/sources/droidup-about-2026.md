@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-MOYA-001
 - **Record status:** Partly verified
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Record created:** 2026-08-29
-- **Last updated:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -37,6 +38,21 @@ a project position.
 - **Correction, expression-of-concern, or retraction status:** No version or
   correction notice was visible on the accessed page; no external status
   search was performed
+
+### Temporal and system applicability
+
+- **System/model:** DroidUp's general product portfolio; Moya is not identified
+  on this page
+- **Checkpoint/version:** Not reported
+- **System release/version date:** Unknown
+- **Observation/experiment date:** No product observation or experiment is
+  reported; the webpage content was observed on 2026-08-29
+- **Source publication date:** Not stated
+- **Evidence-search inclusion date:** 2026-08-29; review process only
+- **Temporal applicability:** Establishes only what the dynamic corporate page
+  represented when accessed.
+- **Transferability limitations:** Does not validate a capability or apply to a
+  particular Moya unit, configuration, deployment, or date.
 
 ## Review inclusion
 
@@ -247,3 +263,4 @@ they do not establish that such deployments are effective or appropriate.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-29 | Codex | Created record from the official DroidUp About page | Permits attribution of corporate representations only |
+| 2026-08-30 | Codex | Separated webpage access from product observation and release dates | Prevents a dynamic-page access date from becoming product evidence. |

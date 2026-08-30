@@ -12,6 +12,11 @@ Inclusion is not endorsement.
 While the protocol remains a Draft, every record should identify the protocol
 version used and its own verification status. Record preprint, correction,
 retraction, publication, legal, system, and access versions where relevant.
+For empirical AI evidence, also separate the system/version boundary, system
+release/version date, observation/experiment date, source publication date,
+evidence-search inclusion date, temporal applicability, and transferability
+limits. A publication, access, inclusion, or record-update date does not extend
+a finding to systems not studied.
 
 ## Initial AI consciousness evidence baseline
 

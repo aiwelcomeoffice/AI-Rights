@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-08-30
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -65,9 +65,10 @@ checked, for which use, and with which provenance. They do not mean endorsed,
 correct, Adopted, independently reviewed, or consensus.
 
 The current evidence baseline is partly verified working research. Its
-evidence-search cutoff, page-update date, source publication dates, and review
-dates are separate fields. Editing a page does not silently move an evidence
-cutoff.
+evidence-search cutoff, source-specific system release/version and observation
+dates, page-update date, source publication dates, and review dates are
+separate fields. Editing a page does not silently move an evidence-search
+cutoff or extend a finding to another system or date.
 
 ## A commit is not adoption
 

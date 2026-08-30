@@ -13,7 +13,7 @@
 - **Independent reviewers:** [Names or roles, or limitation]
 - **Date prepared:** [YYYY-MM-DD]
 - **Last updated:** [YYYY-MM-DD]
-- **Search cutoff:** [YYYY-MM-DD]
+- **Evidence-search cutoff (literature discovery only):** [YYYY-MM-DD]
 - **Next review:** [Date or event-based trigger]
 
 Follow the [research protocol](../research-protocol.md). A synthesis must
@@ -45,6 +45,9 @@ change to that position:
   decision, or legal category]
 - **System or population boundary:** [Model, version, runtime, context,
   population, jurisdiction, and time period]
+- **Temporal applicability:** [Source-specific system/version and
+  observation/experiment periods; do not use the evidence-search cutoff as a
+  system date]
 - **Comparators:** [Relevant comparison]
 - **Competing explanations named in advance:** [Alternatives]
 
@@ -233,10 +236,12 @@ does not adopt a position.]
 
 Use a separate statement for each material conclusion:
 
-> Within [scope and search cutoff], the evidence [supports, weighs against, or
-> does not resolve] [specific claim] with [high, moderate, low, indeterminate,
-> or not-assessed confidence], because [reasons]. Important limitations are
-> [limitations].
+> For [systems, versions, configurations, observation periods, and study
+> conditions represented], the evidence [supports, weighs against, or does not
+> resolve] [specific claim] with [high, moderate, low, indeterminate, or
+> not-assessed confidence], because [reasons]. Literature discovery ended
+> [evidence-search cutoff]. Important validity and transferability limitations
+> are [limitations].
 
 List relevant uncertainty:
 

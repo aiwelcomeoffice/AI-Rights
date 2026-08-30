@@ -2,7 +2,8 @@
 
 - **Note ID:** NOTE-ACEB-003
 - **Note status:** Partly verified
-- **Protocol version:** 0.1-draft
+- **Protocol version:** 0.1-draft for original appraisal; temporal presentation
+  aligned with 0.3-draft
 - **Source record:** [Butlin et al. 2023](../sources/butlin-et-al-2023-ai-consciousness-report.md)
 - **Source version used:** arXiv:2308.08708v3 (2023-08-22)
 - **Research question:** What evidence would support or weigh against
@@ -11,11 +12,27 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-22
+- **Last updated:** 2026-08-30
 - **Reviewed by:** Not yet independently reviewed
 
 These are working interpretations under the [research protocol](../research-protocol.md),
 not project conclusions.
+
+## Temporal and system applicability
+
+- **System/model and version:** Selected systems and public architecture
+  descriptions available to the authors in 2023; complete checkpoints and
+  runtimes vary or are not reported
+- **System release/version date:** Varies; not established precisely
+- **Observation/experiment date:** No experiment; assessment date not reported.
+  August 2023 is a documentation boundary, not an observation date.
+- **Source publication date:** 2023-08-22 for arXiv v3
+- **Evidence-search inclusion date:** 2026-08-22; review process only
+- **Temporal applicability:** Direct only for the authors' assessment of those
+  historical systems and descriptions
+- **Transferability limitations:** Later models, hidden configurations, and
+  materially different deployments require a new assessment; age does not
+  erase validity for the historical evidence actually reviewed
 
 ## What the source actually says
 
@@ -72,7 +89,9 @@ matches under their framework in the systems and documentation reviewed.”
 
 - Non-peer-reviewed qualitative expert coding with no validated reference
   outcome or blinded independent replication.
-- Current-model generalization is invalid because the system cutoff is 2023.
+- Generalization to later models is invalid because the assessed system
+  documentation is bounded to 2023, not because of this project's 2026 search
+  date.
 - Architectural descriptions may omit training, runtime, memory, tools, and
   deployment scaffolding.
 - Later 2026 paper is same-lineage development, not replication.
@@ -142,3 +161,4 @@ matches under their framework in the systems and documentation reviewed.”
 | Date | Researcher or reviewer | Change, verification, or disagreement | Effect on note |
 | --- | --- | --- | --- |
 | 2026-08-22 | Codex | Initial extraction | Negative conclusion bounded to authors' framework. |
+| 2026-08-30 | Codex | Added system-specific temporal and transferability block | Prevents a 2023 architecture assessment from becoming a 2026 system classification. |

@@ -4,6 +4,7 @@
 
 - **Work cycle:** 026
 - **Date prepared:** 2026-08-29
+- **Last updated:** 2026-08-30
 - **Scope:** Jurisdiction-neutral future case analysis
 - **Claim types:** Future scenario, open scientific hypotheses, philosophical
   questions, and Draft normative proposals; not empirical findings or adopted
@@ -62,7 +63,8 @@ The analysis applies, without adopting or amending:
   argument, scenario, and normative judgment;
 - the [working AI Consciousness Evidence
   Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
-  whose 2026-08-23 search cutoff and limitations remain unchanged;
+  whose literature discovery ended 2026-08-23 and whose source-specific
+  system/observation boundaries and limitations remain unchanged;
 - the [Precaution Framework](../principles/precaution-framework.md), which is a
   Scaffold and expressly calls for concrete hypothetical tests;
 - the [Draft AI Rights Protection

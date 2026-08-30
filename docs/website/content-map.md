@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-29
+- **Last substantive update:** 2026-08-30
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Exact source and authority mapping for proposed website pages
 
@@ -66,7 +66,7 @@ source.
 | [`research/README.md`](../../research/README.md) | Working research area; not an endorsed evidence base or project position |
 | [`research/research-protocol.md`](../../research/research-protocol.md) | **Draft** protocol; not adopted |
 | [`research/syntheses/ai-consciousness-evidence-baseline-plan.md`](../../research/syntheses/ai-consciousness-evidence-baseline-plan.md) | Working research plan; not a project position |
-| [`research/syntheses/ai-consciousness-evidence-baseline.md`](../../research/syntheses/ai-consciousness-evidence-baseline.md) | **Partly verified working structured narrative review**; 2026-08-23 cutoff; single AI-assisted reviewer; no independent human review; not systematic, adopted, or consensus |
+| [`research/syntheses/ai-consciousness-evidence-baseline.md`](../../research/syntheses/ai-consciousness-evidence-baseline.md) | **Partly verified working structured narrative review**; literature discovery ended 2026-08-23; empirical applicability is source/system-specific; single AI-assisted reviewer; no independent human review; not systematic, adopted, or consensus |
 | [`research/sources/README.md`](../../research/sources/README.md) | Index to 21 partly verified working source records; inclusion is not endorsement |
 | [`research/notes/README.md`](../../research/notes/README.md) | Working source-note index; not a public conclusion |
 | [`docs/research/README.md`](../research/README.md) | Reserved for reviewed outputs; no reviewed public evidence summary is present |
@@ -196,7 +196,8 @@ rather than copied mechanically into a later prototype.
   imply a mature institute or reviewed publication programme.
   `/research/evidence-baseline/` reports the scoped working conclusion and
   must not present it as exhaustive, systematic, independently reviewed,
-  current beyond its cutoff, or a field-wide verdict.
+  applicable to systems beyond its source-specific system and observation
+  boundaries, or a field-wide verdict.
 - **May summarize:** The baseline's executive conclusion, scope, confidence,
   update conditions, and high-level evidence categories at the exact strength
   already used in Draft education and policy.
@@ -209,8 +210,8 @@ rather than copied mechanically into a later prototype.
   appropriate before independent specialist review; independent
   consciousness-science and AI architecture/evaluation review remains needed.
 - **Main risk:** Presenting a partly verified, selected, AI-assisted narrative
-  review as exhaustive, systematic, independently reviewed, current beyond its
-  cutoff, or a field-wide conclusion.
+  review as exhaustive, systematic, independently reviewed, applicable to
+  unexamined systems or dates, or a field-wide conclusion.
 
 ### Research methods
 
@@ -461,8 +462,10 @@ rather than copied mechanically into a later prototype.
    convert that synthesis into “the project has proven.”
 5. A page that mixes working evidence and Draft norms should label each claim
    category in the prose, not merely in metadata.
-6. Preserve exact dates: **last page update** is editorial; **evidence-search
-   cutoff** is methodological. One never substitutes for the other.
+6. Preserve exact dates: **last page update** is editorial;
+   **evidence-search cutoff** is a literature-discovery field; and empirical
+   applicability follows source-specific system/version and
+   observation/experiment dates. None substitutes for another.
 7. If a source is corrected, withdrawn, superseded, or materially revised,
    reassess every mapped page before continuing to rely on it.
 8. An interaction, reader lens, shortened journey, or polished presentation

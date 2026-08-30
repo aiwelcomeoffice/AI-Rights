@@ -11,6 +11,12 @@ contradictory findings and preserve material disagreement rather than forcing
 consensus. Do not call a document a systematic review or meta-analysis unless
 its documented method meets the protocol's requirements.
 
+The evidence-search cutoff records only when literature discovery stopped.
+Empirical applicability must instead be reported for the systems, versions,
+configurations, and observation periods represented by the included sources.
+Validity for the studied system and transferability to another system or date
+must remain separate in either evidential direction.
+
 Syntheses remain working material until reviewed for publication under
 [`docs/research/`](../../docs/research/README.md).
 

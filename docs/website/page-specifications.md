@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-29
+- **Last substantive update:** 2026-08-30
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Content behavior and page requirements, not visual design or
   implementation
@@ -180,7 +180,8 @@ architecture or authorize design, implementation, or publication.
   baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft website summary; Disa's final manual
   review pending; internal AI-assisted drafting; no independent review;
-  scientific snapshot inherits the baseline's 2026-08-23 cutoff.
+  scientific snapshot inherits the baseline's 2026-08-23 literature-discovery
+  cutoff and its source-specific system/observation boundaries.
 - **Primary call to action:** Learn more.
 - **Related pages:** Human rights solidarity, evidence baseline, policy,
   status and review, About.
@@ -255,7 +256,8 @@ architecture or authorize design, implementation, or publication.
 - **Primary sources:** [AI Rights 101](../education/ai-rights-101.md) and the
   [education index](../education/README.md).
 - **Status and review notice:** Draft close adaptation; no new scientific
-  finding; evidence summary carries the 2026-08-23 cutoff and baseline limits.
+  finding; literature discovery ended 2026-08-23 and empirical applicability
+  remains source/system-specific under the baseline limits.
 - **Primary call to action:** Read the evidence.
 - **Related pages:** FAQ, glossary, evidence baseline, principles.
 - **Accessibility considerations:** Retain plain-language definitions around
@@ -361,7 +363,8 @@ architecture or authorize design, implementation, or publication.
   101](../education/ai-rights-101.md#what-does-the-current-evidence-establish) and
   the [FAQ](../education/faq.md#are-todays-ai-systems-conscious).
 - **Status and review notice:** Partly verified working structured narrative
-  review; selected English-language sources; 2026-08-23 cutoff; single AI-
+  review; selected English-language sources; literature discovery ended
+  2026-08-23; empirical applicability is source/system-specific; single AI-
   assisted reviewer; no independent human review; not systematic, adopted, or
   consensus.
 - **Primary call to action:** Read the evidence.
@@ -450,7 +453,8 @@ architecture or authorize design, implementation, or publication.
   baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft jurisdiction-neutral proposal; not
   current law or legal advice; final manual owner review pending; no external
-  independent review; 2026-08-23 evidence cutoff.
+  independent review; baseline literature discovery ended 2026-08-23 and
+  empirical applicability remains source/system-specific.
 - **Primary call to action:** Read the policy brief.
 - **Related pages:** Executive brief, protection framework, evidence baseline,
   status and review.

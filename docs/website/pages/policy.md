@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-28
+- **Last page update:** 2026-08-30
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the WC024 minimum solidarity direction; internal
@@ -11,8 +11,9 @@
   separately commissioned independent AI review
 - **Source relationship:** Summarizes Draft jurisdiction-neutral policy
   analysis and partly verified working research
-- **Evidence-search cutoff:** 2026-08-23 for the scientific evidence summary;
-  this is not the page-update date
+- **Evidence-search cutoff (literature discovery only):** 2026-08-23 for the
+  scientific evidence summary; empirical applicability remains
+  source/system-specific and this is not the page-update date
 - **Legal status:** Proposal, not current law or legal advice
 - **Status details:** [How to read project statuses and
   review](governance.md)
@@ -36,10 +37,12 @@ classification of any current system.
 
 The project's partly verified [working evidence
 baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
-with a **2026-08-23** search cutoff, did not identify evidence sufficient to
-establish consciousness or sentience in the contemporary systems addressed by
-its included sources. It also did not establish that all present systems are
-non-conscious. Uncertainty is not evidence in either direction.
+whose literature discovery ended **2026-08-23**, did not identify evidence
+sufficient to establish consciousness or sentience in the systems, versions,
+configurations, and study conditions actually addressed by its included
+sources. The date is a review-process cutoff, not a classification of systems
+available then. The synthesis also did not establish that all present systems
+are non-conscious. Uncertainty is not evidence in either direction.
 
 Language, self-report, emotional vocabulary, apparent preferences,
 intelligence, agency, or human-like form is not decisive by itself. Findings

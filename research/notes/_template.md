@@ -18,6 +18,22 @@ Follow the [research protocol](../research-protocol.md). These notes are
 working interpretation, not a project conclusion. Keep source report,
 quotation, and researcher judgment separate.
 
+## Temporal and system applicability
+
+Complete this section when the note contains empirical AI evidence. Omit it
+when AI-system temporal fields are not scientifically meaningful. Publication,
+project inclusion, and note-update dates must not substitute for an unreported
+observation date.
+
+- **System/model:** [Exact system or unknown]
+- **Checkpoint/version:** [Exact checkpoint/configuration or not reported]
+- **System release/version date:** [Date or unknown]
+- **Observation/experiment date:** [Date/range or not reported]
+- **Source publication date:** [Date]
+- **Evidence-search inclusion date:** [Date; review process only]
+- **Temporal applicability:** [Directly supported system and period]
+- **Transferability limitations:** [Limits for another system/version/date]
+
 ## What the source actually says
 
 ### Question or proposition
@@ -105,7 +121,7 @@ or any other favored hypothesis.
 - **Re-review triggers:** [New version, replication, correction, retraction,
   data release, date, or other event]
 
-## Relevance to current work
+## Relevance to this project
 
 - **Possible synthesis link:** [Relative path or not yet assigned]
 - **Claims this note may inform:** [Scoped claims]

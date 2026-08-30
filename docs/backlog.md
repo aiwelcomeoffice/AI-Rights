@@ -30,10 +30,17 @@ entry; accepted history must not be silently rewritten.
   implementation and delivery. Uncontrolled competing substantive copies are
   prohibited.
 - Website publication must preserve source repository/path/revision, status
-  and version, review date/type, independent-review status, evidence cutoff,
+  and version, review date/type, independent-review status, evidence-search cutoff,
   Disa's approval for the exact revision, and synchronization date. Styling or
   implementation cannot convert Draft into Adopted or internal review into
   independent review.
+- For empirical AI evidence, an evidence-search cutoff records literature
+  discovery only. Scientific applicability follows each studied system,
+  checkpoint/version, configuration, and observation/experiment period.
+  Source publication, project inclusion, document-update, and website-update
+  dates do not extend that applicability. Validity for the system studied and
+  transferability to another system or date remain separate in both evidential
+  directions (WC031).
 - The working scientific boundary remains symmetric but not probability-neutral:
   current AI consciousness/sentience is not established; categorical absence
   across all present systems is also not established; this does not imply equal
@@ -72,6 +79,10 @@ entry; accepted history must not be silently rewritten.
   prototype is approved for that bounded use. The exact WC030 candidate and
   artifact are approved for publication, but are **not published or deployed**.
   WC029's general readiness boundary remains an open owner question.
+- **Research temporal scope (WC031, 2026-08-30):** evidence-search cutoffs are
+  review-process dates only. Empirical applicability follows the system and
+  conditions actually studied; validity and transferability must be stated
+  separately and symmetrically.
 
 ## Work Cycle history
 
@@ -641,6 +652,50 @@ synchronization date, provider version, or deployment ID exists.
 `.com`, change DNS/DNSSEC, create a redirect, issue/buy a certificate, spend,
 announce, publish, deploy, or request indexing. Those exact external actions
 remain separately gated.
+
+## Work Cycle 031 — empirical temporal scope corrected
+
+**Date:** 2026-08-30
+
+**Status:** Methodological owner direction **Accepted**; affected protocol,
+working research, source records, notes, templates, policy, education, and
+website-source documents retain their existing Draft, Scaffold, or working-
+research status.
+
+**Owner resolution:** A literature-discovery cutoff records only when searching
+stopped. It is not the scientific date through which empirical findings
+characterize AI systems. Empirical applicability follows the model/product,
+checkpoint/version, material configuration, and observation or experiment
+period actually studied. If the observation date is unavailable, a documented
+system/version date may be used only as an explicit proxy; missing dates remain
+`unknown` or `not reported`. Source publication, project inclusion,
+document-update, and website-update dates do not extend scientific
+applicability.
+
+**Result:** Corrected the Draft protocol and research templates; separated
+evidence validity from transferability; bounded baseline conclusions to the
+systems and conditions represented; added compact temporal/system fields to
+the empirical AI records where meaningful; and aligned Draft public summaries.
+The correction is symmetric: system drift is neither positive evidence for
+consciousness/sentience nor permission to transfer older non-detection or
+alternative explanations to materially different systems.
+
+**Scientific effect:** No source, search, result, confidence direction,
+consciousness or sentience finding, legal conclusion, or protection level was
+changed. The 2026-08-23 baseline evidence-search cutoff remains unchanged as a
+reproducibility field. Transferability is reduced or unknown where system
+versions or experiment dates are missing.
+
+**History and open verification:** Earlier Work Cycle wording is preserved as
+historical record and is now read subject to this correction. Exact experiment
+dates and stable product snapshots remain unverified for several empirical
+sources; independent source and scientific review remain required.
+
+**Implementation consequence:** WC030's exact approved private artifact
+predates this authoritative source correction and is not modified or silently
+re-approved here. Any later publication path must reconcile the website copy
+with WC031 and obtain whatever exact revision approval the standing provenance
+rules require.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
