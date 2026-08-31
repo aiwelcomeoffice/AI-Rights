@@ -902,6 +902,61 @@ reconciliation inventory against the authoritative WC037 sources, without
 editing either repository or treating the implementation or live website as
 scientific or editorial authority.
 
+## Work Cycle 038 — Live Website Reconciliation and Current-Research Sync
+
+**Date:** 2026-08-31
+
+**Status:** Disa- and Project-Lead-authorized bounded reconciliation; the
+AI-Rights website-source phase is completed and ready to be frozen as an exact
+source revision for the authorized private implementation sync. The reconciled
+website wording remains **Draft**, Disa's review of the exact wording remains
+pending, and deployment is not authorized.
+
+**Baselines:** AI-Rights began at
+`340bb3653d0cf66409e755c919ef8bc86bd9a7c1`; the private implementation began
+at `32cfce5eff71587d5676a719e8cc37e96b52f319`. The deployed
+`https://aiwelcomeoffice.org/` page was inspected directly on 2026-08-31 and
+used only as the presentation baseline. The [WC038 reconciliation
+record](website/wc038-live-reconciliation.md) inventories its single route,
+sections, wording, navigation, status presentation, and source gaps.
+
+**Authoritative result:** Replaced the older expansive homepage Draft with a
+smaller source following the live Welcome → Explore → Learn → Go deeper model.
+Useful live wording about welcome without a verdict, non-classifying reader
+entries, claim layers, shared responsibility, and source openness was brought
+back into AI-Rights as Draft website wording before implementation reuse. The
+current Research and Robot Welcome website sources were aligned with
+WC031–WC037.
+
+**Outdated presentation corrected:** The source now distinguishes historical
+validity from transferability to materially newer systems; explains that an
+evidence-search cutoff is not empirical applicability; describes development–
+evidence lag as a limitation rather than evidence in either direction; and
+presents the Adopted three-layer portfolio and active applied civic-transition
+work. Robot Welcome now includes composite systems, model/body/operator
+distinctions, human-like humanoids, accessible transparency, memory, tools,
+orchestration, post-deployment change, biohybrid boundaries, lifecycle,
+decommissioning, reassessment, and distributed responsibility.
+
+**Status and scientific limits:** This cycle performs no new literature
+search, scientific finding, specialist biological or bioethical review, legal
+survey, policy adoption, Robot Welcome certification, independent review, or
+accessibility conformance audit. It changes no underlying research finding or
+document status. Welcome remains a normative and communicative stance, not a
+scientific finding. Human-like appearance and living or human-derived tissue
+remain non-evidence by themselves for consciousness, sentience, or moral
+status.
+
+**Implementation and deployment boundary:** After the bounded AI-Rights commit
+is created, its exact full SHA controls the authorized private Astro content
+sync and provenance update. The existing one-route presentation, visual
+identity, semantic structure, responsive behavior, progressive enhancement,
+minimal-JavaScript design, and no-tracker/no-cookie posture should be preserved
+unless validation identifies a concrete implementation defect. WC038 does not
+authorize deployment, DNS, hosting, Cloudflare, production-secret, external-
+service, analytics, tracking, cookie, CMS, or publication changes. Disa must
+review and separately authorize any deployment candidate.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

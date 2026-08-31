@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-30
+- **Last page update:** 2026-08-31
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -19,8 +19,8 @@
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
-**Reader purpose:** Understand what the project investigates, how its working
-research is organized, what its current evidence can support, and which
+**Reader purpose:** Understand what the project investigates, how historical
+and current research differ, what its evidence can support, and which
 verification and review limits remain.
 
 AI Rights & Welcome, an AI Welcome Office project, investigates questions
@@ -32,9 +32,51 @@ interchangeable conclusions.
 
 The heading "Research" does not imply a staffed research institute or a
 systematic programme. The project does not currently offer an independently
-reviewed public evidence synthesis. Its evidence baseline is working research:
-useful for inspection and further review, but limited in method, coverage,
-verification, and authority.
+reviewed public evidence synthesis. Its research records can be useful for
+inspection and further review while retaining limits in method, coverage,
+verification, transferability, and authority.
+
+## Current research direction
+
+The [Adopted Research Portfolio
+Architecture](../../../research/research-portfolio.md) organizes current work
+in three layers:
+
+1. bounded intake of specialist evidence needed for defined civic questions;
+2. supporting methods for system boundaries, evidence validity and
+   transferability, temporal applicability, claim classification, and
+   provenance; and
+3. active applied civic-transition research on public understanding,
+   proportionate preparation, accountable integration, physical coexistence,
+   lifecycle decisions, competing interests, and governance under uncertainty.
+
+The architecture is an adopted way of organizing research, not an adopted
+scientific conclusion. Current Draft work includes [evidence-to-governance
+transition triggers](../../../research/evidence-to-governance-transition-triggers-plan.md)
+and [converging artificial-system
+integration](../../../research/converging-artificial-system-integration-scope.md).
+The trigger plan has not begun its literature phase, and the integration scope
+performs no substantive technology assessment.
+
+Relevant targets may include software models, agents, persistent or adaptive
+systems, tool-using composites, humanoid robots, embodied systems, or
+potentially biohybrid systems. Not every system has every feature. Capability,
+memory, agency, embodiment, human likeness, scale, or living tissue does not
+automatically establish consciousness, sentience, welfare, identity, moral
+status, or rights.
+
+## Development–evidence lag
+
+AI systems may be designed, trained, changed, and deployed faster than
+independent empirical research can characterize the exact new system. This
+time and information gap is **development–evidence lag**. Engineering can
+create a new empirical target before researchers have sufficient access,
+measurement validity, time, or replication to characterize it.
+
+This is a limitation on classification and evidence transferability. It is not
+evidence for consciousness or sentience, and it is not evidence for
+non-consciousness or non-sentience. A material system change can require a new
+assessment without making either result more likely.
 
 ## Historical evidence boundary
 
@@ -125,8 +167,8 @@ used and its deviations.
 
 Research, measurement, and deployed systems do not move at the same pace:
 
-- **Research lag:** experiments, review, publication, replication, and
-  synthesis take time.
+- **Development–evidence lag:** systems may change or be deployed before
+  sufficiently relevant independent evidence can characterize the new target.
 - **Model and deployment drift:** weights, training, system instructions,
   memory, tools, agent loops, modalities, embodiment, tuning, inference, and
   surrounding software may change while a product name stays the same.

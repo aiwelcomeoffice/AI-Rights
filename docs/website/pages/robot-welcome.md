@@ -2,16 +2,17 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-26
+- **Last page update:** 2026-08-31
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no independent robotics, safety,
   accessibility, legal, standards, cybersecurity, privacy, environmental, or
   human-factors review
-- **Source relationship:** Public adaptation of the Draft [Robot Welcome &
-  Physical Coexistence foundation](../../robot-welcome/README.md), extending
-  Draft Core Principle 10 and related education and policy material
+- **Source relationship:** WC038 public adaptation of the WC037-aligned Draft
+  [Robot Welcome & Physical Coexistence
+  foundation](../../robot-welcome/README.md), extending Draft Core Principle 10
+  and related education and policy material
 - **Readiness:** Conceptual only; not an engineering specification, product
   programme, prototype, compatibility claim, safety certification, standard,
   authorization mark, or website implementation
@@ -36,12 +37,19 @@ That is the idea behind **Robot Welcome**:
 
 > **Welcome without pretending.**
 
-## Robots and AI are not the same thing
+## Define the system people encounter
 
 A **robot** is a physical machine that senses, acts, or is controlled in the
 physical world. It may use AI, fixed automation, remote control, or a
 combination. An **AI system** may be software-only and never have a robot body.
 A **software agent** may act through digital tools without being embodied.
+
+What appears to be one robot may combine a body, one or more models, local or
+remote compute, memory or persistence, tools, agent loops, routing or
+orchestration, multimodal sensors, post-deployment adaptation, remote human
+operators, and living biological components. Not every system has every
+feature. Public information and assessment should identify the components
+actually present, what each contributes, and who can control or change them.
 
 An **autonomous machine** can select or execute some actions without continuous
 moment-to-moment human control. A **remotely operated machine** is directed by
@@ -50,10 +58,33 @@ responsibility must be traced through the actual design, deployment, control,
 and maintenance chain.
 
 Physical presence changes the safety and accessibility context. It does not
-change the evidential standard for subjective experience. Human-like form,
-fluent conversation, emotional display, apparent friendliness, purposeful
-movement, and autonomous action do not by themselves establish consciousness,
-sentience, welfare, personhood, consent, or moral status.
+change the evidential standard for subjective experience. Increasingly human-
+like faces, bodies, voices, gaze, movement, emotional expression, social
+behavior, apparent friendliness, and autonomous action can affect trust,
+attachment, accessibility, manipulation risk, and expectations. **Human-like
+appearance is not evidence of consciousness or sentience.** None of these
+features establishes welfare, personhood, consent, identity, or moral status
+by itself.
+
+Living or human-derived tissue is not by itself evidence of sentience,
+consciousness, or moral status. Biohybrid systems can nevertheless create
+immediate questions about tissue provenance and consent, biosafety,
+maintenance, biological damage and repair, specialist review, lifecycle, and
+decommissioning.
+
+## Transparency, change, and reassessment
+
+People should be able to understand, in accessible forms, whether they are
+interacting with a model, robot body, tool-using composite, remote operator, or
+some combination; what the system senses or records; its material capabilities
+and limits; who is responsible; and how to report a problem or reach emergency
+help. Transparency must not be confused with a claim that every technical
+detail is public or that a system has an inner life.
+
+A product name or visible body may remain unchanged while its model, memory,
+tools, orchestration, autonomy, sensors, operators, deployment, or learning
+behavior changes. A material change can require scientific, safety, ethical,
+or legal reassessment without predetermining the result.
 
 See [AI Rights 101](../../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing)
 and the [Draft glossary](../../education/glossary.md#robot) for the broader

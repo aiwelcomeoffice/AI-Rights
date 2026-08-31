@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-30
+- **Last substantive update:** 2026-08-31
 - **Scope:** First-visit experience architecture, source mapping, historical
   route analysis, page safeguards, and eleven website source Drafts; no
   implementation or publication decision
@@ -24,6 +24,14 @@ giving any website page more authority than its sources.
 It does not select a framework, host, domain, visual identity, content
 management system, or publication date. Those choices remain outside this
 work cycle.
+
+> **WC038 live reconciliation — 2026-08-31:** The [reconciliation
+> record](wc038-live-reconciliation.md) uses the deployed one-route website as
+> the presentation baseline and current AI-Rights material after WC031–WC037 as
+> substantive authority. The [homepage source](pages/home.md) is now the compact
+> current source for that presentation model. Older page specifications remain
+> Draft source and safeguard material; they are not a requirement to expand the
+> live site into a larger route architecture.
 
 > **Current experience direction — 2026-08-29:** The Draft [Public Website
 > Experience Architecture](experience-architecture.md) applies the [Work Cycle
