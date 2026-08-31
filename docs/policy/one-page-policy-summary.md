@@ -33,7 +33,7 @@ any later protection.
 ## The scientific boundary
 
 The project's partly verified [working evidence
-baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) has a
+baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) has a
 **2026-08-23 evidence-search cutoff** for literature discovery and has not
 received independent review. That date is not a shared applicability date for
 the systems studied. Within its limited, source- and system-bound scope:

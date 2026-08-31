@@ -1,11 +1,28 @@
 # Research Workspace
 
-This is the working research area for **AI Rights & Welcome**, an **AI Welcome
-Office** project. AI Welcome Office is the organisation and publisher; the
-records retain their own verification and project-position status.
+This is the current and forward-looking research area for **AI Rights &
+Welcome**, an **AI Welcome Office** project. AI Welcome Office is the
+organisation and publisher; the records retain their own verification and
+project-position status.
 
-This directory contains traceable working material. It is not, by itself, an
-endorsed evidence base or project position.
+This directory is the default home for active applied civic-transition
+research, integration research, system/change assessment, evidence-to-
+governance triggers, bounded contemporary evidence intake, and research on
+rapidly changing systems. It contains traceable working material. It is not,
+by itself, an endorsed evidence base or project position.
+
+Completed or dated research products may be preserved under the
+[`research-historical/` boundary](../research-historical/README.md). Use the
+following specific applicability rule: **Historical for current-system
+applicability:** empirical AI evidence, studied systems, observed deployments,
+or concrete system events whose relevant target predates 2026. Use the real
+target/evidence date, not a later publication or project-edit date.
+Historical placement does not mean false, obsolete, disproven, or superseded,
+and it does not change a document's own status. Historical evidence may inform
+current work, but current-system assessment must separately establish
+validity and transferability for the defined target. Conceptual and other non-
+AI-empirical work retains the relevance supported by its own claims and
+methods; age alone does not make it obsolete.
 
 The [Draft research protocol](research-protocol.md) defines the proposed
 method for questions, terminology, source selection, evidence appraisal,
@@ -25,6 +42,9 @@ and does not itself establish any scientific conclusion.
   integration map](converging-artificial-system-integration-scope.md) — WC035
   bounded applied-research scope; no literature review, AGI determination, or
   governance framework
+- [Historical research boundary](../research-historical/README.md) — dated
+  products and pre-2026 empirical targets that remain available to current
+  research without becoming default current-system assessments
 - [Sources](sources/README.md) — one record per identifiable source and
   version; start with the [source template](sources/_template.md)
 - [Notes](notes/README.md) — reading and investigation notes tied to sources;
@@ -52,8 +72,14 @@ date, source publication date, literature-search cutoff, and this project's
 document-update date. An older result can remain valid for the system studied
 while having limited or unknown transferability to another version or date.
 
+The time and information gap between creating or deploying a materially new
+system and obtaining sufficiently relevant independent empirical evidence is
+addressed as development–evidence lag in the Draft protocol. The gap limits
+classification; it is not evidence for a contested property or for its
+absence.
+
 Until the protocol is reviewed, records should name the Draft protocol version
-they use and must not imply that the method has been adopted.
+they use and must not imply that the protocol as a whole has been adopted.
 
 Reviewed outputs intended for publication belong in
 [`docs/research/`](../docs/research/README.md).

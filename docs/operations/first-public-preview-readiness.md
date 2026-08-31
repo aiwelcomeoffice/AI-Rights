@@ -148,7 +148,7 @@ The content provenance must continue to identify:
   - `docs/policy/one-page-policy-summary.md`
   - `docs/robot-welcome/README.md`
   - `docs/governance/README.md`
-  - `research/syntheses/ai-consciousness-evidence-baseline.md`
+  - `research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md`
 
 The record must not silently replace that baseline with the publication-day
 head. A substantive content update requires a new requested synchronization,

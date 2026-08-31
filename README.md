@@ -113,6 +113,7 @@ Start with:
 - [Draft human-rights solidarity and allyship
   foundation](docs/principles/human-rights-solidarity.md)
 - [Research workspace](research/README.md)
+- [Historical research record](research-historical/README.md)
 - [Draft governance and adoption process](docs/governance/README.md)
 - [Draft public website content architecture](docs/website/README.md)
 - [Draft operations and delivery-readiness records](docs/operations/README.md)

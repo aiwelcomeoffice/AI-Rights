@@ -345,7 +345,7 @@ practices.
 
 ## What evidence would be needed for possible machine welfare
 
-The [current consciousness evidence baseline](../syntheses/ai-consciousness-evidence-baseline.md)
+The [historical consciousness evidence baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md)
 does not assess a defined Moya configuration and cannot classify one from
 appearance or demonstrations. A serious investigation would require at least:
 

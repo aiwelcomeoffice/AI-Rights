@@ -45,7 +45,7 @@ giving them more authority than they already have:
   Framework](../policy/ai-rights-protection-framework.md) supplies provisional
   policy distinctions and safeguards, but is not current law; and
 - the [AI Consciousness Evidence
-  Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) is a
+  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is a
   partly verified working structured narrative review prepared with AI
   assistance. It is not a systematic review, a reviewed public research
   output, a project position, or a claim of consensus, and it has not received

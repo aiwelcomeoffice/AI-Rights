@@ -62,7 +62,7 @@ The analysis applies, without adopting or amending:
   system-specific assessment and the separation of observation, hypothesis,
   argument, scenario, and normative judgment;
 - the [working AI Consciousness Evidence
-  Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
+  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
   whose literature discovery ended 2026-08-23 and whose source-specific
   system/observation boundaries and limitations remain unchanged;
 - the [Precaution Framework](../principles/precaution-framework.md), which is a

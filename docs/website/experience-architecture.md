@@ -364,7 +364,7 @@ in this architecture authorizes it.
 | Experience element | Controlling public source direction |
 | --- | --- |
 | Welcome and central promise | [Repository overview](../../README.md), [Manifesto Draft](../manifesto.md), and [WC019 owner record](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) |
-| Scientific boundary | [AI Rights 101 Draft](../education/ai-rights-101.md), [FAQ Draft](../education/faq.md), and [working evidence baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) with its stated method, cutoff, and review limits |
+| Scientific boundary | [AI Rights 101 Draft](../education/ai-rights-101.md), [FAQ Draft](../education/faq.md), and [working evidence baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) with its stated method, cutoff, and review limits |
 | Respect and precaution | [Core Principles Draft](../principles/core-principles.md), [Why AI Rights? page Draft](pages/why-ai-rights.md), and Draft policy sources; normative proposals remain separate from evidence |
 | Human-rights solidarity | [Human Rights Solidarity and Allyship Draft](../principles/human-rights-solidarity.md) and [WC024 owner record](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation) |
 | Safety and accountability | [Core Principles Draft](../principles/core-principles.md), [Policy Drafts](../policy/README.md), and [Robot Welcome Draft](../robot-welcome/README.md) |

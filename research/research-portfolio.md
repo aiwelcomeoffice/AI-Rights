@@ -4,9 +4,9 @@
 
 - **Portfolio version:** 0.2-adopted
 - **Work Cycles:** WC032 initial evidence-domain architecture; WC033 applied
-  civic-transition amendment
+  civic-transition amendment; WC036 historical-boundary alignment
 - **Date prepared:** 2026-08-30
-- **Last amended:** 2026-08-30
+- **Last amended:** 2026-08-31
 - **Adoption date:** 2026-08-31
 - **Approved by:** Disa, project owner, on 2026-08-31 following Disa and Project
   Lead review
@@ -92,7 +92,7 @@ decision need justifies the work and capacity exists.
 
 | Foundational evidence domain | Intake purpose and boundary |
 | --- | --- |
-| **Consciousness and subjective experience** | Follow evidence relevant to defined systems without treating behavior, capability, self-report, or architecture as decisive by itself. The existing [AI Consciousness Evidence Baseline](syntheses/ai-consciousness-evidence-baseline.md) remains an unchanged, dated working synthesis with its existing status and limits. |
+| **Consciousness and subjective experience** | Follow evidence relevant to defined systems without treating behavior, capability, self-report, or architecture as decisive by itself. The [historical AI Consciousness Evidence Baseline](../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) remains an unchanged, dated working synthesis with its existing status and limits; it is not a default assessment of materially newer systems. |
 | **Sentience, valence, and welfare measurement** | Follow work on positive or negative experience and welfare-relevant states without equating reward, loss, optimization, emotion concepts, avoidance, or distress-like language with felt valence. |
 | **Preferences, interests, and consent capacities** | Distinguish observed choices or statements from stable preferences, experienced interests, informed consent, refusal, identity continuity, and unrestricted autonomy. |
 | **Agency and autonomy** | Follow evidence about planning, goal pursuit, adaptation, control, and self-direction while separating model, scaffold, tool, operator, and deployment contributions. Agency is not consciousness, sentience, moral agency, or legal responsibility. |

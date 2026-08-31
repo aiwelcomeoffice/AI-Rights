@@ -1,6 +1,8 @@
 # Research Notes
 
-Store reading notes and investigation logs here. Follow the
+Store current and forward-looking reading notes and investigation logs here.
+Historical-package notes may instead be preserved under
+[`research-historical/`](../../research-historical/README.md). Follow the
 [Draft research protocol](../research-protocol.md) and copy the
 [research notes template](_template.md) for each new note.
 
@@ -17,20 +19,11 @@ say so and use a documented system/version date only as an explicitly labelled
 proxy. Do not let a source publication, project inclusion, access, or note
 update date stand in for evidence applicability.
 
-## AI consciousness evidence baseline notes
+## Historical AI consciousness baseline notes
 
-These ten notes are **partly verified** and await independent human review:
-
-- [Bayne et al. (2024): consciousness tests](bayne-et-al-2024-tests-consciousness.md)
-- [Butlin et al. (2026): theory-derived indicators](butlin-et-al-2026-indicators-ai-consciousness.md)
-- [Butlin et al. (2023): architecture assessment](butlin-et-al-2023-ai-consciousness-report.md)
-- [Cogitate Consortium et al. (2025): adversarial theory tests](cogitate-2025-adversarial-theories.md)
-- [Aru, Larkum, and Shine (2023): neuroscience feasibility](aru-larkum-shine-2023-feasibility.md)
-- [Shanahan (2024): interpreting LLM language](shanahan-2024-talking-llms.md)
-- [Pikuliak (2024): self-report studies and language models](pikuliak-2024-self-report-language-models.md)
-- [Colombatto and Fleming (2024): public attributions](colombatto-fleming-2024-folk-attributions.md)
-- [Berg, de Lucena, and Rosenblatt (2025): self-referential processing and experience reports](berg-et-al-2025-self-referential-processing.md)
-- [Berg (2026): learning and feeling](berg-2026-learning-requires-feeling.md)
+The ten partly verified notes prepared for the dated consciousness baseline
+are preserved, without a status or scientific-conclusion change, in the
+[historical baseline note registry](../../research-historical/ai-consciousness-baseline-2026/notes/README.md).
 
 ## Emerging capability and safety investigation
 

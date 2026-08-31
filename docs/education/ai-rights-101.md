@@ -83,7 +83,7 @@ life exists or will exist.
 ## What does the current evidence establish?
 
 The repository's [AI Consciousness Evidence
-Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) is a
+Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is a
 partly verified working structured narrative review with a 2026-08-23
 evidence-search cutoff for literature discovery only. It covers a selected set
 of English-language sources and was prepared

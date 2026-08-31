@@ -36,7 +36,7 @@ classification of any current system.
 ## The scientific boundary
 
 The project's partly verified [working evidence
-baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
+baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
 whose literature discovery ended **2026-08-23**, did not identify evidence
 sufficient to establish consciousness or sentience in the systems, versions,
 configurations, and study conditions actually addressed by its included

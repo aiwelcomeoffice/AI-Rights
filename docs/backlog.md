@@ -89,6 +89,14 @@ entry; accepted history must not be silently rewritten.
   applied civic-transition research operationally amends it and is the Adopted
   current working research portfolio. These are organisational/research-scope
   decisions only.
+- **Historical/current research boundary (WC036, 2026-08-31):**
+  `research/` is the current and forward-looking workspace;
+  `research-historical/` preserves dated products. Empirical AI evidence,
+  studied systems, observed deployments, or concrete system events whose
+  relevant target predates 2026 are historical for current-system
+  applicability. Actual target/evidence dates control, not later publication
+  or project-edit dates. Historical does not mean false, obsolete, disproven,
+  or superseded.
 
 ## Work Cycle history
 
@@ -446,7 +454,7 @@ The 21-source scientific corpus, conclusion, and 2026-08-23 cutoff did not
 move.
 
 **File:** [Evidence
-baseline](../research/syntheses/ai-consciousness-evidence-baseline.md).
+baseline](../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 
 **Open:** A full refresh needs prospective scope, source records, detailed
 paper extraction, contrary-source search, independent review, and a cutoff
@@ -812,6 +820,54 @@ governance framework, deployment, publication, external contact, or spending
 occurred. The smallest next step is one registered comparative evidence intake
 on intelligibility requirements for a defined embodied system in a workplace
 or public-space setting.
+
+## Work Cycle 036 — Historical Research Boundary and Development–Evidence Lag
+
+**Date:** 2026-08-31
+
+**Status:** Historical/current research-architecture boundary and development–
+evidence-lag methodological owner direction **Accepted** by Disa following
+Disa and Project Lead decision. The Research Protocol remains **Draft** at
+version 0.4-draft; acceptance of this bounded direction does not adopt the
+protocol as a whole or any underlying scientific conclusion.
+
+**Result:** Created [`research-historical/`](../research-historical/README.md)
+and a bounded [AI Consciousness Baseline 2026 historical
+package](../research-historical/ai-consciousness-baseline-2026/README.md).
+Relocated the dated baseline synthesis, its plan, 21 baseline-specific source
+records, and 10 baseline-specific notes without duplication. Their original
+findings, individual statuses, versions, dates, 2026-08-23 evidence-search
+cutoff, limitations, protocol lineage, and review boundaries are preserved.
+The current `research/` workspace retains 2026 frontier-incident and embodied-
+social-AI intake plus current methods and applied research scopes.
+
+**Historical applicability rule:** Empirical AI evidence, studied systems,
+observed deployments, or concrete system events whose relevant target predates
+2026 are historical for current-system applicability. The real system, event,
+observation, experiment, or empirical-finding date controls, not a later
+publication, access, inclusion, or document-update date. Conceptual,
+philosophical, legal, human-neuroscience, and other non-AI-empirical material
+retains the relevance supported by its own methods and claims.
+
+**Methodological direction:** Development–evidence lag is the time and
+information gap between creation or deployment of a materially new target and
+sufficiently relevant independent empirical evidence about it. Build–evidence
+asymmetry records that engineering can create a new empirical target before
+science has sufficient access, time, measurement validity, or replication to
+characterize it. These are limitations on classification and transferability,
+not evidence for a contested property or for its absence. A material change
+may require a new assessment; a shared name, family, provider, interface, or
+outward behavior does not transfer an older positive or negative
+classification automatically.
+
+**Limits:** WC036 performed no literature search or new consciousness review,
+discarded no source, and changed no consciousness or sentience conclusion.
+The historical baseline remains a **Working synthesis — not a project
+position**, with review status **Partly verified** and no independent review;
+its plan remains a **Working research plan — not a project position**. No
+current or newer system is classified from absence of research, and research
+lag is not treated as evidence of consciousness, sentience, non-consciousness,
+or non-sentience.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 

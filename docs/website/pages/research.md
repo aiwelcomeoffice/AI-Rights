@@ -36,15 +36,21 @@ reviewed public evidence synthesis. Its evidence baseline is working research:
 useful for inspection and further review, but limited in method, coverage,
 verification, and authority.
 
-## Current evidence boundary
+## Historical evidence boundary
 
 The [working AI Consciousness Evidence
-Baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md) is
+Baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is
 a partly verified structured narrative review of 21 selected English-language
 sources. Literature discovery ended **2026-08-23**. One AI-assisted reviewer
 performed the initial discovery, screening, extraction, appraisal, and
 synthesis; there was no independent second screening or independent human
 verification. It is not systematic, adopted, or a claim of consensus.
+
+Under WC036, this baseline is historical for current-system applicability.
+Empirical AI evidence, studied systems, observed deployments, and concrete
+system events with relevant targets predating 2026 do not automatically
+classify a system from 2026 onward. The applicable date is the actual target or
+observation date, not the baseline's publication, inclusion, or update date.
 
 For the AI systems, versions, configurations, and study conditions actually
 addressed by the included sources, the working synthesis did not identify
@@ -68,7 +74,7 @@ informative only when the method could detect the defined property in the
 relevant system.
 
 A bounded [2026-08-28 contextual
-intake](../../../research/syntheses/ai-consciousness-evidence-baseline.md#targeted-contextual-intake-amodei-and-anthropic-model-welfare)
+intake](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#targeted-contextual-intake-amodei-and-anthropic-model-welfare)
 records Dario Amodei's public uncertainty statement and Anthropic's reported
 model-welfare research and precautions. It adds no included scientific source,
 independent corroboration, or change to the baseline cutoff, confidence
@@ -178,18 +184,19 @@ about current Moya systems or DroidUp.
 
 ## Sources, notes, and syntheses serve different roles
 
-- [Source records](../../../research/sources/README.md) identify the original
+- Source records identify the original
   source and version, what role it can play, what it supports, what it does not
   support, and its verification, access, funding, and conflict information.
-  The current index contains 29 working records: 21 for the consciousness
-  baseline, four for the separate capability and safety horizon investigation,
-  and four for the embodied social AI case intake. Their verification states
-  differ; inclusion is not endorsement.
-- [Research notes](../../../research/notes/README.md) separate what a source
+  The [historical baseline registry](../../../research-historical/ai-consciousness-baseline-2026/sources/README.md)
+  contains 21 records; the [current source index](../../../research/sources/README.md)
+  contains four capability/safety and four embodied-social-AI records. The 29
+  records retain different verification states; inclusion is not endorsement.
+- Research notes separate what a source
   reports from quotations, interpretation, criticism, competing explanations,
-  and open questions. The current index contains 12 notes: ten for the
-  consciousness baseline, one cross-source capability and safety investigation
-  note, and one embodied social AI case note.
+  and open questions. The [historical baseline note registry](../../../research-historical/ai-consciousness-baseline-2026/notes/README.md)
+  contains ten notes; the [current note index](../../../research/notes/README.md)
+  contains one capability/safety investigation note and one embodied-social-AI
+  case note.
 - [Syntheses](../../../research/syntheses/README.md) compare multiple sources,
   evidence lineages, negative or contradictory material, confidence, and
   limitations. They remain working material until reviewed for publication.
@@ -226,7 +233,7 @@ legal, and governance decisions.
 
 ## Limits that remain
 
-The current baseline has a non-exhaustive search, selected English-language
+The historical baseline has a non-exhaustive search, selected English-language
 coverage, incomplete full-text and proprietary access, some unresolved source
 metadata, no independent screening, no independent human verification, few
 direct controlled AI studies, disputed theories, no validated AI
@@ -243,8 +250,8 @@ competing research.
 
 This page draws from the [research workspace](../../../research/README.md),
 the [Draft Research Protocol](../../../research/research-protocol.md), the
-[working evidence baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
-its [working research plan](../../../research/syntheses/ai-consciousness-evidence-baseline-plan.md),
+[working evidence baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
+its [working research plan](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md),
 the [capability and safety investigation
 note](../../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md),
 and the [reserved reviewed-output area](../../research/README.md). The protocol
@@ -262,9 +269,11 @@ goals. No consensus or external endorsement should be inferred.
 ## Next: inspect the record or follow the policy path
 
 Read the [full working evidence
-baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
-the [Draft method](../../../research/research-protocol.md), or the [source
-records](../../../research/sources/README.md). The separate [capability and
+baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
+the [Draft method](../../../research/research-protocol.md), or its [historical
+source records](../../../research-historical/ai-consciousness-baseline-2026/sources/README.md).
+The [current source index](../../../research/sources/README.md) covers separate
+2026 intake. The separate [capability and
 safety investigation](../../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
 shows how a material horizon signal is recorded without merging capability,
 AGI, or consciousness claims. To see how the project separates uncertain

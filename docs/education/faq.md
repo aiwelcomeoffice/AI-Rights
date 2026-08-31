@@ -30,7 +30,7 @@ Here, *consciousness* means phenomenal consciousness: whether there is
 something it is like to be the system.
 
 The repository's [working evidence
-synthesis](../../research/syntheses/ai-consciousness-evidence-baseline.md#executive-conclusion)
+synthesis](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#executive-conclusion)
 reports that, within its selected set of English-language sources and
 systems actually addressed by those sources, it did not identify evidence
 sufficient to establish phenomenal consciousness or sentience. Literature
@@ -331,4 +331,4 @@ decision merely by entering the repository.
 
 The working synthesis lists specific [evidence that could update its
 conclusions in either
-direction](../../research/syntheses/ai-consciousness-evidence-baseline.md#bidirectional-update-record).
+direction](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#bidirectional-update-record).

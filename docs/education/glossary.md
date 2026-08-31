@@ -291,7 +291,7 @@ These definitions synthesize working distinctions from the [Draft Core
 Principles & Ethical Charter](../principles/core-principles.md), [Draft Research
 Protocol](../../research/research-protocol.md#terminology-and-competing-definitions),
 [working AI Consciousness Evidence
-Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md#terminology-register),
+Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#terminology-register),
 and [Draft AI Rights Protection
 Framework](../policy/ai-rights-protection-framework.md#working-distinctions).
 Those sources have different statuses; none makes this glossary Adopted.

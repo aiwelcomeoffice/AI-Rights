@@ -205,7 +205,7 @@ Merchandise Guardrails](../brand/campaign-and-merchandise-guardrails.md).
   the [Scientific Position Scaffold](../principles/scientific-position.md),
   [AI Rights 101](../education/ai-rights-101.md#what-does-the-current-evidence-establish),
   the [Glossary](../education/glossary.md), and the [working evidence
-  baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
+  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 - **What the campaign does not claim:** The question is not evidence that a
   system experiences anything. It does not claim a validated direct test, a
   scientific consensus, equal odds, a present moral patient, or that

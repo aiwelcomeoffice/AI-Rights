@@ -40,7 +40,7 @@ posture](../governance/adoption-and-review.md#publication-and-continued-developm
 The executive brief and one-page summary are derived communications, not new
 evidence reviews. Their scientific statements inherit the scope and
 limitations of the [working AI Consciousness Evidence
-Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
+Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
 whose evidence-search cutoff remains 2026-08-23.
 That date records literature discovery only. Derived policy wording must retain
 the baseline's source-specific system/version and observation boundaries and

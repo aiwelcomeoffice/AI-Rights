@@ -20,9 +20,13 @@ must remain separate in either evidential direction.
 Syntheses remain working material until reviewed for publication under
 [`docs/research/`](../../docs/research/README.md).
 
-## Working baselines
+## Historical baselines
 
-- [AI Consciousness Evidence Baseline: Research Plan](ai-consciousness-evidence-baseline-plan.md)
+The dated 2026 consciousness baseline moved, without duplication or a status
+or conclusion change, to its
+[historical package](../../research-historical/ai-consciousness-baseline-2026/README.md):
+
+- [AI Consciousness Evidence Baseline: Research Plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md)
   — **Working research plan — not a project position**
-- [AI Consciousness Evidence Baseline](ai-consciousness-evidence-baseline.md)
+- [AI Consciousness Evidence Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md)
   — **Working synthesis — not a project position**

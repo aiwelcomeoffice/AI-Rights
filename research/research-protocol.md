@@ -2,9 +2,9 @@
 
 **Status: Draft**
 
-- **Protocol version:** 0.3-draft
+- **Protocol version:** 0.4-draft
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-30
+- **Last updated:** 2026-08-31
 - **Scope:** Working research methodology for AI Rights & Welcome
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
@@ -166,16 +166,24 @@ verdict. For empirical AI evidence, records must distinguish at least:
 
 1. **System/version boundary:** the exact model, product, checkpoint, and
    material configuration studied, where known.
-2. **System release/version date:** when that model, checkpoint, or version
+2. **System development date:** when the materially relevant system or
+   configuration was created or integrated, where this can be established.
+3. **Training date or period:** when the relevant pre-training, post-training,
+   fine-tuning, safety tuning, or other weight-changing process occurred.
+4. **System release/version date:** when that model, checkpoint, or version
    became available or was documented.
-3. **Observation/experiment date:** when the system was actually tested or
+5. **Deployment date:** when the relevant configuration entered the assessed
+   deployment or setting; this may differ from development or general release.
+6. **Observation/experiment date:** when the system was actually tested or
    observed. This is normally the strongest temporal anchor for an empirical
    finding.
-4. **Source publication date:** when the paper, preprint, or report was
+7. **Source publication date:** when the paper, preprint, or report was
    published. This is source provenance, not an automatic evidence boundary.
-5. **Evidence-search cutoff:** when this project stopped discovering or
+8. **Independent replication date:** when a sufficiently independent team
+   replicated or attempted to replicate the relevant result, if that occurred.
+9. **Evidence-search cutoff:** when this project stopped discovering or
    screening literature for the review. This is a review-process field only.
-6. **Document last updated:** when this project's record or synthesis was
+10. **Document last updated:** when this project's record or synthesis was
    revised. It does not extend the scientific applicability of its evidence.
 
 The applicability of a result follows the system and conditions actually
@@ -214,10 +222,12 @@ Each synthesis conclusion must identify, as relevant:
 - scheduled and event-based conditions for renewed review.
 
 Each empirical AI source record should expose a compact temporal/system block
-containing, where meaningful: system/model; checkpoint/version; system
-release/version date; observation/experiment date; source publication date;
-evidence-search inclusion date; temporal applicability; and transferability
-limitations. Do not add AI-system fields mechanically to purely philosophical,
+containing, where meaningful: system/model; checkpoint/version; development
+date; training date or period; release/version date; deployment date;
+observation/experiment date; source publication date; independent-replication
+date; evidence-search inclusion date; temporal applicability; and
+transferability limitations. Use `unknown` or `not reported` rather than
+guessing. Do not add AI-system fields mechanically to purely philosophical,
 legal, human-neuroscience, or other sources for which they have no scientific
 meaning.
 
@@ -233,6 +243,72 @@ Age alone does not invalidate a study of the historical system examined.
 Research lag or material system change may instead reduce or make unknown its
 transferability. Apply this rule symmetrically to positive, negative, neutral,
 and null findings.
+
+**Historical for current-system applicability:** empirical AI evidence,
+studied systems, observed deployments, or concrete system events whose
+relevant target predates 2026. The actual target/evidence date controls this
+repository boundary, not a later publication, access, inclusion, document-
+update, or website-update date. This placement rule does not alter the
+scientific validity of a result for its historical target, and it does not by
+itself time-limit a conceptual, philosophical, legal, or human-neuroscience
+argument whose relevance depends on something other than a dated AI target.
+
+### Development–evidence lag and build–evidence asymmetry
+
+Contemporary frontier AI development may combine engineering, architecture,
+training, integration, deployment, and empirical observation in iterative
+build–observe–revise cycles. A materially new system or configuration can
+therefore exist or enter deployment before sufficiently relevant independent
+research has characterized the properties at issue for this project.
+
+**Development–evidence lag** is the time and information gap between a
+materially new system or configuration being created or deployed and the
+availability of sufficiently relevant, independent empirical evidence about
+that target.
+
+**Build–evidence asymmetry** is the fact that engineering can create a new
+empirical target before science has had sufficient access, time, measurement
+validity, or replication to characterize it.
+
+These concepts require the dates above to remain distinct. Development,
+training, release, deployment, observation, publication, independent
+replication, project evidence search, and project document update may occur at
+different times and describe different parts of the evidence chain.
+
+Development–evidence lag and build–evidence asymmetry are **not evidence for**
+consciousness, sentience, valence, welfare, moral status, or any other
+contested property. They are also **not evidence for the absence** of those
+properties. They limit classification and evidence transferability. The
+appropriate result may be:
+
+> The available evidence is insufficiently transferable to classify the
+> materially different system.
+
+Increased uncertainty is a legitimate result. A materially new target must
+not automatically inherit a positive or negative scientific classification
+from an older target merely because they share a product name, interface,
+model family, provider, or outward behavior. Interface or outward morphology
+is not a sufficient system identifier.
+
+A new empirical assessment may be required when a material change affects:
+
+- architecture;
+- weights or checkpoint;
+- training regime;
+- inference-time computation;
+- memory or persistence;
+- continual learning;
+- agent loops;
+- tools;
+- routing or orchestration;
+- multimodality;
+- embodiment; or
+- deployment configuration.
+
+This is a reassessment rule, not a presumption that every change alters a
+contested property. Conversely, outwardly different systems may share much of
+the same underlying model; assessment should identify the actual components
+and configuration rather than infer difference from presentation alone.
 
 ### State what is outside scope
 
@@ -884,7 +960,10 @@ legal, or policy claims should also seek relevant disciplinary and
 conflict-independent review. If this is not possible, the limitation must be
 prominent.
 
-Materials under [research/](README.md) are working records. Reviewed outputs
+Current materials under [research/](README.md) are working records. Dated or
+pre-2026-target research preserved under
+[`research-historical/`](../research-historical/README.md) retains its own
+status and may remain working research. Reviewed outputs
 intended for publication belong under
 [docs/research/](../docs/research/README.md), with their own status, method,
 evidence-search cutoff, source-specific temporal applicability, limitations,
@@ -933,6 +1012,7 @@ Material methodological changes must not be backdated or silently applied.
 | 0.1-draft | 2026-08-22 | Initial proposed research method. | Working records identify this version where used. |
 | 0.2-draft | 2026-08-23 | Work Cycle 003 added explicit research-lag, model/deployment-drift, measurement-lag, access, applicability, and review-trigger rules. | No scientific source, conclusion, confidence assessment, or search cutoff changes automatically; earlier evidence work retains its 0.1-draft lineage. |
 | 0.3-draft | 2026-08-30 | Work Cycle 031 separates system/version, release/version, observation/experiment, publication, evidence-search, and project-document dates; makes observation/system dates control empirical applicability; and requires validity and transferability to be reported separately. | Methodological presentation is corrected without changing any scientific finding or moving an evidence-search cutoff. Older records retain their protocol lineage and may be aligned editorially with this temporal model. |
+| 0.4-draft | 2026-08-31 | Work Cycle 036 defines development–evidence lag and build–evidence asymmetry; distinguishes development, training, deployment, observation, publication, independent-replication, evidence-search, and document dates; and applies a real-target pre-2026 historical boundary for current-system applicability. | Adds repository placement, classification, and transferability controls without changing an earlier scientific finding, inferring a contested property or its absence, or applying the Draft protocol retroactively. |
 
 ## Reusable records
 

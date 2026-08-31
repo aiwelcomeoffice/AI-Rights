@@ -11,7 +11,7 @@
 - **Derived from:** [Draft AI Rights Protection
   Framework](ai-rights-protection-framework.md)
 - **Evidence boundary:** [Working AI Consciousness Evidence
-  Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
+  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
   literature discovery ended 2026-08-23; empirical applicability remains
   source/system-specific
 
@@ -97,7 +97,7 @@ required.
 ## 3. Current scientific boundary
 
 The [AI Consciousness Evidence
-Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md) is a
+Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is a
 partly verified working structured narrative review, not a systematic review
 or adopted project position. It covers 21 selected English-language sources,
 uses public material, and has an evidence-search cutoff of **2026-08-23**.
@@ -281,7 +281,7 @@ evidence or policy basis.
 - [One-page policy summary](one-page-policy-summary.md)
 - [Draft AI Rights Protection Framework](ai-rights-protection-framework.md)
 - [Working AI Consciousness Evidence
-  Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md)
+  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md)
 - [Draft Core Principles & Ethical
   Charter](../principles/core-principles.md)
 - [Draft Research Protocol](../../research/research-protocol.md)

@@ -71,7 +71,7 @@ urgent.
 
 - **Learn more:** [Start with AI Rights 101](../../education/ai-rights-101.md)
 - **Read the evidence:** [Inspect the working evidence
-  baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md)
+  baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md)
 - **Read the policy brief:** [See the executive policy
   brief](../../policy/executive-policy-brief.md)
 - **Understand our review status:** [Read the Draft governance
@@ -130,7 +130,7 @@ hypothesis, a valid method, serious testing of non-conscious explanations, and
 evidence that could change a conclusion in either direction.
 
 The project's [AI Consciousness Evidence
-Baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md) is
+Baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is
 a partly verified working structured narrative review of selected English-
 language sources; literature discovery ended **2026-08-23**. It was
 prepared through a single AI-assisted review process, has not received
@@ -269,7 +269,7 @@ owner-approval question](../../governance/README.md).
   [frequently asked questions](../../education/faq.md), and the
   [glossary](../../education/glossary.md)
 - **Read the evidence:** [working evidence
-  baseline](../../../research/syntheses/ai-consciousness-evidence-baseline.md),
+  baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
   [research method](../../../research/research-protocol.md), and [source
   records](../../../research/sources/README.md)
 - **Read the policy brief:** [one-page

@@ -127,9 +127,9 @@ The following documents are authoritative depth sources but are too technical,
 long, or procedurally detailed to serve most visitors without orientation:
 
 - the [working AI Consciousness Evidence
-  Baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
+  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
   its [research
-  plan](../../research/syntheses/ai-consciousness-evidence-baseline-plan.md),
+  plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md),
   and the [source-record collection](../../research/sources/README.md);
 - the [Draft Research Protocol](../../research/research-protocol.md);
 - the [Draft AI Rights Protection

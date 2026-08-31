@@ -177,7 +177,7 @@ architecture or authorize design, implementation, or publication.
   Allyship](../principles/human-rights-solidarity.md), [policy
   summary](../policy/one-page-policy-summary.md),
   [Governance](../governance/README.md), and the [working evidence
-  baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
+  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft website summary; Disa's final manual
   review pending; internal AI-assisted drafting; no independent review;
   scientific snapshot inherits the baseline's 2026-08-23 literature-discovery
@@ -305,7 +305,7 @@ architecture or authorize design, implementation, or publication.
 - **Primary sources:** [glossary](../education/glossary.md), Draft protocol
   [terminology](../../research/research-protocol.md#terminology-and-competing-definitions),
   and baseline [terminology
-  register](../../research/syntheses/ai-consciousness-evidence-baseline.md#terminology-register).
+  register](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#terminology-register).
 - **Status and review notice:** Draft working definitions; no definition
   establishes that a present system has the property.
 - **Primary call to action:** Learn more through AI Rights 101.
@@ -329,7 +329,7 @@ architecture or authorize design, implementation, or publication.
   review and update notice.
 - **Primary sources:** [research workspace](../../research/README.md), [Draft
   protocol](../../research/research-protocol.md), [working
-  baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
+  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
   and [reviewed-output area](../research/README.md).
 - **Status and review notice:** Working research orientation; partly verified
   baseline; no independently reviewed public synthesis in `docs/research/`.
@@ -344,12 +344,13 @@ architecture or authorize design, implementation, or publication.
 
 ### 8. Evidence baseline
 
-- **Working title:** What the current evidence baseline does—and does not—show
+- **Working title:** What the historical evidence baseline does—and does not—show
 - **Route:** `/research/evidence-baseline/`
 - **Audience:** Skeptics, journalists, researchers, policymakers, and public
   readers wanting the evidence boundary.
-- **Reader question:** Does the reviewed evidence establish present AI
-  consciousness or sentience?
+- **Reader question:** What did the dated evidence establish for the systems
+  reviewed, and what does not automatically transfer to systems from 2026
+  onward?
 - **Page objective:** Report the scoped working conclusion, confidence, and
   limits accurately and make update conditions inspectable.
 - **Required sections:** Prominent working-research notice; exact question and
@@ -357,8 +358,8 @@ architecture or authorize design, implementation, or publication.
   theory limits; sentience gap; evidence weighing in different directions;
   confidence; what is not established; update conditions; full-record links.
 - **Primary sources:** [working
-  baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md),
-  its [plan](../../research/syntheses/ai-consciousness-evidence-baseline-plan.md),
+  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
+  its [plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md),
   and the Draft public summaries in [AI Rights
   101](../education/ai-rights-101.md#what-does-the-current-evidence-establish) and
   the [FAQ](../education/faq.md#are-todays-ai-systems-conscious).
@@ -394,7 +395,7 @@ architecture or authorize design, implementation, or publication.
   baseline deviations.
 - **Primary sources:** [Draft Research
   Protocol](../../research/research-protocol.md), [baseline
-  plan](../../research/syntheses/ai-consciousness-evidence-baseline-plan.md),
+  plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md),
   and [research workspace](../../research/README.md).
 - **Status and review notice:** Proposed method, not adopted; baseline plan was
   partly registered after candidates were known and used no independent
@@ -421,8 +422,8 @@ architecture or authorize design, implementation, or publication.
   log; full source and note indexes.
 - **Primary sources:** [source index](../../research/sources/README.md), [notes
   index](../../research/notes/README.md), baseline
-  [limitations](../../research/syntheses/ai-consciousness-evidence-baseline.md#limitations-and-research-gaps),
-  and [conflicts](../../research/syntheses/ai-consciousness-evidence-baseline.md#funding-affiliations-and-conflicts).
+  [limitations](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#limitations-and-research-gaps),
+  and [conflicts](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#funding-affiliations-and-conflicts).
 - **Status and review notice:** Twenty-one partly verified working source
   records; inclusion is not endorsement; independent verification remains
   incomplete.
@@ -450,7 +451,7 @@ architecture or authorize design, implementation, or publication.
 - **Primary sources:** [one-page policy
   summary](../policy/one-page-policy-summary.md), [policy
   index](../policy/README.md), and [working
-  baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
+  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft jurisdiction-neutral proposal; not
   current law or legal advice; final manual owner review pending; no external
   independent review; baseline literature discovery ended 2026-08-23 and
@@ -479,7 +480,7 @@ architecture or authorize design, implementation, or publication.
 - **Primary sources:** [executive policy
   brief](../policy/executive-policy-brief.md), [protection
   framework](../policy/ai-rights-protection-framework.md), and [working
-  baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
+  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Carry the complete source notice, including
   jurisdiction-neutral scope, final owner review pending, no independent
   review, and evidence cutoff.
@@ -510,7 +511,7 @@ architecture or authorize design, implementation, or publication.
 - **Primary sources:** [AI Rights Protection
   Framework](../policy/ai-rights-protection-framework.md), [Core
   Principles](../principles/core-principles.md), principle Scaffolds, and the
-  [working baseline](../../research/syntheses/ai-consciousness-evidence-baseline.md).
+  [working baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft jurisdiction-neutral proposal; no current
   system is assigned a level; scientific and precaution prerequisites remain
   incomplete Scaffolds; not law or a validated test.

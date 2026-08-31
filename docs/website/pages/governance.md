@@ -64,11 +64,12 @@ stated use**, and **Superseded or withdrawn**. These labels describe what was
 checked, for which use, and with which provenance. They do not mean endorsed,
 correct, Adopted, independently reviewed, or consensus.
 
-The current evidence baseline is partly verified working research. Its
+The historical evidence baseline is partly verified working research. Its
 evidence-search cutoff, source-specific system release/version and observation
 dates, page-update date, source publication dates, and review dates are
 separate fields. Editing a page does not silently move an evidence-search
-cutoff or extend a finding to another system or date.
+cutoff or extend a finding to another system or date. Historical placement
+does not mean disproven, obsolete, or superseded.
 
 ## A commit is not adoption
 
