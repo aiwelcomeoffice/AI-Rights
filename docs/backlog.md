@@ -83,6 +83,12 @@ entry; accepted history must not be silently rewritten.
   review-process dates only. Empirical applicability follows the system and
   conditions actually studied; validity and transferability must be stated
   separately and symmetrically.
+- **Research portfolio (WC032–WC033, approved 2026-08-31):** WC032's
+  nine-domain map is the Accepted historical foundation. WC033's three-layer
+  architecture of external evidence intake, supporting methodology, and active
+  applied civic-transition research operationally amends it and is the Adopted
+  current working research portfolio. These are organisational/research-scope
+  decisions only.
 
 ## Work Cycle history
 
@@ -662,6 +668,10 @@ working research, source records, notes, templates, policy, education, and
 website-source documents retain their existing Draft, Scaffold, or working-
 research status.
 
+**Owner confirmation:** Disa reconfirmed approval on 2026-08-31 as part of the
+express approval of WC031–WC033. The cycle's methodological scope and document-
+status boundaries are unchanged.
+
 **Owner resolution:** A literature-discovery cutoff records only when searching
 stopped. It is not the scientific date through which empirical findings
 characterize AI systems. Empirical applicability follows the model/product,
@@ -701,7 +711,12 @@ rules require.
 
 **Date:** 2026-08-30
 
-**Status:** Completed drafting; portfolio remains **Draft**, not adopted.
+**Status:** Nine-domain research-scope foundation **Accepted** on 2026-08-31;
+operational prioritization later amended by the Adopted WC033 architecture.
+
+**Owner resolution:** Disa approved WC032 within its stated scope. This accepts
+the nine-domain map as the preserved historical foundation; it does not make
+the earlier operational priorities current or adopt underlying research.
 
 **Result:** Created a compact [research portfolio
 architecture](../research/research-portfolio.md) that operationalizes the
@@ -710,16 +725,22 @@ consciousness baseline remains an Active dated working track with unchanged
 status and boundaries, not the portfolio foundation. No literature search,
 source assessment, scientific finding, project position, or policy changed.
 
-**Next proposed cycle:** Subject to Disa and Project Lead review, prioritize
-sentience/valence/welfare-relevant states and system boundaries in composite,
-routed, agentic, or distributed AI. No research cycle is opened by this Draft.
+**Historical next proposal:** The cycle proposed prioritizing sentience,
+valence, and welfare-relevant states alongside system boundaries in composite,
+routed, agentic, or distributed AI. It opened no research and was later
+redirected by WC033's operational prioritization.
 
 ## Work Cycle 033 — applied civic-transition research architecture
 
-**Date:** 2026-08-30
+**Date:** 2026-08-30; owner adoption recorded 2026-08-31
 
-**Status:** Owner- and Project-Lead-directed amendment completed; portfolio
-remains **Draft**, not adopted.
+**Status:** Three-layer research portfolio architecture **Adopted** as the
+project's current working research portfolio.
+
+**Owner resolution:** Following Disa and Project Lead review, Disa accepts and
+adopts the WC033 three-layer architecture for current research organization
+and scope. Disa's 2026-08-31 approval expressly covers WC031–WC033 within each
+cycle's stated boundaries.
 
 **Result:** Amended the [research portfolio
 architecture](../research/research-portfolio.md) into three functional layers:
@@ -729,14 +750,44 @@ without making a new literature search, scientific finding, moral or legal
 classification, rights or responsibility determination, policy change, or
 continuous-monitoring claim.
 
-**WC032 and baseline boundary:** WC032 remains preserved as the Draft that
-identified the nine foundational evidence domains; WC033 changes their
-operational roles rather than erasing or superseding them. The consciousness
-baseline remains unchanged in status, scope, findings, and evidence boundaries.
+**WC032 and baseline boundary:** WC032 remains preserved as the Accepted
+historical foundation that identified the nine foundational evidence domains;
+WC033 changes their operational roles rather than erasing them. The
+consciousness baseline remains unchanged in status, scope, findings, and
+evidence boundaries.
 
-**First applied candidate:** Evidence-to-governance transition triggers is
-recorded but not researched or opened. It must allow no action and increased
-uncertainty as legitimate outcomes.
+**Adoption boundary:** This organisational/research-scope decision does not
+adopt a scientific conclusion in any underlying research, alter the Draft
+Research Protocol, or create a scientific, legal, moral-status, rights,
+responsibility, protection, or policy conclusion. Project Lead review is
+internal project review; no independent scientific review is claimed.
+
+**First applied candidate:** Evidence-to-governance transition triggers was
+recorded but not opened in WC033. WC034 separately opens its Draft planning
+scaffold.
+
+## Work Cycle 034 — Evidence-to-governance transition triggers
+
+**Date:** 2026-08-31
+
+**Status:** **Draft research plan/scaffold opened**; research has not begun and
+no governance response or project position is adopted.
+
+**Result:** Created the [Evidence-to-governance transition triggers research
+plan](../research/evidence-to-governance-transition-triggers-plan.md). It
+registers eight separate trigger classes, a common trigger record, the full
+bidirectional outcome space, evidence-strength and proportionality questions,
+and boundaries for scientific claims, distinct properties, affected interests,
+rights, responsibility, and accountable human control.
+
+**Limits:** No literature search, source appraisal, synthesis, trigger
+threshold, governance recommendation, rights or duties proposal, protection,
+legal classification, policy conclusion, deployment, publication, or external
+contact occurred.
+
+**Smallest next step:** After review of this plan, register exact sources and
+queries for one bounded methods pass on scientific-evidence and transferability
+triggers before searching.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 

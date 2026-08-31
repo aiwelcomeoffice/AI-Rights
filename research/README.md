@@ -14,9 +14,13 @@ and does not itself establish any scientific conclusion.
 
 ## Workspace map
 
-- [Draft research portfolio architecture](research-portfolio.md) — three-layer
-  allocation of external evidence intake, supporting methodology, and active
-  applied civic-transition research
+- [Adopted research portfolio architecture](research-portfolio.md) — current
+  three-layer allocation of external evidence intake, supporting methodology,
+  and active applied civic-transition research; adoption concerns the
+  architecture, not scientific conclusions in underlying material
+- [Draft Evidence-to-governance transition triggers research
+  plan](evidence-to-governance-transition-triggers-plan.md) — WC034 planning
+  scaffold; no literature review or governance recommendation yet
 - [Sources](sources/README.md) — one record per identifiable source and
   version; start with the [source template](sources/_template.md)
 - [Notes](notes/README.md) — reading and investigation notes tied to sources;

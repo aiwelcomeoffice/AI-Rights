@@ -1,16 +1,27 @@
 # Research Portfolio Architecture
 
-**Status: Draft — proposed for Disa and Project Lead review; not adopted**
+**Status: Adopted — current working research portfolio architecture**
 
-- **Portfolio version:** 0.2-draft
+- **Portfolio version:** 0.2-adopted
 - **Work Cycles:** WC032 initial evidence-domain architecture; WC033 applied
   civic-transition amendment
 - **Date prepared:** 2026-08-30
 - **Last amended:** 2026-08-30
+- **Adoption date:** 2026-08-31
+- **Approved by:** Disa, project owner, on 2026-08-31 following Disa and Project
+  Lead review
+- **Decision record:** [Work Cycle 033](../docs/backlog.md#work-cycle-033--applied-civic-transition-research-architecture)
 - **Scope:** Research-portfolio architecture only; no new literature research
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Methodological reference:** [Draft Research Protocol](research-protocol.md)
+
+Adoption applies only to the three-layer organisational and research-scope
+architecture in this document. It does not adopt any scientific conclusion in
+underlying research, change the status of the Draft Research Protocol, or
+establish a moral, legal, rights, responsibility, protection, or policy
+position. The review was project-owner and internal Project Lead review; no
+independent scientific or methodological review is claimed.
 
 ## Organizing question
 
@@ -172,8 +183,8 @@ research, retention of the current position, or increased uncertainty.
 
 ## WC032 history and WC033 amendment
 
-WC032 remains preserved in the project backlog and Git history as the Draft
-portfolio architecture that identified nine foundational domains:
+WC032 remains preserved in the project backlog and Git history as the Accepted
+historical portfolio foundation that identified nine foundational domains:
 
 1. consciousness and subjective experience;
 2. sentience, valence, and welfare-relevant states;
@@ -197,11 +208,12 @@ its evidence-search cutoff, findings, confidence, status, evidence boundaries,
 nor review requirements. WC033 adds no literature search or scientific, moral,
 legal, rights, responsibility, protection, or policy conclusion.
 
-## First applied research candidate — recorded, not opened
+## First applied research cycle — Draft plan opened
 
-**Candidate:** Evidence-to-governance transition triggers
+**Cycle:** [Evidence-to-governance transition
+triggers](evidence-to-governance-transition-triggers-plan.md)
 
-**Core future question:** What kinds and strengths of evidence or system change
+**Core question:** What kinds and strengths of evidence or system change
 should trigger:
 
 - further scientific review;
@@ -212,15 +224,17 @@ should trigger:
 - stronger governance review; or
 - consideration of stronger protections?
 
-A future plan must define the system and decision, evidence classes, affected
-interests, proportionality factors, authority, review path, and bidirectional
-update conditions before research begins. The framework must permit **no
-action** and **increase uncertainty** as legitimate outcomes. Recording this
-candidate does not begin research or authorize any response.
+WC034 opens only a Draft research plan/scaffold. It defines the planned system
+and decision scope, trigger classes, affected interests, proportionality
+factors, authority fields, response space, and bidirectional update conditions.
+No literature review, evidence synthesis, governance recommendation, or
+response is performed or authorized by opening the plan.
 
 ## Review boundary
 
-This WC033 amendment remains Draft. It awaits Disa and Project Lead review and
-does not adopt the portfolio, launch the first applied case, alter the research
-protocol, or change any scientific, moral, legal, policy, protection, rights,
-or responsibility position.
+The WC033 three-layer architecture is Adopted as the project's current working
+research portfolio following Disa and Project Lead review. This bounded
+organisational decision does not adopt the underlying research material, alter
+the Draft Research Protocol or consciousness evidence baseline, or change any
+scientific, moral, legal, policy, protection, rights, or responsibility
+position. Later material changes require a dated review and owner record.
