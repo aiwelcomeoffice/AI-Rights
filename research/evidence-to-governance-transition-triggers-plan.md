@@ -16,8 +16,10 @@ position**
   screening, or review has been performed for WC034
 - **Prepared by:** Codex, AI-assisted planning draft at Disa and Project Lead
   direction
-- **Review status:** Awaiting review of the plan before research begins; no
-  independent scientific, legal, ethical, or governance review is claimed
+- **Review status:** Disa and Project Lead marked the bounded WC034 scoping
+  cycle complete on 2026-08-31; the plan remains Draft, later research remains
+  unopened, and no independent scientific, legal, ethical, or governance
+  review is claimed
 - **Scope:** Research design for when defined developments should cause
   reconsideration; no substantive governance framework or recommendation
 
@@ -399,3 +401,4 @@ to any results, rationale, and affected work.
 | Date | Change | Timing and effect |
 | --- | --- | --- |
 | 2026-08-31 | WC034 initial Draft plan/scaffold opened | Recorded before any WC034 literature discovery or case analysis; establishes research design only. |
+| 2026-08-31 | Disa and Project Lead marked the bounded WC034 scoping cycle complete | Completion concerns delivery of the Draft plan only; later research remains unopened and no independent review, recommendation, or project position is created. |

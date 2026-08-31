@@ -21,6 +21,10 @@ and does not itself establish any scientific conclusion.
 - [Draft Evidence-to-governance transition triggers research
   plan](evidence-to-governance-transition-triggers-plan.md) — WC034 planning
   scaffold; no literature review or governance recommendation yet
+- [Draft Converging Artificial-System Integration research scope and
+  integration map](converging-artificial-system-integration-scope.md) — WC035
+  bounded applied-research scope; no literature review, AGI determination, or
+  governance framework
 - [Sources](sources/README.md) — one record per identifiable source and
   version; start with the [source template](sources/_template.md)
 - [Notes](notes/README.md) — reading and investigation notes tied to sources;

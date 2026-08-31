@@ -770,7 +770,8 @@ scaffold.
 
 **Date:** 2026-08-31
 
-**Status:** **Draft research plan/scaffold opened**; research has not begun and
+**Status:** **Work Cycle completed** by Disa and Project Lead on 2026-08-31;
+the research plan/scaffold remains **Draft**, later research has not begun, and
 no governance response or project position is adopted.
 
 **Result:** Created the [Evidence-to-governance transition triggers research
@@ -785,9 +786,32 @@ threshold, governance recommendation, rights or duties proposal, protection,
 legal classification, policy conclusion, deployment, publication, or external
 contact occurred.
 
-**Smallest next step:** After review of this plan, register exact sources and
+**Smallest next step:** If separately authorized, register exact sources and
 queries for one bounded methods pass on scientific-evidence and transferability
 triggers before searching.
+
+## Work Cycle 035 — Converging Artificial-System Integration
+
+**Date:** 2026-08-31
+
+**Status:** **Work Cycle completed; Draft research scope/integration map**;
+research has not begun and no project position is adopted.
+
+**Result:** Created a bounded [research scope and integration
+map](../research/converging-artificial-system-integration-scope.md) across
+cognitive capability and increasing generality, embodiment and social
+integration, biohybrid systems, AI–compute feedback loops, and societal
+integration speed versus knowledge lag. It proposes eight applied questions,
+separates specialist evidence intake from AI Welcome Office applied research,
+and links later reassessment to WC031–WC034 without creating a composite
+advanced-AI score.
+
+**Limits and next step:** No literature search, contemporary technology
+verification, AGI/ASI finding, consciousness or moral-status determination,
+governance framework, deployment, publication, external contact, or spending
+occurred. The smallest next step is one registered comparative evidence intake
+on intelligibility requirements for a defined embodied system in a workplace
+or public-space setting.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
