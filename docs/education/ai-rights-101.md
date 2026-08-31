@@ -10,6 +10,13 @@ patients, or persons, and it does not claim that every present system is
 non-conscious. Those possibilities do not have equal evidential support merely
 because the question remains unresolved.
 
+Its organizing question is broader than “Is AI conscious?” The project also
+asks how society can prepare for responsible integration under uncertainty:
+how systems affect people and institutions, how responsibility remains clear,
+what evidence can transfer between changing systems, and how agency, memory,
+embodiment, adaptation, welfare, and possible moral relevance should be kept
+distinct.
+
 The project is preparing concepts, evidence practices, safeguards, and public
 institutions before a difficult case becomes urgent. Its approach is:
 
@@ -118,12 +125,20 @@ sources, systems, versions, configurations, study conditions, and methods
 actually included. Changing the wording of a document does not move its search
 cutoff.
 
-Research can lag behind deployment because experiments, peer review,
-publication, replication, and synthesis take time. Measurement can lag too: a
+Research can lag behind development and deployment because experiments, peer
+review, publication, replication, and synthesis take time. The project calls
+the gap between a materially new system and sufficiently relevant independent
+evidence about it **development–evidence lag**. Measurement can lag too: a
 failure to detect a property is informative only if the method could detect the
 defined property in the relevant kind of system. Proprietary weights,
 undisclosed updates, missing training information, and restricted experimental
 access can further limit independent assessment and replication.
+
+Publication recency is not system recency. A paper published this year may
+report experiments on an older model, while a new system may already be in use
+before independent research has characterized it. Neither circumstance is
+evidence for or against consciousness, sentience, welfare, moral status, or
+rights.
 
 A product name is not necessarily a stable scientific object. Changes to model
 weights or architecture, training or post-training, system instructions,
@@ -136,8 +151,24 @@ These limits can reduce confidence that an older finding transfers to a newer
 system. They are not evidence that consciousness, sentience, valence, welfare,
 or moral status is present or absent. “Not established in the systems and
 conditions studied” does not mean “impossible in a later or different system,”
-and newer or more capable does not automatically mean more conscious.
-Responsible conclusions state both their scope and date.
+and newer or more capable does not automatically mean more conscious. A newer
+system also does not inherit an older positive or negative classification
+merely because it shares a provider, product name, interface, model family, or
+outward behavior. Responsible conclusions state both their scope and date.
+
+## Where current and historical research live
+
+The [`research/` workspace](../../research/README.md) is for current and
+forward-looking work. [`research-historical/`](../../research-historical/README.md)
+preserves dated products, including the consciousness evidence baseline.
+Historical does not mean false, disproven, obsolete, or useless. It means the
+evidence remains bounded to the systems, conditions, methods, and dates it
+actually assessed.
+
+Two questions therefore stay separate: **Is the evidence valid for the system
+that was studied?** And **how far can it transfer to the system now being
+considered?** An older study can answer the first well while leaving the
+second weak or unknown.
 
 ## Five questions that should not be collapsed
 
@@ -256,11 +287,28 @@ robot is a physical device or system that senses or acts in the world. A robot
 may use AI, simpler automation, remote human control, or a combination. AI can
 also operate without a robot body.
 
-A body, voice, face, or lifelike movement is not evidence of subjective
-experience. Responsible coexistence with robots therefore begins with
-practical duties: clear human and institutional accountability, appropriate
-safety rules, accessible interaction, understandable communication,
-maintenance, incident response, and usable emergency controls.
+What a person encounters may be a composite: a robot body connected to one or
+more models, local or remote computing, memory, tools, agent loops, routing,
+multimodal sensors, or a remote human operator. Some systems continually learn
+or otherwise adapt after deployment; others do not. The same shell or product
+name can therefore contain a materially changed system, and relevant safety,
+evidence, and coexistence assessments may need to be revisited.
+
+A human-like face, body, voice, gaze, movement, emotional expression, or social
+behavior can strongly shape trust, attachment, expectations, and access. It is
+not evidence by itself of human-like cognition, subjective experience,
+consent, sentience, identity, or moral status. Responsible coexistence with
+robots therefore begins with practical duties: clear human and institutional
+accountability, appropriate safety rules, accessible interaction,
+understandable communication, maintenance, incident response, and usable
+emergency controls.
+
+Some possible future robots may include living biological material. Living or
+human-derived tissue—and the presence of neural tissue or activity—does not by
+itself establish nociception, felt pain, sentience, consciousness, a continuing
+subject, or moral status. It does create separate questions about provenance,
+consent, maintenance, damage and repair, biosafety, lifecycle, and when
+specialist biological or bioethical review is needed.
 
 Welcoming design must not be mistaken for safety certification. Clothing,
 covers, or accessories must not block sensors, movement, ventilation, required

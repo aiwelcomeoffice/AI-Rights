@@ -869,6 +869,39 @@ current or newer system is classified from absence of research, and research
 lag is not treated as evidence of consciousness, sentience, non-consciousness,
 or non-sentience.
 
+## Work Cycle 037 — Education and Robot Welcome current-research alignment
+
+**Date:** 2026-08-31
+
+**Status:** Disa-authorized bounded alignment completed; the education and
+Robot Welcome documents remain **Draft** and no scientific, ethical, legal,
+safety, rights, responsibility, or policy position is adopted.
+
+**Result:** Aligned the existing education set with the WC031–WC036 research
+architecture: current and historical work are distinguished without treating
+historical evidence as false or obsolete; validity, transferability,
+publication/system dates, development–evidence lag, and non-transfer of older
+positive or negative classifications are explained accessibly; and the
+project's broader responsible-integration question is explicit. Aligned Robot
+Welcome with the WC035 composite-system, human-like humanoid, biohybrid,
+adaptive-system, intelligibility, reassessment, and distributed-responsibility
+boundaries while preserving its existing safety, dignity, accessibility, and
+accountability material.
+
+**Limits and website deferral:** WC037 performed no literature search,
+specialist biological or bioethical research, certification or mandatory-
+marking design, physical implementation, website-source edit, private-
+repository change, publication, or deployment. Website reconciliation is
+deferred to a separate later cycle using the website actually deployed/current
+at that time as the presentation baseline for what users see. `AI-Rights`
+remains authoritative for substance; any material wording found only on the
+website must first return here for review before later synchronization.
+
+**Smallest next step:** If separately opened, make a read-only website
+reconciliation inventory against the authoritative WC037 sources, without
+editing either repository or treating the implementation or live website as
+scientific or editorial authority.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

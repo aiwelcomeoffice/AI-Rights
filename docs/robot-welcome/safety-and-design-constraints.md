@@ -21,7 +21,10 @@ A welcome, visibility, identification, protective, accessibility, or
 decorative concept should stop at the concept stage unless all of the
 following are true:
 
-1. the exact robot, configuration, task, environment, control modes, users,
+1. the exact robot and relevant composite boundary—including hardware, model
+   or checkpoint, local or remote compute, memory, tools, orchestration,
+   adaptation, sensors, remote operation, and living components where
+   present—plus configuration, task, environment, control modes, users,
    responsible parties, and proposed attachment or signal have been defined;
 2. nothing safety-critical is assumed to be generic, decorative, or outside
    the review;
@@ -140,6 +143,7 @@ test method or acceptable limit.
 | **Weather exposure** | How do wind, rain, snow, ice, sunlight, temperature, grit, salt, dust, and repeated outdoor use affect attachment, visibility, sensing, and removal? |
 | **Water ingress** | Can the concept wick, trap, direct, or conceal water or cleaning fluid; interfere with drainage or seals; or create corrosion and electrical risks? |
 | **Hygiene and cleaning** | Can it be cleaned, disinfected, dried, inspected, and replaced without trapping contamination or conflicting with the environment's hygiene controls? |
+| **Biohybrid components** | Are living or human-derived components present, and could the concept affect biological maintenance, damage, repair, contamination, biosafety, provenance obligations, or decommissioning? Which specialist review is required? |
 | **Optical effects** | Can color, pattern, transparency, infrared behavior, movement, reflectivity, or glare affect cameras, lidar, people, road users, warning recognition, or machine vision? |
 | **Radio and electromagnetic effects** | Can material, electronics, tags, wiring, placement, or damage interfere with positioning, communication, sensing, medical equipment, site systems, or electromagnetic compatibility? |
 | **Sharp edges and projectiles** | Can an edge, crack, fastener, hardened surface, or detached part cut, puncture, strike, or become a projectile during movement or collision? |
@@ -183,9 +187,12 @@ designing a final symbol.
 Actual products or modifications would require work outside this cycle. The
 sequence would need to be tailored to the use, but should include at least:
 
-1. **System definition:** exact robot, hardware and software version,
-   configuration, tool or payload, task, control modes, environment, site,
-   users, bystanders, animals, and responsible organizations.
+1. **System definition:** exact robot body, model or checkpoint, local or remote
+   compute, memory or persistence, tools, agent loops, routing or orchestration,
+   remote human operation, continual or other adaptation, multimodal sensors,
+   living biological components, configuration, tool or payload, task, control
+   modes, environment, site, users, bystanders, animals, dates, and responsible
+   organizations, where relevant.
 2. **Authority and source review:** current manufacturer instructions and
    approval requirements where applicable, relevant law and regulatory duties,
    site rules, and the standards applicable to the defined use. This Draft has
@@ -208,7 +215,9 @@ sequence would need to be tailored to the use, but should include at least:
    field trial or safety reliance.
 8. **Change and lifecycle control:** installation authority, inspection
    interval, maintenance, update, damage response, removal criteria, incident
-   handling, records, and reassessment after any relevant change.
+   handling, records, and reassessment after any relevant model, memory, tool,
+   autonomy, orchestration, body, sensor, biological, deployment, or legal
+   change.
 
 No concept may be advertised as “sensor-safe,” “robot-safe,” “approved,”
 “compliant,” “accessible,” “compatible,” or “certified” until the exact claim,
@@ -233,8 +242,10 @@ authorized safety process:
 - a cybersecurity, spoofing, tracking, privacy, or false-authorization concern;
 - loss of required identification, instructions, inspection record, approval,
   or responsible ownership; or
-- a material robot, software, payload, environment, task, legal, standards, or
-  manufacturer-instruction change.
+- a material model or checkpoint, memory, continual-learning, tool, autonomy,
+  routing or orchestration, body, sensor, biological component, payload,
+  environment, task, deployment, legal, standards, or manufacturer-instruction
+  change.
 
 This is a governance concept, not an emergency procedure. Only the applicable
 instructions and authorized safety process can define the correct intervention
@@ -245,15 +256,15 @@ for an actual machine.
 | Field | Required record |
 | --- | --- |
 | Concept and intended benefit | What is proposed, for whom, and why |
-| Exact system boundary | Robot, version, configuration, payload, task, modes, site, and dates |
-| Accountable roles | Manufacturer, developer, integrator, owner, deployer, operator, maintainer, site controller, and reviewers as applicable |
+| Exact system boundary | Robot body, model/checkpoint, compute, memory, tools, orchestration, remote operation, adaptation, sensors, living components, configuration, payload, task, modes, site, and dates, where relevant |
+| Accountable roles | Robot manufacturer, model developer, integrator, owner, deployer, operator, remote operator, maintainer, site controller, institution, and reviewers as applicable |
 | Protected interests | People, workers, disabled people, children, animals, environment, property, operations, and any separately evidenced possible machine interest |
 | Non-obstruction evidence | Each relevant checklist item and the method used to assess it |
 | Hazard and misuse analysis | Normal use, foreseeable misuse, failure, emergency, maintenance, and removal |
 | Information risks | Accessibility, privacy, security, spoofing, authorization, and required-marking confusion |
 | External requirements | Manufacturer instructions or approval, law, site rules, and applicable standards, with versions and dates |
 | Validation | Qualified reviewers, tests, results, limitations, unresolved concerns, and prohibited uses |
-| Lifecycle | Installation, inspection, cleaning, update, damage, incident, removal, disposal, and reassessment triggers |
+| Lifecycle | Installation, inspection, cleaning, update, biological maintenance where relevant, damage, incident, removal, decommissioning, disposal, and reassessment triggers |
 | Claim boundary | Exact claims permitted and claims explicitly prohibited |
 
 Completing a record would document work; it would not by itself validate or

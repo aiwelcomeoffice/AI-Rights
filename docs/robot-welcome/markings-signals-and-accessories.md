@@ -94,6 +94,8 @@ machine-readable code.
 Possible future information layers include:
 
 - a short plain-language identity and responsibility panel;
+- contextual information about control mode, material capabilities and limits,
+  sensing or recording, relevant remote access, and significant system changes;
 - a high-visibility panel showing that operator and safety information is
   available;
 - reflective or illuminated visibility elements that remain distinct from
@@ -108,6 +110,15 @@ Important information should identify its issuer, scope, last update, and a
 non-digital route where reliance on a network or personal device would be
 unsafe or exclusionary. A voluntary panel cannot replace a robot's official
 identity, instructions, warnings, emergency information, or site controls.
+
+This is not a proposal for a mandatory marking or certification scheme. The
+appropriate information method depends on the system and setting. Where
+relevant, people should be able to find the responsible organization or
+operator, understand whether control is autonomous, supervised, remote, or
+mixed, learn what is materially sensed or recorded, understand important
+capabilities and limits, reach a safety or emergency route, and see when the
+system information was last updated and whether a material system change has
+been disclosed.
 
 ## Machine-readable information concepts
 
@@ -193,7 +204,8 @@ replace that system-wide checklist.
 #### 2. Operator-information holder
 
 - **Intended benefit:** Keep replaceable, plain-language responsibility,
-  reporting, or inspection information in a known location.
+  control-mode, reporting, material-capability, sensing, remote-access, change,
+  or inspection information in a known location where relevant.
 - **Intended users:** Bystanders, workers, operators, maintainers, property
   controllers, and emergency responders.
 - **Safety constraints:** No obstruction or snag point; legibility and
@@ -352,7 +364,9 @@ Any future mark, signal, or accessory proposal should record:
 
 1. its exact issuer, intended meaning, users, beneficiaries, and prohibited
    interpretations;
-2. the defined robot, configuration, task, mode, site, and date;
+2. the defined robot body, model or checkpoint, local or remote compute,
+   memory, tools, orchestration, remote operation, adaptation, sensors, living
+   components, configuration, task, mode, site, and date, where relevant;
 3. accountable manufacture, installation, data, operation, inspection,
    maintenance, incident, and removal roles;
 4. applicable manufacturer instructions, law, site rules, and standards;
@@ -360,8 +374,9 @@ Any future mark, signal, or accessory proposal should record:
    human-factors review;
 6. validation evidence and important limitations;
 7. expiry, update, damage, revocation, correction, and removal rules; and
-8. triggers for reassessment after system, software, payload, environment,
-   task, evidence, or legal change.
+8. triggers for reassessment after a material model, memory, tool, autonomy,
+   orchestration, body, sensor, biological, payload, environment, task,
+   deployment, evidence, or legal change.
 
 No mark should remain in use after the responsible issuer, scope, information,
 or validation has become unclear or outdated. Removal of a voluntary welcome

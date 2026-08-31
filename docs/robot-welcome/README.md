@@ -50,6 +50,38 @@ pedestrian or equipment does not thereby show that a robot experiences harm.
 Welcome and restraint need not wait for proof, but they remain normative
 choices rather than consciousness findings, rights, or safety approvals.
 
+This alignment carries the boundaries of the Draft [Converging Artificial-
+System Integration scope](../../research/converging-artificial-system-integration-scope.md)
+into Robot Welcome. It adds no literature review or substantive technology
+assessment and changes neither this Draft's nor the linked scope's status.
+
+## Define the encountered system
+
+A physically encountered artificial system may be a composite involving a
+robot body, one or more AI models, local or remote compute, memory or
+persistence, tools, agent loops, routing or orchestration, remote human
+operators, continual or other post-deployment adaptation, multimodal sensors,
+and living biological components. Not every system has every feature. Review
+should identify the components actually present, what each contributes, and
+who can control or change them.
+
+A shell or product name is not necessarily a stable scientific or operational
+object. Model or checkpoint replacement, new memory, continual learning,
+different tools, greater autonomy, changed routing, body or sensor changes, or
+new biological components may require reassessment even when the visible robot
+looks unchanged. Reassessment does not predetermine a scientific, safety,
+ethical, or legal result.
+
+Increasingly human-like faces, bodies, voices, gaze, movement, emotional
+expression, and social behavior can materially affect trust, accessibility,
+attachment, manipulation risk, and expectations. They do not establish
+human-like cognition, experience, consent, sentience, identity, or moral
+status. Likewise, living or human-derived tissue does not by itself establish
+neural activity, nociception, felt pain, sentience, consciousness, a continuing
+subject, or moral status. Biohybrid systems do create additional provenance,
+consent, maintenance, biosafety, repair, lifecycle, and specialist-review
+questions.
+
 ## Foundation documents
 
 - [Physical Coexistence Principles](physical-coexistence-principles.md) —
@@ -62,7 +94,8 @@ choices rather than consciousness findings, rights, or safety approvals.
   — voluntary welcome communication, information mechanisms, misuse risks, and
   a small concept catalogue; no final symbol or product design
 - [Robot Welcome website page](../website/pages/robot-welcome.md) — a
-  public-facing introduction derived from this Draft foundation
+  public-facing introduction derived from this Draft foundation; it was not
+  reconciled or rewritten in WC037
 
 These documents extend [Core Principle 10: Coexist responsibly in the physical
 world](../principles/core-principles.md#10-coexist-responsibly-in-the-physical-world).
@@ -101,11 +134,13 @@ instructions, a site risk assessment, professional engineering judgment,
 manufacturer approval where applicable, or review of relevant laws and
 standards.
 
-Before any real-world implementation, the exact machine, version,
-configuration, environment, users, task, control mode, and proposed component
-would need to be identified. Appropriate robotics, engineering, safety,
-accessibility, human-factors, legal, privacy, security, animal-welfare, and
-environmental review would then need to be obtained in proportion to the use.
+Before any real-world implementation, the exact machine, model or checkpoint,
+body, compute, memory, tools, orchestration, adaptation, sensors, biological
+components, configuration, environment, users, task, control modes, remote
+access, and proposed component would need to be identified where relevant.
+Appropriate robotics, engineering, safety, accessibility, human-factors,
+legal, privacy, security, animal-welfare, environmental, biological, and
+bioethical review would then need to be obtained in proportion to the use.
 
 ## Review posture and open decisions
 

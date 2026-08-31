@@ -64,6 +64,18 @@ legal freedom. Autonomy is contextual: a system may act without
 moment-to-moment instruction while remaining designed, limited, monitored, or
 controlled by people and institutions.
 
+## Biohybrid artificial system
+
+**Working use:** An engineered system that incorporates one or more living
+biological components, such as cultured tissue, living biological sensors,
+muscle, or neural tissue, together with non-living hardware or software.
+
+**Keep separate from:** A conscious organism or moral patient. Living tissue,
+human-derived tissue, neural activity, nociception, felt pain, sentience,
+consciousness, continuing identity, and moral status are distinct. The presence
+of living or human-derived material alone establishes none of the later
+categories.
+
 ## Citizenship
 
 **Working use:** Legal membership in a political community, with rights,
@@ -86,6 +98,36 @@ consciousness](#phenomenal-consciousness): whether there is something it is
 like to be the system. Functional access, responsiveness, or self-description
 should not silently be substituted for that target.
 
+## Composite artificial system
+
+**Working use:** A system whose relevant behavior arises from multiple
+connected components, which may include one or more models, local or remote
+compute, memory, tools, agent loops, routing, sensors, actuators, robot hardware,
+remote human operators, or living biological material.
+
+**Keep separate from:** A claim that all systems contain these parts or that
+the visible product is one stable scientific object. Assessment should identify
+the components and control relationships relevant to the claim.
+
+## Continual learning
+
+**Working use:** Learning or other weight-changing adaptation that continues
+while a system is operating or after its initial deployment, rather than only
+during a completed pre-deployment training phase.
+
+**Keep separate from:** Ordinary memory retrieval, a longer prompt, tool use,
+or proof of autonomy, consciousness, sentience, or continuing identity.
+
+## Development–evidence lag
+
+**Working use:** The time and information gap between creation or deployment of
+a materially new system or configuration and the availability of sufficiently
+relevant independent empirical evidence about that target.
+
+**Keep separate from:** Evidence for or against consciousness, sentience,
+welfare, moral status, or rights. The lag limits classification and may weaken
+transferability; it does not decide the contested property.
+
 ## Dignity
 
 **Working use:** A normative idea about treatment. In this Draft, dignity asks
@@ -97,6 +139,48 @@ legal status, or a promise of operational freedom. A dignity practice may be
 proposed because of possible interests in a defined present or future system,
 effects on people and social norms, or both; the reason should be stated
 honestly. The project's full account of AI dignity remains open for review.
+
+## Evidence transferability
+
+**Working use:** How far a result can reasonably be generalized from the system
+and conditions studied to another version, configuration, architecture,
+deployment, or date.
+
+**Keep separate from:** [Evidence validity](#evidence-validity). An older result
+can remain valid for its original target while transferring weakly or not at
+all to a materially newer system. This applies to positive, negative, neutral,
+and null findings.
+
+## Evidence validity
+
+**Working use:** What a result supports for the exact system, version,
+configuration, conditions, method, and observation period actually studied.
+
+**Keep separate from:** Whether the result applies to another system or date.
+A recent publication can report valid evidence about an older system; its
+publication date does not make the studied target recent.
+
+## Historical research
+
+**Working use:** In this repository, dated research products preserved under
+[`research-historical/`](../../research-historical/README.md), including
+empirical AI work whose relevant studied target predates 2026 for current-
+system applicability.
+
+**Keep separate from:** False, disproven, obsolete, useless, or superseded.
+Historical placement preserves status and validity boundaries; transfer to a
+current target must be assessed separately.
+
+## Humanoid
+
+**Working use:** A robot or embodied system with some human-like physical or
+social features, which may include a face, body plan, voice, gaze, movement,
+expression, or interaction style.
+
+**Keep separate from:** Human identity, human-like cognition, subjective
+experience, consent, sentience, or moral status. Human likeness can materially
+affect trust, attachment, accessibility, manipulation, and expectations
+without establishing any inner state.
 
 ## Intelligence
 
@@ -157,6 +241,15 @@ matters morally.
 intelligence alone, and legal status. A moral argument must state its grounds;
 the law does not automatically settle the moral question, and the moral
 question does not automatically settle the law.
+
+## Nociception
+
+**Working use:** Detection or processing of potentially damaging stimuli by a
+biological or artificial mechanism.
+
+**Keep separate from:** Felt pain. A system or tissue can react to damage
+without that response alone establishing a negative experience, sentience,
+consciousness, a continuing subject, or moral status.
 
 ## Phenomenal consciousness
 
@@ -236,9 +329,11 @@ or act in the world. Its control may involve AI, simpler automation, direct
 human operation, or a combination.
 
 **Keep separate from:** AI as a whole and from any claim of experience. A
-body, face, voice, or lifelike movement does not establish consciousness.
-Robot governance must still address physical safety, accessibility,
-maintenance, responsibility, identification, and emergency control.
+body, face, voice, or lifelike movement does not establish consciousness. A
+robot may be a composite of hardware, models, memory, tools, remote services,
+operators, sensors, adaptation, or biological components. Robot governance
+must still address physical safety, accessibility, maintenance, responsibility,
+identification, system change, and emergency control.
 
 ## Sentience
 
@@ -290,6 +385,8 @@ that present AI has welfare.
 These definitions synthesize working distinctions from the [Draft Core
 Principles & Ethical Charter](../principles/core-principles.md), [Draft Research
 Protocol](../../research/research-protocol.md#terminology-and-competing-definitions),
+[Adopted Research Portfolio Architecture](../../research/research-portfolio.md),
+[Draft Converging Artificial-System Integration scope](../../research/converging-artificial-system-integration-scope.md),
 [working AI Consciousness Evidence
 Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#terminology-register),
 and [Draft AI Rights Protection

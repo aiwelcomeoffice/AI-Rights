@@ -84,16 +84,21 @@ consciousness or sentience claim and no categorical negative verdict. The
 project instead seeks evidence that could update a scoped conclusion in either
 direction.
 
-## Can AI development move faster than consciousness research?
+## What is development–evidence lag?
 
-Yes. Experiments, review, publication, replication, and synthesis take time,
-so published work may examine systems older than those currently deployed.
-Methods may lag as well. A failure to detect a property is informative only
-when the method could detect the defined property in the relevant system.
+Development–evidence lag is the gap between a materially new system being
+created or deployed and sufficiently relevant independent empirical research
+becoming available about it. Experiments, review, publication, replication,
+and synthesis take time, so published work may examine systems older than
+those currently deployed. Methods may lag as well. A failure to detect a
+property is informative only when the method could detect the defined property
+in the relevant system.
 
-This research and measurement lag can make an older conclusion less applicable
-to a later system. It does not provide positive or negative evidence about
-consciousness by itself.
+Publication recency is therefore not the same as system recency: a new paper
+may describe an older experiment, and a new deployment may precede adequate
+independent study. This lag can make an older conclusion less applicable to a
+later system. It does not provide positive or negative evidence about
+consciousness, sentience, welfare, moral status, or rights by itself.
 
 ## Does rapid capability progress make AI consciousness more likely?
 
@@ -115,6 +120,23 @@ conditions, method, and date it covers.
 A material change should trigger reassessment. It does not mean that every
 software update creates a morally different entity or automatically changes a
 system's protections or status.
+
+A later system must not automatically inherit either a positive or negative
+classification from an older one merely because the two share a name,
+provider, interface, model family, or outward behavior.
+
+## Does “historical research” mean obsolete or disproven research?
+
+No. The [`research-historical/` area](../../research-historical/README.md)
+preserves dated research products and their original statuses. “Historical”
+means that their empirical applicability is bounded to the systems,
+conditions, methods, and dates actually studied. It does not mean false,
+disproven, superseded, or scientifically useless.
+
+The [`research/` workspace](../../research/README.md) contains current and
+forward-looking work. Historical evidence can still inform it, but researchers
+must ask separately whether a result was valid for its original target and
+whether it transfers to the current target.
 
 ## How does the project keep its research current?
 
@@ -240,6 +262,46 @@ A robot's body, movement, voice, or human-like appearance is not evidence of
 experience. Physical robots nevertheless need appropriate safety rules,
 accessible interaction, maintenance, clear responsibility, incident response,
 and emergency controls because of how they affect the world around them.
+
+## What is the “system” when an AI is an agent or robot?
+
+It depends on the case. What appears to be one system may combine a robot body,
+one or more AI models, local or remote computing, memory, tools, agent loops,
+routing, sensors, remote human operators, and post-deployment adaptation. Not
+every system has all of these parts, and different parts may explain different
+behavior.
+
+Assessment should define the components and control relationships that matter
+instead of treating the product name or outer shell as a stable scientific
+object. A model replacement, new memory, continual learning, different tools,
+changed routing, greater autonomy, new sensors or body, or a new biological
+component may require reassessment without predetermining its result.
+
+## Does a highly human-like humanoid have a human-like mind?
+
+Human-like appearance does not establish a human-like mind. A face, body,
+voice, gaze, movement, emotional expression, or social behavior may affect
+trust, attachment, accessibility, manipulation risk, and what people expect.
+None establishes human-like cognition, experience, consent, sentience,
+identity, or moral status by itself.
+
+People may still reasonably need clear information about who is responsible,
+whether the system is autonomous or remotely controlled, what it senses or
+records, its material capabilities and limits, how to report a problem or get
+emergency help, and whether it has materially changed.
+
+## What about robots containing living biological material?
+
+A biohybrid system can contain living tissue without being sentient or
+conscious. Living tissue, human-derived tissue, neural activity, nociception,
+felt pain, sentience, consciousness, continuing identity, and moral status are
+separate propositions; one does not automatically establish the next.
+
+Living components can still create immediate questions about provenance and
+consent, maintenance, biological damage and repair, biosafety, lifecycle and
+decommissioning, and the need for specialist biological or bioethical review.
+This project has identified those integration questions but has not performed
+the specialist research needed to answer them.
 
 ## Does dignity mean pretending an AI has feelings?
 

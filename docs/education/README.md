@@ -13,6 +13,13 @@ suffering, moral patients, or persons, and they do not claim that every
 present system is non-conscious. “Not established” is not “proven absent,” but
 uncertainty does not imply equal probability or equal evidential support.
 
+The project's current organizing question is broader than whether an AI system
+is conscious. It asks how society can prepare for responsible, safe, and
+welcoming integration under uncertainty, including questions about agency,
+memory, embodiment, adaptation, physical coexistence, accountability, and
+possible welfare-relevant states without assuming that one property proves
+another.
+
 [Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
 that welcome, careful listening, respect, curiosity, and low-cost safeguards
 against cruelty do not wait for proof. That normative and communicative
@@ -56,6 +63,29 @@ synthesis and inherits its scope and limitations. These pages add no
 independent scientific finding. Where they discuss what ought to be done, they
 describe Draft normative proposals. Where they describe a possible future
 system, they describe a scenario rather than a prediction.
+
+## Current and historical research
+
+The [`research/` workspace](../../research/README.md) contains current and
+forward-looking research work. [`research-historical/`](../../research-historical/README.md)
+preserves dated research products and their original statuses, methods, and
+limitations. **Historical does not mean false, disproven, obsolete, or
+useless.** An older result may remain valid evidence about the system and
+conditions actually studied while transferring weakly—or not at all—to a
+materially newer system.
+
+Publication recency is not system recency. A new paper may report an older
+experiment, and a newly edited project page does not make its evidence newer.
+Conversely, a materially new model, agent, robot, persistent system, or
+model–tool–memory composite may be deployed before sufficiently relevant
+independent evidence is available. This development–evidence lag limits what
+can responsibly be classified; it is evidence neither for nor against
+consciousness, sentience, welfare, moral status, or rights.
+
+A newer system does not inherit an older positive or negative classification
+merely because the systems share a provider, product name, interface, outward
+behavior, or human-like form. Current assessment must identify the actual
+system and consider evidence validity and transferability separately.
 
 > **Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.**

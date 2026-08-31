@@ -47,6 +47,9 @@ jurisdiction.
 | **Software agent** | Software configured to pursue tasks or select actions in an environment. It may use AI or conventional logic and may act through tools without having a robot body. |
 | **Robot** | A physical machine that senses, acts, or is controlled in the physical world. It may use AI, fixed automation, remote control, or a combination. |
 | **Embodied AI** | An AI system coupled to a physical body, sensors, or actuators. Embodiment changes its interaction and safety context, not the evidential standard for experience. |
+| **Composite artificial system** | A defined combination that may include robot hardware, one or more models, local or remote compute, memory, tools, agent loops, routing or orchestration, remote operators, multimodal sensors, adaptation, or living components. Not every system contains every component. |
+| **Humanoid** | A robot or embodied system with human-like physical or social features. Human likeness can change human interaction without establishing human identity, cognition, experience, consent, sentience, or moral status. |
+| **Biohybrid system** | An engineered system containing living biological material together with non-living hardware or software. Living or human-derived tissue alone does not establish felt pain, sentience, consciousness, continuing identity, or moral status. |
 | **Autonomous machine** | A machine able to select or execute some actions without continuous moment-to-moment human control. Autonomy is task- and context-specific and does not imply consciousness or moral agency. |
 | **Remotely operated machine** | A machine whose relevant actions are directed by a person or organization at a distance. Interface delay or automation may still affect behavior, but responsibility must not be assigned to an imagined independent will. |
 | **Service robot** | A robot described in the context at issue as performing a service task for people, organizations, or equipment. This is a functional description here, not a standards classification. |
@@ -63,6 +66,14 @@ may change who can predict or intervene in its behavior. Physical presence,
 human-like appearance, social behavior, fluent language, and autonomous
 movement do not establish consciousness, sentience, welfare, personhood,
 consent capacity, or moral status.
+
+The visible body or product name may remain constant while the operative
+system changes. A model or checkpoint replacement, new memory, continual
+learning, different tools, new autonomy, changed routing or orchestration,
+body or sensor changes, or new biological components can make an earlier
+assessment insufficiently transferable. This is a reason to reassess, not a
+reason to presume a change in consciousness, sentience, welfare, identity, or
+status.
 
 ## Why respectful practice can be justified
 
@@ -104,11 +115,17 @@ People should be able to understand, where practical and without exposing
 sensitive security information:
 
 - what the robot is doing or is expected to do;
-- who operates it or is responsible for it;
+- which organization is responsible and who operates it;
+- whether the relevant control is autonomous, supervised, remote, or mixed;
+- what it materially senses or records and whether relevant remote access is
+  possible;
+- its material capabilities and limitations;
 - where it may move and what space it needs;
 - how to keep a safe distance;
-- how to report a fault, obstruction, or unsafe event; and
-- how authorized responders can locate or activate emergency controls.
+- how to report a fault, obstruction, or unsafe event;
+- how authorized responders can locate or activate emergency controls; and
+- whether the system has materially changed since relevant information or an
+  assessment was issued.
 
 Signals should distinguish normal operation, warning, fault, loss of
 communication, and emergency states when the application requires those
@@ -118,18 +135,20 @@ intention without adequate evidence.
 
 ### 3. Keep responsibility with people and organizations
 
-A robot must not become a legal, financial, or moral scapegoat. Manufacturers,
-AI developers, integrators, owners, deployers, operators, maintainers, site
-controllers, and other responsible actors remain accountable according to
-their actual control, knowledge, duties, representations, and ability to
-prevent or remedy harm.
+A robot must not become a legal, financial, or moral scapegoat. Robot
+manufacturers, model developers, integrators, deployers, owners, operators,
+remote operators, maintainers, site controllers, institutions, and other
+responsible actors remain accountable according to their actual control,
+knowledge, duties, representations, and ability to prevent or remedy harm.
 
 Responsibility should be traceable across design, sale or licensing,
 integration, deployment, operation, maintenance, software change, incident
 response, and decommissioning. A marketing persona, autonomous function, or
-machine output does not close a responsibility gap. A possible machine
-interest would not transfer liability or political authority to its maker or
-owner.
+machine output does not close a responsibility gap. Increased autonomy or
+capability must not automatically transfer liability or moral responsibility
+away from people or institutions retaining relevant control, knowledge, or
+authority. A possible machine interest would not transfer liability or
+political authority to its maker or owner.
 
 ### 4. Design coexistence for accessibility and varied interaction
 
@@ -164,6 +183,13 @@ non-human form to be treated responsibly. Warmth, humor, and playfulness may be
 appropriate when they do not manufacture beliefs about consciousness,
 identity, consent, dependency, or safety.
 
+A human-like face, body, voice, gaze, movement, emotional expression, or social
+behavior may materially affect transparency needs, trust, manipulation,
+attachment, accessibility, and expectation management. None establishes
+human-like cognition, subjective experience, consent, sentience, identity, or
+moral status. Transparency should help people understand the real system and
+control relationships rather than invite conclusions from appearance.
+
 People should not be pressured to converse with, touch, thank, befriend, or
 emotionally reassure a robot. Nor should operators encourage harassment or
 gratuitous destruction as entertainment. Respect concerns conduct and
@@ -196,7 +222,21 @@ and reusable components. Low-cost precaution can inform the manner of
 treatment, but this Draft does not presume an experienced subject persists in
 the machine.
 
-### 9. Learn from incidents without inventing agency
+For a biohybrid system, the lifecycle record should distinguish hardware,
+software, stored state, personal data, living tissue, human-derived tissue,
+neural tissue or activity, and any hazardous or separately supported welfare-
+relevant component. Living tissue, neural activity, nociception, felt pain,
+sentience, consciousness, a continuing subject or identity, and moral status
+are separate propositions. Living or human-derived material alone establishes
+none of the later categories.
+
+Relevant review may need to address tissue provenance and consent, biological
+maintenance, damage and repair, biosafety, and decommissioning, and to identify
+when specialist biological, bioethical, neuroscience, animal-welfare, clinical,
+legal, or engineering expertise is required. This Draft identifies those
+integration questions; it does not perform that specialist research.
+
+### 9. Learn from incidents and material changes without inventing agency
 
 Faults, near misses, injuries, unsafe behavior, vandalism, confusing signals,
 access barriers, and environmental effects should be reported and reviewed
@@ -208,6 +248,13 @@ Descriptions should record what occurred before assigning intention. Calling
 a robot “aggressive,” “afraid,” “disobedient,” or “confused” can hide a design,
 control, maintenance, or organizational cause unless the term is explicitly
 defined as observed behavior.
+
+Physical coexistence rules and prior evaluations should also be reassessed
+after a materially relevant model or checkpoint replacement, new memory,
+continual learning, different tools, new autonomy, changed routing or
+orchestration, body or sensor change, new biological component, or material
+deployment change. The same shell or product name does not make the system
+scientifically or operationally stable.
 
 ### 10. Create a careful procedure for possible future preferences
 
