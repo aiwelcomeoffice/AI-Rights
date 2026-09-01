@@ -81,6 +81,18 @@ from the source and which premises or uncertainties they add.]
 | --- | --- | --- | --- |
 | [Claim] | [Empirical observation, scientific hypothesis, philosophical argument, prediction/scenario, normative position, project decision, or legal category] | [Support] | [Addition or limit] |
 
+### Hypothesis-linked indicator appraisal
+
+Complete this when a scientific hypothesis predicts a relationship with a
+candidate feature such as complexity, intelligence, capability, scale,
+emergence, language, embodiment, or agency. Omit it when no such relationship
+is relevant. Do not assign a feature zero evidential value merely because it
+is individually insufficient.
+
+| Candidate feature | Hypothesis prediction | Serious alternative prediction | Measure and validity | Observed result and system context | Evidential effect and limit |
+| --- | --- | --- | --- | --- | --- |
+| [Feature] | [Prediction] | [Alternative] | [Operationalization and validity] | [Result, version, configuration, and observation period] | [Supports, weighs against, mixed, or does not resolve; why] |
+
 ## Criticisms and methodological concerns
 
 - [Construct, measurement, sampling, control, analysis, reporting,

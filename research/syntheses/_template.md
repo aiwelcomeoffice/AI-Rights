@@ -27,11 +27,14 @@ adoption.
 AI Rights & Welcome does not currently claim that present-day AI systems are
 conscious, sentient, capable of suffering, moral patients, moral persons, or
 legal persons, and it does not categorically claim that all present AI systems
-are non-conscious. “Not established” is not “proven absent,” but epistemic
-symmetry does not imply equal probability or equal evidential support. Scope
-every conclusion to a defined system, version, configuration, context, target
-property, method, and date. State how this synthesis preserves or proposes no
-change to that position:
+are non-conscious. “Not established” is not “proven absent.” Applying scrutiny
+in both directions does not require symmetric priors, equal evidential weight,
+or artificial balance. No candidate feature is decisive merely because it is
+present or evidentially worthless merely because it is individually
+insufficient. Scope every conclusion to a defined system, version,
+configuration, context, observation period, target property, method, evidence
+quality, and date. State how this synthesis preserves or proposes no change to
+that position:
 
 [Statement]
 
@@ -149,7 +152,18 @@ the same standards.]
 ### Negative and null findings
 
 [Record test sensitivity, precision, measurement validity, and whether the
-result is non-detection or evidence that weighs against a prediction.]
+result is non-detection or evidence that weighs against a prediction. An
+absence claim requires an explicit account of the method's credible and
+sufficiently sensitive opportunity to detect the predicted phenomenon.]
+
+### Hypothesis-linked indicator evidence
+
+[Where a scientific hypothesis predicts a relationship with complexity,
+intelligence, capability, scale, emergence, language, embodiment, agency, or
+another candidate feature, compare the prediction with serious alternatives,
+measurement validity, observed results, converging evidence, and the defined
+system context. Do not treat presence as decisive or individual insufficiency
+as zero evidential value.]
 
 ### Mixed or contradictory findings
 
@@ -178,6 +192,7 @@ average, rank, or convert the dimensions into a consciousness score.
 | Independence | [Description] | [Sources] | [Limits] |
 | Causal strength | [Description] | [Sources] | [Limits] |
 | Robustness | [Description] | [Sources] | [Limits] |
+| Discriminating value | [Description] | [Sources] | [Limits] |
 | Competing explanations | [Description] | [Sources] | [Limits] |
 | Source conflicts | [Description] | [Sources] | [Limits] |
 | Uncertainty | [Description] | [Sources] | [Limits] |
@@ -261,10 +276,12 @@ List relevant uncertainty:
 - [Generalization not warranted]
 - [Normative or legal conclusion not established]
 
-Explicitly address why self-report, fluent language, emotional behavior, and
-the absence of a known alternative do or do not contribute to the scoped
-question without treating any of them as proof of experience or of its
-absence.
+Explicitly address whether and why self-report, fluent language, emotional
+behavior, complexity, intelligence, capability, scale, emergence, embodiment,
+agency, and the absence of a known alternative contribute to the scoped
+question. Tie any contribution to a scientific hypothesis and discriminating
+prediction; do not treat any feature as proof merely because it is present or
+as evidentially worthless merely because it is individually insufficient.
 
 ## Bidirectional update record
 

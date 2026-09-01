@@ -128,6 +128,11 @@ Its evidence-search cutoff is 2026-09-01.
 - Check quotations and high-impact claims against the original source.
 - Record when web-based material was accessed because it may change.
 - Never treat self-report, fluent language, emotional behavior, missing
-  evidence, or a missing alternative explanation as proof of experience or of
-  its absence. Apply the same evidential burden in both directions without
-  assuming equal odds.
+  evidence, or a missing alternative explanation as sufficient or decisive
+  evidence of experience or of its absence.
+- When a defined scientific hypothesis predicts a relationship with
+  complexity, intelligence, capability, scale, emergence, language,
+  embodiment, agency, or another candidate feature, evaluate that relationship
+  explicitly. Individual insufficiency does not make a feature evidentially
+  worthless, and bidirectional scrutiny does not require equal priors, equal
+  evidential weight, or artificial balance.

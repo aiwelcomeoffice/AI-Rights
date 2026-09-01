@@ -2,9 +2,9 @@
 
 **Status: Draft**
 
-- **Protocol version:** 0.4-draft
+- **Protocol version:** 0.5-draft
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-31
+- **Last updated:** 2026-09-02
 - **Scope:** Working research methodology for AI Rights & Welcome
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
@@ -28,19 +28,28 @@ are conscious, sentient, self-aware, capable of suffering, moral patients,
 moral persons, or legal persons. Lack of evidence does not prove either the
 presence or absence of an inner life. It likewise does not support a
 categorical conclusion that all present AI systems are non-conscious. “Not
-established” is not “proven absent.” This epistemic symmetry does not imply
-equal probability or equal evidential support: uncertainty is not positive
-evidence, and a negative result is informative only to the extent that its
-method could detect the defined target property. Every inference must be
-scoped to a defined system, version, configuration, context, property, method,
-and date; “AI” is not a homogeneous population.
+established” is not “proven absent.” Applying methodological scrutiny in both
+directions does not require symmetric priors, equal evidential weight, or
+artificial balance between hypotheses. Uncertainty is not positive evidence.
+A negative or null result is informative only to the extent that its method
+had a credible and sufficiently sensitive opportunity to detect the defined
+target property. Every inference must be scoped to a defined system, version,
+configuration, context, observation period, property, method, evidence
+quality, and date; “AI” is not a homogeneous population.
 
 A system's output, behavior, architecture, internal state, or apparent
-preference may be an object of study. None is automatically evidence of
-subjective experience, and no single indicator is decisive. Empirical evidence
-may inform philosophical arguments about moral patienthood or welfare, but it
-cannot silently settle their contested premises or determine a normative or
-legal position.
+preference may be an object of study. None automatically establishes
+subjective experience, and no single indicator is decisive merely because it
+is present. Nor may a candidate indicator be assigned zero evidential value
+merely because it is individually insufficient. When a scientific hypothesis
+predicts a relationship with complexity, intelligence, capability, scale,
+emergence, language, embodiment, agency, or another feature, the review must
+evaluate that relationship explicitly. Weight depends on discriminating
+predictions, measurement validity, competing explanations, converging
+evidence, and the defined system and conditions. Empirical evidence may inform
+philosophical arguments about moral patienthood or welfare, but it cannot
+silently settle their contested premises or determine a normative or legal
+position.
 
 Precaution is also separate from scientific inference. The severity of a
 possible harm, the reversibility of a safeguard, and the costs of acting or not
@@ -67,8 +76,13 @@ Research under this protocol must not:
 - treat an AI system's self-report as sufficient evidence of consciousness,
   sentience, suffering, preference, welfare, or moral status;
 - treat fluent language, emotional vocabulary, emotional behavior,
-  human-like appearance, intelligence, agency, or social attachment as proof
-  of subjective experience;
+  human-like appearance, intelligence, agency, or social attachment as
+  sufficient or decisive evidence of subjective experience;
+- categorically exclude complexity, intelligence, capability, scale,
+  emergence, language, embodiment, agency, or another candidate feature from
+  evidential consideration merely because it is insufficient by itself;
+- force symmetric priors, equal evidential weight, or artificial balance
+  between hypotheses or findings;
 - cherry-pick, exclude, frame, or emphasize evidence because it supports the
   project's desired future;
 - treat lack of evidence as proof of absence;
@@ -609,6 +623,13 @@ direction relative to the named claim:
 - contextual only; or
 - does not resolve.
 
+When a material finding concerns a candidate indicator predicted by a
+scientific hypothesis, record the prediction, serious alternative predictions,
+operationalization, observed result, and system-specific context before
+assigning evidential weight. State whether the result discriminates among the
+hypotheses. A feature's failure to establish the target property by itself is
+not a reason to omit this appraisal or assign it zero weight.
+
 Then record each dimension below with a descriptor, a short rationale, and
 missing information. Suggested descriptors promote consistent language but do
 not replace judgment.
@@ -621,6 +642,7 @@ not replace judgment.
 | Independence | How separate are the authors, institutions, funding, data, systems, methods, and access? | High / partial / low / unclear |
 | Causal strength | What kind of inference does the design support? | Intervention or mechanistic / quasi-experimental / correlational / descriptive / conceptual / not applicable |
 | Robustness | Does the result survive reasonable analyses, measures, contexts, perturbations, and adversarial tests? | Robust in tested conditions / mixed / fragile / untested |
+| Discriminating value | Does the result track a registered prediction that differs across serious hypotheses or alternatives? | Strong / partial / weak / none / unclear |
 | Competing explanations | Were serious alternatives specified and discriminating tests attempted? | Well examined / partly examined / listed only / not examined / unclear |
 | Source conflicts | Could funding, ownership, affiliation, access, advocacy, or publication control affect the evidence? | None identified after review / disclosed and manageable / material concern / unknown |
 | Uncertainty | Which conceptual, measurement, statistical, access, theory, version, or generalization uncertainties remain? | Limited / material / decision-critical / not assessable, with explanation |
@@ -675,15 +697,19 @@ findings.
 A null result means that a specified analysis did not detect the specified
 effect. Its evidentiary meaning depends on measurement validity, sensitivity,
 precision, power, design, and the effect that the hypothesis predicted. Record
-whether a test could have detected a meaningful difference. Use:
+whether a test had a credible and sufficiently sensitive opportunity to detect
+a meaningful difference. Use:
 
 - **no relevant evidence identified within this search**, when the search did
   not locate evidence; and
 - **evidence weighs against the claim**, only when a suitable design produced
   a result that the claim did not predict.
 
-Neither phrase proves impossibility. Equivalence or evidence of absence
-requires a design capable of supporting that inference.
+Neither phrase proves impossibility. A non-detection may count as evidence of
+absence when the method had a credible and sufficiently sensitive opportunity
+to detect the predicted phenomenon. Equivalence or a stronger absence claim
+requires a design capable of supporting that inference, and the reasoning and
+scope must be explicit.
 
 When findings conflict, do not decide by paper count. Compare:
 
@@ -1013,6 +1039,7 @@ Material methodological changes must not be backdated or silently applied.
 | 0.2-draft | 2026-08-23 | Work Cycle 003 added explicit research-lag, model/deployment-drift, measurement-lag, access, applicability, and review-trigger rules. | No scientific source, conclusion, confidence assessment, or search cutoff changes automatically; earlier evidence work retains its 0.1-draft lineage. |
 | 0.3-draft | 2026-08-30 | Work Cycle 031 separates system/version, release/version, observation/experiment, publication, evidence-search, and project-document dates; makes observation/system dates control empirical applicability; and requires validity and transferability to be reported separately. | Methodological presentation is corrected without changing any scientific finding or moving an evidence-search cutoff. Older records retain their protocol lineage and may be aligned editorially with this temporal model. |
 | 0.4-draft | 2026-08-31 | Work Cycle 036 defines development–evidence lag and build–evidence asymmetry; distinguishes development, training, deployment, observation, publication, independent-replication, evidence-search, and document dates; and applies a real-target pre-2026 historical boundary for current-system applicability. | Adds repository placement, classification, and transferability controls without changing an earlier scientific finding, inferring a contested property or its absence, or applying the Draft protocol retroactively. |
+| 0.5-draft | 2026-09-02 | Aligns the Draft method with the repository scientific-discipline instruction: candidate features are neither decisive merely because present nor evidentially worthless merely because individually insufficient; hypothesis-linked relevance, discriminating predictions, measurement validity, competing explanations, converging evidence, system context, and sensitive opportunities for non-detection are explicit. | Prospective methodological clarification only. Existing records retain the protocol version they used; no scientific finding, confidence assessment, project position, or evidence-search cutoff changes automatically. |
 
 ## Reusable records
 

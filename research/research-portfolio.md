@@ -23,6 +23,15 @@ establish a moral, legal, rights, responsibility, protection, or policy
 position. The review was project-owner and internal Project Lead review; no
 independent scientific or methodological review is claimed.
 
+**Instruction-alignment note, 2026-09-02:** In the responsible-robotics row,
+“without treating human likeness as moral evidence” means that human likeness
+alone is not sufficient or decisive evidence of moral status. It does not
+assign human likeness, embodiment, or another hypothesis-linked feature zero
+evidential value merely because that feature is individually insufficient.
+This note clarifies the working interpretation required by the repository
+scientific-discipline instruction; it does not amend the adopted three-layer
+architecture or adopt a scientific conclusion.
+
 ## Organizing question
 
 > **How can society prepare for and navigate a gradual, peaceful,

@@ -99,6 +99,9 @@ argument. Attribute it to the source.]
   runtime, memory, tools, embodiment, deployment context, or other material
   configuration details]
 - **Measures and operational definitions:** [Constructs and how measured]
+- **Hypothesis-linked indicators and discriminating predictions:** [For each
+  relevant candidate feature, state the hypothesis prediction, serious
+  alternative predictions, and what result would discriminate among them]
 - **Comparators and controls:** [Details or not applicable]
 - **Analysis:** [Analytical, statistical, doctrinal, or philosophical method]
 - **Data, code, materials, or preregistration:** [Stable links and access
@@ -172,14 +175,17 @@ claim assessed.
 | Independence | [High / partial / low / unclear] | [Reason] |
 | Causal strength | [Intervention or mechanistic / quasi-experimental / correlational / descriptive / conceptual / not applicable] | [Reason] |
 | Robustness | [Robust in tested conditions / mixed / fragile / untested] | [Reason] |
+| Discriminating value | [Strong / partial / weak / none / unclear] | [Whether the result differs across serious hypotheses or alternatives] |
 | Competing explanations | [Well examined / partly examined / listed only / not examined / unclear] | [Reason] |
 | Source conflicts | [None identified after review / disclosed and manageable / material concern / unknown] | [Reason] |
 | Uncertainty | [Limited / material / decision-critical / not assessable] | [Types and consequences] |
 
 ### Evidence-profile summary
 
-[Explain what this evidence can and cannot support. Do not convert the profile
-into a consciousness score.]
+[Explain what this evidence can and cannot support. Do not treat a feature as
+decisive merely because it is present or as evidentially worthless merely
+because it is individually insufficient, and do not convert the profile into
+a consciousness score.]
 
 ## Relevance to AI Rights & Welcome
 
