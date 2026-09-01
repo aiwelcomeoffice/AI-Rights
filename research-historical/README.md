@@ -60,4 +60,9 @@ obsolete merely because one synthesis using it is preserved here.
 - [AI Consciousness Baseline 2026](ai-consciousness-baseline-2026/README.md) —
   dated working synthesis and research plan; their original scientific
   conclusions, statuses, evidence-search cutoff, limitations, and review
-  boundaries remain unchanged
+  boundaries remain unchanged. The "2026" in this package's name records when
+  the project archived it as historical, not the age of the systems it
+  studied: its included sources report heterogeneous, largely pre-2026
+  system and observation dates where known, detailed in the synthesis's
+  [Principal empirical AI temporal
+  map](ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#principal-empirical-ai-temporal-map).

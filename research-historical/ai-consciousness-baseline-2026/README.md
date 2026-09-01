@@ -11,6 +11,17 @@ position**
   empirical AI evidence, studied systems, observed deployments, or concrete
   system events have a relevant target predating 2026, even where their source
   was published or updated in 2026
+- **Studied-system dates (not a shared date):** Where reported, the included
+  sources' own system, checkpoint, or observation dates are heterogeneous and
+  largely fall in 2021–2025 (for example 2021–2023 evaluated systems, a 2023
+  documentation boundary, a 2023 survey snapshot, and 2024–2025 named model
+  checkpoints); several exact dates are not reported and remain unknown
+  rather than assumed. No source in this package reports studying a 2026-era
+  system. See the synthesis's [Principal empirical AI temporal
+  map](ai-consciousness-evidence-baseline.md#principal-empirical-ai-temporal-map).
+  This package's name and its 2026 creation/relocation date describe when the
+  project archived this research stream, not the age of the systems it
+  studied.
 - **Relocation effect:** Paths changed; scientific findings, document statuses,
   versions, dates, cutoff, limitations, and review boundaries did not
 

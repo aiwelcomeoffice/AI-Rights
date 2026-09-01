@@ -12,7 +12,7 @@
 - **Prepared by:** Codex + Disa
 - **Independent reviewers:** None yet; material limitation
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-08-30
+- **Last updated:** 2026-09-01
 - **Evidence-search cutoff (literature discovery only):** 2026-08-23
 - **Next review:** 2027-08-22 or earlier on a trigger in the bidirectional
   update record
@@ -119,6 +119,16 @@ proportionate decision processes—not as proof in either direction.
   down-weighted preprints/reports.
 - **Source publication range:** 2017–2026 for the selected core; this is not a
   shared empirical-applicability period.
+- **Studied-system/observation dates (where reported):** heterogeneous and
+  largely 2021–2025 — for example 2021–2023 evaluated systems, a 2023
+  documentation boundary, a 2023 survey snapshot, and 2024–2025 named model
+  checkpoints; see the [Principal empirical AI temporal
+  map](#principal-empirical-ai-temporal-map) for source-specific dates.
+  Several exact system or checkpoint dates are not reported and remain
+  `unknown` rather than assumed. No included source reports studying a
+  system from 2026; the two 2026-published items in this corpus (Berg 2026;
+  Butlin et al. 2026) are conceptual/methodological and report no new AI
+  experiment or system observation.
 - **Languages:** English only.
 - **Systems, populations, and contexts:** Human neuroscience, public attitudes,
   selected AI architectures, LLM behavior, and artificial-consciousness
@@ -963,6 +973,7 @@ reassessment; it does not by itself determine the new conclusion's direction.
 | 2026-08-27 | Codex | Structural completion against the synthesis template: added terminology register, method, source-comparison table, evidence-lineage map, cross-source findings, quality profiles, expert-disagreement table, claim-type conclusions, confidence/uncertainty statements, evidence limits, bidirectional update record, limitations, reproducibility materials, funding/conflicts, and this log; corrected a leftover drafting artifact (a placeholder sentence and an orphaned, mis-nested heading) found during audit | Completes template structural compliance by aggregating material already present in the 21 source records and 10 notes; does not change the executive conclusion, scope, confidence assessment, or the 2026-08-23 search cutoff; still requires independent human review before reliance |
 | 2026-08-28 | Codex | Added a bounded contextual intake covering Amodei's public uncertainty statement and Anthropic's reported model-welfare research and precautions | Adds no included scientific source or independent corroboration; leaves the scientific conclusion, confidence assessment, project position, and 2026-08-23 search cutoff unchanged |
 | 2026-08-30 | Codex | Corrected the temporal model, added a source-specific empirical AI temporal map, and removed language that treated the literature-discovery cutoff as a shared system date | No new search or scientific finding; validity remains tied to studied systems and conditions, while transferability to later or materially different systems is reduced or unknown where dates/configurations are missing |
+| 2026-09-01 | Codex | Added a studied-system/observation-date summary to the scope section, cross-referencing the existing temporal map, so the package's "2026" archival naming cannot be read as claiming 2026-era empirical coverage | No new search or scientific finding; restates and cross-references dates already recorded in the temporal map and source records |
 
 ## Sources
 
