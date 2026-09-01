@@ -62,3 +62,30 @@ their origin and must not be counted as independent confirmation.
   **Partly verified public video metadata and reported demonstration**
 - [Xinhua-hosted DroidUp and Moya profile](xinhua-droidup-moya-profile-2026.md)
   — **Partly verified journalism and attributed manufacturer claims**
+
+## Contemporary embodied-AI case records
+
+These records were added on 2026-09-01 for the bounded Dyna-2 and Asimov 1
+case note. Dyna's report and Menlo's performance report are first-party,
+non-peer-reviewed, and not independent confirmation. The pinned Asimov
+repository directly establishes artifact availability, not physical
+functionality. The community repository is outside Menlo's official
+repository, but its maintainer's independence is unverified; it supplies
+simulation reuse, not a physical replication.
+
+- [Dyna-2 corporate technical
+  report](dyna-robotics-dyna-2-2026.md) — **Partly verified first-party,
+  unreplicated research report**
+- [Asimov 1 pinned repository
+  snapshot](menlo-asimov-1-repository-2026.md) — **Verified for stated public
+  artifact-availability use; functionality not independently verified**
+- [Asimov 1 public manual
+  status](menlo-asimov-1-manual-2026.md) — **Partly verified first-party
+  specifications and availability status**
+- [Menlo Asimov 1 sim-to-real
+  report](menlo-asimov-sim2real-2026.md) — **Partly verified first-party,
+  unreplicated performance report**
+- [Community Asimov 1 training
+  repository](ma-dan-asimov-1-train-2026.md) — **Partly verified community
+  simulation adaptation; maintainer independence and physical performance not
+  verified**

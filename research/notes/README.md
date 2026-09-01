@@ -32,9 +32,15 @@ are preserved, without a status or scientific-conclusion change, in the
   verified cross-source working note; not a project conclusion and not part of
   the AI consciousness evidence baseline**
 
-## Embodied social AI case intake
+## Contemporary embodied AI case intake
 
 - [Moya / embodied social AI intake](moya-embodied-social-ai-intake-2026.md) —
   **Partly verified cross-source working note; current product evidence and a
   research question map, not a consciousness or moral-status assessment and
   not part of the AI consciousness evidence baseline**
+- [Dyna-2 and Asimov 1 contemporary embodied-AI
+  case](dyna-2-asimov-1-embodied-ai-case-2026.md) — **Partly verified
+  cross-source working note on transferability, embodiment, prediction,
+  action selection, system boundaries, responsibility, and open research
+  infrastructure; not a consciousness, sentience, welfare, moral-status, or
+  moral-agency assessment**

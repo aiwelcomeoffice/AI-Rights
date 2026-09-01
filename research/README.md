@@ -93,7 +93,7 @@ autonomy, containment, and AGI-timeline signals. It does not change the AI
 consciousness evidence baseline, establish AGI, or mean that continuous
 monitoring now exists. Its source search and access date is 2026-08-28.
 
-## Embodied social AI case work
+## Contemporary embodied AI case work
 
 The [Moya / embodied social AI intake](notes/moya-embodied-social-ai-intake-2026.md)
 is a bounded, partly verified case study of public material about DroidUp's
@@ -107,6 +107,17 @@ The companion [decommissioning, continuity, and irreversible-harm
 case](../docs/policy/decommissioning-continuity-and-irreversible-harm-case.md)
 is a separately labeled Draft future scenario. It does not describe current
 Moya architecture, deployment, or moral status.
+
+The [Dyna-2 and Asimov 1 contemporary embodied-AI case
+note](notes/dyna-2-asimov-1-embodied-ai-case-2026.md) is a bounded, partly
+verified assessment of 2026 evidence transferability, embodiment,
+future-video training, physical action selection, system boundaries,
+responsibility, and open research infrastructure. It keeps Dyna's training
+objective separate from inference-time computation and Asimov's public design
+artifacts separate from roadmap software and unreplicated performance claims.
+It does not modify the historical AI consciousness baseline or classify either
+system for consciousness, sentience, welfare, moral status, or moral agency.
+Its evidence-search cutoff is 2026-09-01.
 
 ## Minimum research rules
 

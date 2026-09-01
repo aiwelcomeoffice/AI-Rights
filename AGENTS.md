@@ -38,9 +38,9 @@ responsibility or their absence.
 
 The central research problem is:
 
-**What do we know, what do we not know, and how should we act under uncertainty
-about potentially morally relevant capacities and states in rapidly changing AI
-systems?**
+> **What do we know, what do we not know, and how should we act under uncertainty
+> about potentially morally relevant capacities and states in rapidly changing AI
+> systems?**
 
 Consciousness, sentience, welfare, agency, preferences, identity continuity,
 moral patienthood, moral agency and responsibility are separate but related
@@ -80,8 +80,12 @@ liability shield for developers, owners, deployers or operators.
 
 ## Scientific discipline
 
-Research must be capable of updating the project's assessment in either
-direction.
+Research methods and evidence evaluation must allow the project's dated
+assessment to update in either direction where the evidence warrants it.
+
+This does not require symmetric priors, equal evidential weight or artificial
+balance between competing hypotheses. Positive, negative or uncertain
+assessments are permitted when supported by the evidence.
 
 Do not:
 
@@ -89,10 +93,34 @@ Do not:
 - assume present AI systems are non-conscious;
 - treat uncertainty as evidence for either conclusion;
 - treat absence of validated evidence as automatic evidence of absence;
-- treat complexity, intelligence, capability, scale, emergence, language,
-  embodiment or agency as proof of consciousness or moral status;
+- infer consciousness, sentience, moral patienthood, moral agency or other
+  morally relevant properties solely from complexity, intelligence, capability,
+  scale, emergence, language, embodiment or agency;
 - strengthen or weaken a claim because of project values;
 - preserve a project position by filtering out conflicting evidence.
+
+Complexity, intelligence, capability, scale, emergence, language, embodiment
+and agency are not categorically excluded from evidential consideration merely
+because they are individually insufficient. Where a scientific hypothesis
+predicts that one or more of these features should be associated with the
+property under investigation, evaluate that relationship explicitly.
+
+No single listed feature should be treated as decisive merely because it is
+present, and no listed feature should be assigned zero evidential value merely
+because it is individually insufficient.
+
+Assess evidential weight using discriminating predictions, alternative
+explanations, measurement validity, converging evidence and system-specific
+context.
+
+Absence of evidence may count as evidence of absence when a method had a
+credible and sufficiently sensitive opportunity to detect the relevant
+phenomenon. Such inferences must be argued explicitly rather than assumed.
+
+Provisional positive, negative or uncertain assessments must be scoped to the
+system, version, configuration, observation period, measurement method and
+evidence quality actually studied. Do not silently generalize them to AI as a
+class.
 
 Existing scientific positions are dated assessments, not conclusions future
 research must defend.
@@ -109,8 +137,7 @@ Distinguish clearly between:
 
 - **Empirical observation** — something measured or observed.
 - **Scientific hypothesis** — an investigable explanation or prediction.
-- **Philosophical argument** — reasoning based on potentially contested
-  premises.
+- **Philosophical argument** — reasoning based on potentially contested premises.
 - **Future scenario** — a possible future development.
 - **Normative position** — what people or institutions ought to do.
 - **Project decision** — a position formally adopted through governance.
@@ -266,9 +293,9 @@ responsibility can belong only to humans.
 
 Preserve the principles:
 
-**No responsibility without sufficient agency.**
+> **No responsibility without sufficient agency.**
 
-**No attribution of responsibility without fairness.**
+> **No attribution of responsibility without fairness.**
 
 If AI systems begin to receive meaningful responsibility before corresponding
 rights, protections or procedural safeguards are recognized, treat that
