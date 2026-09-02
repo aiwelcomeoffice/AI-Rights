@@ -2,9 +2,10 @@
 
 - **Record ID:** SRC-ECS-004
 - **Record status:** Verified for stated use
-- **Protocol version:** 0.2-draft
+- **Protocol version:** 0.2-draft for original appraisal; 2026-09-02 status
+  refresh under 0.5-draft
 - **Record created:** 2026-08-28
-- **Last updated:** 2026-08-28
+- **Last updated:** 2026-09-02
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -27,13 +28,14 @@ it does not verify the statements as scientific findings.
 - **Venue or issuing authority:** TIME
 - **DOI or stable URL:**
   <https://time.com/article/2026/08/26/openai-sam-altman-interview/>
-- **Version or edition:** Web article accessed 2026-08-28
-- **Access date:** 2026-08-28
+- **Version or edition:** Web article accessed 2026-08-28 and rechecked
+  2026-09-02
+- **Access date:** 2026-09-02
 - **Language:** English
 - **Peer-review status:** Not applicable; editorial journalism, not scientific
   peer review
-- **Correction, expression-of-concern, or retraction status:** No correction
-  notice identified on the article on 2026-08-28
+- **Correction, expression-of-concern, or retraction status:** No correction,
+  replacement, or withdrawal notice identified on the article on 2026-09-02
 
 ## Review inclusion
 
@@ -194,7 +196,7 @@ investigation and scenario review, not adoption of the estimate as fact.
   method, and conflicts in the TIME article
 - **Verification status:** Verified for stated use only
 - **Verified by:** Codex (AI-assisted source check)
-- **Verification date:** 2026-08-28
+- **Verification date:** 2026-09-02
 - **Outstanding tasks:** Seek definitions, benchmarks, confidence ranges,
   independent evaluation, and serious competing forecasts.
 
@@ -203,3 +205,4 @@ investigation and scenario review, not adoption of the estimate as fact.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created record from TIME article | Verifies attribution only; not AGI proximity |
+| 2026-09-02 | Codex | Rechecked the live article and correction status during WC040 | No finding or status change; attribution-only use remains |

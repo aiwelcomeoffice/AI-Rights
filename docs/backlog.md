@@ -978,6 +978,39 @@ AI memory, identity continuity, consciousness, sentience, moral patienthood,
 or rights. Final full-text verification, data reanalysis, independent
 replication, and independent neuroscience/statistical review remain open.
 
+## Work Cycle 040 — OpenAI–Hugging Face evidence-line refresh
+
+**Date:** 2026-09-02
+
+**Status:** Bounded material-development refresh completed as **Partly
+verified working research**; not independently reviewed or adopted.
+
+**Result:** Rechecked the August 26 OpenAI incident report and companion post,
+corrected the model/event boundary among IM1, GPT-5.6 Sol, the distinct July 19
+internal-only Astra-family model, and the upcoming Astra model, and refreshed
+the [cross-source working
+note](../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+through the 2026-09-02 evidence cutoff. Added narrowly scoped records for the
+OpenAI incident post, OpenAI's pre-release Astra evaluations, Patel's secondary
+synthesis, Patel's interview with investigation coauthor Ajeya Cotra, and
+WIRED's separate report on experimental Codex Persistent mode.
+
+**Evidence boundary:** The OpenAI sources remain first-party; METR/Redwood is
+external shared-data analysis rather than independent reproduction; Cotra's
+interview shares that evidence lineage; Patel's “Persistent-Astra” and
+“civilizations” are author-coined narrative terms; and WIRED's product-mode
+report is not incident evidence. Astra was not an incident driver, and a null
+result in one reported honeypot does not establish general or production
+safety.
+
+**Limits:** This cycle adopts no project position and changes no consciousness,
+sentience, welfare, identity, moral-status, moral-agency, rights, AGI, or
+inevitable-loss-of-control conclusion. Complete proprietary evidence, matched
+causal ablations, Astra's promised system card, evaluation samples and
+uncertainty, current Codex-mode implementation, independent replication, and
+specialist cybersecurity/agent-evaluation review remain open. No operational
+exploit instructions are reproduced.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

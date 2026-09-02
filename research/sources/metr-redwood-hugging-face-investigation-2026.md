@@ -3,9 +3,9 @@
 - **Record ID:** SRC-ECS-003
 - **Record status:** Partly verified
 - **Protocol version:** 0.2-draft for original appraisal; temporal presentation
-  aligned with 0.3-draft
+  aligned with 0.3-draft; 2026-09-02 status refresh under 0.5-draft
 - **Record created:** 2026-08-28
-- **Last updated:** 2026-08-30
+- **Last updated:** 2026-09-02
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -27,13 +27,14 @@ Inclusion does not mean endorsement or adoption.
 - **Venue or issuing authority:** Redwood Research and METR
 - **DOI or stable URL:**
   <https://www.redwoodresearch.org/research/hugging-face-incident>
-- **Version or edition:** Web report published 2026-08-26 and accessed
-  2026-08-28
-- **Access date:** 2026-08-28
+- **Version or edition:** Web report published 2026-08-26, accessed 2026-08-28,
+  and rechecked 2026-09-02
+- **Access date:** 2026-09-02
 - **Language:** English
 - **Peer-review status:** Not peer reviewed
-- **Correction, expression-of-concern, or retraction status:** No notice
-  identified on 2026-08-28; the live report may be revised
+- **Correction, expression-of-concern, or retraction status:** No correction,
+  replacement, or withdrawal notice identified on 2026-09-02; the live report
+  may be revised
 
 ### Temporal and system applicability
 
@@ -68,7 +69,8 @@ Inclusion does not mean endorsement or adoption.
   compromise extent, remediation, AGI measurement, and consciousness.
 - **Related source records:** [OpenAI technical
   report](openai-hugging-face-incident-technical-report-2026.md), [Hugging Face
-  timeline](hugging-face-agent-intrusion-timeline-2026.md), and [TIME
+  timeline](hugging-face-agent-intrusion-timeline-2026.md), [Cotra coauthor
+  interview](patel-cotra-openai-agent-interview-2026.md), and [TIME
   reporting](heath-openai-reboot-2026.md)
 - **Related research notes:** [Cross-source investigation
   note](../notes/openai-hugging-face-incident-and-agi-claims-2026.md)
@@ -216,7 +218,7 @@ model in general.
   Hugging Face incident accounts
 - **Verification status:** Partly verified
 - **Verified by:** Codex (AI-assisted source check)
-- **Verification date:** 2026-08-28
+- **Verification date:** 2026-09-02
 - **Outstanding tasks:** Independent specialist review, data-access audit,
   method replication, and monitoring for revisions.
 
@@ -226,3 +228,4 @@ model in general.
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created record from public investigation | Eligible as partly verified shared-data external analysis |
 | 2026-08-30 | Codex | Added explicit system/version and investigation-window fields | Limits behavioral findings to the examined data and configuration. |
+| 2026-09-02 | Codex | Rechecked live status and linked the later coauthor interview as a dependent clarification source | Preserves the report as external shared-data analysis, not independent reproduction, and does not treat the interview as a second confirmation |

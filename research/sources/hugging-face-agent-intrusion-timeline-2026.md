@@ -3,9 +3,9 @@
 - **Record ID:** SRC-ECS-002
 - **Record status:** Partly verified
 - **Protocol version:** 0.2-draft for original appraisal; temporal presentation
-  aligned with 0.3-draft
+  aligned with 0.3-draft; 2026-09-02 status refresh under 0.5-draft
 - **Record created:** 2026-08-28
-- **Last updated:** 2026-08-30
+- **Last updated:** 2026-09-02
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
@@ -27,13 +27,14 @@ Inclusion does not mean endorsement or adoption.
 - **Venue or issuing authority:** Hugging Face blog
 - **DOI or stable URL:**
   <https://huggingface.co/blog/agent-intrusion-technical-timeline>
-- **Version or edition:** Web version accessed 2026-08-28; page links to an
-  editable GitHub source
-- **Access date:** 2026-08-28
+- **Version or edition:** Web version accessed 2026-08-28 and rechecked
+  2026-09-02; page links to an editable GitHub source
+- **Access date:** 2026-09-02
 - **Language:** English
 - **Peer-review status:** Not peer reviewed
-- **Correction, expression-of-concern, or retraction status:** No correction
-  notice identified on the page on 2026-08-28; the live page may change
+- **Correction, expression-of-concern, or retraction status:** No correction,
+  replacement, or withdrawal notice identified on 2026-09-02; the live page
+  may change
 
 ### Temporal and system applicability
 
@@ -205,7 +206,7 @@ without changing the project's consciousness conclusion.
   OpenAI and METR/Redwood accounts
 - **Verification status:** Partly verified
 - **Verified by:** Codex (AI-assisted source check)
-- **Verification date:** 2026-08-28
+- **Verification date:** 2026-09-02
 - **Outstanding tasks:** Independent cybersecurity review and version-history
   check; verify any later correction or expanded evidence release.
 
@@ -215,3 +216,4 @@ without changing the project's consciousness conclusion.
 | --- | --- | --- | --- |
 | 2026-08-28 | Codex | Created record from public technical timeline | Eligible as partly verified target-side incident evidence |
 | 2026-08-30 | Codex | Added explicit unknown-version and observation-window fields | Bounds the forensics to the 2026-07-09–13 incident rather than later systems. |
+| 2026-09-02 | Codex | Rechecked the live page and correction status during WC040 | No finding or status change; preserves the target-side account as one dependent view of the incident |

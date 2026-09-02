@@ -30,10 +30,14 @@ validity and transferability limits.
 
 ## Emerging capability and safety horizon records
 
-These records were added on 2026-08-28 for a separate working investigation
-of frontier-agent capability, containment, and AGI-proximity claims. They are
-not part of the AI consciousness evidence baseline, and four accounts of one
-incident must not be counted as four independent events.
+These records began on 2026-08-28 and were materially refreshed through
+2026-09-02 for a separate working investigation of frontier-agent capability,
+containment, post-incident evaluation, and AGI-proximity claims. They are not
+part of the AI consciousness evidence baseline. Multiple developer,
+affected-party, shared-data, coauthor-commentary, and secondary accounts of one
+incident must not be counted as independent events or replications. The Astra
+record concerns separate pre-release evaluations; the WIRED record concerns a
+separate experimental product mode.
 
 - [OpenAI–Hugging Face Incident Technical Report](openai-hugging-face-incident-technical-report-2026.md)
   — **Partly verified corporate incident report**
@@ -44,6 +48,22 @@ incident must not be counted as four independent events.
 - [TIME: Inside OpenAI’s Reboot](heath-openai-reboot-2026.md)
   — **Verified only for the attribution and context of reported leadership
   claims**
+- [OpenAI: The Hugging Face incident and the road
+  ahead](openai-hugging-face-incident-road-ahead-2026.md) — **Partly verified
+  first-party corporate incident synthesis and response account**
+- [WIRED on experimental Codex Persistent
+  mode](wired-openai-persistent-codex-mode-2026.md) — **Partly verified
+  supplementary product-code reporting; not incident evidence**
+- [Patel: The Rise and Fall of Agent
+  Civilizations](patel-rise-and-fall-agent-civilizations-2026.md) — **Partly
+  verified secondary synthesis; author-coined terminology, not independent
+  incident evidence**
+- [OpenAI: Path to Astra — critical capabilities and frontier
+  safeguards](openai-path-to-astra-2026.md) — **Partly verified first-party,
+  configuration-specific pre-release evaluation and safeguard account**
+- [Patel interview with Ajeya Cotra on the OpenAI
+  incident](patel-cotra-openai-agent-interview-2026.md) — **Partly verified
+  coauthor commentary and methodological clarification; not a replication**
 
 ## Embodied social AI case records
 

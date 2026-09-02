@@ -91,7 +91,10 @@ note](notes/openai-hugging-face-incident-and-agi-claims-2026.md) begins a
 separate, partly verified evidence line for material frontier-capability,
 autonomy, containment, and AGI-timeline signals. It does not change the AI
 consciousness evidence baseline, establish AGI, or mean that continuous
-monitoring now exists. Its source search and access date is 2026-08-28.
+monitoring now exists. Its original source search and access date was
+2026-08-28; a bounded material-development refresh covers publications through
+2026-09-02 and records a separate 2026-08-27 product-code source required to
+disambiguate persistence terminology.
 
 ## Contemporary embodied AI case work
 
