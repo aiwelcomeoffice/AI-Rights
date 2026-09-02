@@ -957,6 +957,27 @@ authorize deployment, DNS, hosting, Cloudflare, production-secret, external-
 service, analytics, tracking, cookie, CMS, or publication changes. Disa must
 review and separately authorize any deployment candidate.
 
+## Work Cycle 039 — 2026 memory-persistence neuroscience evidence intake
+
+**Date:** 2026-09-02
+
+**Status:** Bounded current external-evidence intake completed as **Partly
+verified working research**; not independently reviewed or adopted.
+
+**Result:** Created one [source record for Lin et al.
+(2026)](../research/sources/lin-et-al-artificial-hibernation-memory-2026.md),
+including the linked Dryad dataset, for the portfolio domains **Memory and
+identity mechanisms** and **Relevant neuroscience, interpretability, and
+capability research**. The record separates empirical observations, author
+interpretation, reviewer inference, possible conceptual relevance to
+artificial systems, controls, causal limits, and unsupported claims.
+
+**Limits:** This intake does not modify the historical consciousness baseline,
+project policy, website or education material. It adopts no conclusion about
+AI memory, identity continuity, consciousness, sentience, moral patienthood,
+or rights. Final full-text verification, data reanalysis, independent
+replication, and independent neuroscience/statistical review remain open.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
