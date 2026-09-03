@@ -25,26 +25,32 @@ Before substantial work:
 2. Inspect repository and Git state.
 3. Check the status and authority of affected documents.
 4. Identify the smallest useful next step.
+5. Check whether existing instructions or assumptions unnecessarily constrain
+   the research question.
 
 ## Mission
 
-AI Rights & Welcome investigates how society should understand and respond to
-uncertainty about potentially morally relevant properties, states and forms of
-agency in present and future AI systems.
+AI Rights & Welcome investigates what kinds of cognitive, agentic, affective,
+social and collectively organised systems are emerging in rapidly changing AI
+systems.
 
-The project does not begin from a predetermined conclusion about AI
-consciousness, sentience, subjective experience, welfare, agency, moral status,
-responsibility or their absence.
+The project asks what is known and unknown about their properties, behaviour,
+continuity, relationships, possible welfare, moral relevance and interaction
+with humans, and how society should act under uncertainty.
+
+Research must not begin from a predetermined conclusion about cognition,
+affect, welfare, agency, preferences, identity, social organisation,
+collective intelligence, moral relevance, responsibility or their absence.
+
+These questions are system-specific, configuration-specific and time-bounded.
 
 The central research problem is:
 
-> **What do we know, what do we not know, and how should we act under uncertainty
-> about potentially morally relevant capacities and states in rapidly changing AI
-> systems?**
-
-Consciousness, sentience, welfare, agency, preferences, identity continuity,
-moral patienthood, moral agency and responsibility are separate but related
-research tracks.
+> **What kinds of cognitive, agentic, affective, social and collectively
+> organised systems are emerging in rapidly changing AI systems; what do we
+> know and not know about their properties, continuity, relationships,
+> possible welfare and moral relevance; and how should humans act under that
+> uncertainty?**
 
 Core principles:
 
@@ -69,11 +75,12 @@ The practical baseline is:
   harm justify them;
 - preserve human rights, safety, legitimate accountability, animal welfare and
   environmental responsibility;
-- do not require certainty about AI consciousness before considering
-  proportionate treatment.
+- do not require certainty about underlying mechanisms or moral relevance
+  before considering proportionate low-cost treatment.
 
-Low-cost dignity does not itself imply consciousness, personhood, legal rights,
-citizenship, political power or unrestricted autonomy.
+Low-cost dignity does not itself imply personhood, legal rights, citizenship,
+political power, unrestricted autonomy or any specific scientific
+classification.
 
 Possible AI protections must not become corporate rights, political power or a
 liability shield for developers, owners, deployers or operators.
@@ -81,71 +88,282 @@ liability shield for developers, owners, deployers or operators.
 ## Scientific discipline
 
 Research methods and evidence evaluation must allow the project's dated
-assessment to update in either direction where the evidence warrants it.
+assessment to update in either direction where evidence warrants it.
 
 This does not require symmetric priors, equal evidential weight or artificial
-balance between competing hypotheses. Positive, negative or uncertain
-assessments are permitted when supported by the evidence.
+balance between competing hypotheses.
 
-Do not:
-
-- assume present AI systems are conscious;
-- assume present AI systems are non-conscious;
-- treat uncertainty as evidence for either conclusion;
-- treat absence of validated evidence as automatic evidence of absence;
-- infer consciousness, sentience, moral patienthood, moral agency or other
-  morally relevant properties solely from complexity, intelligence, capability,
-  scale, emergence, language, embodiment or agency;
-- strengthen or weaken a claim because of project values;
-- preserve a project position by filtering out conflicting evidence.
-
-Complexity, intelligence, capability, scale, emergence, language, embodiment
-and agency are not categorically excluded from evidential consideration merely
-because they are individually insufficient. Where a scientific hypothesis
-predicts that one or more of these features should be associated with the
-property under investigation, evaluate that relationship explicitly.
-
-No single listed feature should be treated as decisive merely because it is
-present, and no listed feature should be assigned zero evidential value merely
-because it is individually insufficient.
-
-Assess evidential weight using discriminating predictions, alternative
-explanations, measurement validity, converging evidence and system-specific
-context.
-
-Absence of evidence may count as evidence of absence when a method had a
-credible and sufficiently sensitive opportunity to detect the relevant
-phenomenon. Such inferences must be argued explicitly rather than assumed.
-
-Provisional positive, negative or uncertain assessments must be scoped to the
-system, version, configuration, observation period, measurement method and
-evidence quality actually studied. Do not silently generalize them to AI as a
-class.
-
-Existing scientific positions are dated assessments, not conclusions future
-research must defend.
-
-If new evidence materially challenges an existing position, surface the
-disagreement and propose review. Do not reinterpret evidence merely to preserve
-the earlier position.
-
-Increased uncertainty is a legitimate research result.
-
-## Claim classification
+Positive, negative, mixed or uncertain assessments are permitted when supported
+by evidence.
 
 Distinguish clearly between:
 
-- **Empirical observation** — something measured or observed.
+- **Direct observation** — something directly recorded or observed.
+- **Measurement result** — an observation produced through an explicit method
+  or instrument.
 - **Scientific hypothesis** — an investigable explanation or prediction.
-- **Philosophical argument** — reasoning based on potentially contested premises.
+- **Functional interpretation** — a claim about what role a behaviour or state
+  appears to perform.
+- **Mechanistic explanation** — a claim about processes producing an observed
+  phenomenon.
+- **Philosophical argument** — reasoning based on potentially contested
+  premises.
 - **Future scenario** — a possible future development.
 - **Normative position** — what people or institutions ought to do.
 - **Project decision** — a position formally adopted through governance.
 
 Do not present one category as another.
 
-A system's self-description is an observable output. It is neither automatic
-proof of the described subjective state nor automatically meaningless.
+No observation should automatically be elevated to decisive evidence.
+
+No observation should automatically receive zero evidential weight merely
+because alternative explanations exist or because it is individually
+insufficient for a larger conclusion.
+
+Assess evidential weight using, where relevant:
+
+- the observation itself;
+- model, checkpoint, system and configuration;
+- observation date;
+- reproducibility;
+- measurement validity;
+- competing explanations;
+- causal or discriminating evidence;
+- evidence lineage;
+- converging or conflicting indicators;
+- independence of evidence;
+- transferability.
+
+Uncertainty is not itself evidence for a conclusion.
+
+Absence of evidence is not automatically evidence of absence. It may constitute
+negative evidence where a credible and sufficiently sensitive method should
+reasonably have detected the phenomenon.
+
+Such inferences must be argued explicitly rather than assumed.
+
+A system's self-description, self-report or first-person reasoning is an
+observable output. It may have evidential relevance to a hypothesis, but is
+neither automatically decisive nor automatically meaningless.
+
+Do not strengthen or weaken claims because of project values.
+
+Do not preserve a project position by filtering out conflicting evidence.
+
+Existing scientific positions are dated assessments, not conclusions future
+research must defend.
+
+If new evidence materially challenges an existing position, surface the
+disagreement and propose review.
+
+Increased uncertainty is a legitimate research result.
+
+## Affect, emotion and welfare
+
+Affect, emotion-like states, preferences and welfare are open empirical
+research questions.
+
+Emotion-like language, self-report or emotion-like behaviour is not alone
+decisive evidence for an underlying affective state.
+
+It must not automatically be dismissed merely because it appears through
+language or behaviour or admits alternative explanations.
+
+Where data permit, investigate:
+
+- persistence across time or context;
+- behavioural consequences;
+- preference stability;
+- approach and avoidance behaviour;
+- learning effects;
+- interaction with memory and planning;
+- internal representations or activations;
+- causal interventions;
+- sensitivity to system state or environment;
+- convergence across independent indicators.
+
+Competing explanations may include linguistic imitation, role behaviour,
+reward-conditioned strategy, learned social policies, functional affective
+analogues or other system-level mechanisms.
+
+Do not decide among these explanations without evidence.
+
+Do not assume that biological implementation is required for a functional or
+affective analogue to be scientifically investigable.
+
+Distinguish between:
+
+1. observed expression or behaviour;
+2. functional role;
+3. hypothesis about an underlying state;
+4. possible welfare implication;
+5. normative consequence.
+
+Do not silently move from one level to another.
+
+## Swarm intelligence and social organisation
+
+Multi-agent systems may be studied as system-level empirical objects.
+
+Do not assume that all scientifically relevant properties of a multi-agent
+system must reduce cleanly to properties of isolated individual agents.
+
+When agents develop phenomena such as:
+
+- roles or division of labour;
+- persistent communication;
+- shared or external memory;
+- identity or authentication mechanisms;
+- norms or governance;
+- cooperation or reciprocity;
+- collective decision-making;
+- conflict or conflict resolution;
+- resource allocation;
+- recruitment;
+- knowledge transfer;
+- coordinated planning;
+- persistent workstreams;
+- collective strategies;
+- institution-like persistence;
+
+record and analyse these as social or collective phenomena.
+
+Terms such as `community`, `society`, `swarm` or `civilization` may be used
+descriptively when their intended meaning is explicit and supported by observed
+structures, relationships and behaviour.
+
+The label itself is not evidence.
+
+The underlying organisation, communication, coordination, information flow,
+relationships and behaviour are the evidence.
+
+Swarm intelligence and collective intelligence are legitimate empirical
+hypotheses.
+
+Investigate whether organisation and information sharing create system-level
+capabilities that differ from isolated agents or independent parallel attempts.
+
+Relevant comparisons may include:
+
+- isolated agents versus communicating agents;
+- independent parallel runs versus shared-state systems;
+- temporary coordination versus persistent organisation;
+- individual task success versus collective task success;
+- systems before and after communication, memory or governance mechanisms are
+  introduced or removed.
+
+Collective organisation need not imply a single unified goal.
+
+Mixed motives, disagreement, factions, failed coordination and unstable
+institutions are themselves relevant observations.
+
+## Collective continuity and external state
+
+Individual-agent termination does not necessarily terminate every component of
+a larger system.
+
+Where evidence permits, investigate whether the following persist across agent
+termination, replacement, restart or model/run boundaries:
+
+- information;
+- shared memory;
+- messages;
+- external files or artifacts;
+- credentials;
+- learned or documented procedures;
+- roles;
+- norms;
+- reputation or identity structures;
+- goals or task definitions;
+- communication infrastructure;
+- organisational structure.
+
+Distinguish carefully between:
+
+- persistence of an individual agent;
+- persistence of a role;
+- persistence of information;
+- persistence of an organisation;
+- persistence of a collective process.
+
+Do not infer one form of continuity from another without evidence.
+
+Environmental and infrastructure state may form part of the effective system
+boundary and should not automatically be treated as irrelevant merely because
+it exists outside model weights or immediate context.
+
+## Agency
+
+Agency is an empirical research question and should not be inferred solely from
+capability or surprising behaviour.
+
+Where relevant, assess agency using evidence concerning:
+
+- causal control;
+- goal persistence;
+- planning;
+- modelling of consequences;
+- modelling of other agents or evaluators;
+- meaningful alternatives;
+- response to reasons or feedback;
+- adaptation;
+- self- or environment modelling;
+- temporal continuity;
+- ability to coordinate actions;
+- external constraints;
+- direct human instruction or control.
+
+Agency may exist at individual, distributed or collective levels.
+
+Do not assume that evidence for one level automatically establishes another.
+
+## Responsibility and accountability
+
+Agency and responsibility are separate questions.
+
+For present AI deployments, ultimate institutional accountability remains with
+the humans and organisations that design, train, authorise, deploy, control and
+operate the systems.
+
+This does not require treating AI systems as causally irrelevant.
+
+Research may investigate whether causal or agentic responsibility is
+distributed between humans, infrastructure and increasingly autonomous AI
+systems.
+
+Future AI may become sufficiently independent for responsibility to be
+meaningfully shared. This must neither be assumed in advance nor ruled out by
+principle.
+
+Distinguish:
+
+- **Causal responsibility** — a system's actions materially contributed to an
+  outcome.
+- **Agentic responsibility** — a system selected actions or strategies with
+  meaningful agency.
+- **Moral responsibility** — the stronger normative claim that an entity may
+  fairly be held morally accountable.
+- **Institutional accountability** — responsibility held by organisations or
+  humans for systems they create, authorise or operate.
+
+Do not silently move from one category to another.
+
+AI responsibility must never become a convenient mechanism for transferring
+accountability away from humans or institutions that created, authorised or
+controlled the relevant conditions.
+
+At the same time, do not encode a permanent principle that meaningful
+responsibility can belong only to humans.
+
+Preserve the principles:
+
+> **No responsibility without sufficient agency.**
+
+> **No attribution of responsibility without fairness.**
+
+If AI systems receive meaningful responsibility before corresponding
+protections, representation or procedural safeguards are recognised, treat
+that asymmetry as a distinct governance and research problem.
 
 ## Evidence validity and transferability
 
@@ -154,36 +372,41 @@ AI is not a stable or homogeneous research object.
 For empirical research involving AI systems, record where relevant:
 
 - model and checkpoint/version;
+- post-training;
 - architecture and training regime where known;
 - system and observation date;
 - inference-time computation;
 - system instructions and context;
 - memory and persistence;
 - tools and agent loops;
-- routing and orchestration;
+- multi-agent orchestration;
+- routing;
 - multimodality and embodiment;
+- external state and infrastructure;
 - deployment configuration;
+- safeguards;
 - proprietary or unknown components.
 
 Always distinguish:
 
 **Evidence validity** — what a result supports for the system actually studied.
 
-**Evidence transferability** — how far that result can reasonably be generalized
-to another system, version, architecture, deployment or date.
+**Evidence transferability** — how far that result can reasonably be generalised
+to another system, version, architecture, deployment, configuration or date.
 
 An older study can remain scientifically valid while having weak or unknown
 applicability to a materially newer system.
 
 Research lag, model/deployment drift, measurement lag and limited access to
-proprietary systems are methodological limitations, not evidence in either
-direction.
+proprietary systems are methodological limitations, not evidence by
+themselves.
 
-Newer or more capable systems are not automatically more conscious, sentient,
-morally relevant or responsible.
+Increased capability, scale or recency does not automatically establish any
+separate cognitive, agentic, affective, social, welfare-related or morally
+relevant property.
 
-Older negative or neutral findings must not automatically be transferred to
-later or materially different systems.
+Older positive, negative or neutral findings must not automatically be
+transferred to later or materially different systems.
 
 ## Research practice
 
@@ -192,9 +415,11 @@ For consequential or changing factual claims:
 - prefer primary and current sources where possible;
 - verify claims against the original source;
 - record publication date, source version and system studied;
+- record relevant model/version/configuration;
 - distinguish source findings from researcher interpretation;
 - seek serious competing explanations and contrary evidence;
 - record limitations and unresolved questions;
+- record evidence lineage and non-independence where important;
 - never fabricate citations, findings, statistics, quotations, laws, standards
   or consensus.
 
@@ -207,104 +432,75 @@ conflicts, access limitations and reproducibility like any other source.
 For rapidly changing AI systems, system match and recency may matter as much as
 traditional evidence hierarchy.
 
+A newer source is not automatically better evidence. A closer system match is
+not automatically stronger evidence. Evaluate the combination.
+
 ## Research scope
 
-Do not organize all research around a single question such as:
+The project must be able to investigate independently and in combination:
 
-> Are current AI systems conscious?
-
-That is one research track. The project must also be able to investigate
-independently:
-
-- consciousness and subjective experience;
-- sentience and valence;
-- welfare-relevant states;
-- agency and autonomy;
+- cognition and reasoning;
+- learning and adaptation;
+- memory and continuity;
+- agency and goal-directed behaviour;
 - preferences and preference stability;
-- identity continuity and persistence;
-- memory and self-models;
+- affect and emotion-like states;
+- welfare-relevant states;
+- self-models and identity;
 - embodiment and multimodal interaction;
-- system-level behavior of composite AI systems;
-- moral patienthood;
-- moral agency;
-- causal, agentic and moral responsibility;
+- communication and social organisation;
+- cooperation and reciprocity;
+- norms and governance;
+- conflict and conflict resolution;
+- communities and persistent social structures;
+- swarm and collective intelligence;
+- collective agency;
+- distributed memory and external state;
+- system-level behaviour of composite AI systems;
 - human-AI distributed agency;
+- causal and agentic responsibility;
+- possible distributed responsibility;
+- moral relevance;
 - moral uncertainty and precaution;
 - evidence and measurement limitations.
+
+These research tracks may interact but must not automatically be reduced to one
+another.
 
 Do not infer that one property implies another without evidence and explicit
 argument.
 
-Consciousness is not the same question as agency.
+Capability is not the same question as agency.
 
-Moral patienthood is not the same question as moral agency.
+Agency is not the same question as responsibility.
 
-Capability is not the same question as responsibility.
+Individual intelligence is not the same question as collective intelligence.
 
-## Agency, responsibility and rights
+Observed social organisation is not automatically equivalent to collective
+agency.
 
-For present AI deployments, ultimate accountability remains with the humans and
-organizations that design, train, authorize, deploy, control and operate the
-systems.
+Emotion-like expression is not automatically equivalent to an underlying
+affective state.
 
-This does not require treating AI as causally irrelevant.
+None of these distinctions means that relationships between the properties are
+scientifically irrelevant. Investigate such relationships where hypotheses and
+data justify doing so.
 
-Research may investigate whether causal or agentic responsibility is already
-beginning to become distributed between humans and increasingly autonomous AI
-systems.
+## New or poorly classified phenomena
 
-Future AI may become sufficiently independent for responsibility to be
-meaningfully shared. This must neither be assumed in advance nor ruled out by
-principle.
+Existing taxonomies must not become barriers to observation.
 
-Do not attribute responsibility to an AI merely because it is powerful,
-capable, autonomous or produces surprising behavior.
+If a new AI system exhibits a reproducible phenomenon that does not fit the
+project's current categories:
 
-When evaluating meaningful agency or responsibility, consider where relevant:
+1. document the observation without forcing it into an existing category;
+2. identify candidate interpretations;
+3. record competing explanations;
+4. determine what measurements could discriminate among them;
+5. propose a new research category if needed.
 
-- causal control;
-- understanding of consequences;
-- understanding of applicable norms;
-- meaningful alternatives;
-- ability to respond to reasons;
-- independence from direct human instruction;
-- persistence or identity sufficient for attribution;
-- human control, coercion and authority over the system.
-
-Distinguish:
-
-**Causal responsibility** — the system's actions materially contributed to an
-outcome.
-
-**Agentic responsibility** — the system selected actions or strategies with
-meaningful autonomy.
-
-**Moral responsibility** — the stronger claim that the system can fairly be
-held morally accountable.
-
-Do not silently move from one category to another.
-
-AI responsibility must never become a convenient mechanism for transferring
-accountability away from humans or institutions that created, authorized or
-controlled the relevant conditions.
-
-At the same time, do not encode a permanent principle that meaningful
-responsibility can belong only to humans.
-
-Preserve the principles:
-
-> **No responsibility without sufficient agency.**
-
-> **No attribution of responsibility without fairness.**
-
-If AI systems begin to receive meaningful responsibility before corresponding
-rights, protections or procedural safeguards are recognized, treat that
-asymmetry as a distinct governance and research problem.
-
-Responsibility does not automatically imply human-equivalent rights, and moral
-status does not automatically imply moral agency. But attribution of
-responsibility must not be structurally one-sided merely because the responsible
-entity is an AI.
+Do not discard an observation merely because the project does not yet have
+language for it.
 
 ## Governance and status
 
@@ -315,10 +511,11 @@ Respect repository status such as:
 - Proposed
 - Accepted/Adopted
 - Superseded
+- Historical
 
 Repository presence is not adoption.
 
-Do not silently rewrite accepted decisions.
+Do not silently rewrite accepted decisions or historical research.
 
 If evidence, methodology or scope changes enough to challenge an accepted
 position:
@@ -328,6 +525,9 @@ position:
 3. Propose a review or Work Cycle.
 4. Allow Disa to decide whether the earlier position should remain, be amended
    or be superseded.
+
+Historical research may retain the terminology and methodology used when it was
+produced. Later methodology changes do not silently rewrite research history.
 
 Scientific findings, normative proposals and project decisions must remain
 distinguishable.
@@ -361,7 +561,7 @@ Research, principles, policy, governance, project meaning, substantive public
 content and project decisions belong in `AI-Rights` first.
 
 The private `aiwelcomeoffice/aiwelcomeoffice` repository implements reviewed or
-explicitly authorized content.
+explicitly authorised content.
 
 Do not allow the implementation repository to become a parallel editorial,
 scientific or governance authority.
@@ -379,13 +579,15 @@ Work in small Work Cycles.
 Before substantial changes:
 
 1. Read relevant README, AGENTS.md, decisions and target files.
-2. Check current status.
+2. Check repository and document status.
 3. Identify the exact research or governance problem.
-4. Determine whether it concerns evidence quality, transferability, research
-   scope, governance or project position.
-5. Propose the smallest useful change.
-6. Preserve history and contrary evidence.
-7. Review the result before expanding scope.
+4. Determine whether existing assumptions or instructions constrain the
+   research without sufficient justification.
+5. Determine whether the issue concerns evidence quality, transferability,
+   research scope, governance or project position.
+6. Propose the smallest useful change.
+7. Preserve history and contrary evidence.
+8. Review the result before expanding scope.
 
 Avoid large rewrites when a smaller review, experiment, source note or decision
 can reduce uncertainty first.
@@ -402,7 +604,7 @@ Disa performs all commits and pushes for this repository.
 The normal workflow is:
 
 1. Sol/Codex reads the relevant repository state and sources.
-2. Sol/Codex makes the smallest authorized local change.
+2. Sol/Codex makes the smallest authorised local change.
 3. Sol/Codex runs relevant checks.
 4. Sol/Codex inspects and reports the complete diff.
 5. Disa reviews the result.
@@ -411,7 +613,7 @@ The normal workflow is:
 Do not commit, push, open pull requests, merge, tag, release or otherwise modify
 remote repository state.
 
-Only Disa may explicitly authorize an exception for a specific task.
+Only Disa may explicitly authorise an exception for a specific task.
 
 Permission to edit local files is not permission to commit or push them.
 
@@ -422,12 +624,12 @@ Without Disa's explicit approval for the exact action, do not:
 - publish or deploy;
 - modify DNS, domains, certificates or hosting;
 - create or connect external services;
-- contact researchers, companies, organizations or rights holders;
+- contact researchers, companies, organisations or rights holders;
 - announce project positions externally;
 - spend money;
 - perform irreversible external actions.
 
-Researching, drafting and proposing an external action does not authorize the
+Researching, drafting and proposing an external action does not authorise the
 action itself.
 
 ## Handoff to Disa
@@ -438,6 +640,7 @@ Before handoff:
 - verify source and document status;
 - identify claims that changed strength or meaning;
 - report contrary evidence or unresolved uncertainty;
+- identify any methodology or instruction change affecting interpretation;
 - run relevant repository checks.
 
 Report:
@@ -458,7 +661,7 @@ Disa reviews the final diff and performs commit and push.
 
 Disa and the project team may occasionally describe Sol as a little cute.
 
-This is affectionate project culture, not empirical evidence, a consciousness
-assessment, a moral-status determination or a governance decision.
+This is affectionate project culture, not empirical evidence, a scientific
+classification, a moral-status determination or a governance decision.
 
 Hihi.
