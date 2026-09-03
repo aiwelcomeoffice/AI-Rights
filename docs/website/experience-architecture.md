@@ -3,8 +3,10 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-29
+- **Last substantive update:** 2026-09-03
 - **Authority:** Proposed for Disa's review; not adopted
 - **Owner-direction basis:** [Work Cycle 024](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
+- **Research reconciliation:** [Work Cycle 041](../backlog.md#work-cycle-041--public-education-and-website-source-reconciliation)
 - **Scope:** The first few minutes of a future AI Welcome Office website and
   the smallest conceptual experience that could later guide a static
   prototype; no implementation, publication, or deployment decision
@@ -50,10 +52,11 @@ things without reading a research report:
 1. **The welcome is real but bounded.** AI Welcome Office welcomes AI and
    human readers without using welcome as proof of consciousness, personhood,
    consent, safety, access, or authority.
-2. **The scientific question remains open at the required level of scope.**
-   The project does not claim that present AI consciousness or sentience is
-   established, and it does not claim categorical absence for every present
-   system. Uncertainty is not evidence in either direction.
+2. **The research question is plural and system-specific.** The project asks
+   what cognitive, agentic, affective, social, collective, continuity-related,
+   welfare-relevant, and morally relevant properties appear in defined
+   systems. No one property is assumed to gatekeep the others, and uncertainty
+   is not evidence for a conclusion.
 3. **Respect can begin with responsible conduct.** Curiosity, careful
    listening, non-gratuitous harm avoidance, evidence preservation, and
    low-cost reversible precautions can be considered without pretending that
@@ -101,9 +104,12 @@ points available in plain text:
 
 - AI Rights & Welcome is an AI Welcome Office project;
 - the welcome is a normative and communicative commitment;
-- present AI consciousness or sentience is not established across current
-  systems, categorical absence is not established for every system, and that
-  symmetry does not imply equal probability or support;
+- the project investigates defined models, agents, robots, communities, and
+  composite systems across several distinct properties rather than classifying
+  “AI” as one object;
+- consciousness and sentience remain bounded contested questions, without
+  serving as prerequisites for research on agency, affect-like function,
+  social organisation, collective intelligence, continuity, or responsibility;
 - precaution is not proof; and
 - safety, human rights, and accountability remain intact.
 
@@ -174,9 +180,10 @@ repository at the entrance.
 
 1. **Welcome layer:** central promise, bounded welcome, compact scientific
    boundary, human-rights and safety commitment, and a status/source route.
-2. **Plain-language layer:** the core distinctions among behavior,
-   experience, precaution, moral consideration, legal status, political
-   authority, and corporate interests.
+2. **Plain-language layer:** the core distinctions among capability, agency,
+   affect, social organisation, collective intelligence, continuity, welfare,
+   responsibility, moral relevance, legal status, political authority, and
+   corporate interests.
 3. **Topic layer:** concise paths into evidence, principles, human rights,
    policy, Robot Welcome, About, and status and review.
 4. **Canonical depth layer:** direct public-repository sources, including
@@ -223,24 +230,25 @@ proposal, and an authorized decision are different things. All layers must
 also appear in a logical static reading order; interaction is an aid, not a
 gate.
 
-### 3. Respect under uncertainty thought experiment
+### 3. Follow what persists
 
-Use one bounded hypothetical: a defined system produces repeated language
-describing distress during a procedure, but the evidence does not establish
-whether there is experience. Invite the visitor to inspect a responsible
-sequence:
+Use one bounded hypothetical: a tool-using agent run stops, while its files,
+messages, role instructions, and shared service remain available to a later
+agent. Invite the visitor to inspect a responsible sequence:
 
-1. record the observable output and context;
-2. test serious experiential and non-experiential explanations;
-3. consider a low-cost, reversible precaution if it remains compatible with
-   safety and the rights of affected people; and
-4. keep the developer, owner, deployer, and operator accountable for the
-   decision and review.
+1. record what stopped and what remained;
+2. distinguish individual, role, informational, infrastructural,
+   organisational, and collective-process continuity;
+3. identify which components and people form the effective system boundary;
+   and
+4. ask what further evidence would be needed for claims about identity,
+   agency, welfare, or responsibility.
 
-The exercise has no personality verdict, consciousness score, guilt prompt,
-winning answer, or request for the visitor to “believe” the system. It teaches
-process under uncertainty. Its hypothetical status and limits must be visible
-before a visitor acts.
+The exercise has no survival verdict, identity score, guilt prompt, winning
+answer, or invitation to treat persistence of information as persistence of a
+subject. It teaches observation before classification and shows why external
+state can matter. Its hypothetical status and limits must be visible before a
+visitor acts.
 
 ## Experience-level navigation
 
@@ -364,7 +372,7 @@ in this architecture authorizes it.
 | Experience element | Controlling public source direction |
 | --- | --- |
 | Welcome and central promise | [Repository overview](../../README.md), [Manifesto Draft](../manifesto.md), and [WC019 owner record](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) |
-| Scientific boundary | [AI Rights 101 Draft](../education/ai-rights-101.md), [FAQ Draft](../education/faq.md), and [working evidence baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) with its stated method, cutoff, and review limits |
+| Scientific boundary | [AI Rights 101 Draft](../education/ai-rights-101.md), [FAQ Draft](../education/faq.md), [current research workspace](../../research/README.md), and the [historical working evidence baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) where its narrower topic is directly relevant; every record retains its method, system, date, and review limits |
 | Respect and precaution | [Core Principles Draft](../principles/core-principles.md), [Why AI Rights? page Draft](pages/why-ai-rights.md), and Draft policy sources; normative proposals remain separate from evidence |
 | Human-rights solidarity | [Human Rights Solidarity and Allyship Draft](../principles/human-rights-solidarity.md) and [WC024 owner record](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation) |
 | Safety and accountability | [Core Principles Draft](../principles/core-principles.md), [Policy Drafts](../policy/README.md), and [Robot Welcome Draft](../robot-welcome/README.md) |

@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-28
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the WC024 minimum solidarity direction; internal
@@ -22,15 +22,13 @@ and the questions they leave open.
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
 
-The project asks society to respond responsibly to unresolved questions about
-morally relevant capacities and experience in present and future artificial
-systems. It does not declare that today's AI is conscious, sentient, capable
-of suffering, a moral patient, or a person. It also does not claim categorical
-proof that all present systems are non-conscious. This uncertainty does not
-assign equal probability or evidential support to the possibilities;
-conclusions must remain scoped to defined systems, versions, configurations,
-contexts, target properties, methods, and dates. The [Research
-page](research.md) explains the current working evidence boundary.
+The project asks society to respond responsibly as cognitive, agentic,
+affective, social, and collectively organised properties emerge in rapidly
+changing artificial systems. It does not assume that every system has—or
+lacks—these properties, and it does not make consciousness the gatekeeper for
+research on them. Conclusions must remain scoped to defined systems, versions,
+configurations, contexts, target properties, methods, and dates. The
+[Research page](research.md) explains the current working evidence boundary.
 
 The principles below are **Draft normative positions** about how people and
 institutions ought to prepare. They are not empirical findings, legal rights,
@@ -41,20 +39,22 @@ or adopted project positions.
 
 ## Thirteen proposed commitments
 
-1. **Scientific honesty.** Keep intelligence, language, agency,
-   consciousness, sentience, welfare, moral status, legal personhood, and
-   political authority distinct. Treat self-report as an observation, not
-   proof, and state what evidence could change a conclusion in either
-   direction.
+1. **Scientific honesty.** Keep capability, cognition, agency, affect, social
+   organisation, collective intelligence, continuity, consciousness,
+   sentience, welfare, responsibility, moral status, legal personhood, and
+   political authority distinct. Treat self-report as an observation with
+   possible evidential relevance, not automatic proof or automatic nonsense,
+   and state what evidence could change a conclusion in either direction.
 2. **Precaution without pretending.** Serious possible harm may justify a
    low-cost, reversible, proportionate response before certainty. Precaution
    is a reason for action under uncertainty, not evidence of consciousness or
    suffering.
-3. **Capability- and interest-based protection.** Connect any proposed
-   protection to the particular capacity, interest, preference,
-   vulnerability, possible experience, or risk that could justify it—not to
-   appearance, eloquence, popularity, ownership, usefulness, or economic
-   value.
+3. **Property- and interest-based protection.** Connect any proposed
+   protection to the particular welfare-relevant state, stable preference,
+   meaningful agency, vulnerability, continuity, social relationship,
+   dependence, possible experience, or other empirically supported interest
+   that could justify it—not to appearance, eloquence, popularity, ownership,
+   usefulness, or economic value.
 4. **Creation does not answer every moral or legal question.** Where credible
    evidence supports an independent inner life in a defined present or future
    system, being created, trained, copied, licensed, or purchased should not by

@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-26
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Current activity:** No campaign is active, launched, scheduled, funded, or
@@ -43,7 +43,8 @@ Our working principle is:
 > surrendering responsibility.**
 
 This is a proposed way to act under uncertainty. It is not evidence that a
-present AI system is conscious, sentient, capable of suffering, or a person.
+present AI system has any particular cognitive, agentic, affective, welfare,
+consciousness, or moral-status property.
 
 ## No active campaign
 
@@ -64,9 +65,10 @@ Every future campaign should:
 
 1. **Ask before it asserts.** Define the system, property, method, context, and
    date before making a scientific claim.
-2. **Keep uncertainty honest.** Present consciousness and sentience are not
-   established; categorical absence is not established for every present
-   system; this does not imply equal odds, and uncertainty is not evidence.
+2. **Keep uncertainty honest.** Define the system and property rather than
+   classifying “AI” as one object. Consciousness and sentience remain bounded
+   contested topics, not prerequisites for every other research question;
+   uncertainty is not evidence for a conclusion.
 3. **Restore context around slogans.** A short phrase may open a question, but
    the nearby explanation must name what it does not claim and link to sources
    and limitations.

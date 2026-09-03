@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-30
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the WC024 minimum solidarity direction; internal
@@ -10,49 +10,58 @@
   exact page wording remains pending; no external independent human or
   separately commissioned independent AI review
 - **Source relationship:** Summarizes Draft jurisdiction-neutral policy
-  analysis and partly verified working research
-- **Evidence-search cutoff (literature discovery only):** 2026-08-23 for the
-  scientific evidence summary; empirical applicability remains
-  source/system-specific and this is not the page-update date
+  analysis, current partly verified working research, and a narrower preserved
+  historical evidence package
+- **Evidence boundary:** Scientific findings retain their source-specific
+  system, configuration, method, date, verification, and transferability
+  limits; this page-update date does not extend them
 - **Legal status:** Proposal, not current law or legal advice
 - **Status details:** [How to read project statuses and
   review](governance.md)
 
 **Reader purpose:** Understand which institutional preparations the project
-proposes without treating them as current law, a consciousness finding, or a
-proposal for present AI personhood.
+proposes without treating them as current law, a scientific classification,
+or a proposal for present AI personhood.
 
-Institutions can prepare to evaluate serious present or future claims about AI
-consciousness, sentience, or welfare without deciding those claims in advance.
-They can define evidence procedures, preserve records, plan proportionate
-interim measures, retain safety controls, and keep people and organizations
-accountable. Welcome and careful listening can begin under uncertainty without
-becoming scientific evidence or legal recognition.
+Institutions can prepare to evaluate serious present or future claims about a
+defined system's agency, preferences, affect, welfare, continuity, social or
+collective organisation, responsibility, moral relevance, or other properties
+without deciding those claims in advance. They can define evidence procedures,
+preserve records, plan proportionate interim measures, retain safety controls,
+and keep people and organisations accountable. Welcome and careful listening
+can begin under uncertainty without becoming scientific evidence or legal
+recognition.
 
 This is **Draft policy analysis**. It is jurisdiction-neutral and does not
 describe enacted law, an existing regulator, a validated test, or a
 classification of any current system.
 
-## The scientific boundary
+## The scientific and system boundary
 
-The project's partly verified [working evidence
-baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
-whose literature discovery ended **2026-08-23**, did not identify evidence
-sufficient to establish consciousness or sentience in the systems, versions,
-configurations, and study conditions actually addressed by its included
-sources. The date is a review-process cutoff, not a classification of systems
-available then. The synthesis also did not establish that all present systems
-are non-conscious. Uncertainty is not evidence in either direction.
+The [current research workspace](../../../research/README.md) investigates
+defined models, agents, robots, communities, and composite systems across
+distinct cognitive, agentic, affective, social, collective, continuity,
+welfare, responsibility, and moral-relevance questions. Evidence for one does
+not automatically establish another, and uncertainty is not evidence for a
+conclusion.
+
+The historical, partly verified [AI Consciousness Evidence
+Baseline](../../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
+whose literature discovery ended **2026-08-23**, remains relevant only to its
+narrower question and the systems, versions, configurations, and study
+conditions addressed by its sources. It did not identify evidence sufficient
+to establish consciousness or sentience for those targets and did not
+establish categorical absence across all present systems.
 
 Language, self-report, emotional vocabulary, apparent preferences,
-intelligence, agency, or human-like form is not decisive by itself. Findings
-must remain tied to a defined system, version, configuration, context, target
-property, method, and date. A material change calls for reassessment, not an
-automatic moral or legal reclassification.
+intelligence, agency, social organisation, scale, or human-like form is not
+decisive by itself for a different property. Findings must remain tied to a
+defined system, version, configuration, context, target property, method, and
+date. A material change calls for reassessment, not an automatic moral or
+legal reclassification.
 
-The [Research page](research.md) explains the baseline's selected coverage,
-single AI-assisted reviewer, lack of independent human review, and other
-limitations.
+The [Research page](research.md) explains current research, the historical
+boundary, WC040's bounded findings, and remaining review limits.
 
 ## Seven recommendations
 
@@ -70,10 +79,10 @@ These are **Draft normative proposals**, not current legal duties.
    configuration, runtime, memory, tools, embodiment, deployment context,
    methods, access limits, observation dates, and evidence-search cutoff.
 4. **Require transparent claims and appropriate independent assessment.** A
-   developer or owner should not establish a major consciousness, sentience,
-   or welfare claim through marketing, private labels, or control of
-   inaccessible evidence. Any enforceable disclosure rule would require
-   jurisdiction-specific legal work.
+   developer or owner should not establish a major cognitive, agentic,
+   affective, social, continuity, welfare, consciousness, or moral-status claim
+   through marketing, private labels, or control of inaccessible evidence. Any
+   enforceable disclosure rule would require jurisdiction-specific legal work.
 5. **Preserve evidence and fair review.** Where lawful and safe, retain
    relevant logs and system records. Separate evidence assessment, policy or
    legal decision-making, emergency response, representation of possible

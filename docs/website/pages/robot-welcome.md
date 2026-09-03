@@ -2,17 +2,18 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-31
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Project-owner and internal AI-assisted review only; Disa's final
   manual review of this version is pending; no independent robotics, safety,
   accessibility, legal, standards, cybersecurity, privacy, environmental, or
   human-factors review
-- **Source relationship:** WC038 public adaptation of the WC037-aligned Draft
+- **Source relationship:** WC041 systems-first public adaptation of the Draft
   [Robot Welcome & Physical Coexistence
-  foundation](../../robot-welcome/README.md), extending Draft Core Principle 10
-  and related education and policy material
+  foundation](../../robot-welcome/README.md), preserving its WC037 safety and
+  accessibility scope while aligning with current research, Draft Core
+  Principle 10, and related education and policy material
 - **Readiness:** Conceptual only; not an engineering specification, product
   programme, prototype, compatibility claim, safety certification, standard,
   authorization mark, or website implementation
@@ -44,12 +45,22 @@ physical world. It may use AI, fixed automation, remote control, or a
 combination. An **AI system** may be software-only and never have a robot body.
 A **software agent** may act through digital tools without being embodied.
 
-What appears to be one robot may combine a body, one or more models, local or
-remote compute, memory or persistence, tools, agent loops, routing or
-orchestration, multimodal sensors, post-deployment adaptation, remote human
-operators, and living biological components. Not every system has every
-feature. Public information and assessment should identify the components
-actually present, what each contributes, and who can control or change them.
+What appears to be one robot may be a physical node in a larger system. That
+system can include one or more models, multiple agents, local or remote
+compute, shared or distributed memory, tools, agent loops, routing or
+orchestration, cloud services, other robots, persistent external state,
+multimodal sensors, post-deployment adaptation, remote human operators, and
+living biological components. Not every system has every feature. Public
+information and assessment should identify the components actually present,
+how information and control move among them, what each contributes, and who
+can control or change them.
+
+One body therefore does not necessarily equal one stable agent or one
+identity. A model may be replaced while the body remains. Several agents may
+share one body, one agent may act through several bodies, and a fleet may
+inherit information, roles, or procedures after a particular run stops.
+Individual, role, informational, organisational, and collective-process
+continuity must not be inferred from one another without evidence.
 
 An **autonomous machine** can select or execute some actions without continuous
 moment-to-moment human control. A **remotely operated machine** is directed by
@@ -75,16 +86,18 @@ decommissioning.
 ## Transparency, change, and reassessment
 
 People should be able to understand, in accessible forms, whether they are
-interacting with a model, robot body, tool-using composite, remote operator, or
-some combination; what the system senses or records; its material capabilities
-and limits; who is responsible; and how to report a problem or reach emergency
-help. Transparency must not be confused with a claim that every technical
-detail is public or that a system has an inner life.
+interacting with a model, agent, robot body, multi-agent or fleet-level system,
+tool-using composite, remote operator, or some combination; what the system
+senses, shares, or records; its material capabilities and limits; who is
+responsible; and how to report a problem or reach emergency help. Transparency
+must not be confused with a claim that every technical detail is public or
+that a system has an inner life.
 
-A product name or visible body may remain unchanged while its model, memory,
-tools, orchestration, autonomy, sensors, operators, deployment, or learning
-behavior changes. A material change can require scientific, safety, ethical,
-or legal reassessment without predetermining the result.
+A product name or visible body may remain unchanged while its model, agents,
+memory, communication, tools, orchestration, autonomy, sensors, peer systems,
+cloud services, operators, deployment, or learning behaviour changes. A
+material change can require scientific, safety, ethical, or legal reassessment
+without predetermining the result.
 
 See [AI Rights 101](../../education/ai-rights-101.md#ai-and-robots-are-not-the-same-thing)
 and the [Draft glossary](../../education/glossary.md#robot) for the broader
@@ -151,6 +164,13 @@ still controls the risk effectively. That does not mean delaying emergency
 action, weakening safeguards, blocking shutdown, or placing symbolic respect
 ahead of people, animals, the environment, or critical systems.
 
+Safety assessment should include interactions beyond the local body. Shared
+memory, fleet coordination, remote services, or one agent controlling several
+robots can propagate an error or intervention across machines. Local emergency
+controls must remain usable even when communication or cloud services fail,
+and a system-level response should not hide which bodies, agents, services, or
+people were affected.
+
 Any future physical feature would have to preserve the complete operation and
 access needs of the exact machine. At a minimum, it could not obstruct or
 degrade:
@@ -191,9 +211,11 @@ experienced intention.
 ## Responsibility follows control and duty
 
 A robot must not become a legal, financial, or moral scapegoat. Depending on
-the situation, responsibility may be distributed among manufacturers, AI
+the situation, causal contribution and operational control may be distributed
+among models, agents, bodies, shared services, and infrastructure, while
+institutional accountability may be distributed among manufacturers, AI
 developers, integrators, owners, deployers, operators, maintainers, site
-controllers, and other people or organizations.
+controllers, and other people or organisations.
 
 Their accountability should reflect their actual control, knowledge, duties,
 claims, and ability to prevent or remedy harm. A robot's autonomy, output,

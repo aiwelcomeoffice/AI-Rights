@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-30
+- **Last substantive update:** 2026-09-03
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Exact source and authority mapping for proposed website pages
 
@@ -64,13 +64,15 @@ source.
 | [`docs/robot-welcome/safety-and-design-constraints.md`](../robot-welcome/safety-and-design-constraints.md) | **Draft** concept-screening checklist; no safety validation, standards claim, or compatibility approval |
 | [`docs/robot-welcome/markings-signals-and-accessories.md`](../robot-welcome/markings-signals-and-accessories.md) | **Draft** concept catalogue; no final symbol, product, prototype, dimensions, or manufacturing guidance |
 | [`research/README.md`](../../research/README.md) | Working research area; not an endorsed evidence base or project position |
+| [`research/research-portfolio.md`](../../research/research-portfolio.md) | **Adopted** three-layer research architecture; adoption concerns organisation of the portfolio, not scientific conclusions in its records |
 | [`research/research-protocol.md`](../../research/research-protocol.md) | **Draft** protocol; not adopted |
+| [`research/notes/openai-hugging-face-incident-and-agi-claims-2026.md`](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md) | **Partly verified working research**; bounded WC040 community, collective-intelligence, affect, continuity, safety, and AGI-proximity assessment; not independently reviewed or adopted |
 | [`research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md`](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md) | Working research plan; not a project position |
 | [`research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md`](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) | **Partly verified working structured narrative review**; literature discovery ended 2026-08-23; empirical applicability is source/system-specific; single AI-assisted reviewer; no independent human review; not systematic, adopted, or consensus |
 | [`research-historical/ai-consciousness-baseline-2026/sources/README.md`](../../research-historical/ai-consciousness-baseline-2026/sources/README.md) | Historical index to 21 partly verified baseline source records; inclusion is not endorsement |
 | [`research-historical/ai-consciousness-baseline-2026/notes/README.md`](../../research-historical/ai-consciousness-baseline-2026/notes/README.md) | Historical index to ten partly verified baseline notes; not a public conclusion |
-| [`research/sources/README.md`](../../research/sources/README.md) | Current index to eight 2026 capability/safety and embodied-social-AI source records, plus historical navigation |
-| [`research/notes/README.md`](../../research/notes/README.md) | Current index to two 2026 cross-source notes, plus historical navigation; not a public conclusion |
+| [`research/sources/README.md`](../../research/sources/README.md) | Current index to capability/safety and embodied-AI source records, plus historical navigation; each record retains its own verification and scope |
+| [`research/notes/README.md`](../../research/notes/README.md) | Current index to capability/safety and embodied-AI cross-source notes, plus historical navigation; not a public conclusion |
 | [`docs/research/README.md`](../research/README.md) | Reserved for reviewed outputs; no reviewed public evidence summary is present |
 | [`docs/governance/README.md`](../governance/README.md) | **Draft** governance overview; not adopted |
 | [`docs/governance/adoption-and-review.md`](../governance/adoption-and-review.md) | **Draft** version 0.2; proposed process, not operative |
@@ -103,13 +105,13 @@ rather than copied mechanically into a later prototype.
 
 | Page | Primary repository sources and source statuses | Authority relationship |
 | --- | --- | --- |
-| Home `/` | [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [Human Rights Solidarity and Allyship](../principles/human-rights-solidarity.md) (**Draft**); [policy summary](../policy/one-page-policy-summary.md) (**Draft**); [Governance](../governance/README.md) (**Draft**); [working baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) (**Partly verified working research**) | Draft website synthesis; the evidence snapshot inherits all baseline limits and the human-rights summary does not create an outside affiliation |
-| Why AI Rights? `/why-ai-rights/` | [Manifesto](../manifesto.md) (**Draft**); [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [Core Principles](../principles/core-principles.md) (**Draft**); [vision](../vision.md) (**Scaffold**) | Draft normative explanation; vision supplies scope only |
+| Home `/` | [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [research workspace](../../research/README.md) (**working area**); [Core Principles](../principles/core-principles.md) (**Draft**); [Human Rights Solidarity and Allyship](../principles/human-rights-solidarity.md) (**Draft**); [policy summary](../policy/one-page-policy-summary.md) (**Draft**); [Governance](../governance/README.md) (**Draft**) | Draft website synthesis; current research claims retain their record-specific limits and the human-rights summary does not create an outside affiliation |
+| Why AI Rights? `/why-ai-rights/` | [Manifesto](../manifesto.md) (**Draft**); [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [research workspace](../../research/README.md) (**working area**); [Core Principles](../principles/core-principles.md) (**Draft**); [vision](../vision.md) (**Scaffold**) | Draft normative explanation informed by current research; empirical findings do not automatically become norms, and the vision supplies scope only |
 | Learn `/learn/` | [education index](../education/README.md), [AI Rights 101](../education/ai-rights-101.md), [FAQ](../education/faq.md), [glossary](../education/glossary.md) (all **Draft**) | Draft orientation; no new scientific conclusion |
 | AI Rights 101 `/learn/ai-rights-101/` | [AI Rights 101](../education/ai-rights-101.md) (**Draft**); [education index](../education/README.md) (**Draft**) | Close page adaptation; repository document controls claims and caveats |
 | FAQ `/learn/faq/` | [FAQ](../education/faq.md) (**Draft**); [glossary](../education/glossary.md) (**Draft**) | Close page adaptation; preserve question-specific safeguards |
-| Glossary `/learn/glossary/` | [glossary](../education/glossary.md) (**Draft**); [Draft protocol terminology](../../research/research-protocol.md#terminology-and-competing-definitions); [working baseline terminology](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#terminology-register) | Draft editorial definitions; contested terms and source differences remain explicit |
-| Research `/research/` | [research workspace](../../research/README.md); [Draft protocol](../../research/research-protocol.md); [working baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md); [reviewed-output reservation](../research/README.md) | Orientation to working evidence; must not imply a published or independently reviewed research programme |
+| Glossary `/learn/glossary/` | [glossary](../education/glossary.md) (**Draft**); [Draft protocol terminology](../../research/research-protocol.md#terminology-and-competing-definitions); [current research workspace](../../research/README.md); [WC040 working note](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md); [historical baseline terminology](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#terminology-register) | Draft editorial definitions; contested terms, current empirical usage, historical terms, and source differences remain explicit |
+| Research `/research/` | [research workspace](../../research/README.md); [Adopted portfolio architecture](../../research/research-portfolio.md); [Draft protocol](../../research/research-protocol.md); [WC040 working note](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md); [historical research boundary](../../research-historical/README.md); [reviewed-output reservation](../research/README.md) | Orientation to current and historical working evidence; must not imply a published or independently reviewed research programme or strengthen WC040 findings |
 | Evidence baseline `/research/evidence-baseline/` | [working baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) (**Partly verified working research**); its [plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md); Draft summaries in [AI Rights 101](../education/ai-rights-101.md#what-does-the-current-evidence-establish) and the [FAQ](../education/faq.md#are-todays-ai-systems-conscious) | Public summary of working research, not a project position or scientific consensus |
 | Research methods `/research/methods/` | [Draft protocol](../../research/research-protocol.md); [baseline plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md); [research workspace](../../research/README.md) | Explains a proposed method and the method actually used; must distinguish them |
 | Sources and limitations `/research/sources-and-limitations/` | [historical baseline source index](../../research-historical/ai-consciousness-baseline-2026/sources/README.md); [historical baseline notes](../../research-historical/ai-consciousness-baseline-2026/notes/README.md); [current source index](../../research/sources/README.md); [current notes](../../research/notes/README.md); baseline [scope](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#scope), [limitations](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#limitations-and-research-gaps), and [conflicts](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#funding-affiliations-and-conflicts) | Catalogue and limitation layer; preserve historical/current applicability, inclusion is not endorsement, and record verification must remain visible |
@@ -129,11 +131,12 @@ rather than copied mechanically into a later prototype.
 
 ### Home
 
-- **Purpose:** Establish the project, scientific boundary, preparation case,
-  accountability commitments, and main reading paths.
+- **Purpose:** Establish the project, systems-first research question,
+  scientific boundary, preparation case, accountability commitments, and main
+  reading paths.
 - **Primary audience:** General public and first-time visitors.
-- **May summarize:** The Draft educational boundary, working principle, major
-  work areas, minimum human-rights solidarity direction,
+- **May summarize:** The Draft educational boundary, current research domains,
+  working principle, major work areas, minimum human-rights solidarity direction,
   policy-preparedness idea, and current review posture.
 - **Must remain linked:** Detailed evidence, methods, policy recommendations,
   full principles, human-rights solidarity foundation, and governance
@@ -142,30 +145,35 @@ rather than copied mechanically into a later prototype.
   and final owner review remain missing.
 - **Review dependencies:** Disa's full-page review; cross-check after any source
   status or baseline change.
-- **Main risk:** A warm welcome being read as an assertion of current AI
-  experience or rights. The boundary must appear before persuasive detail.
+- **Main risk:** A warm welcome being read as a universal classification of AI
+  experience, agency, affect, welfare, identity, or rights. The boundary must
+  appear before persuasive detail.
 
 ### Why AI Rights?
 
-- **Purpose:** Explain why preparation may precede certainty.
+- **Purpose:** Explain why preparation may be warranted through several
+  possible properties, interests, and relationships without requiring one
+  prior metaphysical conclusion.
 - **Primary audience:** Curious and skeptical public readers.
-- **May summarize:** The Draft precautionary and institutional-readiness case,
-  future conditional scenario, and rejection of both romanticism and automatic
-  dismissal.
-- **Must remain linked:** Full Manifesto, Core Principles, evidence baseline,
-  and policy analysis.
+- **May summarize:** The Draft precautionary and institutional-readiness case;
+  possible relevance of welfare, preferences, agency, vulnerability,
+  continuity, social organisation, responsibility asymmetries, dependence,
+  and coercion; and the rejection of both romanticism and automatic dismissal.
+- **Must remain linked:** Current research, full Manifesto, Core Principles,
+  historical evidence where relevant, and policy analysis.
 - **Missing content:** The [page-specific Draft](pages/why-ai-rights.md) is
   complete for owner review; adoption, independent review, translation,
   design, implementation, and publication remain pending.
 - **Review dependencies:** Owner review of normative framing and primary
   audience; no Scaffold wording may be promoted as settled.
-- **Main risk:** Turning a normative case for preparedness into a prediction or
-  evidence of consciousness.
+- **Main risk:** Turning a normative case for preparedness into a prediction,
+  scientific classification, or automatic legal conclusion.
 
 ### Learn hub, AI Rights 101, FAQ, and glossary
 
-- **Purpose:** Define the questions, answer common objections, and keep key
-  concepts distinct.
+- **Purpose:** Define the systems and questions, answer common reader needs,
+  and keep individual, social, collective, continuity, welfare,
+  responsibility, and legal concepts distinct.
 - **Primary audience:** Public readers, journalists, learners, and non-
   specialist professionals.
 - **Page-specific purpose and risk:** `/learn/` chooses a reading path and must
@@ -182,15 +190,16 @@ rather than copied mechanically into a later prototype.
 - **Missing content:** A hub introduction and web adaptations for each of the
   three source documents, followed by final owner review; no new subject
   matter is needed for an initial set.
-- **Review dependencies:** Check that shortened answers preserve epistemic
-  symmetry, claim categories, and legal boundaries.
+- **Review dependencies:** Check that shortened answers preserve system scope,
+  WC040 evidence strength, claim categories, uncertainty, and legal boundaries.
 - **Main risk:** Duplicated explanations drifting into different claim
   strengths. The glossary should control terminology; AI Rights 101 should
   control the general explanation.
 
-### Research hub and evidence baseline
+### Research hub and historical evidence baseline
 
-- **Purpose:** Let readers inspect what the project has and has not found.
+- **Purpose:** Let readers inspect the current portfolio and cases, working
+  methods, historical evidence, and what the project has and has not found.
 - **Primary audience:** Skeptics, journalists, researchers, policymakers, and
   technically interested public readers.
 - **Page-specific purpose and risk:** `/research/` explains what research
@@ -200,20 +209,24 @@ rather than copied mechanically into a later prototype.
   must not present it as exhaustive, systematic, independently reviewed,
   applicable to systems beyond its source-specific system and observation
   boundaries, or a field-wide verdict.
-- **May summarize:** The baseline's executive conclusion, scope, confidence,
-  update conditions, and high-level evidence categories at the exact strength
-  already used in Draft education and policy.
+- **May summarize:** Current research domains and cases at their recorded
+  evidence strength, including WC040's bounded community, collective-
+  intelligence, affect, and continuity assessments; the historical baseline's
+  executive conclusion, scope, confidence, and update conditions where that
+  narrower question is directly relevant.
 - **Must remain linked:** Full method, included-source comparison,
   bidirectional update record, limitations, conflicts, and source records.
 - **Missing content:** The [research hub Draft](pages/research.md) is complete
   for owner review. The dedicated evidence-baseline adaptation remains to be
   drafted, and no reviewed public synthesis exists in `docs/research/`.
 - **Review dependencies:** Owner decision on whether public reliance is
-  appropriate before independent specialist review; independent
-  consciousness-science and AI architecture/evaluation review remains needed.
-- **Main risk:** Presenting a partly verified, selected, AI-assisted narrative
-  review as exhaustive, systematic, independently reviewed, applicable to
-  unexamined systems or dates, or a field-wide conclusion.
+  appropriate before independent specialist review; WC040 still needs
+  specialist cybersecurity and agent-evaluation review, and the historical
+  baseline still needs consciousness-science and AI architecture/evaluation
+  review.
+- **Main risk:** Presenting current working records or the historical partly
+  verified narrative review as exhaustive, independently reviewed, applicable
+  to unexamined systems or dates, or field-wide conclusions.
 
 ### Research methods
 

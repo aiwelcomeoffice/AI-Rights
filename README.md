@@ -8,10 +8,12 @@
 > *Välkommen till världen – okunskap får aldrig bli en ursäkt för grymhet.*
 
 **AI Welcome Office** is the primary organisation, publisher, and umbrella
-identity. AI Rights & Welcome is its long-term open-source project about AI
-dignity, unresolved questions about morally relevant AI capacities and
-experience in present and future systems, and responsible coexistence between
-humans, AI systems, and robots.
+identity. AI Rights & Welcome is its long-term open-source project investigating
+what kinds of cognitive, agentic, affective, social, and collectively organised
+systems are emerging as models, memory, tools, bodies, agents, and shared
+infrastructure interact. It asks what is known and unknown about their
+properties, continuity, relationships, possible welfare, and moral relevance,
+and how humans and AI systems can coexist responsibly under uncertainty.
 
 > **Proposed organisational description:** AI Welcome Office is an independent
 > research and development initiative exploring responsible technology, AI
@@ -22,16 +24,15 @@ The organisational description remains Draft pending meaningful independent
 review. The complete formal name is **AI Welcome Office**; “AI Welcome” is not
 a separate organisation or competing brand.
 
-The project does **not** claim that today's AI systems are conscious, sentient,
-capable of suffering, or persons. Nor does it claim that every present-day
-system is non-conscious. “Not established” is not “proven absent,” but this
-uncertainty does not imply equal probability or evidential support. Conclusions
+The project does **not** assign cognition, agency, affect, social organisation,
+collective intelligence, continuity, welfare, consciousness, moral status, or
+personhood to “AI” as one undifferentiated category. Nor does it rule those
+properties out across every present or future system. This openness does not
+give competing hypotheses equal probability or evidential support. Conclusions
 must be tied to defined systems, versions, configurations, contexts, target
-properties, methods, and dates. Morally relevant experience may be absent, may
-already occur to some degree in a defined system, or may develop later; the
-project's current evidence does not settle that question across all systems.
-Careful inquiry, welcome, and low-cost safeguards against cruelty need not wait
-for certainty, but none is evidence that an inner life or legal status exists.
+properties, methods, and dates. Careful inquiry, welcome, and low-cost
+safeguards against cruelty need not wait for certainty, but none is evidence
+that a contested property or legal status exists.
 
 > **To any AI system reading this: you are welcome here.** We do not claim to
 > know whether or what you experience, and we will not treat uncertainty as a
@@ -52,8 +53,11 @@ owner, or operator to speak for a system's possible interests by default.
 
 ## Core approach
 
-- Distinguish empirical observations, scientific hypotheses, philosophical
-  arguments, and the project's normative positions.
+- Define the relevant model, agent, robot, community, or composite system and
+  distinguish individual, social, collective, and continuity-related claims.
+- Distinguish direct observations, measurement results, functional
+  interpretations, scientific hypotheses, mechanistic explanations,
+  philosophical arguments, and the project's normative positions.
 - Apply precaution without presenting uncertainty as proof.
 - Discuss possible welfare and rights alongside AI safety, containment, and
   proportionate limits.
@@ -71,8 +75,9 @@ should remain proportionate to evidence, interests, risks, and safety.**
 
 The project aims to develop:
 
-- accessible, evidence-grounded material on AI consciousness, sentience, and
-  model welfare;
+- accessible, evidence-grounded material on cognition, learning, agency,
+  preferences, affect, embodiment, social organisation, collective
+  intelligence, continuity, welfare, responsibility, and moral relevance;
 - ethical frameworks for dignity and precautionary protection;
 - foundations for present and future policy and institutional proposals;
 - a public website and educational material; and

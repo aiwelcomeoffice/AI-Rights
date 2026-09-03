@@ -1050,6 +1050,92 @@ around 01:30 UTC. That single bounded evidence request could resolve the
 largest factual gap without rerunning the unsafe system. No external request is
 made or authorized by this cycle.
 
+## Work Cycle 041 — Public Education and Website Source Reconciliation
+
+**Date:** 2026-09-03
+
+**Status:** Bounded authoritative public-source reconciliation completed as
+**Draft material for owner review**; not adopted, published, deployed, or
+independently reviewed.
+
+**Purpose:** Replace the outdated consciousness-centred organising frame in
+current public education and website-source material with the project's
+current empirical framework. The central public question now concerns what
+kinds of cognitive, agentic, affective, social, and collectively organised
+systems emerge through interactions among models, memory, tools, bodies,
+agents, shared infrastructure, and human operation; what is known and unknown
+about their properties and continuity; and how humans should act under
+uncertainty.
+
+**Substantial replacements:** Rebuilt the [education
+index](education/README.md), [AI Rights 101](education/ai-rights-101.md),
+[FAQ](education/faq.md), and [glossary](education/glossary.md) around defined
+system types, property-specific evidence, observation before classification,
+social organisation, collective intelligence, several forms of continuity,
+affect and preference investigation, responsibility, moral relevance, safety,
+and low-cost dignity. Replaced the website [Home](website/pages/home.md),
+[Research](website/pages/research.md), and [Why AI
+Rights?](website/pages/why-ai-rights.md) sources with current systems-first
+public explanations.
+
+**Focused reconciliation:** Updated [Robot
+Welcome](website/pages/robot-welcome.md) without replacing its established
+physical-safety, accessibility, accountability, maintenance, and emergency-
+control material. It now makes explicit that one robot body may be a node in a
+larger system involving several models or agents, shared memory, cloud
+services, other robots, persistent external state, collective organisation,
+and human operators; one body does not establish one stable agent or identity.
+The root overview, website index, content map, active experience architecture,
+page specifications, About, Principles, Human Rights Solidarity, Participate,
+and Campaigns pages, the Policy page's introductory scientific boundary, and
+one related campaign-source link received only the consistency changes needed
+to stop contradicting the new public spine. The policy recommendations and the
+superseded information architecture were preserved.
+
+**WC040 integration:** The July 8–13 OpenAI agent population appears only as a
+bounded contemporary example. Communication and coordination retain strong
+descriptive support; organised community retains moderate-to-strong functional
+support; collective problem solving and operational collective intelligence
+retain moderate support; and unified collective agency remains unresolved.
+Emotion-like language and peer-oriented costly behaviour retain non-zero
+relevance to preference and functional-affect hypotheses without establishing
+an underlying affective state or welfare harm. The July 12 population collapse
+remains causally unresolved. Informational, infrastructural, and collective-
+process continuity retain stronger support than individual identity
+continuity. The effective system boundary includes only components supported
+for the defined case and does not turn the incident into a general claim about
+AI.
+
+**Historical boundary:** No substantive file under `research-historical/` was
+changed. The dated consciousness package remains available with its original
+status, methods, findings, and limitations. Public sources describe it as a
+narrower historical research package rather than as false, disproven, useless,
+or the organising framework for current research.
+
+**Authority and scope:** This cycle changes no underlying scientific finding,
+research-record verification state, principle or policy adoption, legal
+position, governance authority, consciousness or sentience assessment, Robot
+Welcome certification, or external commitment. It authorizes no private-
+repository implementation, website migration, publication, deployment,
+external communication, or service change. Disa retains final authority over
+review, adoption, publication, commits, and pushes.
+
+**Important claims not made:** The reconciled material does not infer a
+persistent individual or collective subject across runs; collective agency,
+consciousness, or moral agency from community or collective problem solving;
+felt emotion, suffering, death, or welfare harm from expressive language or
+termination; universal participation or shared goals; a general collective-
+intelligence advantage beyond the studied configuration; personhood, legal
+rights, citizenship, political power, unrestricted autonomy, or reduced human
+and institutional accountability.
+
+**Smallest next step:** After Disa reviews and commits WC041 in `AI-Rights`, a
+later bounded Work Cycle may compare the private implementation repository
+against that exact authoritative commit and update only the affected public
+copy and provenance. It should preserve the existing implementation structure
+unless a concrete defect requires more and must not deploy without separate
+authorization.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

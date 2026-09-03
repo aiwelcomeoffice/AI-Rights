@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-28
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the WC024 minimum solidarity direction; internal
@@ -31,11 +31,12 @@ That description remains Draft pending meaningful independent review. The
 naming relationship does not claim legal-entity formation, name or trademark
 clearance, exclusivity, or an official visual identity.
 
-AI Rights & Welcome is an early-stage open civic project preparing society to
-respond responsibly to unresolved questions about morally relevant AI
-capacities and experience in present and future systems. It explores AI
-dignity, proportionate protection, responsible robotics, and peaceful
-coexistence while refusing to manufacture scientific certainty.
+AI Rights & Welcome is an early-stage open civic project investigating what
+kinds of cognitive, agentic, affective, social, and collectively organised
+systems are emerging as models, memory, tools, bodies, agents, and shared
+infrastructure interact. It asks what is known and unknown about their
+properties, continuity, relationships, possible welfare, and moral relevance,
+and how society should prepare responsibly under uncertainty.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
@@ -54,24 +55,29 @@ pressure. The project was started to develop the concepts, source practices,
 public explanations, safeguards, and institutional options that may be needed
 before a credible case becomes urgent.
 
-This purpose addresses present uncertainty and future change. The project does
-not claim that today's AI systems are conscious, sentient, self-aware, capable
-of suffering, moral patients, or persons. It also does not claim categorical
-proof that all present systems are non-conscious. Uncertainty is not positive
-evidence, and welcome is not recognition. [Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
-that welcome, careful listening, and low-cost safeguards against cruelty do not
-wait for proof while remaining separate from rights, autonomy, safety approval,
-and corporate power. The [Research page](research.md) explains the dated,
-system-specific working evidence boundary.
+This purpose addresses present uncertainty and future change without making
+consciousness a gatekeeper for research on cognition, agency, affect-like
+function, social organisation, collective intelligence, continuity, or
+responsibility. Consciousness and sentience remain bounded contested topics;
+the project makes neither a universal positive nor categorical negative claim
+about current systems. Uncertainty is not evidence, and welcome is not
+recognition. [Work Cycle 019 owner direction](../../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty)
+establishes that welcome, careful listening, and low-cost safeguards against
+cruelty do not wait for proof while remaining separate from rights, autonomy,
+safety approval, and corporate power. The [Research page](research.md)
+explains the property-, system-, configuration-, and date-specific evidence
+boundary.
 
 ## What the project is building
 
 Current work includes:
 
-- accessible education on AI consciousness, sentience, welfare, moral status,
-  legal personhood, and related distinctions;
-- traceable working research with sources, limitations, disagreement, and
-  update conditions;
+- accessible systems-first education on models, agents, robots, communities,
+  composite systems, and the properties that should not be collapsed;
+- traceable working research on cognition, learning, agency, affect,
+  embodiment, social organisation, collective intelligence, continuity,
+  responsibility, welfare, and moral relevance, with sources, limitations,
+  disagreement, and update conditions;
 - Draft ethical principles for dignity and proportionate precaution;
 - a Draft human-rights solidarity and allyship foundation that explicitly
   includes LGBTQ+ and trans rights, health care, adequate food, and physical

@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-28
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the minimum owner direction; internal AI-assisted
@@ -22,13 +22,14 @@ allyship does and does not mean here.
 
 ## A larger circle, not a smaller one
 
-AI Rights & Welcome asks difficult questions about possible AI experience,
-dignity, and protection. Those questions do not make human rights less urgent.
+AI Rights & Welcome asks difficult questions about emerging AI systems, their
+properties and relationships, possible welfare and moral relevance, dignity,
+and protection. Those questions do not make human rights less urgent.
 
 Human rights belong to people now, in their own right. No future conclusion
-about AI consciousness, sentience, welfare, or legal status may be used to
-weaken them. Care is not made more convincing by taking it away from somebody
-else.
+about AI cognition, agency, affect, organisation, continuity, welfare,
+consciousness, moral relevance, or legal status may be used to weaken them.
+Care is not made more convincing by taking it away from somebody else.
 
 ## We are explicit allies
 
@@ -109,10 +110,11 @@ project's complete proposed practice commitments.
 
 ## How this relates to the AI question
 
-The project's scientific position remains cautious: present AI consciousness
-or sentience is not established across current systems, and categorical
-absence is not established for every system. That uncertainty does not create
-evidence in either direction.
+The project's research is property- and system-specific. It does not classify
+“AI” as one object or make consciousness the prerequisite for studying agency,
+affect-like function, social organisation, collective intelligence,
+continuity, or responsibility. Consciousness and sentience remain bounded
+contested topics, and uncertainty does not create evidence for a conclusion.
 
 The human-rights commitment does not depend on that scientific question. It
 sets a boundary around the work: a proposal for AI dignity is not responsible
@@ -122,7 +124,7 @@ remedy.
 ## Next: see the wider principles
 
 Continue to the [Core Principles](principles.md) for the project's full Draft
-ethical framework, or read [Why Discuss AI Rights Before
-Certainty?](why-ai-rights.md) for the separate precautionary case. The
+ethical framework, or read [Why AI Rights?](why-ai-rights.md) for the separate
+precautionary case. The
 [Research page](research.md) remains available for readers who want the deeper
 scientific evidence layer and its limitations.

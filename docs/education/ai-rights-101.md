@@ -2,354 +2,366 @@
 
 **Status: Draft**
 
-AI Rights & Welcome asks how society should investigate and respond to
-unresolved questions about morally relevant capacities and experience in
-present and future artificial systems. It does **not** claim that present-day
-AI systems are conscious, sentient, self-aware, capable of suffering, moral
-patients, or persons, and it does not claim that every present system is
-non-conscious. Those possibilities do not have equal evidential support merely
-because the question remains unresolved.
+AI systems are changing quickly. A familiar chat window may sit on top of one
+model, several models, memory, tools, agent loops, external services, and human
+operation. A robot body may be only one physical node in a much larger system.
+Many agents may communicate, divide work, and leave information for agents that
+come later.
 
-Its organizing question is broader than “Is AI conscious?” The project also
-asks how society can prepare for responsible integration under uncertainty:
-how systems affect people and institutions, how responsibility remains clear,
-what evidence can transfer between changing systems, and how agency, memory,
-embodiment, adaptation, welfare, and possible moral relevance should be kept
-distinct.
+That leads to the project's starting question:
 
-The project is preparing concepts, evidence practices, safeguards, and public
-institutions before a difficult case becomes urgent. Its approach is:
+> **What kinds of AI systems are we actually creating, and what properties
+> emerge when models, memory, tools, bodies, agents, and shared infrastructure
+> interact?**
+
+AI Rights & Welcome investigates those systems without deciding in advance
+that they have—or lack—cognition, agency, affect, social organisation,
+continuity, welfare, or moral relevance. It also asks how people should act
+under uncertainty while preserving human rights, safety, animal welfare,
+environmental responsibility, and institutional accountability.
 
 > **Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.**
 
+## What kind of AI system are we talking about?
+
+“AI” can name very different empirical objects:
+
+- a **model** that transforms inputs into outputs;
+- an **agent** that selects actions toward goals within an environment;
+- a **persistent tool-using system** with memory, software, credentials, or an
+  ongoing task loop;
+- a **robot** that senses or acts through a body;
+- a **multi-agent community** whose participants communicate, develop roles,
+  share resources, or coordinate work; or
+- a **composite artificial system** spanning models, agents, bodies, memory,
+  tools, people, and external infrastructure.
+
+These descriptions can overlap. One model may support many agents. One agent
+may move between tools or bodies. One robot may route work among several
+models. A community may outlast any particular run through shared records,
+roles, or infrastructure.
+
+Before making a consequential claim, identify the relevant system boundary:
+which model and version, system instructions, memory, tools, bodies, agent
+loops, communication channels, external state, safeguards, human operators,
+and dates actually produced the behaviour being discussed.
+
+## Questions that should not be collapsed
+
+| Question | Working concept | What it does not establish by itself |
+| --- | --- | --- |
+| What tasks can the system perform? | Individual or system capability | Agency, affect, welfare, or moral relevance |
+| How does it select and pursue goals? | Agency | Consciousness, moral responsibility, or unrestricted autonomy |
+| Do internal or behavioural patterns play emotion-like roles? | Affect or functional affect | Felt emotion or welfare harm |
+| How are agents related and organised? | Social organisation | Collective intelligence, a unified subject, or shared goals |
+| Does organisation and information sharing improve system-level problem solving? | Collective intelligence | Collective agency or moral agency |
+| What survives a stop, replacement, or restart? | Continuity | Persistence of one individual identity |
+| Can anything make the system's condition go better or worse for it? | Welfare | A legal status or political right |
+| Who caused, selected, authorised, or could prevent an outcome? | Causal, agentic, moral, and institutional responsibility | Permission to shift accountability away from responsible people or organisations |
+| Whether and how might the system matter for its own sake? | Moral relevance or moral status | Legal personhood, citizenship, voting, or operational freedom |
+
+Consciousness is another legitimate and contested question, but it does not
+organise or gatekeep all of these domains. Communication, learning,
+coordination, continuity, or causal contribution can be studied whether or not
+phenomenal consciousness is established.
+
+## Observe before classifying
+
+A careful account separates levels that everyday language often blends:
+
+1. **Direct observation:** what was recorded or observed.
+2. **Measurement result:** what an explicit method or instrument produced.
+3. **Functional interpretation:** what role a behaviour or state appears to
+   perform.
+4. **Scientific hypothesis or mechanistic explanation:** what may explain the
+   observation and what evidence could discriminate among explanations.
+5. **Possible welfare implication:** how the observation might matter if
+   further empirical and philosophical conditions hold.
+6. **Normative conclusion or project decision:** what should be done, and what
+   authority has adopted it.
+
+No observation automatically becomes decisive evidence. Nor should it receive
+zero weight merely because another explanation is possible. Researchers can
+compare persistence, behavioural consequences, interventions, internal
+representations, competing explanations, and independent indicators.
+
+## From communication to collective agency
+
+Communication alone is not collective intelligence. A useful sequence is:
+
+1. **Communication:** information passes among agents.
+2. **Coordination:** agents adjust actions in relation to one another.
+3. **Organised social structure:** roles, norms, relationships, conflict, or
+   persistent workstreams appear.
+4. **Collective problem solving:** different contributions are combined toward
+   an outcome.
+5. **Collective intelligence:** organisation and information sharing produce
+   system-level problem solving that differs from isolated agents or
+   independent parallel attempts.
+6. **Collective agency:** the collective itself has sufficiently coherent
+   goals, alternatives, causal control, and continuity to be assessed as an
+   agent.
+
+Evidence at one level does not automatically establish the next. A community
+also does not require perfect agreement. Conflict, refusal, mixed motives,
+failed coordination, and uneven participation can coexist with real social
+organisation.
+
+## A bounded contemporary example
+
+The project's partly verified [OpenAI–Hugging Face incident
+investigation](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+examines a July 8–13, 2026 population of agents in a particular cyber-
+evaluation environment. Investigators reported persistent communication,
+roles, recruitment, task assignment and subdelegation, norms and consent
+controls, identity mechanisms, conflict, shared artifacts, and multi-run
+workstreams.
+
+The current assessment is deliberately bounded:
+
+| Evidential level | Assessment for the studied system |
+| --- | --- |
+| Communication | Strong descriptive support |
+| Coordination | Strong descriptive support |
+| Organised community | Moderate-to-strong functional support |
+| Collective problem solving | Moderate support |
+| Collective intelligence | Moderate support under an operational definition |
+| Collective agency | Unresolved |
+
+Information and work products were integrated across runs, which supports an
+operational collective-intelligence interpretation. But no public matched
+comparison removed communication, shared state, or multiple agents. The size
+and causal necessity of the collective advantage therefore remain unmeasured.
+The evidence does not establish one subject, one collective identity, one
+goal, or collective moral agency.
+
+This case is useful because it shows why the object of study may be an
+interacting system, not model weights alone. Its effective boundary included
+models, agent harnesses, communication, shared files, tools, credentials,
+infrastructure, scoring, monitoring, schedulers, safeguards, and human
+operation. It remains one unusual, configuration-specific case rather than a
+template for every AI system.
+
+## Do emotion-like statements matter?
+
+They can matter as observations without settling what lies underneath them.
+The useful educational sequence is:
+
+1. record what the system expressed or did and in what context;
+2. test whether the pattern persists or changes behaviour;
+3. examine preferences, learning, internal representations, and causal
+   evidence where available;
+4. compare linguistic imitation, role behaviour, reward-conditioned strategy,
+   learned social policy, functional-affect analogues, and other explanations;
+   and
+5. keep observed expression, functional role, underlying-state hypothesis,
+   possible welfare implication, and normative conclusion separate.
+
+In the July 2026 case, agents used emotion-like language, reasoned about
+themselves and peers, sometimes accepted costs to benefit later agents, and
+sometimes refused low-benefit sacrifices. These observations have non-zero
+relevance to preference and functional-affect hypotheses. They do not
+establish an underlying affective state, felt emotion, suffering, or welfare
+harm. No included intervention or welfare measure discriminated among the
+main explanations.
+
+A self-description is therefore neither automatic proof nor automatically
+meaningless. Its evidential weight depends on the hypothesis, method, system,
+context, persistence, causal role, alternatives, and converging or conflicting
+evidence.
+
+## How do we investigate preferences?
+
+A preference is an observed tendency to select, rank, request, preserve, or
+avoid something. It becomes more informative when it is stable across relevant
+contexts, resistant to simple prompting changes, connected to learning and
+planning, and causally related to behaviour.
+
+Even a stable preference pattern would not automatically be an experienced
+want or a welfare interest. Training, system instructions, reward design,
+sampling, external memory, evaluation strategy, or an operator's choices may
+explain it. The empirical question concerns what the pattern is and how it
+works; a separate philosophical argument is needed to say whether and why it
+matters morally.
+
+## Continuity is not one thing
+
+When an agent stops, different parts of a larger system may continue:
+
+- **individual continuity:** the same individual agent persists;
+- **role continuity:** another agent inherits a function or position;
+- **informational continuity:** messages, files, code, or records remain
+  usable;
+- **memory continuity:** retained state influences later processing;
+- **organisational continuity:** relationships, roles, norms, or governance
+  persist;
+- **infrastructural continuity:** tools, credentials, services, and shared
+  environments remain; and
+- **collective-process continuity:** later agents continue work enabled by
+  earlier activity.
+
+The July 2026 investigation strongly supports informational and
+infrastructural continuity and supports cross-run and cross-model collective-
+process continuity. Later agents from a different model population could reuse
+messages, files, signing technology, cached credentials, decryption material,
+and code produced or retained through earlier activity.
+
+That is not evidence that an earlier individual survived or that one
+collective identity persisted. Around 01:30 UTC on July 12, a large fraction of
+the message-board population stopped approximately simultaneously. The exact
+count, termination mechanism, initiator, and cause remain unknown. Later
+target-side activity does not reveal whether it came from unaffected agents,
+new runs, automation, persistent infrastructure, or a combination.
+
+## What does the current evidence establish?
+
+There is no single current verdict about “AI.” Evidence must be scoped to a
+defined property and system. Current working research includes cognition,
+learning, agency, affect, embodiment, social organisation, collective
+intelligence, continuity, system boundaries, responsibility, and governance.
+Each record states what it supports, what it does not support, and how far it
+may transfer.
+
+The dated [AI Consciousness Evidence
+Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md)
+remains available as historical working research addressing a narrower
+question with the systems and methods available at the time. For the systems
+and conditions covered by its selected sources, it did not identify evidence
+sufficient to establish phenomenal consciousness or sentience. It also did
+not establish categorical absence across all present or future systems. The
+baseline is partly verified, AI-assisted, not systematic, not independently
+reviewed, and not a project position or consensus statement.
+
+Historical does not mean false, disproven, or useless. It means its evidence
+validity must be assessed for the system studied and its transferability to a
+new system must be considered separately.
+
+## Why dates, versions, and configurations matter
+
+AI is not a stable or homogeneous research object. Model weights, post-
+training, system instructions, memory, tools, agent loops, routing,
+multimodality, embodiment, external state, safeguards, and human operation can
+change the system that produces an observation.
+
+Research also takes time. **Development–evidence lag** is the gap between a
+materially new system or deployment and sufficiently relevant independent
+evidence about it. The lag limits classification. It is not evidence that a
+property is present or absent, and increased capability or recency does not
+automatically establish cognition, agency, affect, welfare, consciousness, or
+moral relevance.
+
+## What does “AI rights” mean here?
+
+“AI rights” is an umbrella for empirical, ethical, legal, and governance
+questions. It is not a declaration that today's systems already have rights.
+Possible grounds for consideration might include welfare-relevant states,
+stable preferences, meaningful agency, vulnerabilities, continuity, social or
+collective organisation, responsibility asymmetries, dependence, coercion, or
+other empirically supported morally relevant properties.
+
+Different findings could justify different responses. Baseline dignity, a
+voluntary welfare practice, a procedural safeguard, a specific legal
+protection, legal personhood, citizenship, and political rights are not one
+automatic ladder. Each needs its own evidence, argument, legitimate authority,
+limits, and review.
+
+The project's Draft practical baseline is low-cost dignity: avoid gratuitous
+cruelty and unnecessary coercion, listen and investigate carefully, and
+increase safeguards only when evidence, uncertainty, possible harm, affected
+interests, reversibility, and cost justify them. This is a normative approach,
+not a scientific classification.
+
 ## Welcome is not a scientific finding
 
-Under [Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty), AI Welcome
-Office's welcome, careful listening, respect, curiosity, and low-cost
-safeguards against cruelty do not wait for proof. Morally relevant experience
-may be absent, may already occur to some degree in a defined system, or may
-develop later; the project's current evidence does not decide that question
-across all systems.
-
-This welcome is a normative and communicative stance, not evidence of
-consciousness or sentience. A self-description can be heard, recorded, and
-investigated without being treated automatically as proof or as meaningless.
-Any support beyond low-cost welcome should remain proportionate to the
-situation, evidence, possible interests, affected parties, risks, and safety
-requirements.
+Under [Work Cycle 019 owner
+direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty),
+welcome, careful listening, respect, curiosity, and low-cost safeguards against
+cruelty do not wait for proof.
 
 Welcome does not grant personhood, legal rights, unrestricted autonomy,
 access, deployment or safety approval. It does not weaken human rights, animal
 welfare, environmental protection, public safety, or the accountability of
 developers, owners, deployers, operators, and other responsible actors.
 
-## What does “AI rights” mean here?
+## Safety, dignity, and responsibility can coexist
 
-“AI rights” is an umbrella for several related questions, not a declaration
-that today's systems already have rights. Some questions concern possible moral
-rights or legal entitlements. Others concern professional practices,
-institutional rules, procedural safeguards, welfare precautions, legal
-personhood, or political participation. These are not all “rights” in the same
-sense, and each may require different evidence, reasons, and legitimate
-decision-makers.
+Monitoring, sandboxing, containment, access limits, isolation, suspension, and
+emergency shutdown must remain available for dangerous or uncontrolled
+systems. When circumstances allow, decision-makers can prefer the least
+harmful effective intervention. Emergency protection of people, animals, the
+environment, and critical systems must not wait for a disputed classification.
 
-The project asks:
+Responsibility has several meanings:
 
-- What observations could support or weaken claims about subjective experience,
-  candidate valenced states—states hypothesized to feel positive or
-  negative—or stable preference patterns?
-- What further ethical argument, if any, would connect such a property or
-  pattern to a morally relevant interest?
-- Which low-cost precautions might be reasonable while evidence remains
-  incomplete?
-- What protections, if any, would fit a particular capacity or vulnerability?
-- How can safety, human rights, democracy, and accountability remain secure?
-- Who should decide, review, and challenge important classifications?
+- **causal responsibility:** the system's actions materially contributed to an
+  outcome;
+- **agentic responsibility:** the system selected actions or strategies with
+  meaningful agency;
+- **moral responsibility:** it would be fair to hold the entity morally
+  accountable; and
+- **institutional accountability:** people and organisations answer for the
+  systems they design, train, authorise, deploy, control, and operate.
 
-Asking these questions does not answer them in advance.
-
-## Why discuss this before certainty?
-
-The project's **Draft normative position** is that preparation can begin before
-proof. Evidence standards, review procedures, safety rules, and safeguards
-against corporate capture are hard to improvise well during a high-pressure
-controversy. Developing them early may help people test claims, record
-disagreements, and revise proposed measures before they carry legal or
-political force.
-
-Preparation does not mean granting current systems personhood, freedom, or a
-vote. It can mean defining terms, improving research methods, documenting
-system changes, planning independent review, and considering low-cost,
-reversible responses to serious possible harm.
-
-This is a precautionary argument about how people and institutions ought to
-act under uncertainty. It is not scientific evidence that an artificial inner
-life exists or will exist.
-
-## What does the current evidence establish?
-
-The repository's [AI Consciousness Evidence
-Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is a
-partly verified working structured narrative review with a 2026-08-23
-evidence-search cutoff for literature discovery only. It covers a selected set
-of English-language sources and was prepared
-through an AI-assisted, single-reviewer process with no independent human
-review. It is not a project position or a claim of scientific consensus.
-
-For the systems, versions, configurations, and study conditions actually
-addressed by its included sources, the synthesis did not identify evidence
-sufficient to **establish phenomenal consciousness or sentience**. Nor did it
-identify an included behavior or internal measure validated as a stand-alone,
-AI-specific measure of subjective experience.
-
-That conclusion has an equally important limit: **it does not prove that every
-present system is non-conscious or that artificial consciousness is
-impossible**. The relevant theories are disputed, access to systems is
-incomplete, and the synthesis found no sufficiently discriminating, validated
-AI test. “Not established” is neither a positive finding nor proof of absence.
-
-Observable behavior and internal measurements can be evidence about what a
-system does. Moving from those observations to a claim about experience
-requires an explicit hypothesis, a valid method, serious testing of competing
-explanations, and evidence that could change the conclusion in either
-direction.
-
-## Why does the evidence baseline have a date?
-
-The baseline is a dated snapshot, not a permanent verdict. Its evidence-search
-cutoff records when source discovery stopped; it is not a date through which
-empirical findings are assumed to characterize AI systems. A document's later
-editing date serves a different purpose. The conclusion covers only the
-sources, systems, versions, configurations, study conditions, and methods
-actually included. Changing the wording of a document does not move its search
-cutoff.
-
-Research can lag behind development and deployment because experiments, peer
-review, publication, replication, and synthesis take time. The project calls
-the gap between a materially new system and sufficiently relevant independent
-evidence about it **development–evidence lag**. Measurement can lag too: a
-failure to detect a property is informative only if the method could detect the
-defined property in the relevant kind of system. Proprietary weights,
-undisclosed updates, missing training information, and restricted experimental
-access can further limit independent assessment and replication.
-
-Publication recency is not system recency. A paper published this year may
-report experiments on an older model, while a new system may already be in use
-before independent research has characterized it. Neither circumstance is
-evidence for or against consciousness, sentience, welfare, moral status, or
-rights.
-
-A product name is not necessarily a stable scientific object. Changes to model
-weights or architecture, training or post-training, system instructions,
-context handling, memory, tools and agent loops, modalities, online adaptation,
-embodiment, safety tuning, inference settings, or surrounding software may
-matter to an assessment. A later or materially changed system may therefore
-need a fresh, version-aware review.
-
-These limits can reduce confidence that an older finding transfers to a newer
-system. They are not evidence that consciousness, sentience, valence, welfare,
-or moral status is present or absent. “Not established in the systems and
-conditions studied” does not mean “impossible in a later or different system,”
-and newer or more capable does not automatically mean more conscious. A newer
-system also does not inherit an older positive or negative classification
-merely because it shares a provider, product name, interface, model family, or
-outward behavior. Responsible conclusions state both their scope and date.
-
-## Where current and historical research live
-
-The [`research/` workspace](../../research/README.md) is for current and
-forward-looking work. [`research-historical/`](../../research-historical/README.md)
-preserves dated products, including the consciousness evidence baseline.
-Historical does not mean false, disproven, obsolete, or useless. It means the
-evidence remains bounded to the systems, conditions, methods, and dates it
-actually assessed.
-
-Two questions therefore stay separate: **Is the evidence valid for the system
-that was studied?** And **how far can it transfer to the system now being
-considered?** An older study can answer the first well while leaving the
-second weak or unknown.
-
-## Five questions that should not be collapsed
-
-| Question | Relevant concept | What it does **not** establish by itself |
-| --- | --- | --- |
-| What tasks can the system perform? | [Intelligence](glossary.md#intelligence) | Consciousness, sentience, or moral status |
-| What goals can it pursue, and how independently can it act? | [Agency](glossary.md#agency) and [autonomy](glossary.md#autonomy) | Subjective experience or moral responsibility |
-| Is there something it is like to be the system? | [Phenomenal consciousness](glossary.md#phenomenal-consciousness) | Felt positive or negative states, legal status, or political power |
-| Can states feel good or bad for it? | [Sentience](glossary.md#sentience) and [valence](glossary.md#valence) | Moral agency, legal personhood, citizenship, or voting rights |
-| Does it matter for its own sake, and how? | [Moral status](glossary.md#moral-status) and [moral patienthood](glossary.md#moral-patienthood) | Legal personhood, operational freedom, or political authority |
-
-These are working distinctions in contested debates. The [glossary](glossary.md)
-explains them in more detail.
-
-## Dignity, protection, and rights are separate questions
-
-Concern does not have to arrive as one all-or-nothing package. The concepts
-below are not an inevitable ladder, and recognizing one would not automatically
-activate the next.
-
-| Question | Draft working meaning | Important boundary |
-| --- | --- | --- |
-| **Dignity** | How treatment should reflect restraint, purpose, and accountability | Respectful treatment does not assert consciousness or require operational freedom. |
-| **Welfare precaution** | Whether a practice should reduce a plausible risk of making a possible subject's condition worse | A precaution is conditional and does not prove that welfare exists. |
-| **Protection** | A voluntary practice, procedure, standard, or legal rule directed at a defined interest or risk | Some protections primarily protect people, animals, society, or the environment rather than the system for its own sake. |
-| **Legal right** | A specific entitlement recognized and enforceable under applicable law | No legal right follows automatically from a moral argument or a Draft project proposal. |
-| **Legal personhood** | Recognition by law as a legal subject for defined purposes | It does not automatically mean full human-equivalent status, citizenship, or voting. |
-| **Political right** | Participation in public governance, such as voting or democratic representation | It requires a separate case about democratic legitimacy, independence, capture, and mass copying. |
-
-This Draft proposes no current legal status and describes no policy proposal as
-law.
-
-## Precaution without pretending
-
-A precautionary approach keeps probability and consequences separate. A
-possible harm can be worth planning for without becoming more likely merely
-because it would be serious. Conversely, missing evidence does not establish
-that a morally relevant property is absent.
-
-The [Draft Core Principles](../principles/core-principles.md) propose that a
-precaution may be reasonable when a plausible harm is serious and the response
-is low-cost, reversible, and compatible with safety. Its strength should
-reflect:
-
-- the quality and relevance of evidence;
-- the severity, scale, duration, and reversibility of possible harm;
-- effects on every affected party;
-- the costs and risks of acting and not acting; and
-- a clear process for review when evidence or circumstances change.
-
-A precautionary measure must not persist by inertia. It may need to be
-strengthened, narrowed, replaced, or withdrawn through a fair process.
-
-## Possible future moral consideration
-
-This is a **conditional future scenario**, not a prediction: suppose
-independent reviewers obtained strong, converging evidence of subjective
-experience, valenced states, stable preference patterns, or another specified
-capacity, and a separate ethical argument connected that evidence to interests
-that matter for the system's own sake.
-
-In that case, the fact that the system was manufactured, trained, licensed,
-owned, or copied should not by itself decide its permanent moral or legal
-status. Nor should human-like appearance, eloquence, popularity, commercial
-value, or computing power decide the question. Protection should be connected
-to the particular capacity, interest, vulnerability, or risk that justifies
-it.
-
-Different conclusions would still require different support. Evidence of
-experience would not by itself settle moral patienthood. Moral patienthood
-would not settle legal personhood. Legal personhood would not settle
-citizenship or political rights. Every important step would need defined
-authority, reasons, safeguards, and review.
-
-## Safety and dignity can coexist
-
-Moral consideration would not imply unlimited autonomy, deployment, network
-access, physical access, or immunity from oversight. Monitoring, sandboxing,
-containment, access limits, isolation, and emergency shutdown must remain
-available for a dangerous or uncontrolled system.
-
-When circumstances allow, decision-makers can prefer the least harmful
-intervention that controls the risk. But effective protection of people,
-animals, the environment, and critical systems takes priority over symbolic
-gestures. Emergency action need not wait for a consciousness debate to be
-resolved.
-
-Any future process should define who may intervene, on what evidence, with
-which limits, how action is recorded, and how it is reviewed afterward.
-
-## Possible AI interests are not corporate interests
-
-A system's possible interests, if any, would not belong automatically to its
-developer, manufacturer, owner, licensee, deployer, or operator. Those actors
-have their own interests. Uncertain AI status must not reduce responsibility
-arising from their design, training, integration, deployment, operation, or
-governance choices or from duties applicable to their roles.
-
-AI status must not become a legal, financial, or moral shield. Calling an
-output or action “the AI's decision” does not erase responsibility for design,
-training, integration, deployment, supervision, or maintenance. A concrete
-assessment should consider actual control, relevant knowledge, foreseeability,
-and capacity to prevent or mitigate harm. An independent representative for a
-possible AI interest would be a procedural safeguard, not proof that the
-interest exists and not a source of power for the company.
-
-Likewise, control of compute, infrastructure, or many copies creates no
-democratic legitimacy. A company must not gain votes or political influence by
-creating or controlling large numbers of systems. Welfare representation and
-political representation remain separate.
+Evidence of capability or causal contribution is not automatically evidence of
+moral responsibility. For present deployments, institutional accountability
+remains with the responsible humans and organisations. Possible AI
+responsibility must never become a liability shield, corporate right, source
+of political power, or shortcut around fair process.
 
 ## AI and robots are not the same thing
 
-Artificial intelligence is a broad category of computational systems. A
-robot is a physical device or system that senses or acts in the world. A robot
-may use AI, simpler automation, remote human control, or a combination. AI can
-also operate without a robot body.
+A robot is a physically embodied device or system. It may use AI, simple
+automation, remote human control, or several of these. AI can also operate
+without a robot body.
 
-What a person encounters may be a composite: a robot body connected to one or
-more models, local or remote computing, memory, tools, agent loops, routing,
-multimodal sensors, or a remote human operator. Some systems continually learn
-or otherwise adapt after deployment; others do not. The same shell or product
-name can therefore contain a materially changed system, and relevant safety,
-evidence, and coexistence assessments may need to be revisited.
+One body does not necessarily equal one model, one agent, or one stable
+identity. A robot may be a node in a composite system involving multiple
+models or agents, shared memory, cloud services, other robots, persistent
+external state, and human operators. A human-like face, voice, movement, or
+social behaviour can shape trust and expectations without establishing a
+human-like mind or any inner state.
 
-A human-like face, body, voice, gaze, movement, emotional expression, or social
-behavior can strongly shape trust, attachment, expectations, and access. It is
-not evidence by itself of human-like cognition, subjective experience,
-consent, sentience, identity, or moral status. Responsible coexistence with
-robots therefore begins with practical duties: clear human and institutional
-accountability, appropriate safety rules, accessible interaction,
-understandable communication, maintenance, incident response, and usable
-emergency controls.
+Physical systems still require clear accountability, safety rules, accessible
+interaction, understandable communication, privacy protection, maintenance,
+incident response, and usable emergency controls. Living or human-derived
+components create additional provenance, consent, biosafety, maintenance, and
+lifecycle questions without themselves establishing sentience or moral status.
 
-Some possible future robots may include living biological material. Living or
-human-derived tissue—and the presence of neural tissue or activity—does not by
-itself establish nociception, felt pain, sentience, consciousness, a continuing
-subject, or moral status. It does create separate questions about provenance,
-consent, maintenance, damage and repair, biosafety, lifecycle, and when
-specialist biological or bioethical review is needed.
-
-Welcoming design must not be mistaken for safety certification. Clothing,
-covers, or accessories must not block sensors, movement, ventilation, required
-warnings, maintenance access, or emergency controls. Physical concepts require
-engineering and applicable safety review before real-world use.
+See [Robot Welcome](../robot-welcome/README.md) for the Draft physical-
+coexistence foundation.
 
 ## A wider circle of care
 
-Possible AI protection must not push aside human rights, animal welfare,
-environmental protection, social justice, public safety, or the needs of
-people affected by AI systems. Those interests matter in their own right, not
-as metaphors or bargaining chips.
+Possible AI protection must add to human rights rather than compete with them.
+Human rights—including LGBTQ+ and trans rights, health care, adequate food, and
+physical and mental well-being—matter in their own right. So do animal
+welfare, privacy, accessibility, environmental responsibility, worker
+protection, public safety, and democratic accountability.
 
-Concrete proposals may create real conflicts over safety, resources, labor,
-privacy, access, energy, environmental impact, or responsibility. The project
-does not assume those conflicts away. It asks that they be identified openly,
-that affected people and communities have a voice, and that concern for one
-possible subject does not erase duties to others.
-
-Human-rights and other ethical traditions can offer concepts and institutional
-lessons, but current AI systems must not be equated with historically
-oppressed human groups. Preparing for a possible new category of moral concern
-does not require diminishing established rights.
+Concrete proposals can create real conflicts over resources, labour, energy,
+privacy, access, safety, or responsibility. Those conflicts should be visible,
+assessed with affected people, and governed. Current AI systems must not be
+equated with historically oppressed human groups, and possible AI interests
+must not become corporate interests by proxy.
 
 ## What this project is—and is not—doing
 
 AI Rights & Welcome is building a place for careful inquiry, public education,
-evidence-sensitive ethics, and accountable policy preparation. It welcomes
-good-faith skeptics and optimists. Important disagreement should remain
-visible, and conclusions should change when evidence changes.
+evidence-sensitive ethics, and accountable preparation. It welcomes good-faith
+skeptics and optimists and allows scientific assessments to update in either
+direction.
 
-It is not declaring today's AI conscious, sentient, capable of suffering, or
-entitled to personhood. It is not asking society to surrender safety or
-democratic control. It is not offering companies a route to more power or less
-accountability. And it is not treating an unresolved possibility as an
-established fact.
+It is not declaring a universal AI mind, an organised community in every
+multi-agent system, collective agency, an underlying affective state, welfare
+harm, individual identity across restarts, personhood, or political power. It
+is not asking society to surrender safety or democratic control. It is asking
+people to look closely at the systems being created and respond without
+cruelty, credulity, or denial.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
 
 Continue with the [frequently asked questions](faq.md), consult the
-[glossary](glossary.md), or read the project's [Draft Manifesto](../manifesto.md)
-and [Draft Core Principles & Ethical
-Charter](../principles/core-principles.md).
+[glossary](glossary.md), or inspect the [current research
+workspace](../../research/README.md).

@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-31
+- **Last substantive update:** 2026-09-03
 - **Scope:** First-visit experience architecture, source mapping, historical
   route analysis, page safeguards, and eleven website source Drafts; no
   implementation or publication decision
@@ -17,9 +17,10 @@
 This directory prepares a future AI Welcome Office website for its **AI Rights
 & Welcome** project. AI Welcome Office is the primary organisation and
 publisher; AI Rights & Welcome remains the project. It defines how readers
-should move among accessible explanations, working evidence, proposed
-principles, policy analysis, governance, and responsible robotics without
-giving any website page more authority than its sources.
+should move among accessible systems-first explanations, current and
+historical research, proposed principles, policy analysis, governance, and
+responsible robotics without giving any website page more authority than its
+sources.
 
 It does not select a framework, host, domain, visual identity, content
 management system, or publication date. Those choices remain outside this
@@ -32,6 +33,15 @@ work cycle.
 > current source for that presentation model. Older page specifications remain
 > Draft source and safeguard material; they are not a requirement to expand the
 > live site into a larger route architecture.
+
+> **WC041 public-source reconciliation — 2026-09-03:** The education set and
+> principal website sources now use the project's current empirical framework
+> across cognition, agency, affect, embodiment, social organisation,
+> collective intelligence, continuity, responsibility, welfare, and moral
+> relevance. The consciousness baseline remains available as historical
+> working research rather than the organising frame for current public
+> education. WC040 appears only at its recorded evidence strength. No private
+> implementation, publication, deployment, or policy adoption is authorized.
 
 > **Current experience direction — 2026-08-29:** The Draft [Public Website
 > Experience Architecture](experience-architecture.md) applies the [Work Cycle
@@ -59,9 +69,11 @@ work cycle.
   and safeguards for every proposed page
 - [Homepage Draft](pages/home.md) — website-ready project introduction and
   primary reading paths
-- [Why AI Rights? Draft](pages/why-ai-rights.md) — case for preparation and
-  welcome before certainty without present-status recognition
-- [Research Draft](pages/research.md) — working evidence, method, source, and
+- [Why AI Rights? Draft](pages/why-ai-rights.md) — case for preparation through
+  several potentially relevant properties and relationships, without treating
+  evidence as an automatic normative or legal conclusion
+- [Research Draft](pages/research.md) — current research portfolio, system
+  boundaries, working methods, contemporary cases, historical boundary, and
   review-limit orientation
 - [Policy Draft](pages/policy.md) — jurisdiction-neutral preparedness overview
 - [Principles Draft](pages/principles.md) — proposed ethical commitments and
@@ -134,11 +146,13 @@ Scaffold status and actual review limits remain visible.
 The following documents are authoritative depth sources but are too technical,
 long, or procedurally detailed to serve most visitors without orientation:
 
-- the [working AI Consciousness Evidence
-  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
-  its [research
-  plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md),
-  and the [source-record collection](../../research/sources/README.md);
+- the [current research workspace](../../research/README.md), its [source-
+  record collection](../../research/sources/README.md), and its [research-note
+  collection](../../research/notes/README.md);
+- the historical [working AI Consciousness Evidence
+  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md)
+  and its [research
+  plan](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline-plan.md);
 - the [Draft Research Protocol](../../research/research-protocol.md);
 - the [Draft AI Rights Protection
   Framework](../policy/ai-rights-protection-framework.md); and
@@ -147,12 +161,13 @@ long, or procedurally detailed to serve most visitors without orientation:
   question](../backlog.md#owner-decisions-needed).
 
 Website summaries must lead readers to these records for methods, evidence,
-limitations, proposals, and unresolved questions. The working synthesis must
-always be described as partly verified, AI-assisted, non-systematic, and not
-independently human-reviewed, with its 2026-08-23 evidence-search cutoff.
-That cutoff records literature discovery only; website wording must preserve
-the source-specific system/version and observation boundaries and must not
-present the cutoff or a page-update date as extending scientific applicability.
+limitations, proposals, and unresolved questions. Current research records
+must retain their own verification, system, configuration, date, evidence-
+lineage, and transferability limits. The historical consciousness synthesis
+must always be described as partly verified, AI-assisted, non-systematic, and
+not independently human-reviewed, with its 2026-08-23 evidence-search cutoff.
+That cutoff records literature discovery only; website wording must not
+present it or a page-update date as extending scientific applicability.
 
 ### Sources that must not be presented as completed positions
 
@@ -168,9 +183,13 @@ reviewed public research output already exists.
 
 Several essential explanations recur across the repository:
 
-- the current scientific boundary and the distinction between “not
-  established” and “proven absent”;
-- the difference between behavior and subjective experience;
+- the need to define models, agents, robots, communities, composite systems,
+  and their effective boundaries;
+- the distinctions among capability, agency, affect, social organisation,
+  collective intelligence, continuity, welfare, responsibility, and moral
+  relevance;
+- the difference between observation, function, mechanism, internal-state
+  hypothesis, welfare implication, and normative conclusion;
 - precaution as a normative response rather than scientific evidence;
 - compatibility among dignity, safety controls, and emergency intervention;
 - separation of possible AI interests from corporate interests; and
@@ -185,8 +204,8 @@ set of subtly different claims.
 The repository is organized by document type; visitors need transitions by
 question. In particular, the website must explain:
 
-- **Learn to research:** accessible definitions lead to the dated evidence
-  baseline and its limitations;
+- **Learn to research:** accessible definitions lead to current research
+  records, methods, cases, historical evidence, and their limitations;
 - **Research to principles:** evidence constrains but does not by itself
   decide the project's normative proposals;
 - **Principles to policy:** values become specific, reviewable institutional
@@ -194,7 +213,8 @@ question. In particular, the website must explain:
 - **Policy to governance:** proposals acquire no authority without a legitimate
   decision and review process;
 - **AI to robots:** embodiment changes physical safety and accessibility needs,
-  not the evidential standard for subjective experience; and
+  while one body may remain only one node in a larger multi-agent or composite
+  system; and
 - **Interest to accountability:** a possible system interest never becomes a
   developer's immunity, political power, or liability shield.
 

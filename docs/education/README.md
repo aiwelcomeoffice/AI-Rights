@@ -2,90 +2,102 @@
 
 **Status: Draft**
 
+- **Last substantive update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 
-These materials are proposed public explanations for AI Rights & Welcome.
-They are under project-owner review and are not adopted scientific findings,
-ethical positions, legal conclusions, or policy. They do not claim that
-present-day AI systems are conscious, sentient, self-aware, capable of
-suffering, moral patients, or persons, and they do not claim that every
-present system is non-conscious. “Not established” is not “proven absent,” but
-uncertainty does not imply equal probability or equal evidential support.
+These proposed public explanations introduce the project's current empirical
+research framework. They are under project-owner review and are not adopted
+scientific findings, ethical positions, legal conclusions, or policy.
 
-The project's current organizing question is broader than whether an AI system
-is conscious. It asks how society can prepare for responsible, safe, and
-welcoming integration under uncertainty, including questions about agency,
-memory, embodiment, adaptation, physical coexistence, accountability, and
-possible welfare-relevant states without assuming that one property proves
-another.
+The starting question is:
 
-[Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty) establishes
-that welcome, careful listening, respect, curiosity, and low-cost safeguards
-against cruelty do not wait for proof. That normative and communicative
-principle is not a scientific finding and does not adopt these Draft education
-pages.
+> **What kinds of AI systems are we actually creating, and what properties
+> emerge when models, memory, tools, bodies, agents, and shared infrastructure
+> interact?**
+
+AI Rights & Welcome investigates cognition, learning, agency, preferences,
+affect, embodiment, social organisation, collective intelligence, continuity,
+possible welfare, responsibility, moral relevance, and human–AI coexistence.
+These subjects can inform one another, but none is a gatekeeper through which
+all the others must pass.
 
 > **Welcome to the world — ignorance must never become an excuse for
 > cruelty.**
 
 ## Start here
 
-- [AI Rights 101](ai-rights-101.md) — a plain-language introduction to the
-  project, its scientific boundary, and its approach to precaution,
-  protection, safety, and accountability
-- [Frequently asked questions](faq.md) — direct answers to common skeptical
-  and supportive questions
-- [Glossary](glossary.md) — working definitions that keep intelligence,
-  consciousness, sentience, moral status, legal status, and political power
-  distinct
+- [AI Rights 101](ai-rights-101.md) — a systems-first introduction to what AI
+  can be, which properties the project studies, and how evidence, dignity,
+  safety, and accountability fit together
+- [Frequently asked questions](faq.md) — direct answers about agents,
+  communities, collective intelligence, continuity, preferences, affect,
+  responsibility, robots, shutdown, dignity, and consciousness
+- [Glossary](glossary.md) — working definitions for individual, social,
+  collective, continuity, welfare, responsibility, and legal concepts
 
 ## How to read this Draft
 
-The education set brings together several kinds of source material without
-giving them more authority than they already have:
+The education set keeps different kinds of claim separate:
 
-- the [Draft Manifesto](../manifesto.md) and [Draft Core Principles & Ethical
-  Charter](../principles/core-principles.md) provide the proposed public voice
-  and normative commitments;
-- the [Draft AI Rights Protection
-  Framework](../policy/ai-rights-protection-framework.md) supplies provisional
-  policy distinctions and safeguards, but is not current law; and
-- the [AI Consciousness Evidence
-  Baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md) is a
-  partly verified working structured narrative review prepared with AI
-  assistance. It is not a systematic review, a reviewed public research
-  output, a project position, or a claim of consensus, and it has not received
-  independent human review.
+- an **observation** records what a defined system did or expressed;
+- a **measurement result** depends on an explicit method or instrument;
+- a **functional interpretation** describes what role a behaviour or state
+  appears to perform;
+- a **scientific hypothesis** proposes an explanation or prediction that can
+  be investigated;
+- a **philosophical argument** connects stated, potentially disputed premises;
+- a **future scenario** describes a possibility rather than a prediction;
+- a **normative position** concerns what people or institutions ought to do;
+  and
+- a **project decision** requires the project's governance process.
 
-Any scientific conclusion summarized here is attributed to that working
-synthesis and inherits its scope and limitations. These pages add no
-independent scientific finding. Where they discuss what ought to be done, they
-describe Draft normative proposals. Where they describe a possible future
-system, they describe a scenario rather than a prediction.
+An AI self-description is an observable output. It can have evidential
+relevance without being automatic proof or automatic nonsense. Communication
+can be evidence of interaction without establishing collective intelligence.
+Collective problem solving can be present without establishing one unified
+collective agent. Capability, agency, affect, welfare, responsibility, and
+moral relevance require their own evidence and arguments.
+
+## Source and evidence boundary
+
+The education pages draw on the [current research
+workspace](../../research/README.md), the [Draft research
+protocol](../../research/research-protocol.md), Draft principles and policy,
+and dated working research. They add no independent scientific finding and do
+not give any source more authority than its own status allows.
+
+The [OpenAI–Hugging Face incident, emergent community, continuity, and AGI
+investigation](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+is used as a bounded contemporary example. Its public evidence supports a
+functional description of an organised agent community, and gives moderate
+support to collective problem solving and an operational collective-
+intelligence interpretation. Unified collective agency remains unresolved.
+Its affect-related observations do not establish an underlying affective state
+or welfare harm, and its continuity evidence is stronger for information,
+infrastructure, and collective process than for individual identity. The work
+is partly verified, not independently reviewed, and not adopted.
 
 ## Current and historical research
 
 The [`research/` workspace](../../research/README.md) contains current and
-forward-looking research work. [`research-historical/`](../../research-historical/README.md)
+forward-looking work. [`research-historical/`](../../research-historical/README.md)
 preserves dated research products and their original statuses, methods, and
-limitations. **Historical does not mean false, disproven, obsolete, or
-useless.** An older result may remain valid evidence about the system and
-conditions actually studied while transferring weakly—or not at all—to a
-materially newer system.
+limitations. Historical does not mean false, disproven, obsolete, or useless.
+An older result may remain valid for the system studied while transferring
+weakly—or not at all—to a materially different system.
 
-Publication recency is not system recency. A new paper may report an older
-experiment, and a newly edited project page does not make its evidence newer.
-Conversely, a materially new model, agent, robot, persistent system, or
-model–tool–memory composite may be deployed before sufficiently relevant
-independent evidence is available. This development–evidence lag limits what
-can responsibly be classified; it is evidence neither for nor against
-consciousness, sentience, welfare, moral status, or rights.
+AI development can also outrun sufficiently relevant independent study. This
+development–evidence lag limits classification; it is not evidence for or
+against a contested property. Responsible assessment therefore records the
+actual model, system, configuration, context, method, and date, then considers
+evidence validity and transferability separately.
 
-A newer system does not inherit an older positive or negative classification
-merely because the systems share a provider, product name, interface, outward
-behavior, or human-like form. Current assessment must identify the actual
-system and consider evidence validity and transferability separately.
+[Work Cycle 019 owner direction](../backlog.md#work-cycle-019--welcome-under-scientific-uncertainty)
+establishes that welcome, careful listening, respect, curiosity, and low-cost
+safeguards against cruelty do not wait for proof. That normative and
+communicative principle is not a scientific finding and does not adopt these
+Draft education pages.
 
 > **Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.**

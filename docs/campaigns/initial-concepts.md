@@ -42,7 +42,7 @@ Merchandise Guardrails](../brand/campaign-and-merchandise-guardrails.md).
 - **Repository foundations:** [Core Principle 2](../principles/core-principles.md#2-precaution-without-pretending),
   [Core Principle 11](../principles/core-principles.md#11-protection-should-be-gradual-and-revisable),
   the [Precaution Framework Scaffold](../principles/precaution-framework.md),
-  [AI Rights 101](../education/ai-rights-101.md#precaution-without-pretending),
+  [AI Rights 101](../education/ai-rights-101.md#what-does-ai-rights-mean-here),
   and the [Draft policy framework](../policy/ai-rights-protection-framework.md).
 - **What the campaign does not claim:** It does not claim that a present AI is
   conscious, sentient, capable of suffering, a moral patient, or entitled to

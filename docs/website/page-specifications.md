@@ -3,7 +3,7 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-08-30
+- **Last substantive update:** 2026-09-03
 - **Authority:** Proposed for Disa's review; not adopted
 - **Scope:** Content behavior and page requirements, not visual design or
   implementation
@@ -165,23 +165,24 @@ architecture or authorize design, implementation, or publication.
   institutional readers.
 - **Reader question:** What is this project, what does it claim, and where
   should I start?
-- **Page objective:** Establish the purpose and scientific boundary, explain
-  preparation before certainty, and route readers to learning, evidence,
-  human-rights solidarity, policy, and review status.
-- **Required sections:** Status notice; hero and central wording; present
-  scientific boundary; preparation case; evidence/ethics/policy distinctions;
-  work areas; human-rights solidarity; safety and accountability; Robot
-  Welcome introduction; review posture; next paths.
+- **Page objective:** Establish the systems-first research question and
+  scientific boundary, explain preparation under uncertainty, and route
+  readers to learning, current research, human-rights solidarity, policy, and
+  review status.
+- **Required sections:** Status notice; welcome and central wording; changing
+  system types; distinct research domains; observation/interpretation/norm/
+  decision boundary; human-rights solidarity; safety and accountability;
+  Robot Welcome introduction; review posture; next paths.
 - **Primary sources:** [AI Rights 101](../education/ai-rights-101.md), [Core
   Principles](../principles/core-principles.md), [Human Rights Solidarity and
   Allyship](../principles/human-rights-solidarity.md), [policy
   summary](../policy/one-page-policy-summary.md),
-  [Governance](../governance/README.md), and the [working evidence
-  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
+  [Governance](../governance/README.md), and the [current research
+  workspace](../../research/README.md).
 - **Status and review notice:** Draft website summary; Disa's final manual
   review pending; internal AI-assisted drafting; no independent review;
-  scientific snapshot inherits the baseline's 2026-08-23 literature-discovery
-  cutoff and its source-specific system/observation boundaries.
+  research statements inherit the system, configuration, date, verification,
+  evidence-lineage, and transferability limits of their sources.
 - **Primary call to action:** Learn more.
 - **Related pages:** Human rights solidarity, evidence baseline, policy,
   status and review, About.
@@ -190,29 +191,35 @@ architecture or authorize design, implementation, or publication.
   flow unless another-language quotation has a real editorial purpose and
   correct language identification; card collections need headings and linear
   reading order.
-- **Misunderstanding and safeguard:** A welcome may be read as recognition of a
-  present subject. State non-establishment and its limits before the
-  precautionary case.
+- **Misunderstanding and safeguard:** A welcome may be read as a universal
+  classification of AI experience, agency, affect, welfare, identity, or
+  rights. State that the welcome is normative and the research is property-
+  and system-specific before persuasive detail.
 
 ### 2. Why AI Rights?
 
-- **Working title:** Why discuss AI rights before certainty?
+- **Working title:** Why AI Rights?
 - **Route:** `/why-ai-rights/`
 - **Audience:** Curious readers, skeptics, civil society, and journalists.
-- **Reader question:** Why prepare when current AI consciousness is not
-  established?
-- **Page objective:** Present the Draft normative case for advance preparation
-  without converting uncertainty into evidence or forecasting a timeline.
-- **Required sections:** What “AI rights” means here; present boundary; costs
-  of unprepared institutions; low-cost reversible preparation; possible future
-  scenario; safety and wider interests; what this does not imply.
+- **Reader question:** Why prepare before every morally relevant property or
+  interest has been classified?
+- **Page objective:** Present the Draft normative case for preparation through
+  several possible properties, interests, and relationships without converting
+  uncertainty into evidence or any empirical finding into automatic rights.
+- **Required sections:** What “AI rights” means here; possible empirical
+  grounds including welfare, preferences, agency, vulnerability, continuity,
+  social organisation, responsibility asymmetries, dependence, and coercion;
+  empirical/normative separation; low-cost dignity; safety, accountability,
+  wider interests, and claims not made.
 - **Primary sources:** [Manifesto](../manifesto.md), [AI Rights
-  101](../education/ai-rights-101.md), [Core
+  101](../education/ai-rights-101.md), [current research
+  workspace](../../research/README.md), [Core
   Principles](../principles/core-principles.md), and [vision](../vision.md).
 - **Status and review notice:** Draft normative explanation sourced from Drafts
   and a Scaffold; not a scientific result or adopted position.
 - **Primary call to action:** Learn more.
-- **Related pages:** AI Rights 101, evidence baseline, core principles, policy.
+- **Related pages:** AI Rights 101, current research, historical evidence,
+  core principles, and policy.
 - **Accessibility considerations:** Use concrete examples of preparation;
   define precaution and moral status; do not rely on emotive imagery.
 - **Misunderstanding and safeguard:** Serious possible harm may be mistaken for
@@ -249,22 +256,26 @@ architecture or authorize design, implementation, or publication.
 - **Audience:** Public readers and professionals new to the subject.
 - **Reader question:** What are the core distinctions and boundaries?
 - **Page objective:** Provide the canonical accessible introduction.
-- **Required sections:** Meaning of AI rights; why prepare; evidence snapshot
-  and date; concepts not to collapse; dignity/protection/rights distinctions;
-  precaution; future scenario; safety; accountability; robots; wider care;
-  project boundaries.
+- **Required sections:** Kinds of AI system; system boundaries; individual,
+  social, collective, affect, continuity, welfare, responsibility, and moral-
+  relevance distinctions; observation before classification; bounded WC040
+  case; current/historical research; dignity; safety; accountability; robots;
+  wider care; project boundaries.
 - **Primary sources:** [AI Rights 101](../education/ai-rights-101.md) and the
   [education index](../education/README.md).
 - **Status and review notice:** Draft close adaptation; no new scientific
-  finding; literature discovery ended 2026-08-23 and empirical applicability
-  remains source/system-specific under the baseline limits.
+  finding; current and historical records retain their own system,
+  configuration, date, verification, lineage, transferability, and review
+  limits.
 - **Primary call to action:** Read the evidence.
-- **Related pages:** FAQ, glossary, evidence baseline, principles.
+- **Related pages:** FAQ, glossary, current research, historical evidence, and
+  principles.
 - **Accessibility considerations:** Retain plain-language definitions around
   tables; ensure table comparisons also make sense as linear text.
-- **Misunderstanding and safeguard:** A sequence may look like an inevitable
-  ladder from dignity to political rights. State that each question is
-  separate and requires its own grounds.
+- **Misunderstanding and safeguard:** Readers may infer that one property
+  automatically establishes another, or that dignity leads inevitably to
+  political rights. State that every empirical and normative step needs its
+  own grounds.
 
 ### 5. Frequently asked questions
 
@@ -274,15 +285,18 @@ architecture or authorize design, implementation, or publication.
   professionals seeking direct answers.
 - **Reader question:** What is the project's answer to a specific concern?
 - **Page objective:** Give concise, linkable answers without weakening caveats.
-- **Required sections:** In-page question index; all existing FAQ questions;
-  links to definitions, evidence, policy, and review status; last-update note.
+- **Required sections:** In-page question index; current questions about
+  systems, communities, collective intelligence, continuity, affect,
+  preferences, responsibility, safety, shutdown, robots, consciousness,
+  historical transferability, protections, and decision authority; links to
+  definitions, evidence, policy, and review status; last-update note.
 - **Primary sources:** [FAQ](../education/faq.md) and
   [glossary](../education/glossary.md).
 - **Status and review notice:** Draft answers; evidence and policy claims retain
   their source statuses.
 - **Primary call to action:** Learn more through AI Rights 101.
-- **Related pages:** AI Rights 101, glossary, evidence baseline, status and
-  review.
+- **Related pages:** AI Rights 101, glossary, current research, historical
+  evidence, status and review.
 - **Accessibility considerations:** Questions must be real headings with stable
   anchors; disclosure widgets, if used, must be keyboard operable and expose
   state to assistive technology.
@@ -301,10 +315,14 @@ architecture or authorize design, implementation, or publication.
 - **Page objective:** Keep contested concepts distinct through accessible
   working definitions.
 - **Required sections:** Scope and contestability notice; alphabetical index;
-  definition and “keep separate from” for each term; sources and revision.
+  working definitions across individual, social, collective, continuity,
+  welfare, responsibility, scientific, and legal domains; “keep separate from”
+  boundaries; sources and revision.
 - **Primary sources:** [glossary](../education/glossary.md), Draft protocol
   [terminology](../../research/research-protocol.md#terminology-and-competing-definitions),
-  and baseline [terminology
+  the [current research workspace](../../research/README.md), the [WC040
+  working note](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md),
+  and the historical baseline [terminology
   register](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md#terminology-register).
 - **Status and review notice:** Draft working definitions; no definition
   establishes that a present system has the property.
@@ -321,18 +339,26 @@ architecture or authorize design, implementation, or publication.
 - **Route:** `/research/`
 - **Audience:** Skeptics, researchers, journalists, policymakers, and advanced
   public readers.
-- **Reader question:** What evidence work exists, and how reliable is it?
-- **Page objective:** Orient readers to the baseline, method, sources,
-  limitations, and reserved reviewed-output area.
-- **Required sections:** Current research boundary; what exists; what does not
-  yet exist; evidence snapshot; method path; sources and limitations path;
-  review and update notice.
-- **Primary sources:** [research workspace](../../research/README.md), [Draft
-  protocol](../../research/research-protocol.md), [working
-  baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md),
-  and [reviewed-output area](../research/README.md).
-- **Status and review notice:** Working research orientation; partly verified
-  baseline; no independently reviewed public synthesis in `docs/research/`.
+- **Reader question:** What does the project investigate now, what do current
+  cases support, and how reliable and transferable is the evidence?
+- **Page objective:** Orient readers to the current portfolio, system
+  boundaries, method, contemporary cases, historical research, limitations,
+  and reserved reviewed-output area.
+- **Required sections:** Current research question and domains; system
+  boundaries; claim categories; validity, transferability, and development–
+  evidence lag; WC040 community, collective-intelligence, affect, continuity,
+  and limitations; other current case work; historical boundary; source and
+  review paths; update conditions.
+- **Primary sources:** [research workspace](../../research/README.md), [Adopted
+  portfolio architecture](../../research/research-portfolio.md), [Draft
+  protocol](../../research/research-protocol.md), [WC040 working
+  note](../../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md),
+  [historical research boundary](../../research-historical/README.md), and
+  [reviewed-output area](../research/README.md).
+- **Status and review notice:** Working research orientation; portfolio
+  architecture Adopted without adopting underlying findings; current records
+  partly verified where stated; no independently reviewed public synthesis in
+  `docs/research/`.
 - **Primary call to action:** Read the evidence.
 - **Related pages:** Evidence baseline, methods, sources and limitations,
   status and review.

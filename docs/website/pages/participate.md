@@ -2,7 +2,7 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-08-23
+- **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa's
@@ -47,11 +47,14 @@ be inferred.
 When an appropriate process exists, the project expects careful review and
 criticism from several perspectives:
 
-- **Scientific review** of consciousness, sentience, valence, welfare,
-  measurement, and research methods, including skeptical, negative, and null
-  evidence.
-- **AI architecture and evaluation review** of system boundaries, mechanisms,
-  alternative explanations, access limits, and version-aware claims.
+- **Scientific review** of cognition, learning, agency, preferences, affect,
+  welfare, social organisation, collective intelligence, continuity,
+  consciousness, moral relevance, measurement, and research methods,
+  including skeptical, negative, and null evidence.
+- **AI architecture and evaluation review** of models, agents, multi-agent and
+  composite systems, external state, system boundaries, mechanisms,
+  alternative explanations, causal comparisons, access limits, and version-
+  aware claims.
 - **Policy and legal review** that identifies jurisdiction, current law,
   authority, enforceability, due process, liability, capture, and unintended
   effects.
