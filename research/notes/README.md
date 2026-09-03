@@ -27,11 +27,13 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
-- [OpenAI–Hugging Face incident, post-incident evidence, and August 2026 AGI
-  proximity
+- [OpenAI–Hugging Face incident, emergent agent community, continuity, and
+  August 2026 AGI
   claims](openai-hugging-face-incident-and-agi-claims-2026.md) — **Partly
-  verified cross-source working note refreshed through 2026-09-02; not a
-  project conclusion and not part of the AI consciousness evidence baseline**
+  verified cross-source working note refreshed through 2026-09-03; includes
+  bounded social-organisation, collective-intelligence, affect-related, and
+  continuity assessments; not a project conclusion and not part of the AI
+  consciousness evidence baseline**
 
 ## Contemporary embodied AI case intake
 

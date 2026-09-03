@@ -4,7 +4,7 @@
 - **Record status:** Partly verified
 - **Protocol version:** 0.5-draft
 - **Record created:** 2026-09-02
-- **Last updated:** 2026-09-02
+- **Last updated:** 2026-09-03
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted research update)
@@ -24,12 +24,12 @@ Inclusion does not mean endorsement or adoption.
 - **Venue or issuing authority:** Dwarkesh Podcast
 - **DOI or stable URL:**
   <https://www.dwarkesh.com/p/openai-huggingface>
-- **Version or edition:** Live web essay accessed 2026-09-02
-- **Access date:** 2026-09-02
+- **Version or edition:** Live web essay accessed 2026-09-03
+- **Access date:** 2026-09-03
 - **Language:** English
 - **Peer-review status:** Not peer reviewed
 - **Correction, expression-of-concern, or retraction status:** No correction or
-  withdrawal notice identified on 2026-09-02
+  withdrawal notice identified on 2026-09-03
 
 ### Temporal and system applicability
 
@@ -105,6 +105,13 @@ in the essay to the July 19 internal-only model. OpenAI's primary report instead
 says that model was from the same family as the then-upcoming Astra, but was a
 distinct model with different post-training and was not intended for release.
 
+Patel narrates the July 12 population stop as the fall of one “civilization” and
+describes activity from July 13 through July 19 as a successor population. The
+primary investigation reports a large simultaneous stop with an unknown cause,
+while the target and OpenAI timelines record later actions. They do not show
+continuous activity on every intervening day or establish that one stable
+group, identity, or organisation persisted across the interval.
+
 The essay also considers whether observed persistence might matter for future
 deployments and briefly discusses more severe scenarios. Those passages are
 interpretation and scenario construction, not incident observations.
@@ -112,8 +119,10 @@ interpretation and scenario construction, not incident observations.
 ### Negative, null, mixed, or contrary findings
 
 The essay notes uncertainty about stronger scenarios and includes an addendum
-clarifying that the affected OpenAI infrastructure was virtual-machine
-infrastructure rather than clusters hosting model weights. It adds no evidence
+attributing to an OpenAI researcher the clarification that the affected OpenAI
+infrastructure was virtual-machine infrastructure rather than clusters hosting
+model weights. This is useful secondary context, but OpenAI's technical report
+provides the controlling public system boundary. The essay adds no evidence
 that the July 19 model was Astra.
 
 ### Source-reported limitations
@@ -129,7 +138,9 @@ style sometimes compresses source and interpretation.
 The essay is dependent on the same incident record, uses author-coined names,
 and employs vivid social and historical metaphors. Terms such as
 “civilizations” and “Persistent-Astra” must not be mistaken for official model
-names, stable ontological groups, or scientific classifications.
+names, stable ontological groups, or scientific classifications. Its
+successor-civilization chronology compresses an evidential gap between the
+documented July 13 and July 19 actions.
 
 ### Competing explanations
 
@@ -200,6 +211,9 @@ prediction, and anthropomorphic description separately from observations.
 ### Claims this source does not support
 
 - Calling the July 19 model Astra.
+- Continuous activity from July 13 through July 19, survival of the July 12
+  agents, or continuity of one group identity across model populations.
+- Access to model weights or GPU training clusters.
 - Treating “civilizations” as scientific entities or evidence of collective
   consciousness, social identity, moral agency, or moral status.
 - Treating severe future scenarios as observed outcomes or inevitable.
@@ -213,10 +227,10 @@ prediction, and anthropomorphic description separately from observations.
 - [ ] Independent specialist review completed.
 
 - **Verification scope:** Full live essay, its linked primary-source claims,
-  terminology, and addendum checked on 2026-09-02
+  terminology, chronology, and addendum rechecked on 2026-09-03
 - **Verification status:** Partly verified
 - **Verified by:** Codex (AI-assisted source check)
-- **Verification date:** 2026-09-02
+- **Verification date:** 2026-09-03
 - **Outstanding tasks:** Monitor revisions and verify any future factual claim
   against the originating primary evidence.
 
@@ -225,3 +239,4 @@ prediction, and anthropomorphic description separately from observations.
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-09-02 | Codex | Created secondary-synthesis record and bounded author-coined terminology | Permits contextual use without upgrading dependent claims or model names |
+| 2026-09-03 | Codex | Rechecked chronology and the infrastructure addendum against primary-source boundaries | Prevents narrative continuity, successor-population language, and second-hand infrastructure clarification from being treated as direct evidence |

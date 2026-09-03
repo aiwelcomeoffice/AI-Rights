@@ -31,13 +31,14 @@ validity and transferability limits.
 ## Emerging capability and safety horizon records
 
 These records began on 2026-08-28 and were materially refreshed through
-2026-09-02 for a separate working investigation of frontier-agent capability,
-containment, post-incident evaluation, and AGI-proximity claims. They are not
-part of the AI consciousness evidence baseline. Multiple developer,
-affected-party, shared-data, coauthor-commentary, and secondary accounts of one
-incident must not be counted as independent events or replications. The Astra
-record concerns separate pre-release evaluations; the WIRED record concerns a
-separate experimental product mode.
+2026-09-03 for a separate working investigation of frontier-agent capability,
+containment, emergent social organisation, collective problem solving,
+affect-related behavior, external-state continuity, post-incident evaluation,
+and AGI-proximity claims. They are not part of the AI consciousness evidence
+baseline. Multiple developer, affected-party, shared-data, coauthor-commentary,
+and secondary accounts of one incident must not be counted as independent
+events or replications. The Astra record concerns separate pre-release
+evaluations; the WIRED record concerns a separate experimental product mode.
 
 - [OpenAI–Hugging Face Incident Technical Report](openai-hugging-face-incident-technical-report-2026.md)
   — **Partly verified corporate incident report**
@@ -64,6 +65,10 @@ separate experimental product mode.
 - [Patel interview with Ajeya Cotra on the OpenAI
   incident](patel-cotra-openai-agent-interview-2026.md) — **Partly verified
   coauthor commentary and methodological clarification; not a replication**
+- [Cotra: The Hugging Face attack surprised
+  me](cotra-hugging-face-attack-surprised-2026.md) — **Partly verified
+  investigator commentary on the shared corpus; additional social and
+  cross-run observations, not an independent evidence line**
 
 ## Embodied social AI case records
 
