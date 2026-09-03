@@ -7,8 +7,8 @@
 - **Project:** AI Rights & Welcome
 - **Current activity:** No campaign is active, launched, scheduled, funded, or
   open for participation
-- **Review:** Project-owner and internal AI-assisted review only; Disa's final
-  manual review is pending; no external communications, design,
+- **Review:** Project-owner and internal AI-assisted review only; Disa has
+  completed her final manual review; no external communications, design,
   accessibility, historical-sensitivity, legal, or independent scientific
   review
 - **Source relationship:** Public adaptation of the Draft [brand and public

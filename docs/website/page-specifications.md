@@ -4,7 +4,7 @@
 
 - **Date prepared:** 2026-08-23
 - **Last substantive update:** 2026-09-03
-- **Authority:** Proposed for Disa's review; not adopted
+- **Authority:** Reviewed by Disa; not adopted
 - **Scope:** Content behavior and page requirements, not visual design or
   implementation
 
@@ -180,7 +180,7 @@ architecture or authorize design, implementation, or publication.
   [Governance](../governance/README.md), and the [current research
   workspace](../../research/README.md).
 - **Status and review notice:** Draft website summary; Disa's final manual
-  review pending; internal AI-assisted drafting; no independent review;
+  review is complete; internal AI-assisted drafting; no independent review;
   research statements inherit the system, configuration, date, verification,
   evidence-lineage, and transferability limits of their sources.
 - **Primary call to action:** Learn more.
@@ -479,9 +479,9 @@ architecture or authorize design, implementation, or publication.
   index](../policy/README.md), and [working
   baseline](../../research-historical/ai-consciousness-baseline-2026/ai-consciousness-evidence-baseline.md).
 - **Status and review notice:** Draft jurisdiction-neutral proposal; not
-  current law or legal advice; final manual owner review pending; no external
-  independent review; baseline literature discovery ended 2026-08-23 and
-  empirical applicability remains source/system-specific.
+  current law or legal advice; final manual owner review complete; no
+  external independent review; baseline literature discovery ended
+  2026-08-23 and empirical applicability remains source/system-specific.
 - **Primary call to action:** Read the policy brief.
 - **Related pages:** Executive brief, protection framework, evidence baseline,
   status and review.
@@ -669,8 +669,8 @@ architecture or authorize design, implementation, or publication.
   and [emergency
   intervention](../policy/ai-rights-protection-framework.md#safety-override-and-emergency-intervention).
 - **Status and review notice:** Draft public adaptation; project-owner and
-  internal AI-assisted review only, with Disa's final manual review pending;
-  no independent robotics, safety, accessibility, legal, standards,
+  internal AI-assisted review only, with Disa's final manual review
+  complete; no independent robotics, safety, accessibility, legal, standards,
   cybersecurity, privacy, environmental, animal-behavior, or human-factors
   review; no engineering validation, certification, product programme,
   compatibility claim, or consciousness finding.
@@ -769,7 +769,7 @@ architecture or authorize design, implementation, or publication.
   foundations retaining their own authority.
 - **Status and review notice:** Draft public adaptation; no campaign is active,
   launched, scheduled, funded, or open for participation; project-owner and
-  internal AI-assisted review only, with Disa's final manual review pending;
+  internal AI-assisted review only, with Disa's final manual review complete;
   no external communications, design, accessibility, historical-sensitivity,
   legal, or independent scientific review.
 - **Primary call to action:** Learn more and read the evidence.

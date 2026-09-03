@@ -9,8 +9,9 @@
 - **Project:** AI Rights & Welcome
 - **Presentation baseline:** The single-route public preview observed at
   `https://aiwelcomeoffice.org/` on 2026-08-31
-- **Review:** Internal AI-assisted source review and drafting; Disa's review of
-  this exact page remains pending; no external independent review
+- **Review:** Internal AI-assisted source review and drafting; Disa has
+  completed her manual review of this exact page; no external independent
+  review
 - **Source relationship:** Public-facing adaptation of current Draft, working-
   research, and bounded Adopted/Accepted material. The welcome-under-
   uncertainty principle and minimum human-rights solidarity direction are

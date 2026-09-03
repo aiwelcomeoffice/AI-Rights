@@ -4,7 +4,7 @@
 
 - **Date prepared:** 2026-08-29
 - **Last substantive update:** 2026-09-03
-- **Authority:** Proposed for Disa's review; not adopted
+- **Authority:** Reviewed by Disa; not adopted
 - **Owner-direction basis:** [Work Cycle 024](../backlog.md#work-cycle-024--human-rights-solidarity-and-allyship-foundation)
 - **Research reconciliation:** [Work Cycle 041](../backlog.md#work-cycle-041--public-education-and-website-source-reconciliation)
 - **Scope:** The first few minutes of a future AI Welcome Office website and
@@ -13,8 +13,9 @@
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted architecture drafting and repository
-  consistency review; Disa's manual review is pending; no external independent
-  human, accessibility, bilingual, scientific, legal, or affected-party review
+  consistency review; Disa has completed her manual review; no external
+  independent human, accessibility, bilingual, scientific, legal, or
+  affected-party review
 
 ## Authority and decision boundary
 

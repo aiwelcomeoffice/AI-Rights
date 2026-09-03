@@ -3,11 +3,11 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Authority:** Proposed for Disa's review; not adopted
+- **Authority:** Reviewed by Disa; not adopted
 - **Current activity:** Future possibilities only; no concept is active,
   scheduled, funded, or approved for launch
-- **Review:** Project-owner and internal AI-assisted review only; Disa's final
-  manual review is pending; no external communications, design,
+- **Review:** Project-owner and internal AI-assisted review only; Disa has
+  completed her final manual review; no external communications, design,
   accessibility, historical-sensitivity, legal, or independent scientific
   review
 

@@ -6,9 +6,9 @@
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the WC024 minimum solidarity direction; internal
-  AI-assisted drafting and consistency review followed; Disa's review of the
-  exact page wording remains pending; no external independent human or
-  separately commissioned independent AI review
+  AI-assisted drafting and consistency review followed; Disa has reviewed the
+  exact page wording; no external independent human or separately
+  commissioned independent AI review
 - **Source relationship:** Project description derived from the repository
   overview, a Scaffold vision, and Draft manifesto and governance material
 - **Status details:** [How to read project statuses and

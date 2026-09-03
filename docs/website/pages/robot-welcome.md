@@ -5,10 +5,10 @@
 - **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Project-owner and internal AI-assisted review only; Disa's final
-  manual review of this version is pending; no independent robotics, safety,
-  accessibility, legal, standards, cybersecurity, privacy, environmental, or
-  human-factors review
+- **Review:** Project-owner and internal AI-assisted review only; Disa has
+  completed her final manual review of this version; no independent
+  robotics, safety, accessibility, legal, standards, cybersecurity, privacy,
+  environmental, or human-factors review
 - **Source relationship:** WC041 systems-first public adaptation of the Draft
   [Robot Welcome & Physical Coexistence
   foundation](../../robot-welcome/README.md), preserving its WC037 safety and

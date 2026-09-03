@@ -7,8 +7,9 @@
 - **Project:** AI Rights & Welcome
 
 These proposed public explanations introduce the project's current empirical
-research framework. They are under project-owner review and are not adopted
-scientific findings, ethical positions, legal conclusions, or policy.
+research framework. Disa has reviewed them as project owner; they remain
+Draft and are not adopted scientific findings, ethical positions, legal
+conclusions, or policy.
 
 The starting question is:
 

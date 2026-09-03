@@ -4,7 +4,7 @@
 
 - **Date prepared:** 2026-08-23
 - **Last substantive update:** 2026-09-03
-- **Authority:** Proposed for Disa's review; not adopted
+- **Authority:** Reviewed by Disa; not adopted
 - **Scope:** Exact source and authority mapping for proposed website pages
 
 ## How to use this map
@@ -142,9 +142,9 @@ rather than copied mechanically into a later prototype.
   full principles, human-rights solidarity foundation, and governance
   procedure.
 - **Missing content:** None for the first Draft; future publication metadata
-  and final owner review remain missing.
-- **Review dependencies:** Disa's full-page review; cross-check after any source
-  status or baseline change.
+  remain missing. Disa's final owner review of this page is complete.
+- **Review dependencies:** Cross-check after any source status or baseline
+  change.
 - **Main risk:** A warm welcome being read as a universal classification of AI
   experience, agency, affect, welfare, identity, or rights. The boundary must
   appear before persuasive detail.
@@ -161,11 +161,10 @@ rather than copied mechanically into a later prototype.
   and coercion; and the rejection of both romanticism and automatic dismissal.
 - **Must remain linked:** Current research, full Manifesto, Core Principles,
   historical evidence where relevant, and policy analysis.
-- **Missing content:** The [page-specific Draft](pages/why-ai-rights.md) is
-  complete for owner review; adoption, independent review, translation,
-  design, implementation, and publication remain pending.
-- **Review dependencies:** Owner review of normative framing and primary
-  audience; no Scaffold wording may be promoted as settled.
+- **Missing content:** The [page-specific Draft](pages/why-ai-rights.md) has
+  completed owner review; adoption, independent review, translation, design,
+  implementation, and publication remain pending.
+- **Review dependencies:** No Scaffold wording may be promoted as settled.
 - **Main risk:** Turning a normative case for preparedness into a prediction,
   scientific classification, or automatic legal conclusion.
 
@@ -216,9 +215,9 @@ rather than copied mechanically into a later prototype.
   narrower question is directly relevant.
 - **Must remain linked:** Full method, included-source comparison,
   bidirectional update record, limitations, conflicts, and source records.
-- **Missing content:** The [research hub Draft](pages/research.md) is complete
-  for owner review. The dedicated evidence-baseline adaptation remains to be
-  drafted, and no reviewed public synthesis exists in `docs/research/`.
+- **Missing content:** The [research hub Draft](pages/research.md) has
+  completed owner review. The dedicated evidence-baseline adaptation remains
+  to be drafted, and no reviewed public synthesis exists in `docs/research/`.
 - **Review dependencies:** Owner decision on whether public reliance is
   appropriate before independent specialist review; WC040 still needs
   specialist cybersecurity and agent-evaluation review, and the historical
@@ -280,14 +279,13 @@ rather than copied mechanically into a later prototype.
 - **Must remain linked:** Full framework thresholds, evidence model,
   independent-assessment design, implementation choices, legal work required,
   and open questions.
-- **Missing content:** The [Policy landing-page Draft](pages/policy.md) is
-  complete for owner review. Web adaptations of the executive brief and full
+- **Missing content:** The [Policy landing-page Draft](pages/policy.md) has
+  completed owner review. Web adaptations of the executive brief and full
   framework remain pending, as do jurisdiction-specific law and legal-source
   review, validated assessment thresholds, and institutional owner and
   enforcement design.
-- **Review dependencies:** Disa's final review; relevant independent policy,
-  legal, scientific, and safety review before strong reliance or operational
-  use.
+- **Review dependencies:** Relevant independent policy, legal, scientific, and
+  safety review before strong reliance or operational use.
 - **Main risk:** Presenting the Draft as current law, an automatic rights
   ladder, a consciousness score, or a classification of a current system.
 
@@ -308,12 +306,12 @@ rather than copied mechanically into a later prototype.
 - **Must remain linked:** Full Core Principles, Manifesto, glossary, evidence,
   and governance status.
 - **Missing content:** The [Principles landing-page Draft](pages/principles.md)
-  is complete for owner review. A manifesto web adaptation and an adoption
+  has completed owner review. A manifesto web adaptation and an adoption
   decision remain pending; narrower dignity and precaution documents remain
   Scaffolds.
-- **Review dependencies:** Owner review and later adoption process; external
-  ethical and affected-interest criticism is desirable and must not be implied
-  to have occurred.
+- **Review dependencies:** A later adoption process; external ethical and
+  affected-interest criticism is desirable and must not be implied to have
+  occurred.
 - **Main risk:** Presenting normative commitments as empirical findings or the
   Manifesto's future-facing address as evidence of a present subject.
 
@@ -332,9 +330,10 @@ rather than copied mechanically into a later prototype.
 - **Must remain linked:** The full Human Rights Solidarity and Allyship Draft,
   Core Principle 8, WC024 owner record, source limits, and status-and-review
   page.
-- **Missing content:** Disa's review of the exact Draft language; independent
-  human-rights, affected-community, legal, medical, accessibility, and
-  translation review; and any verified location-specific support resources.
+- **Missing content:** Independent human-rights, affected-community, legal,
+  medical, accessibility, and translation review; and any verified
+  location-specific support resources. Disa has reviewed the exact Draft
+  language.
 - **Review dependencies:** Recheck official sources before consequential use;
   obtain consent before implying a relationship; review jurisdiction, date,
   audience, privacy, and safety before publishing a service or crisis link.
@@ -382,15 +381,15 @@ rather than copied mechanically into a later prototype.
   10, safety and accountability sections of the protection framework, and the
   FAQ/glossary definitions.
 - **Missing content:** The [Robot Welcome page Draft](pages/robot-welcome.md)
-  and its dedicated source Drafts are complete for owner review. Independent
+  and its dedicated source Drafts have completed owner review. Independent
   robotics, safety, accessibility, legal, standards, cybersecurity, privacy,
   environmental, animal-behavior, and human-factors review; visual design;
   engineering validation; prototyping; testing; implementation; and adoption
   remain pending.
-- **Review dependencies:** Owner review of the conceptual foundation and page;
-  relevant independent specialist and affected-party review before public
-  reliance; exact-system engineering, manufacturer, legal, and applicable
-  standards review before any real-world design or safety claim.
+- **Review dependencies:** Relevant independent specialist and affected-party
+  review before public reliance; exact-system engineering, manufacturer,
+  legal, and applicable standards review before any real-world design or
+  safety claim.
 - **Main risk:** Treating embodiment or human likeness as evidence of
   experience; treating welcoming design as safety certification,
   authorization, compatibility, or endorsement; or treating a concept as a
@@ -413,11 +412,11 @@ rather than copied mechanically into a later prototype.
 - **Must remain linked:** Brand foundation, message architecture, voice and
   language rules, campaign and merchandise guardrails, complete campaign
   concepts, research, principles, policy, governance, and Robot Welcome.
-- **Missing content:** Disa's final manual review and decisions on supporting
-  messages and future campaign development; external communications,
-  scientific, historical-sensitivity, accessibility, legal, design, and
-  affected-party review; final translations; visual identity; campaign
-  infrastructure; implementation; and launch.
+- **Missing content:** Decisions on supporting messages and future campaign
+  development; external communications, scientific, historical-sensitivity,
+  accessibility, legal, design, and affected-party review; final
+  translations; visual identity; campaign infrastructure; implementation; and
+  launch. Disa has completed her final manual review of the current Draft.
 - **Review dependencies:** Update after any source-status, evidence, governance,
   slogan, campaign, Robot Welcome, or owner-decision change. A public launch
   requires a later recorded owner decision and review appropriate to its exact
@@ -437,7 +436,7 @@ rather than copied mechanically into a later prototype.
   current collaboration roles, CC0 default, and central wording.
 - **Must remain linked:** Root README, vision, governance, license, and decision
   records.
-- **Missing content:** The [About Draft](pages/about.md) is complete for owner
+- **Missing content:** The [About Draft](pages/about.md) has completed owner
   review. Owner decisions remain on primary audience, working languages, and
   whether CC0 fits every future content type.
 - **Review dependencies:** Disa verifies role descriptions, the AI Welcome
@@ -457,7 +456,7 @@ rather than copied mechanically into a later prototype.
 - **Must remain linked:** CONTRIBUTING, governance, backlog, and the public
   repository when an approved external link is available.
 - **Missing content:** The [Participate readiness Draft](pages/participate.md)
-  is complete for owner review. A code of conduct, issue and pull-request
+  has completed owner review. A code of conduct, issue and pull-request
   templates, moderation, review ownership, privacy rules, consultation design,
   and any additional approved follow mechanism remain pending.
 - **Review dependencies:** Owner approval before adding any form, signup,

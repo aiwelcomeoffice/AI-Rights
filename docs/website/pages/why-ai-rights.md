@@ -5,9 +5,9 @@
 - **Last page update:** 2026-09-03
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent human or separately
-  commissioned independent AI review
+- **Review:** Internal AI-assisted drafting and consistency review; Disa has
+  completed her final manual review; no external independent human or
+  separately commissioned independent AI review
 - **Source relationship:** Draft normative explanation grounded in current
   education and research, Draft principles and policy, and bounded owner
   directions; no scientific or legal position is adopted by this page

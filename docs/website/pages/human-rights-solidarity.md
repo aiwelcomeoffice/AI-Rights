@@ -6,9 +6,9 @@
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Disa supplied the minimum owner direction; internal AI-assisted
-  drafting and primary-source checking followed; Disa's review of the exact
-  page wording remains pending; no independent human-rights,
-  affected-community, legal, medical, accessibility, or translation review
+  drafting and primary-source checking followed; Disa has reviewed the exact
+  page wording; no independent human-rights, affected-community, legal,
+  medical, accessibility, or translation review
 - **Source relationship:** Public adaptation of the Draft [Human Rights
   Solidarity and Allyship](../../principles/human-rights-solidarity.md)
   foundation and the bounded [Work Cycle 024 owner

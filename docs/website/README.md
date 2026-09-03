@@ -7,12 +7,12 @@
 - **Scope:** First-visit experience architecture, source mapping, historical
   route analysis, page safeguards, and eleven website source Drafts; no
   implementation or publication decision
-- **Authority:** Prepared for Disa's review; not adopted
+- **Authority:** Reviewed by Disa; not adopted
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa's
-  final manual review is pending; no external independent human or separately
-  commissioned independent AI review
+- **Review:** Internal AI-assisted drafting and consistency review; Disa has
+  completed her final manual review; no external independent human or
+  separately commissioned independent AI review
 
 This directory prepares a future AI Welcome Office website for its **AI Rights
 & Welcome** project. AI Welcome Office is the primary organisation and
@@ -50,8 +50,8 @@ work cycle.
 > language versions separate, welcomes human and AI readers without factual
 > branching, treats detailed science as an optional path to the authoritative
 > public repository, and limits interaction to a few educational candidates.
-> Disa's review remains pending. No private implementation, publication, or
-> deployment is authorized.
+> Disa has reviewed this direction. No private implementation, publication,
+> or deployment is authorized.
 
 ## Deliverables
 
