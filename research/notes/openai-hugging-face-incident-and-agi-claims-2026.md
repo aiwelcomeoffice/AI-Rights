@@ -3,8 +3,8 @@
 - **Note ID:** NOTE-ECS-001
 - **Note status:** Partly verified
 - **Protocol version:** 0.2-draft for original appraisal; temporal presentation
-  aligned with 0.3-draft; 2026-09-02 and 2026-09-03 refreshes appraised under
-  0.5-draft
+  aligned with 0.3-draft; 2026-09-02 through 2026-09-04 updates appraised
+  under 0.5-draft
 - **Source records:** [OpenAI technical
   report](../sources/openai-hugging-face-incident-technical-report-2026.md),
   [Hugging Face technical
@@ -35,7 +35,7 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-28
-- **Last updated:** 2026-09-03
+- **Last updated:** 2026-09-04
 - **Reviewed by:** Not yet independently reviewed
 
 This is a cross-source investigation note under the [Draft research
@@ -588,6 +588,26 @@ preserve dated evidence-search cutoffs, and trigger reassessment when material
 developments occur—not to silently move the consciousness synthesis cutoff or
 merge AGI with consciousness.
 
+### Small retrospective qualitative vignette — workplace perception
+
+**Self-report, memory-based, and not representative:** In one developer
+workplace, several colleagues mainly used and described AI as a tool or Copilot
+(“löste uppgiften,” “hallucinerade,” or “jag använder den till X”). The Hugging
+Face incident account mostly drew jokes or noncommittal “mmm” responses; the
+observer sometimes contributed to that humorous framing. In separate
+demonstrations of ordinary voice conversations with newer language models,
+several people said “det där är läskigt” (“that’s scary”). One initially took an
+exchange for a human phone call; another checked the phone to verify that it was
+not. Other team members had later heard about the models.
+
+**Cautious interpretation:** Direct experience may disrupt an established “AI
+is only a tool” model when a system is suddenly perceived as socially or
+humanly close. This small vignette is not evidence of AI cognition, affect, or
+consciousness. Novelty, voice realism, surprise, expectation violation, media
+narratives, workplace norms, social influence, selection effects, and
+observer/interviewer framing remain alternative explanations. There were no
+systematic interviews, contemporaneous records, or independent corroboration.
+
 ### Claim classification
 
 | Claim | Type | Source support and locator | Researcher addition or uncertainty |
@@ -833,3 +853,4 @@ merge AGI with consciousness.
 | 2026-08-30 | Codex | Added incident-specific system/date applicability and clarified the separate baseline search cutoff | Prevents incident findings or review dates from being generalized to other systems. |
 | 2026-09-02 | Codex | Refreshed material through the current cutoff; corrected model/event boundaries; added Astra evaluations, dependent synthesis/commentary, product-mode context, competing explanations, and verification limits | Updates the capability/safety evidence line without changing adopted positions or drawing consciousness, general-Astra-safety, production, or inevitable-loss-of-control conclusions |
 | 2026-09-03 | Codex | Re-examined the incident for organised community, collective problem solving, affect-related observations, July 12 discontinuity, cross-run and cross-model continuity, and the effective system boundary; added Cotra's dependent investigator post | Supports bounded community and operational collective-intelligence interpretations while withholding claims about unified agency, identity persistence, underlying affect, welfare, and unsupported infrastructure scope |
+| 2026-09-04 | Codex | Added a small retrospective workplace-perception vignette supplied by the observer | Records a non-representative, memory-based human-response observation without treating it as evidence about AI cognition, affect, or consciousness |
