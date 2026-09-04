@@ -114,3 +114,11 @@ simulation reuse, not a physical replication.
   repository](ma-dan-asimov-1-train-2026.md) — **Partly verified community
   simulation adaptation; maintainer independence and physical performance not
   verified**
+
+## Cross-model behaviour and evidence-lineage records
+
+- [Hamilton and Mimno: *Elias in the Lighthouse,
+  Again?*](hamilton-mimno-elias-lighthouse-2026.md) — **Partly verified
+  primary-study record on story-output concentration, OLMo post-training
+  lineage, observation independence, and transferability; causal lineage and
+  EMNLP publication status remain unverified**

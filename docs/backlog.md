@@ -1136,6 +1136,59 @@ copy and provenance. It should preserve the existing implementation structure
 unless a concrete defect requires more and must not deploy without separate
 authorization.
 
+## Work Cycle 042 — Elias/lighthouse cross-model evidence lineage
+
+**Date:** 2026-09-04
+
+**Status:** Bounded current external-evidence intake completed as **Partly
+verified working research**; not independently reviewed or adopted.
+
+**Result:** Created one [primary source
+record](../research/sources/hamilton-mimno-elias-lighthouse-2026.md) and one
+[cross-source working
+note](../research/notes/elias-lighthouse-lineage-evidence-independence-2026.md)
+for Hamilton and Mimno's *Elias in the Lighthouse, Again?* The cycle verifies
+the reported 20,000-story design and lexical/category concentrations, separates
+the paper's first-name-only `Elias` result from the later `Elias Thorne` media
+framing, and records exact system/version and observation-date gaps.
+
+**Lineage finding:** AI2's primary OLMo 3 and Dolci documentation establishes
+that the relevant open model flow includes WildChat prompts and regenerated or
+model-generated responses across SFT, DPO, and RL data. This makes historical
+post-training lineage a documented possible mechanism for OLMo and supports
+auditing dependence before treating several model labels as independent
+converging evidence. The paper provides no equivalent provenance for Claude,
+Gemini, or GPT-5.4 and no causal dataset/stage ablation, so shared lineage,
+synthetic feedback, preference data, contamination, and safe-story selection
+remain hypotheses rather than established causes.
+
+**Quality limits:** The generated stories, analysis code, sampling/routing
+settings, Core labels, and classifier artifacts are unavailable. Exact model
+snapshots and experiment dates are unreported. The paper's post-training tables
+contain unresolved conflicts: stage Core counts total 3,010 rather than 3,053;
+WildChat-derived counts/rates differ between table and prose; and 59,276 is
+75.1%, not the caption's 80%, of 78,958. The released ID CSV verifies the
+78,958 total and stage split but contains no Core indicator. EMNLP 2026
+acceptance is author-reported; the checked official main-paper list does not
+currently contain the title or authors.
+
+**Scientific boundary:** This cycle changes no conclusion about cognition,
+agency, affect, welfare, consciousness, sentience, identity, shared mind,
+literal shared memory, collective consciousness, moral status, or rights. It
+does not count the four model outputs as four independent replications, and it
+does not dismiss the recurrent pattern as “just contamination.” Observation,
+lineage possibility, causal mechanism, and evidential weight remain separate.
+
+**Protocol boundary and next step:** The note proposes, but does not apply, one
+small symmetric clarification to the Draft protocol: cross-model behavioural
+similarity is not automatically independent evidence, while unknown lineage
+proves neither independence nor dependence and demonstrated similarity retains
+descriptive value. After Disa reviews this intake, the smallest next step is to
+check a later official EMNLP/camera-ready record and any expanded artifact or
+table correction. A pinned OLMo Base→SFT→DPO→RL reproduction would be the next
+causal test if separately resourced. No external contact, model spending,
+training run, protocol adoption, publication, commit, or push is authorized.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

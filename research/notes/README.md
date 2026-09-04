@@ -47,3 +47,12 @@ are preserved, without a status or scientific-conclusion change, in the
   action selection, system boundaries, responsibility, and open research
   infrastructure; not a consciousness, sentience, welfare, moral-status, or
   moral-agency assessment**
+
+## Cross-model behaviour and evidence lineage
+
+- [Elias/lighthouse, model lineage, and evidence
+  independence](elias-lighthouse-lineage-evidence-independence-2026.md) —
+  **Partly verified cross-source working note; supports a dependency audit for
+  cross-model similarity without presuming either independent convergence or
+  training-lineage causation; not a consciousness, sentience, shared-memory,
+  or moral-status assessment**
