@@ -261,6 +261,12 @@ infrastructure work. It must not become a parallel editorial, research, or
 governance source. Technical records may describe implementation; substantive
 changes, including meaning altered by translation or UI, originate here.
 
+Slack may be used for discussion, coordination, review, and day-to-day
+collaboration. Like the private repository, it must not become a parallel
+editorial, research, or governance source; material decisions, research
+conclusions, policy, support principles, and governance changes are recorded
+here.
+
 Do not confuse a local content update with external publication. An explicit
 content-update or cross-repository task authorizes the necessary scoped local
 work. Preserve source status and provenance; do not present unpublished local
