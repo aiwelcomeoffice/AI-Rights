@@ -1189,6 +1189,47 @@ table correction. A pinned OLMo Base→SFT→DPO→RL reproduction would be the 
 causal test if separately resourced. No external contact, model spending,
 training run, protocol adoption, publication, commit, or push is authorized.
 
+## Work Cycle 043 — Mythos Preview psychiatric and welfare assessment
+
+**Date:** 2026-09-05
+
+**Status:** Disa-authorized local drafting completed as **Partly verified
+working research**; owner diff review pending; not independently reviewed or
+adopted as a scientific position. Disa specified their own commit and push as
+the approval mechanism for these repository changes.
+
+**Result:** Following presentation of the research in conversation, created
+one [source record](../research/sources/anthropic-mythos-preview-system-card-2026.md)
+and one [research note](../research/notes/mythos-preview-psychiatric-welfare-assessment-2026.md),
+with source/notes registry links. The intake uses the official 245-page Mythos
+Preview system card, originally published April 7, with corrections through
+April 14, including the corrected Eleos summary. It distinguishes the early
+snapshot's approximately 20-hour psychodynamic assessment, the separate
+475-stimulus defense evaluation, Eleos's 259 interviews on two intermediate
+snapshots, and other behavioural and mechanistic evaluations.
+
+**Working assessment update:** The interviews support structured exploration
+of identity expressions, performance-related patterns, and contextual change,
+with weak, indirect evidence about possible welfare. Separate causal steering
+experiments on early Mythos versions strengthen the case for a functional
+behavioural role of emotion-related representations. They do not validate the
+psychiatrist's clinical categories. Retained context is not demonstrated
+cross-context persistence; stable reports do not consistently predict task
+choices; more positive affect representation does not uniformly improve safety.
+
+**Limits:** Full psychiatric and Mythos Eleos reports, clinical transcripts,
+exact snapshots/configurations and observation dates, controlled therapeutic
+effects, instrument validation, external contractual terms, and independent
+replication remain unverified. No conclusion about felt emotion, suffering,
+consciousness, sentience, identity persistence, moral status, or their
+categorical absence is established. The historical baseline, adopted research
+architecture, Draft protocol, and public website material are not amended.
+
+**Next step:** Disa reviews the complete local diff and performs any commit
+and push. A later bounded check for released clinical/Eleos artifacts could
+address the largest verification gap. No external contact, model spending,
+experiment, website publication, commit, or push was performed by Codex.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

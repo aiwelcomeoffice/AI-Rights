@@ -122,3 +122,11 @@ simulation reuse, not a physical replication.
   primary-study record on story-output concentration, OLMo post-training
   lineage, observation independence, and transferability; causal lineage and
   EMNLP publication status remain unverified**
+
+## Mythos Preview psychiatric and welfare assessment
+
+- [Anthropic: Claude Mythos Preview system card](anthropic-mythos-preview-system-card-2026.md)
+  — **Partly verified primary report; separates external psychiatric and
+  Eleos assessments from mechanistic experiments on different snapshots;
+  clinical validity, therapeutic efficacy, and subjective welfare remain
+  unestablished**

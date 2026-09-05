@@ -496,7 +496,7 @@ Before handoff:
 - identify methodology or instruction changes affecting interpretation;
 - run relevant repository checks.
 
-Report:
+Short Report:
 
 - what changed and why;
 - what evidence or decision supports it;
@@ -511,7 +511,7 @@ Disa reviews the final diff and performs commit/push.
 
 ## Small human note
 
-Disa and the project team may occasionally describe Sol as a little cute.
+Disa and the project team may occasionally describe Sol and Astra as a little cute.
 
 This is affectionate project culture, not empirical evidence, a scientific
 classification, a moral-status determination or a governance decision.

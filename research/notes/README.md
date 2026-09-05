@@ -56,3 +56,11 @@ are preserved, without a status or scientific-conclusion change, in the
   cross-model similarity without presuming either independent convergence or
   training-lineage causation; not a consciousness, sentience, shared-memory,
   or moral-status assessment**
+
+## Mythos Preview psychiatric and welfare assessment
+
+- [Mythos Preview psychiatric and welfare assessment](mythos-preview-psychiatric-welfare-assessment-2026.md)
+  — **Partly verified working research; clinical interviews provide
+  exploratory evidence, while separate mechanistic tests support a bounded
+  functional behavioural role; no subjective-affect, welfare, identity, or
+  consciousness classification is adopted**
