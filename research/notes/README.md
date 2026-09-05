@@ -27,6 +27,11 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [Astra: reasoning persistence, monitorability and
+  continuity](astra-reasoning-persistence-monitorability-continuity-2026.md) —
+  **Draft, partly verified working research through 2026-09-05; centers the
+  unresolved internal nonverbal recurrence question, with no-CoT and monitoring
+  evidence; separates it from reasoning reuse and agent continuations**
 - [OpenAI–Hugging Face incident, emergent agent community, continuity, and
   August 2026 AGI
   claims](openai-hugging-face-incident-and-agi-claims-2026.md) — **Partly
