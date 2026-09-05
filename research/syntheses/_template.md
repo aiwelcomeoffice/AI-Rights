@@ -22,21 +22,23 @@ be disclosed and do not by themselves constitute independent confirmation.
 Working synthesis does not mean scientific consensus, publication approval, or
 adoption.
 
-## Current scientific boundary
+## Scientific scope and relationship to existing assessments
 
-AI Rights & Welcome does not currently claim that present-day AI systems are
-conscious, sentient, capable of suffering, moral patients, moral persons, or
-legal persons, and it does not categorically claim that all present AI systems
-are non-conscious. “Not established” is not “proven absent.” Applying scrutiny
-in both directions does not require symmetric priors, equal evidential weight,
-or artificial balance. No candidate feature is decisive merely because it is
-present or evidentially worthless merely because it is individually
-insufficient. Scope every conclusion to a defined system, version,
-configuration, context, observation period, target property, method, evidence
-quality, and date. State how this synthesis preserves or proposes no change to
-that position:
+Identify the relevant dated assessment and its status; do not treat it as a
+conclusion this synthesis must preserve. State whether the evidence supports
+retaining it, proposes a change in either direction, increases uncertainty, or
+does not address it. Preserve the earlier record and distinguish a research
+assessment from adoption of a project position.
 
-[Statement]
+“Not established” is not “proven absent.” Scrutiny in both directions does not
+require equal priors, equal evidential weight, or artificial balance. No
+observation or evidence category is automatically decisive or worthless;
+assess its actual significance rather than impose a categorical ceiling.
+Scope conclusions to the defined system, version, configuration, context,
+observation period, target property, method, evidence quality, and date.
+
+[Prior assessment and source/status; this synthesis's result, rationale,
+remaining uncertainty, and any proposed review or project decision]
 
 ## Question and intended use
 

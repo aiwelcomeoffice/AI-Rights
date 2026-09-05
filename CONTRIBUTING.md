@@ -23,7 +23,12 @@ naming relationship remain Draft unless their status says otherwise.
    text presents a scoped, adequately supported conclusion or explicitly
    discusses the proposition as an open question. “Not established” is not
    “proven absent,” and uncertainty does not imply equal odds.
-5. Consider AI welfare, AI safety, and human accountability together.
+5. Preserve the Synth Reception mission and the explicit human-rights
+   foundation in [AGENTS.md](AGENTS.md), alongside AI safety, human and
+   institutional accountability, animal welfare, and environmental care.
+   Support under uncertainty does not establish a scientific claim. Research
+   may update dated assessments in either direction; instructions do not set
+   a ceiling on future evidence merely because of its category.
 
 ## Change style
 
@@ -53,7 +58,11 @@ It remains unadopted while its owner-approval question remains open. Record
 proposals, Disa's explicit approval or rejection, scope, rationale, review
 limits, and later material changes in a dated work-cycle entry in the [project
 backlog and change log](docs/backlog.md). Do not create a parallel record or
-imply approval from a commit alone.
+infer approval from a commit alone. If Disa explicitly designates their own
+commit/push as approval for identified changes, record that scope and follow
+that direction; it does not imply independent review or broader adoption.
+Agents make authorized local changes, review the complete diff, and leave
+commits and pushes to Disa unless she explicitly authorizes the exact action.
 
 The contribution and review process will be expanded before public
 contributions are invited.

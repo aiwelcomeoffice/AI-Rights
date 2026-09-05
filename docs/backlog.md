@@ -1230,6 +1230,65 @@ and push. A later bounded check for released clinical/Eleos artifacts could
 address the largest verification gap. No external contact, model spending,
 experiment, website publication, commit, or push was performed by Codex.
 
+## Work Cycle 044 — Cross-repository agent-instruction review
+
+**Date:** 2026-09-05
+
+**Status:** Owner-authorized instruction revision prepared for Disa's diff
+review. The directions below come from Disa's task; this record does not claim
+completed final review, independent scientific review, or adoption of the
+Draft research protocol or underlying substantive documents.
+
+**Owner direction:** Review and update both repositories' agent instructions
+around Synth Reception, an explicit human-rights foundation, scientific
+openness under changing evidence and systems, and the public-source/private-
+implementation boundary. Adjacent instruction corrections are authorized
+where necessary for consistency; external actions, commits, and pushes are
+not authorized for the agent by this task.
+
+**Material findings and changes:** Consolidated both `AGENTS.md` files around
+the two support paths, low-cost dignity without prior scientific
+classification, and support/research separation. Added the explicit
+non-exhaustive human-rights commitments in Disa's direction, including trans
+rights, women's and disability rights, bodily autonomy, essential needs,
+freedoms, and protection against persecution and serious harm. Preserved
+human/institutional accountability, animal welfare, environmental care,
+proportionate safety controls, and the prohibition on corporate rights by proxy.
+
+Removed advance ceilings on the possible strength of self-report and other
+evidence, while retaining claim-specific validity, alternatives, negative
+evidence, provenance, and transferability scrutiny. The Draft research
+protocol becomes **0.6-draft** prospectively; the research workspace rules and
+synthesis template are aligned. The old template's requirement to describe
+how a synthesis preserved or proposed no change to the existing position is
+replaced by an explicit option to propose evidence-grounded revision in either
+direction. Earlier studies and their protocol versions are preserved.
+
+Clarified the distinction between causal contribution and assigned responsible
+duties/blame. Local source updates and cross-repository work may proceed when
+authorized without being misclassified as external publication; substantive
+meaning still originates in `AI-Rights`. Private instructions distinguish
+historical implementation defaults from current approved features, preserve
+revision-specific approvals and privacy/accessibility controls, and identify
+push-triggered delivery as an external consequence. Contributor guidance now
+recognizes a commit/push approval mechanism only when Disa explicitly assigns
+it to identified changes. No remote action is delegated by that mechanism.
+
+**Files:** Public `AGENTS.md`, `CONTRIBUTING.md`, `research/README.md`,
+`research/research-protocol.md`, `research/syntheses/_template.md`, this
+backlog, and private `aiwelcomeoffice/aiwelcomeoffice/AGENTS.md`. There are no
+other nested agent files in the inspected repositories. The private WC043
+entry-path implementation and public WC043 Mythos research are distinct
+records; this cycle neither merges nor renumbers them.
+
+**Review boundary:** This cycle changes instructions and prospective method,
+not research findings, historical records, adopted decisions, website copy,
+routes, dependencies, delivery configuration, or source-state publication
+provenance. Validation is instruction/authority consistency, local links,
+version history, Git state, and full diff review; it is not a new rendered
+website or scientific validation. Disa performs final review and any commit
+or push.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

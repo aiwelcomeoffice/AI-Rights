@@ -134,9 +134,12 @@ Its evidence-search cutoff is 2026-09-01.
 - Label uncertainty, disagreement, limitations, and missing verification.
 - Check quotations and high-impact claims against the original source.
 - Record when web-based material was accessed because it may change.
-- Never treat self-report, fluent language, emotional behavior, missing
-  evidence, or a missing alternative explanation as sufficient or decisive
-  evidence of experience or of its absence.
+- Do not automatically treat self-report, fluent language, emotional behavior,
+  or any other evidence category as sufficient or decisive, or rule out its
+  potential strength in advance. Assess weight for the defined claim, method,
+  system, and alternatives. Missing evidence may be negative evidence when a
+  relevant, sufficiently sensitive method should have detected the phenomenon;
+  uncertainty or failure to find an alternative is not proof of a conclusion.
 - When a defined scientific hypothesis predicts a relationship with
   complexity, intelligence, capability, scale, emergence, language,
   embodiment, agency, or another candidate feature, evaluate that relationship

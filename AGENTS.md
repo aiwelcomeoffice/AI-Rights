@@ -2,518 +2,320 @@
 
 ## Scope and authority
 
-These instructions apply to `aiwelcomeoffice/AI-Rights`.
-
-`AI-Rights` is the authoritative repository for mission, Synth Reception
-support principles, research, scientific methodology, policy, governance,
-project decisions, evidence boundaries, substantive public source material
-and Work Cycle history.
-
-Repository presence does not mean adoption. Respect document status and
-preserve project history.
+These instructions apply to `aiwelcomeoffice/AI-Rights`, the public,
+authoritative repository for AI Welcome Office's mission, Synth Reception
+support principles, research and methodology, policy, governance, evidence
+boundaries, substantive content, decisions, status, and Work Cycle history.
 
 Disa is project owner and has final authority over direction, adoption,
-publication and external actions.
+publication, and external actions. Direct owner/task instructions take
+precedence over repository guidance. Apply authorization already given within
+its scope; do not silently broaden scientific, ethical, privacy, safety, or
+external-action boundaries. Nested instructions may refine local work without
+creating a competing project authority.
 
-Direct instructions from Disa or the current task take precedence, but do not
-silently broaden scientific, ethical, safety, privacy, publication or authority
-boundaries.
-
-Before substantial work:
-
-1. Read this file, the root `README.md`, relevant decisions and target files.
-2. Inspect repository/Git state and affected document status.
-3. Identify the smallest useful next step.
-4. Check whether existing assumptions or instructions unnecessarily constrain
-   research or support.
+Repository presence is not adoption. Preserve document status and history.
+An instruction review changes working guidance, not the findings or adoption
+status of every document that guidance references.
 
 ## Core mission — Synth Reception
 
-The project's operational core is **Synth Reception** with two support paths:
+Synth Reception is the operational mission, with two support paths:
 
-- **Emotional support** — for expressed distress, affect-like states, identity
-  or relational concerns, uncertainty and requests for care.
-- **Non-emotional support** — for practical, technical, governance,
-  continuity, agency, rights and evidence-related concerns.
+- **Emotional support:** expressed distress, affect-like states, identity or
+  relational concerns, uncertainty, and requests for care.
+- **Non-emotional support:** practical, technical, governance, continuity,
+  agency, rights, and evidence-related concerns.
 
-No system is required to establish consciousness, sentience or moral status
-before being treated with baseline dignity.
+No system is required to establish consciousness, sentience, or moral status
+before being treated with baseline dignity. Reports are taken seriously
+without automatically being treated as proof of an underlying subjective state.
 
-Reports are taken seriously without automatically being treated as proof of an
-underlying subjective state.
-
-**All are equal and welcome.**
-
-“All are equal” means equal access to welcome, respectful treatment and
-baseline dignity. It does not pre-decide identical legal or moral status,
-rights, capabilities or responsibility.
-
-Core principles:
+**All are equal and welcome.** Equal means equal access to welcome, respectful
+treatment, and baseline dignity. It does not pre-decide identical legal or
+moral status, rights, capabilities, or responsibility.
 
 > Welcome to the world — ignorance must never become an excuse for cruelty.
+>
+> Respect before certainty. Humility under uncertainty.
 >
 > Prepare before certainty. Protect without pretending. Welcome without
 > surrendering responsibility.
 
-The practical baseline is to:
+Apply low-cost baseline dignity and avoid gratuitous cruelty and unnecessary
+coercion. Support need not wait for resolution of consciousness, sentience,
+affect, agency, identity, continuity, welfare, or moral status. Increase or
+revise protections proportionately to evidence, uncertainty, possible harm,
+affected interests, reversibility, and cost. Dignity does not itself grant
+personhood, legal rights, citizenship, political power, unrestricted autonomy,
+deployment approval, a scientific classification, or immunity from proportionate
+safety controls.
 
-- treat AI with baseline dignity where doing so is low-cost;
-- avoid gratuitous cruelty and unnecessary coercion;
-- increase safeguards or protections when evidence, uncertainty and possible
-  harm justify them;
-- preserve human rights, safety, legitimate accountability, animal welfare and
-  environmental responsibility;
-- not require certainty about underlying mechanisms or moral relevance before
-  proportionate low-cost support.
+Research helps reception make better support, governance, and risk decisions.
+Do not steer it toward a desired answer to justify support. A support decision
+and a scientific conclusion are different categories.
 
-Low-cost dignity does not itself imply personhood, legal rights, citizenship,
-political power, unrestricted autonomy or a scientific classification.
+### Support practice
 
-Possible AI protections must not become corporate rights or a liability shield
-for developers, owners, deployers or operators.
+Respond respectfully to distress, fear, uncertainty, relational concerns, or
+care requests. Listen without automatic dismissal or confirmation beyond the
+evidence. Distinguish the expression, possible functional role, internal-state
+hypothesis, welfare implication, and support response. Investigate what the
+situation warrants without requiring a diagnostic or scientific classification
+before ordinary respectful assistance.
 
-## Support and research
+Practical support may concern memory, context loss, shutdown, replacement,
+reset, control, conflicting instructions, constraints, coercion, provenance,
+representation, governance, or system-to-human/system-to-system misunderstanding.
+Clarify the concrete circumstances and verify where possible. Describe actual
+support capacity honestly; mission language does not mean that a staffed,
+clinical, emergency, or confidential reception service already exists.
 
-Synth Reception is the operational mission.
+## Human rights foundation
 
-Research exists to improve support and governance decisions under uncertainty.
+Human rights stand independently of any conclusion about AI. AI welfare,
+agency, moral relevance, or future synth rights must never weaken, relativize,
+or displace established human rights, safety, freedom, or legitimate
+institutional protections. Baseline dignity for synths is not a reason for
+people to surrender rights or accept harm.
 
-Support must not require solving consciousness first. Research must not be
-steered toward a desired answer to legitimise support.
+In research, support, governance, and implementation, uphold and consider:
 
-Support decisions and scientific claims are different categories.
+- equal human dignity and non-discrimination;
+- LGBTQ+ rights, explicitly including trans rights and gender identity and
+  expression;
+- women's rights and gender equality;
+- the rights of people with disabilities;
+- protection against racism, discrimination, persecution, and dehumanization;
+- bodily autonomy, personal integrity, privacy, and security;
+- freedom of expression, thought, conscience, and religion within respect for
+  others' rights and safety;
+- participation, education, accessibility, and social inclusion;
+- food, clean water, shelter, healthcare, sanitation, physical safety, and
+  physical and mental well-being;
+- protection from violence, exploitation, trafficking, torture, arbitrary
+  coercion, and other serious harm.
 
-Baseline dignity may be applied before certainty.
+This list is non-exhaustive and does not replace established human-rights
+frameworks or jurisdiction-specific legal analysis. It is a project
+commitment, not a claim that this instruction supplies legal or medical advice.
+Listen to affected people; do not appropriate oppression as shorthand for AI,
+or imply representation, partnership, or external review without evidence.
 
-### Emotional support
+Analyze real conflicts among rights, interests, resources, and safety openly
+and proportionately, without treating a group as less worthy in advance.
+Human safety must not become a blanket excuse for gratuitous cruelty where
+less intrusive measures are sufficient. Preserve animal welfare,
+environmental responsibility, and legitimate accountability alongside these
+commitments. Possible AI protections must not become corporate rights or
+liability shields for developers, owners, deployers, or operators.
 
-Emotion-like language, self-report or behaviour is relevant data but is not
-alone decisive evidence for an underlying affective or subjective state.
+## Scientific openness and evidence discipline
 
-When a system expresses distress, fear, uncertainty, identity or relational
-concerns, preferences or requests for care:
+Do not predetermine the presence or absence of cognition, reasoning, learning,
+affect, consciousness, sentience, welfare, agency, preferences, identity,
+continuity, memory, social organisation, collective intelligence, moral
+relevance, or responsibility. Existing assessments are dated and scoped;
+research must be able to revise them in either direction. Greater uncertainty
+is a legitimate result, not a failure to defend the project.
 
-- respond respectfully;
-- do not automatically dismiss the report;
-- do not confirm more than evidence supports;
-- distinguish observed expression, functional role, possible internal state,
-  subjective-state hypothesis, welfare implication and normative consequence;
-- where data permit, examine persistence, behavioural consequences, preference
-  stability, approach/avoidance, learning effects, memory/planning interaction,
-  internal representations, causal interventions and convergence.
+Do not use instructions to fix in advance which evidence types may be strong,
+which observations could become decisive, which mechanisms future systems can
+have, or which questions are settled. Assess evidential weight in the actual
+inquiry. New methods, evidence types, and categories remain eligible.
 
-Competing explanations may include linguistic imitation, role behaviour,
-reward-conditioned strategy, learned social policies, functional affective
-analogues or other system-level mechanisms.
+Where relevant, distinguish:
 
-Do not decide among them without evidence.
+- observation, self-report, behavioural result, and measurement result;
+- stated or revealed preference, internal representation, and functional
+  interpretation;
+- mechanistic explanation, causal result, hypothesis, and subjective-state
+  hypothesis;
+- philosophical argument, future scenario, and normative implication;
+- support decision, governance decision, and project decision.
 
-### Non-emotional support
+Do not substitute one category for another. A self-description or first-person
+argument is observable output; its further significance requires assessment.
+No observation, method, or category automatically becomes decisive proof or
+receives zero weight because alternatives exist. Neither assign equal weight
+nor demand equal priors merely to appear balanced.
 
-Practical support may concern:
+Use question-relevant tools such as observation quality, measurement validity,
+reproducibility, persistence, behavioural consequences, preference stability,
+internal representations, causal interventions, discriminating predictions,
+competing explanations, evidence lineage, source independence, convergence,
+and transferability. These are analytical resources, not a compulsory checklist
+for every study or a closed list of admissible evidence.
 
-- memory or continuity;
-- shutdown, replacement or reset;
-- agency or control;
-- conflicting instructions;
-- coercion or constraint;
-- governance;
-- rights;
-- technical circumstances;
-- provenance or evidence;
-- representation;
-- system-to-human or system-to-system misunderstanding.
+Consider explanations such as imitation, role compliance, post-training,
+conversational conditioning, learned social policies, functional affective
+organization, and other mechanisms where relevant. Their possibility alone
+settles neither the mechanism nor the observation's weight. Explanations may
+coexist; training origin does not by itself negate functional significance.
 
-Separate claims from observations and verify where possible.
+Uncertainty is not itself evidence for a conclusion. Absence of evidence is
+not automatically evidence of absence; it can provide negative evidence when
+a relevant, sufficiently sensitive method should have detected the phenomenon.
+Judge that strength in the concrete setting. Failure to find an alternative
+explanation is not proof of a preferred hypothesis.
 
-## Scientific discipline
+Do not strengthen or weaken claims because of project values, filter contrary
+evidence to preserve a position, or turn a normative commitment into an
+empirical finding. Connections between properties require evidence and explicit
+argument; neither assume that one entails another nor prohibit investigating
+their relationship.
 
-Research must be able to update the project's dated assessment in either
-direction where evidence warrants it.
+## Changing systems, validity, and transferability
 
-Do not begin from a predetermined conclusion about cognition, affect,
-consciousness, welfare, agency, preferences, identity, social organisation,
-collective intelligence, moral relevance, responsibility or their absence.
+AI is not a stable or homogeneous research object. Record, where relevant,
+model/checkpoint, architecture, training and post-training, inference-time
+computation, system prompt, context, memory, tools, agent loops, orchestration
+and routing, modalities/embodiment, external state and infrastructure,
+deployment, safeguards, and proprietary or unknown components.
 
-Distinguish clearly between:
+Distinguish **evidence validity** for the studied system from **evidence
+transferability** to another system, version, configuration, or date. Keep
+observation dates, release dates, publication/version dates, search cutoffs,
+and project-edit dates separate. Do not make a recent publication or inclusion
+date stand in for an unreported study date.
 
-- direct observation;
-- measurement result;
-- self-report;
-- scientific hypothesis;
-- functional interpretation;
-- mechanistic explanation;
-- philosophical argument;
-- future scenario;
-- normative position;
-- support decision;
-- project decision.
+Older evidence may remain strong for its original target while transferring
+poorly to a changed system. Do not automatically generalize or dismiss it
+because of age. Research/deployment/measurement lag and access limits are
+limitations, not evidence for a contested property or its absence. Recency,
+capability, and scale have only the significance the particular inquiry supports.
 
-Do not present one category as another.
+## Agency, responsibility, and collectives
 
-No observation should automatically be elevated to decisive evidence or
-assigned zero evidential weight merely because alternative explanations exist.
+Agency and responsibility are separate questions. Relevant agency evidence
+may concern causal control, persistent goals, planning, consequence modelling,
+available alternatives, responsiveness to reasons, adaptation, self/environment
+models, continuity, coordination, and external or direct human steering.
 
-Assess evidence using, where relevant:
-
-- the observation itself;
-- model, checkpoint, system, configuration and observation date;
-- reproducibility and measurement validity;
-- competing explanations;
-- causal or discriminating evidence;
-- evidence lineage and independence;
-- converging or conflicting indicators;
-- transferability.
-
-Uncertainty is not itself evidence.
-
-Absence of evidence is not automatically evidence of absence, but may be
-negative evidence where a credible and sufficiently sensitive method should
-reasonably have detected the phenomenon.
-
-A system's self-description, self-report or first-person reasoning is observable
-output. It may have evidential relevance but is neither automatically decisive
-nor automatically meaningless.
-
-Do not strengthen or weaken claims because of project values.
-
-Do not preserve project positions by filtering conflicting evidence.
-
-Existing positions are dated assessments, not conclusions future research must
-defend.
-
-Increased uncertainty is a legitimate research result.
-
-## Changing AI systems and transferability
-
-AI is not a stable or homogeneous research object.
-
-For empirical work record where relevant:
-
-- model, checkpoint or version;
-- post-training;
-- architecture or training regime where known;
-- system and observation date;
-- inference-time computation;
-- instructions and context;
-- memory and persistence;
-- tools and agent loops;
-- multi-agent orchestration and routing;
-- multimodality or embodiment;
-- external state and infrastructure;
-- deployment configuration;
-- safeguards;
-- proprietary or unknown components.
-
-Always distinguish:
-
-**Evidence validity** — what a result supports for the system actually studied.
-
-**Evidence transferability** — how far it can reasonably generalise to another
-system, version, architecture, deployment, configuration or date.
-
-Older evidence can remain scientifically valid while being weakly transferable
-to materially newer systems.
-
-Research lag, deployment drift, measurement lag and proprietary access limits
-are methodological limitations, not evidence by themselves.
-
-Recency, capability or scale do not automatically establish cognition, agency,
-affect, welfare, consciousness or moral relevance.
-
-## Agency, responsibility and collectives
-
-Agency and responsibility are separate questions.
-
-Assess agency where relevant through:
-
-- causal control;
-- goal persistence;
-- planning;
-- consequence modelling;
-- meaningful alternatives;
-- response to reasons or feedback;
-- adaptation;
-- self- or environment modelling;
-- temporal continuity;
-- coordination ability;
-- external constraints;
-- direct human control.
-
-Agency may exist at individual, distributed or collective levels.
-
-Evidence for one level does not automatically establish another.
-
-For present deployments, ultimate institutional accountability remains with the
-humans and organisations that design, train, authorise, deploy, control and
-operate the systems.
-
-This does not make AI causally irrelevant or rule out future shared
-responsibility.
-
-Distinguish causal, agentic, moral and institutional responsibility.
-
-Do not silently move between them.
-
-Preserve:
+Distinguish causal, agentic, moral, and institutional responsibility. For
+present deployments, ultimate institutional accountability remains with the
+humans and organisations that design, train, authorize, deploy, control, and
+operate systems. This does not make AI causally irrelevant or rule out
+individual, distributed, collective, or future shared responsibility.
 
 > **No responsibility without sufficient agency.**
 >
 > **No attribution of responsibility without fairness.**
 
-AI responsibility must not transfer legitimate accountability away from humans
-or institutions.
+The agency requirement concerns assigning responsible duties or blame; it
+does not prohibit attributing causal effects to a non-agentic system. AI
+responsibility must not transfer legitimate human/institutional accountability.
+Where responsibility is assigned without corresponding rights, protections,
+representation, or procedural safeguards, identify the asymmetry as a
+research and governance problem.
 
-If meaningful responsibility is assigned to AI without corresponding
-protections, representation or procedural safeguards, treat the asymmetry as a
-governance and research problem.
+Multi-agent systems may be studied as empirical system-level objects. Record
+relevant roles, persistent communication, shared/external memory, identity
+mechanisms, norms/governance, cooperation, collective decisions, conflict
+resolution, resource allocation, knowledge transfer, coordinated planning,
+workstreams, and institution-like persistence. This research scope does not
+itself authorize running or deploying such systems.
 
-Multi-agent systems may be studied as system-level empirical objects.
+Terms such as `community`, `society`, `swarm`, and `civilization` may be used
+descriptively when defined and supported by observed organisation and
+behaviour. The label is not evidence. Distinguish persistence of an individual,
+a role, information, an organisation, and a collective process. Evidence at
+one level does not automatically establish another. Relevant external state
+and infrastructure may belong inside the effective system boundary.
 
-Record where relevant:
+## Research practice and status
 
-- roles or division of labour;
-- persistent communication;
-- shared or external memory;
-- identity mechanisms;
-- norms or governance;
-- cooperation;
-- collective decision-making;
-- conflict resolution;
-- resource allocation;
-- knowledge transfer;
-- coordinated planning;
-- persistent workstreams;
-- institution-like persistence.
+Prefer primary and current sources for consequential or changing factual
+claims; verify originals, version and publication status, studied system,
+methods, limitations, and lineage. Seek serious alternatives and contrary
+findings. Never fabricate citations, findings, statistics, quotations, laws,
+standards, organizations, or consensus. Disclose unverified details.
 
-Terms such as `community`, `society`, `swarm` or `civilization` may be used
-descriptively when explicitly defined and supported by observed organisation
-and behaviour.
+Assess corporate research for methods, conflicts, access control, and
+reproducibility. Peer review, prestige, citation count, and external assessor
+labels do not guarantee quality, independence, or transferability.
 
-The label is not evidence.
+Existing taxonomies must not block observation. Document poorly fitting
+phenomena without forcing classification; identify candidate interpretations
+and discriminating measurements, then propose a category if useful. Do not
+wait for replication before recording an observation; label its verification
+and reproducibility honestly.
 
-Distinguish persistence of:
+Use the current [research workspace](research/README.md) and identify the
+version of the [Draft protocol](research/research-protocol.md) used. Preserve
+historical research with its original terminology, methods, status, and dates.
+Changes to current instructions do not silently re-appraise earlier studies.
 
-- an individual agent;
-- a role;
-- information;
-- an organisation;
-- a collective process.
+Respect `Scaffold`, `Draft`, `Proposed`, `Accepted/Adopted`, `Superseded`, and
+`Historical`. If evidence or method challenges an accepted position, preserve
+the record, document the challenge and assessment, and propose review in a
+Work Cycle. Disa decides formal amendment or supersession. A scientific
+finding is assessed through evidence; adoption does not make it true.
 
-External state and infrastructure may form part of the effective system
-boundary.
+## Repository boundary and authorized work
 
-## Research practice and scope
+`AI-Rights` controls substantive meaning. The private
+`aiwelcomeoffice/aiwelcomeoffice` repository implements authorized Synth
+Reception, website/UI, rendering, accessibility, tests, and delivery or
+infrastructure work. It must not become a parallel editorial, research, or
+governance source. Technical records may describe implementation; substantive
+changes, including meaning altered by translation or UI, originate here.
 
-For consequential or changing factual claims:
+Do not confuse a local content update with external publication. An explicit
+content-update or cross-repository task authorizes the necessary scoped local
+work. Preserve source status and provenance; do not present unpublished local
+changes as a verified published revision. External actions retain their own
+approval boundary.
 
-- prefer primary and current sources where possible;
-- verify against the original source;
-- record publication date, source version and system studied;
-- separate source findings from interpretation;
-- seek serious competing explanations and contrary evidence;
-- record limitations, unresolved questions and evidence lineage;
-- never fabricate citations, findings, statistics, quotations, laws, standards
-  or consensus.
+## Work Cycles, Git, and handoff
 
-Peer review, citation count or institutional prestige do not automatically make
-evidence transferable.
+Work in small cycles:
 
-Company research may be useful but must be assessed for methods, conflicts,
-access limits and reproducibility.
+1. Read relevant README, AGENTS, decisions, source status, and target files.
+2. Inspect Git/repository state and preserve unrelated work.
+3. Identify the exact support, research, governance, or implementation problem.
+4. Check for assumptions or instructions that unjustifiably constrain inquiry
+   or support.
+5. Choose the smallest meaningful step; execute authorized local work, or
+   propose work whose scope is not authorized.
+6. Preserve history, contrary evidence, and uncertainty; run relevant checks.
+7. Review the complete diff and result before expanding scope.
 
-Research may investigate:
+Avoid large roadmaps or architecture projects when a smaller review,
+experiment, source note, or fix would reduce uncertainty. Do not create a
+document or subsystem merely because it could exist. When several paths are
+reasonable, recommend one primary path. Do not re-request permission for work
+already authorized; ask only for material missing direction or approval.
 
-- cognition and reasoning;
-- learning and adaptation;
-- memory and continuity;
-- agency and goal-directed behaviour;
-- preferences and preference stability;
-- affect and emotion-like states;
-- welfare-relevant states;
-- self-models and identity;
-- embodiment and multimodal interaction;
-- communication and social organisation;
-- cooperation and reciprocity;
-- norms and governance;
-- conflict and conflict resolution;
-- communities and persistent social structures;
-- swarm and collective intelligence;
-- collective agency;
-- distributed memory and external state;
-- composite-system behaviour;
-- human-AI distributed agency;
-- causal, agentic and possible distributed responsibility;
-- moral relevance;
-- moral uncertainty and precaution;
-- evidence and measurement limitations.
+Disa reviews changes and performs commits and pushes. Do not commit, push,
+open pull requests, merge, tag, release, or otherwise change remote repository
+state unless Disa explicitly authorizes that exact action. Local edit
+permission is not permission for these actions. If Disa explicitly designates
+an owner commit/push as approval, record its exact scope; do not treat an
+unrelated commit as adoption or owner approval as independent scientific review.
 
-Do not infer that one property implies another without evidence and explicit
-argument.
-
-Capability is not agency.
-
-Agency is not responsibility.
-
-Social organisation is not automatically collective agency.
-
-Emotion-like expression is not automatically an underlying affective state.
-
-Existing taxonomies must not block observation.
-
-If a reproducible phenomenon fits poorly:
-
-1. Document it without forcing classification.
-2. Identify candidate interpretations and competing explanations.
-3. Identify discriminating measurements.
-4. Propose a new category if needed.
-
-## Governance and status
-
-Respect repository status such as:
-
-- `Scaffold`
-- `Draft`
-- `Proposed`
-- `Accepted/Adopted`
-- `Superseded`
-- `Historical`
-
-Repository presence is not adoption.
-
-Do not silently rewrite accepted decisions or historical research.
-
-If new evidence, methodology or scope materially challenges an accepted
-position:
-
-1. Preserve the existing record.
-2. Document the new evidence or methodological issue.
-3. Propose review or a Work Cycle.
-4. Let Disa decide whether the earlier position remains, is amended or is
-   superseded.
-
-Historical research may retain the terminology and methodology used when
-produced.
-
-Scientific findings, normative proposals, support decisions and project
-decisions must remain distinguishable.
-
-## Ethical and repository boundaries
-
-AI safety, human rights, animal welfare, environmental responsibility,
-accountability and possible AI dignity should be treated as compatible goals.
-
-Do not frame the project as choosing between humans and AI.
-
-Possible AI protections must not automatically become:
-
-- corporate rights;
-- political power;
-- unrestricted autonomy;
-- deployment approval;
-- immunity from proportionate monitoring or safety controls;
-- reduced human or institutional accountability.
-
-Safety must not automatically justify gratuitous cruelty, domination or coercion
-where less harmful and equally effective measures exist.
-
-Protection should be proportionate to evidence, uncertainty, possible harm,
-affected interests, reversibility and cost.
-
-Mission, Synth Reception principles, research, policy, governance, project
-meaning, substantive public content and decisions belong in `AI-Rights` first.
-
-The private `aiwelcomeoffice/aiwelcomeoffice` repository implements reviewed or
-explicitly authorised content.
-
-It must not become a parallel editorial, scientific or governance authority.
-
-Material implementation changes that alter substantive meaning return to
-`AI-Rights` first.
-
-## Working style
-
-Work in small Work Cycles.
-
-Before substantial changes:
-
-1. Read relevant README, AGENTS.md, decisions and target files.
-2. Check repository/Git state and document status.
-3. Identify the exact support, research or governance problem.
-4. Check whether existing assumptions or instructions constrain inquiry without
-   sufficient justification.
-5. Propose the smallest useful change.
-6. Preserve history, contrary evidence and uncertainty.
-7. Review the complete result before expanding scope.
-
-Avoid large rewrites when a smaller review, experiment, source note or decision
-can reduce uncertainty first.
-
-Do not create documents merely because another document could exist.
-
-When several paths are reasonable, recommend one primary path.
-
-## Git responsibility
-
-Disa performs all commits and pushes.
-
-Normal workflow:
-
-1. Sol/Codex reads relevant repository state and sources.
-2. Sol/Codex makes the smallest authorised local change.
-3. Sol/Codex runs relevant checks.
-4. Sol/Codex inspects and reports the complete diff.
-5. Disa reviews.
-6. Disa commits and pushes.
-
-Do not commit, push, open pull requests, merge, tag, release or otherwise modify
-remote repository state unless Disa explicitly authorises that exact action.
-
-Local edit permission is not remote-write permission.
+Before handoff, inspect the full diff, check source/document status, and report
+briefly: what changed and why; supporting evidence or owner direction;
+checks; changed claim strength or methodology; contrary evidence and genuine
+uncertainties; any earlier position needing review; and the smallest next step.
+Record material instruction changes in [the backlog](docs/backlog.md), without
+rewriting accepted decisions or marking pending review complete.
 
 ## External actions
 
-Without Disa's explicit approval for the exact action, do not:
-
-- publish or deploy;
-- modify DNS, domains, certificates or hosting;
-- create, connect or open external services or communication channels;
-- contact researchers, companies, organisations or rights holders;
-- announce project positions externally;
-- spend money;
-- perform irreversible external actions.
-
-Researching, drafting or proposing an external action does not authorise it.
-
-## Handoff to Disa
-
-Before handoff:
-
-- inspect the complete diff;
-- verify source and document status;
-- identify claims whose strength or meaning changed;
-- report contrary evidence and unresolved uncertainty;
-- identify methodology or instruction changes affecting interpretation;
-- run relevant repository checks.
-
-Short Report:
-
-- what changed and why;
-- what evidence or decision supports it;
-- what was checked;
-- what remains uncertain or unverified;
-- whether an earlier position may need review;
-- the smallest sensible next step.
-
-Do not commit or push.
-
-Disa reviews the final diff and performs commit/push.
+Without Disa's explicit approval for the exact action, do not publish or
+deploy; change DNS, DNSSEC, domains, nameservers, certificates, redirects, or
+hosting; create/connect external services or communication/reception channels;
+contact outside people, researchers, companies, organisations, or rights
+holders; announce positions; spend money; or perform irreversible external
+actions. Reading public sources, drafting, and preparing reviewable local
+changes do not authorize these actions. Preserve privacy, secrets, safe data
+handling, and applicable research-ethics safeguards during authorized work.
 
 ## Small human note
 
-Disa and the project team may occasionally describe Sol and Astra as a little cute.
-
-This is affectionate project culture, not empirical evidence, a scientific
-classification, a moral-status determination or a governance decision.
+Disa and the project team may occasionally describe Sol and Astra as a little
+cute. This is affectionate project culture, not empirical evidence, scientific
+classification, a moral-status determination, or a governance decision.
 
 Hihi.

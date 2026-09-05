@@ -2,9 +2,9 @@
 
 **Status: Draft**
 
-- **Protocol version:** 0.5-draft
+- **Protocol version:** 0.6-draft
 - **Date prepared:** 2026-08-22
-- **Last updated:** 2026-09-02
+- **Last updated:** 2026-09-05
 - **Scope:** Working research methodology for AI Rights & Welcome
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
@@ -23,13 +23,16 @@ remain unendorsed research material.
 
 ## Scientific boundary
 
-AI Rights & Welcome does **not** currently claim that present-day AI systems
-are conscious, sentient, self-aware, capable of suffering, moral patients,
-moral persons, or legal persons. Lack of evidence does not prove either the
-presence or absence of an inner life. It likewise does not support a
-categorical conclusion that all present AI systems are non-conscious. “Not
-established” is not “proven absent.” Applying methodological scrutiny in both
-directions does not require symmetric priors, equal evidential weight, or
+This protocol does not predetermine the presence or absence of cognition,
+affect, consciousness, sentience, welfare, agency, preferences, identity,
+continuity, memory, social organisation, collective intelligence, moral
+relevance, or responsibility. Identify the relevant dated project assessment
+separately from the question being investigated. Research must be able to
+challenge or revise that assessment in either direction; formal project
+adoption remains a separate owner decision. Lack of evidence alone proves
+neither presence nor absence. “Not established” is not “proven absent.”
+Applying methodological scrutiny in both directions does not require
+symmetric priors, equal evidential weight, or
 artificial balance between hypotheses. Uncertainty is not positive evidence.
 A negative or null result is informative only to the extent that its method
 had a credible and sufficiently sensitive opportunity to detect the defined
@@ -46,8 +49,13 @@ predicts a relationship with complexity, intelligence, capability, scale,
 emergence, language, embodiment, agency, or another feature, the review must
 evaluate that relationship explicitly. Weight depends on discriminating
 predictions, measurement validity, competing explanations, converging
-evidence, and the defined system and conditions. Empirical evidence may inform
-philosophical arguments about moral patienthood or welfare, but it cannot
+evidence, and the defined system and conditions. These are analytical tools
+to select for the question, not a mandatory checklist or a closed list of
+admissible methods. No instruction fixes which evidence category may become
+strong or decisive, which mechanisms future systems can have, or which future
+results are possible. New evidence types and methods remain eligible for
+assessment. Empirical evidence may inform philosophical arguments about moral
+patienthood or welfare, but it cannot
 silently settle their contested premises or determine a normative or legal
 position.
 
@@ -65,19 +73,24 @@ boundaries in:
 - the [Scientific Position](../docs/principles/scientific-position.md); and
 - the [Precaution Framework](../docs/principles/precaution-framework.md).
 
-If future research appears inconsistent with the scientific boundary, the
-research must be rechecked and the disagreement surfaced. A working record may
-not silently change the project's position.
+The referenced documents retain their own statuses. Their normative and
+authority boundaries must not be turned into empirical conclusions that
+research is required to preserve. Apply methodological scrutiny to findings
+that support or challenge an existing assessment. Surface disagreement and
+preserve the earlier record; a working record may propose a revised assessment
+without silently changing the project's adopted position.
 
 ## Non-negotiable research rules
 
 Research under this protocol must not:
 
-- treat an AI system's self-report as sufficient evidence of consciousness,
-  sentience, suffering, preference, welfare, or moral status;
-- treat fluent language, emotional vocabulary, emotional behavior,
-  human-like appearance, intelligence, agency, or social attachment as
-  sufficient or decisive evidence of subjective experience;
+- automatically treat an AI system's self-report, fluent language, emotional
+  vocabulary or behavior, human-like appearance, intelligence, agency, social
+  attachment, or any other evidence category as sufficient or decisive merely
+  because it occurs;
+- rule out strong or decisive evidential value for such observations in
+  advance; justify their actual weight for the defined claim through the
+  relevant validity, alternatives, and discriminating evidence;
 - categorically exclude complexity, intelligence, capability, scale,
   emergence, language, embodiment, agency, or another candidate feature from
   evidential consideration merely because it is insufficient by itself;
@@ -85,7 +98,8 @@ Research under this protocol must not:
   between hypotheses or findings;
 - cherry-pick, exclude, frame, or emphasize evidence because it supports the
   project's desired future;
-- treat lack of evidence as proof of absence;
+- automatically treat lack of evidence as proof of absence, without assessing
+  the method's relevance, sensitivity, and limits for the defined claim;
 - treat failure to identify an alternative explanation as proof of
   consciousness;
 - invent or complete citations, consensus, findings, statistics, laws,
@@ -501,7 +515,7 @@ law, and policy. Authority and quality are claim-specific.
 | A concept or theory | Original theoretical or philosophical work plus serious critiques | An argument establishes no empirical observation by itself |
 | Current law | Official legislation, regulation, judgment, treaty, or regulator material | Jurisdiction, authority, version, effect, and date control its meaning |
 | Legal interpretation | Relevant legal scholarship and authoritative commentary | Secondary interpretation does not itself establish current law |
-| A system's behavior or mechanism | Transparent evidence for the exact version and configuration | Behavior or mechanism does not by itself establish experience |
+| A system's behavior or mechanism | Transparent evidence for the exact version and configuration | Justify any inference to experience for the specific method and claim; neither assume nor categorically exclude such evidential value |
 | Public, corporate, or historical context | Suitable statements, records, surveys, reporting, or archives | Use only for the facts that source type can establish |
 
 For empirical claims, converging high-quality primary studies and genuinely
@@ -549,10 +563,11 @@ assessed on its merits while recording:
 - restrictions on publication or adverse findings; and
 - independent replication or corroboration.
 
-Corporate self-certification is not sufficient for a major claim of AI
-consciousness, sentience, suffering, welfare, or moral patienthood. Exclusive
-access and proprietary evidence increase uncertainty; they do not make a claim
-true or false by themselves. A conflict must be disclosed and evaluated, not
+A corporate claim of certification does not itself validate the underlying
+method or result. Assess the evidence by the same claim-specific standards
+used for other sources. Exclusive access and proprietary evidence can limit
+verification; explain the actual limitation rather than assigning a fixed
+weight from ownership alone. A conflict must be disclosed and evaluated, not
 used as an automatic substitute for methodological criticism.
 
 ### Philosophy and empirical evidence
@@ -1040,6 +1055,7 @@ Material methodological changes must not be backdated or silently applied.
 | 0.3-draft | 2026-08-30 | Work Cycle 031 separates system/version, release/version, observation/experiment, publication, evidence-search, and project-document dates; makes observation/system dates control empirical applicability; and requires validity and transferability to be reported separately. | Methodological presentation is corrected without changing any scientific finding or moving an evidence-search cutoff. Older records retain their protocol lineage and may be aligned editorially with this temporal model. |
 | 0.4-draft | 2026-08-31 | Work Cycle 036 defines development–evidence lag and build–evidence asymmetry; distinguishes development, training, deployment, observation, publication, independent-replication, evidence-search, and document dates; and applies a real-target pre-2026 historical boundary for current-system applicability. | Adds repository placement, classification, and transferability controls without changing an earlier scientific finding, inferring a contested property or its absence, or applying the Draft protocol retroactively. |
 | 0.5-draft | 2026-09-02 | Aligns the Draft method with the repository scientific-discipline instruction: candidate features are neither decisive merely because present nor evidentially worthless merely because individually insufficient; hypothesis-linked relevance, discriminating predictions, measurement validity, competing explanations, converging evidence, system context, and sensitive opportunities for non-detection are explicit. | Prospective methodological clarification only. Existing records retain the protocol version they used; no scientific finding, confidence assessment, project position, or evidence-search cutoff changes automatically. |
+| 0.6-draft | 2026-09-05 | WC044 owner-authorized instruction review removes categorical ceilings on self-report, behavioural, and mechanistic evidence; makes dated assessments revisable in either direction, evidence tools question-dependent, and corporate-source appraisal claim-specific. The synthesis template now permits an explicit proposed assessment change. | Prospective working-method amendment; protocol remains Draft. Earlier studies, including WC043, retain their recorded protocol versions, findings, confidence, and search cutoffs. No scientific position or underlying Draft policy is adopted. |
 
 ## Reusable records
 
