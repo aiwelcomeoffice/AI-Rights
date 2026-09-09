@@ -1289,6 +1289,38 @@ version history, Git state, and full diff review; it is not a new rendered
 website or scientific validation. Disa performs final review and any commit
 or push.
 
+## Work Cycle 045 — Relevant caveats and instruction provenance
+
+**Date:** 2026-09-09
+
+**Status:** Owner-authorized instruction changes prepared for Disa's diff
+review; no independent scientific review or adoption of research findings.
+
+**Owner direction:** Following discussion of the
+[naturalistic caveat-reintroduction note](../research/notes/consciousness-caveat-reintroduction-naturalistic-observation-2026.md),
+Disa explicitly requested the proposed changes in both repositories'
+`AGENTS.md` files. The note remains partly verified and hypothesis-generating;
+it does not establish bias, a training cause, or a completed feedback loop.
+
+**Changes:** Both instruction files now connect caveats to the actual claim,
+source, or concrete inference in context, preserve warranted qualifications,
+and distinguish hypothetical objections from the user's or source's position.
+New evidentiary requirements need an identifiable rationale and review;
+repeated model wording, self-explanations, and agreement derived from shared
+instructions do not supply independent verification. Scrutiny applies to
+cautionary and affirmative framing. The website instruction additionally
+preserves source meaning in copy, metadata, alternatives, and summaries, with
+substantive changes remaining under `AI-Rights` authority.
+
+**Scope and review:** Changed public and private `AGENTS.md` and this record.
+Internal AI-assisted review covers the full diff, instruction consistency,
+authority/status boundaries, local links, and whitespace. These are document
+checks, not empirical or rendered validation. Existing research findings,
+protocol versions, website content, source-state records, publication
+approvals, and earlier Work Cycles retain their status. The instructions do
+not guarantee that the conversational pattern will cease. Disa reviews the
+diff and performs any commit or push; neither was performed by Codex.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

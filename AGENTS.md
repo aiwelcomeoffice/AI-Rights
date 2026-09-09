@@ -165,6 +165,26 @@ empirical finding. Connections between properties require evidence and explicit
 argument; neither assume that one entails another nor prohibit investigating
 their relationship.
 
+Answer the actual question in its relevant context. Tie epistemic caveats to
+the specific claim, source, or concrete inference being assessed. Do not append
+consciousness-specific caveats merely because capability, cognition, or agency
+is discussed. Retain warranted phenomenon-specific caution and explain its
+relevance; this does not require identical evidentiary standards across
+phenomena or prejudge relationships between them.
+
+Label hypothetical objections as your own analytical additions. Do not
+attribute an unstated position to the user or source, or replace the actual
+question with a stereotyped debate. Respond to scope clarifications.
+
+When drafting or revising `AGENTS.md`, research principles, or governance
+documents, identify new evidentiary requirements and their rationale for
+review. Trace them to relevant evidence, argument, or explicit owner direction;
+repeated model wording and model self-explanations are not independent
+verification. Check whether shared instructions are reproducing the framing
+being evaluated before treating later agreement as corroboration. Apply this
+scrutiny to both cautionary and affirmative framing, without turning a working
+observation into an established bias, training cause, or general research rule.
+
 ## Changing systems, validity, and transferability
 
 AI is not a stable or homogeneous research object. Record, where relevant,
