@@ -27,6 +27,10 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [AI-assisted AI research, recursive self-improvement and societal
+  preparedness](ai-assisted-research-rsi-preparedness-2026.md) — **Draft,
+  partly verified note, 2026-09-09; separates reported research assistance,
+  RSI forecasts, source governance positions and AI-Rights' proposed extension**
 - [Astra: reasoning persistence, monitorability and
   continuity](astra-reasoning-persistence-monitorability-continuity-2026.md) —
   **Draft, partly verified working research through 2026-09-05; centers the
