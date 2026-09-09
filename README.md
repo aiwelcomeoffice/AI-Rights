@@ -105,6 +105,10 @@ how these roles and decisions should be recorded.
 
 ## Current status
 
+For routine agent work, start with [AGENTS.md](AGENTS.md), the target file,
+and [CURRENT.md](CURRENT.md), a small non-authoritative routing summary.
+Follow concrete dependencies instead of loading every document listed below.
+
 The project is in **Milestone 001 — Foundation**. The documents currently in
 this repository are initial scaffolds for review. Unless a document explicitly
 says otherwise, it should not be treated as an adopted scientific conclusion,

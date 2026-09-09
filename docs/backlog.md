@@ -7,6 +7,11 @@
 
 ## How to read this record
 
+For routine task routing, use [CURRENT.md](../CURRENT.md). It is
+non-authoritative; read the standing rules, current owner decisions and exact
+relevant cycle here when a task depends on their scope. The full history is
+not default startup context.
+
 This is the project's single current backlog and change-log entrypoint, as
 directed by Disa on **2026-08-27**. Entries preserve the controlling result of
 each cycle; linked substantive files contain detailed scope, evidence,
@@ -1358,6 +1363,49 @@ record; the preceding WC046 scope describes the initial correction. Internal
 full-diff and instruction-consistency review and whitespace checks passed.
 Research conclusions, website content, and source-state remain unchanged;
 no commit, push, or publication was performed by Codex.
+
+## Work Cycle 047 — Smallest sufficient context
+
+**Date:** 2026-09-09
+
+**Status:** Owner-authorized local instruction/navigation changes prepared for
+Disa's diff review; no adoption of pending documents or historical reappraisal.
+
+**Owner direction:** Reduce recurring context/token load with the smallest
+reasonable change, preserving substantive safeguards, authority, mission,
+human rights, evidence requirements, repository boundaries and history.
+
+**Changes:** Root `AGENTS.md` retains the project constitution, full human-rights
+foundation, repository/external-action boundaries and handoff duties. Detailed
+mission/support, scientific discipline, changing-system, agency/collective and
+research-practice sections move verbatim to `docs/agent-guidance.md` (relative
+links adjusted), with mandatory task-based reading triggers in root. Work
+Cycles start with applicable AGENTS, the target/status, Git state and the small
+non-authoritative `CURRENT.md`; dependencies trigger further reading. Root and
+research READMEs route to this workflow and a protocol section quick reference.
+Backlog history is retained in place; the protocol text/version is unchanged.
+
+**Method and authority:** This changes context loading, not evidentiary
+thresholds, claim strength, scientific conclusions, accepted decisions or
+document adoption. New reading triggers implement Disa's explicit direction;
+the full-protocol triggers cover method design/amendment and unresolved
+cross-section dependencies. The quick reference is not an alternative method.
+Instructions moved out of root remain binding for their stated scope.
+
+**Checks and limits:** Internal full-diff, rule-preservation, local-link and
+whitespace checks; no independent review or measured runtime/token benchmark.
+Risks are missed reading triggers, summary staleness and future divergence
+between summaries and detailed sources. Sources control; unclear applicability
+requires reading the relevant detail. No commit, push or external action.
+
+Root instruction text drops from about 2,400 to 1,400 words (about 43%). A
+rough four-characters-per-token estimate drops from 4,700 to 2,800 tokens;
+`CURRENT.md` adds about 400 tokens of startup reading. Broad tasks needing all
+detail can load more than before because summaries and routes add text; the
+saving targets ordinary bounded tasks, not every task or total repository size.
+
+**Smallest follow-up:** In one ordinary bounded task, record which context was
+actually needed and check that the required detail was loaded.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 

@@ -54,6 +54,10 @@ and does not itself establish any scientific conclusion.
 
 ## Working method
 
+For routine work within an existing scoped plan, use the quick reference below
+to load the relevant method sections. It is a reading guide to the Draft
+protocol, not a replacement method or an adoption decision.
+
 1. Register a scoped question and the evidence that could update a conclusion
    in either direction.
 2. Search and screen under declared inclusion and exclusion criteria.
@@ -83,6 +87,40 @@ they use and must not imply that the protocol as a whole has been adopted.
 
 Reviewed outputs intended for publication belong in
 [`docs/research/`](../docs/research/README.md).
+
+## Protocol quick reference
+
+Check the [protocol metadata](research-protocol.md) for the version used
+(currently **0.6-draft**); retain earlier records' original version. For a
+bounded update, start with the target, its existing plan/source dependencies,
+the applicable template in the workspace map, and the root AGENTS routes.
+An editorial correction that changes no claim or method needs no full-protocol
+read. For evidence or interpretation work, read the protocol's
+[Scientific boundary](research-protocol.md#scientific-boundary),
+[Non-negotiable rules](research-protocol.md#non-negotiable-research-rules),
+[Ethical, safety, and access constraints](research-protocol.md#ethical-safety-and-access-constraints)
+and [Review states/publication boundary](research-protocol.md#review-states-and-publication-boundary),
+then the sections relevant to the actual operation:
+
+| Operation | Required protocol sections |
+| --- | --- |
+| Define or assess a question, system or temporal applicability | [Research questions and scope](research-protocol.md#research-questions-and-scope), including time bounds and development–evidence lag; [Terminology](research-protocol.md#terminology-and-competing-definitions) |
+| Search, screen or extract a source | [Research workflow](research-protocol.md#research-workflow), [Source inclusion/exclusion](research-protocol.md#source-inclusion-and-exclusion), [Reproducibility](research-protocol.md#reproducibility-and-transparency) |
+| Appraise or change a substantive claim | [Claim types](research-protocol.md#classify-every-substantive-claim), [Source quality](research-protocol.md#source-quality-and-evidence-hierarchy), [Evidence-quality profile](research-protocol.md#evidence-quality-profile), [Independence/lineage](research-protocol.md#independence-and-evidence-lineage), [Negative/null/contradictory evidence](research-protocol.md#negative-null-and-contradictory-evidence) |
+| Interpret, compare or update conclusions | [Observation/interpretation/decision](research-protocol.md#separate-observation-from-interpretation-and-decision), [Confidence](research-protocol.md#uncertainty-and-confidence-language), [Disagreement](research-protocol.md#record-disagreement-between-experts), [Update conditions](research-protocol.md#record-what-would-change-a-conclusion), [Maintenance triggers](research-protocol.md#maintenance-and-review-triggers) |
+| Verify a citation, quotation or source revision | [Citation verification](research-protocol.md#citation-and-quotation-verification), [Corrections/dates/versioning](research-protocol.md#retractions-corrections-dates-and-versioning) |
+
+Combine rows when operations overlap; read sections through the next heading
+of the same level, including their subsections. Follow concrete dependencies
+within them. Unlisted applicable requirements still apply; this guide does not
+waive safeguards, required records, review or permission boundaries.
+
+**Read the full protocol** before designing a new or materially rescoped review,
+synthesis or experiment; amending the protocol or claiming protocol-wide
+compliance; or resolving a methodological conflict whose scope cannot be
+bounded to specific sections. Routine work does not require reloading already
+available, unchanged context. Neither this guide nor a full read changes the
+protocol's Draft status or earlier findings.
 
 ## Emerging capability and safety horizon work
 
