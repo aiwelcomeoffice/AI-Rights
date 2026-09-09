@@ -1350,6 +1350,15 @@ Complete-chat/system/date verification and independent review remain open.
 No literature review, external-claim verification, website change, commit,
 or push; Disa performs final diff review and any Git publication actions.
 
+**Follow-up — 2026-09-09:** Disa requested checking the web repository's
+`AGENTS.md` too. Its remaining special-case caveat sentence was aligned with
+the public generalized rule, preserving website source-meaning safeguards.
+This follow-up changes only private `aiwelcomeoffice/AGENTS.md` and this
+record; the preceding WC046 scope describes the initial correction. Internal
+full-diff and instruction-consistency review and whitespace checks passed.
+Research conclusions, website content, and source-state remain unchanged;
+no commit, push, or publication was performed by Codex.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
