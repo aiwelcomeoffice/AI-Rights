@@ -1321,6 +1321,35 @@ approvals, and earlier Work Cycles retain their status. The instructions do
 not guarantee that the conversational pattern will cease. Disa reviews the
 diff and performs any commit or push; neither was performed by Codex.
 
+## Work Cycle 046 — Small correction to WC045 and chat-note context
+
+**Date:** 2026-09-09
+
+**Status:** Owner-authorized local correction prepared for Disa's diff review;
+no new scientific finding or independent review. WC045 retains its history.
+
+**Correction and basis:** At Disa's explicit direction, generalized the public
+`AGENTS.md` caveat instruction to adjacent or unstated phenomena, avoiding a
+special rule that could make one phenomenon salient; that possible effect is
+not established here. Relevant phenomenon-specific caution, differing
+evidentiary standards, scientific openness, and scrutiny of both cautionary
+and affirmative framing remain. No new evidentiary requirement is introduced.
+
+Updated the [note](../research/notes/consciousness-caveat-reintroduction-naturalistic-observation-2026.md)
+and [source record](../research/sources/consciousness-caveat-reintroduction-chat-report-2026.md)
+to version 0.3 using Disa's supplied S3–S5 wording and context. S3/S4 remain
+the strongest observation. S5 was explicitly hypothetical, not attributed to
+the user; the possible effect is analytical reframing. The five competing
+hypotheses remain untested, cause remains **indeterminate**, and the note
+remains naturalistic, hypothesis-generating, single-case evidence.
+
+**Scope and checks:** Only public `AGENTS.md`, the note, source record, and
+this backlog changed. Full diff, quotation/context provenance, claim strength,
+instruction consistency, local links, and whitespace checked internally.
+Complete-chat/system/date verification and independent review remain open.
+No literature review, external-claim verification, website change, commit,
+or push; Disa performs final diff review and any Git publication actions.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

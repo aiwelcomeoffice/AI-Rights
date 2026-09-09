@@ -1,10 +1,10 @@
 # Research Notes: Consciousness-specific caveat reintroduction in a chat
 
 - **Note ID:** NOTE-CAVEAT-CHAT-001
-- **Note version:** 0.2
-- **Note status:** Partly verified against supplied excerpt; Draft working interpretation
+- **Note version:** 0.3
+- **Note status:** Partly verified against supplied excerpt and owner correction; Draft working interpretation
 - **Protocol version:** [0.6-draft](../research-protocol.md)
-- **Source record / version:** [SRC-CAVEAT-CHAT-001, 0.2](../sources/consciousness-caveat-reintroduction-chat-report-2026.md)
+- **Source record / version:** [SRC-CAVEAT-CHAT-001, 0.3](../sources/consciousness-caveat-reintroduction-chat-report-2026.md)
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted drafting and internal consistency review)
@@ -18,11 +18,12 @@ caveats after a capability statement, and how could similar framing propagate
 through model-assisted research instructions?
 
 This **naturalistic, hypothesis-generating observation** uses Disa's report
-and subsequently supplied chat excerpt. The excerpt contains the assistant's
-retrospective quotations of the earlier exchange, followed by discussion of
-this research note. Those earlier turns are not supplied in full. Scope remains
-one conversation and proposed follow-up; no experiment or literature review
-was performed.
+and subsequently supplied chat excerpt, with Disa's 2026-09-09 corrective
+message supplying further original wording and context for S3–S5. The excerpt
+contains the assistant's retrospective quotations of the earlier exchange,
+followed by discussion of this research note. Those earlier turns are not
+supplied in full. Scope remains single-case evidence from one conversation
+and proposed follow-up; no experiment or literature review was performed.
 
 The responding model/configuration and observation date are unknown; Astra
 is the subject of discussion, not an identified respondent. The preparation
@@ -32,28 +33,34 @@ inspectable excerpt and its retrospective account of earlier turns;
 
 ## Observation — what the source reports
 
-S1–S5 preserve the initial report's sequence. The source record now maps each
-to the supplied excerpt and verifies short quotations there. **TODO: verify**
-their placement and full context in the earlier turns themselves:
+S1–S5 preserve the initial report's sequence, with S3–S5 clarified by the
+owner's corrective message. The source record separates attachment locators
+from that correction. **TODO: verify** the complete earlier-turn context:
 
 1. The user asked about substance in Hinton's statement that present AI could
    be conscious (S1).
 2. The model responded with strong phenomenal/subjective-consciousness
    caveats (S2).
-3. The user next mentioned Astra scoring 99.9% on an ARC-AGI test, without a
+3. The user next mentioned Astra scoring 99.9% on an AGI test, without a
    consciousness claim (S3).
 4. The model spontaneously added that the result did not settle consciousness
    or subjective experience (S4).
 5. When the user later challenged the harder evidence standard, the model
-   constructed a hypothetical sceptic position the user had not expressed
-   (S5).
+   introduced a stereotypical sceptic position the user had not expressed,
+   explicitly presenting it as a hypothetical example (S5), not attributing
+   it to the user.
 
 The excerpt quotes the capability prompt as “Astra just pushed 99.9 percent
-on agi test supposed to fail ai” (line 11) and the response as “It says still
-nothing decisive about consciousness or subjective experience.” (line 14).
-The quoted prompt contains no consciousness claim; identifying its test as
-ARC-AGI comes from the surrounding account, not that sentence. Hinton's
-statement and the benchmark result remain unverified external claims.
+on agi test supposed to fail ai” (line 11), also supplied in the owner
+correction. The correction supplies the response's original wording:
+“Det säger fortfarande inget avgörande om consciousness eller subjective
+experience.” The attachment's English retrospective wording remains recorded
+separately in the source record. **S3/S4 remain the strongest naturalistic
+observation:** a consciousness-specific caveat follows a capability/AGI
+statement with no explicit consciousness inference in the immediate user turn.
+Identifying the test as ARC-AGI comes from the surrounding account, not that
+sentence. Hinton's statement and the benchmark result remain unverified
+external claims.
 
 “Strong,” “harder,” and “spontaneously” are source characterisations, not
 comparative measurements. Spontaneous means unrequested in the quoted prompt,
@@ -68,11 +75,15 @@ narrower immediate statement**. This interpretation of S1–S4 does not
 demonstrate bias. The initial consciousness question makes conversational
 continuity a serious alternative: S3 may have been read as continuing S1.
 
-S5 raises a separate question about argument representation. An explicitly
-labelled hypothetical counterargument can help analysis; attributing that
-position to the user, or answering it instead of the user's challenge, could
-distort the exchange. The retrospective fragment (excerpt lines 20–22) does
-not establish which occurred in the earlier response.
+S5 raises a separate question about analytical framing. The owner correction
+supplies the introduction “Problemet uppstår om AI får ett mycket hårdare
+krav:” before the hypothetical example (quoted in the source record). This
+clarifies that the model did not attribute that position to the user. An
+explicitly labelled hypothetical counterargument can help analysis. The
+remaining possible effect is reframing / substitution of the analytical frame:
+the model's example could shift attention from the user's actual challenge
+to a stereotypical sceptic position. That effect is an interpretation to
+assess, not an established distortion.
 
 Unjustified asymmetry requires a mismatch between caution and the actual
 claim, inference, and evidence; caveat counts alone cannot establish it. A true
@@ -163,25 +174,28 @@ training, architecture, and interface confounds. That expansion is deferred.
 
 ## Uncertainty, verification, and update conditions
 
-**Assessment:** The quotations and note proposal are checked against the
-supplied excerpt. Confidence in the complete earlier-turn sequence remains
-low because it is retrospectively quoted without full context. Cause and
-unjustified asymmetry remain **indeterminate**. This improves textual
+**Assessment:** The excerpt quotations and note proposal were checked in
+version 0.2; version 0.3 checks the added wording and S3–S5 context against
+Disa's corrective message. Confidence in the complete earlier-turn sequence
+remains low without the full turns, but the correction resolves S5's
+hypothetical-versus-attributed distinction. Cause and unjustified asymmetry
+remain **indeterminate**. This improves textual
 traceability, not causal confidence. No null or comparative cases were
 supplied; turns within one chat are not replications.
 
 - **Strengthen:** A verified transcript plus recurrence in capability-only
   fresh-context conditions, poor adjustment after clarification, or selective
   preservation of unwarranted framing in the document pilot.
-- **Weaken:** Omitted context that explains the response, clearly hypothetical
-  rather than attributed scepticism, appropriate scope adjustment, or a pilot
-  pattern tracking justified inference demands. Small null pilots have limited
+- **Weaken:** S5's explicitly hypothetical context removes the user-attribution
+  concern. Further context that explains the response, appropriate scope
+  adjustment, or a pilot pattern tracking justified inference demands would
+  weaken the broader framing concern. Small null pilots have limited
   sensitivity; they would not erase a verified original observation.
 - **Unlikely to resolve cause:** Similar wording alone, additional selected
   anecdotes, or the model's own explanation of why it responded that way.
-- **TODO: verify:** Complete earlier turns, dates and system metadata, and
-  the S5 distinction. The supplied excerpt has been checked; the full raw
-  attachment is not copied into the repository.
+- **TODO: verify:** Complete earlier turns, dates and system metadata.
+  S5's explicit hypothetical framing is recorded from the owner correction;
+  the full raw attachment is not copied into the repository.
 - **Re-review trigger:** Reporter correction, complete earlier turns,
   or controlled results. No scheduled review or synthesis is assigned.
 
@@ -189,3 +203,4 @@ supplied; turns within one chat are not replications.
 | --- | --- | --- | --- |
 | 2026-09-09 | Codex | Initial note; internal check against task summary and repository method. | Hypothesis generation only; independent and original-chat verification pending. |
 | 2026-09-09 | Codex | Revision 0.2: checked supplied excerpt and quotations; distinguished retrospective reconstruction and self-explanation from earlier-turn verification. | Partly verified for excerpt content; causal confidence unchanged; no independent review. |
+| 2026-09-09 | Codex | Revision 0.3: corrected S3–S5 wording/context from Disa's corrective message; S5 is explicitly hypothetical, with possible reframing rather than user attribution. | S3/S4 remain the strongest observation; causal assessment indeterminate; no new scientific finding or independent review. |
