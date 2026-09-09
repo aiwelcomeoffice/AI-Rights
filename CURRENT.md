@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-09-09 (WC047). Not an adoption, approval, publication, or live-service
+2026-09-09 (WC048). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,9 +18,10 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **This cycle:** [WC047](docs/backlog.md#work-cycle-047--smallest-sufficient-context)
-  prepares context-routing changes for Disa's diff review. It does not reappraise
-  research or adopt pending documents.
+- **This cycle:** [WC048](docs/backlog.md#work-cycle-048--noetra-deployment-context-intake)
+  adds partly verified NOETRA deployment-context research for Disa's review;
+  announcements and national targets remain distinct from implementation.
+  No system-property classification or pending-document adoption follows.
 
 Keep this file small: update affected routes/status with their source when
 they change; leave task lists, decisions and Work Cycle history in the backlog.

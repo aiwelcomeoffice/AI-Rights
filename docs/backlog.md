@@ -1407,6 +1407,30 @@ saving targets ordinary bounded tasks, not every task or total repository size.
 **Smallest follow-up:** In one ordinary bounded task, record which context was
 actually needed and check that the required detail was loaded.
 
+## Work Cycle 048 — NOETRA deployment-context intake
+
+**Date:** 2026-09-09
+
+**Status:** Owner-requested local research prepared for Disa's review; partly
+verified working material, not adopted or independently reviewed.
+
+**Result:** Added a short [NOETRA deployment-context note](../research/notes/noetra-physical-ai-deployment-context-2026.md)
+and [compact source records/search log](../research/sources/noetra-deployment-context-announcements-2026.md).
+Primary announcements establish the programme, participants, model/compute
+plans and conditional NEDO selection. National robot/investment targets remain
+policy intentions; secondary funding amounts and operational properties remain
+unverified. Relevance is bounded to existing integration, control, continuity,
+provenance, accountability and support questions.
+
+**Checks and limits:** Claim/source, date, announcement/implementation,
+transferability, limiting-evidence, local-link and full-diff checks. Protocol
+0.6-draft used with compact template presentation; no methodology, adopted
+position or existing claim strength changed. METI direct-access and translation
+limits remain explicit. No commit, push, publication or external action.
+
+**Smallest next step:** Revisit when a model/system card, deployment or
+construction record, NEDO review or official correction supplies new evidence.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
