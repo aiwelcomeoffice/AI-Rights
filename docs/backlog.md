@@ -1431,6 +1431,55 @@ limits remain explicit. No commit, push, publication or external action.
 **Smallest next step:** Revisit when a model/system card, deployment or
 construction record, NEDO review or official correction supplies new evidence.
 
+## Work Cycle 049 — RSI preparedness review & state sync
+
+**Date:** 2026-09-09
+
+**Status:** Project-owner-requested review performed by Codex at Disa's
+direction; not Disa's personal sign-off or independent scientific review.
+The [RSI/preparedness note](../research/notes/ai-assisted-research-rsi-preparedness-2026.md)
+remains **Draft / partly verified**, not adopted.
+
+**Reviewed:** Framing and claim strength; OpenAI/Pachocki attribution;
+reported research assistance, automation, RSI forecasts and demonstrated
+feedback; validity for the studied workflows versus transferability;
+empirical/normative separation; contrary details, alternatives and uncertainty.
+S1/S2's live text and visible appendix were rechecked without a broader search.
+
+**Small corrections:** Specified that the 4–8-hour task horizon estimates
+human work, bounded the 85% allocation offset to analyzed RL workloads, and
+clarified Pachocki's strong but conditional forecast and declining ability to
+rely on CoT monitoring. Clarified that greater agency/continuity/integration
+is not a prerequisite for relevant research or support questions, and that
+the note does not assess welfare or other status properties. Updated review
+provenance and the smallest follow-up. `CURRENT.md` now routes to WC049;
+the notes index already describes the retained status correctly.
+
+**Evidence and limits:** No empirical confidence upgrade or methodology change
+(protocol 0.6-draft). Source attribution is more precise, not independently
+validated. Human steering, compute growth, task selection/classification and
+research bottlenecks remain alternatives or limits to causal acceleration
+claims; sustained autonomous RSI is not demonstrated by the reviewed material.
+Classifier validation, excluded outcomes, raw logs, exact checkpoints,
+interactive methods panels, revision histories and independent corroboration
+remain unresolved. Study dates and transferability limits are unchanged.
+
+**Authority:** This cycle adopts no Draft document or scientific, legal or
+moral-status classification, and authorizes no new policy, external publication
+or deployment. Human rights and institutional accountability remain independent
+of AI status; existing dignity and preparedness principles remain intact.
+No accepted position was identified as needing reversal. No private-repository
+work, commit, push, PR or external-state change occurred.
+
+**Checks:** Required context was limited to root instructions, current routing,
+relevant backlog records, the note/index, and required guidance, protocol
+sections and note template; no full backlog/history or full protocol read.
+Claim/source, status, date, local-link/anchor, full-diff and whitespace checks.
+
+**Smallest next step:** Check S2's task-success classifier validation and
+treatment of excluded outcomes in its detailed methods before stronger
+empirical use; record verified details and access gaps. WC050 is not started.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

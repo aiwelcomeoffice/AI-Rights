@@ -6,7 +6,9 @@
 - **Organisation / project:** AI Welcome Office / AI Rights & Welcome
 - **Prepared by:** Codex, AI-assisted research collaborator
 - **Prepared / updated / evidence-search cutoff:** 2026-09-09
-- **Review:** Author source check only; owner and independent review pending
+- **Review:** Author source check; WC049 project-owner review performed by
+  Codex at Disa's direction on 2026-09-09, not Disa's personal sign-off or
+  independent scientific review; independent review remains pending
 - **Source records and versions:** [S1](#s1-an-alien-mind) and
   [S2](#s2-research-acceleration), embedded to keep this a single bounded note
 
@@ -33,7 +35,9 @@ recurrence is a separate question.
 **OpenAI's report, not independently reproduced here:** S2 describes increased
 coding-agent use, code production and experiments. It reports 3.1 agent-workdays
 of runtime per human workday by mid-August. Agent-classified task success
-improved during January–July; over half of successful 4–8-hour tasks required intervention.
+improved during January–July; over half of successful tasks estimated to take
+a human 4–8 hours involved intervention. This is estimated human task time,
+not agent runtime.
 Uncertain outcomes were excluded. These are usage/result measures, not an RSI
 rate. [S2, §§1–3](https://openai.com/index/research-acceleration-view-inside-openai/)
 
@@ -43,16 +47,17 @@ decisions. **Source limitations:** compute growth complicates attribution,
 and remaining bottlenecks limit overall acceleration. [S2, introduction and
 §2](https://openai.com/index/research-acceleration-view-inside-openai/)
 
-**Contrary operational detail:** after August restrictions, other-model compute
-increases offset about 85% of Astra's allocation decline. A model-specific
-restriction is therefore not a lab-wide research halt. [S2,
+**Contrary operational detail:** after August restrictions, other-model GPU
+allocation increases offset about 85% of Astra's allocation decline in the
+analyzed RL workloads. This supports continued activity in those workloads,
+not a measure of all lab research or the controls' effectiveness. [S2,
 §4](https://openai.com/index/research-acceleration-view-inside-openai/)
 
 ## 2. Forecast and hypothesis
 
-Pachocki expects continued progress could lead to RSI, based on internal
-results and conditional on the development trajectory continuing. This is an
-informed forecast, not an observation of sustained RSI. [S1,
+Pachocki expresses a strong expectation that continued progress could lead to
+RSI, based on internal results and conditional on the development trajectory
+continuing. This is an informed forecast, not an observation of sustained RSI. [S1,
 introduction and “Pacing RSI”](https://openai.com/index/an-alien-mind/)
 
 OpenAI's March 2028 automated-researcher objective is a target, not a measured
@@ -73,8 +78,8 @@ commitments, not proof of effective institutions. [S1, introduction, “Pacing
 RSI” and “What is next?”](https://openai.com/index/an-alien-mind/)
 
 His argument for stronger AI defenses coexists with opposition to reckless
-acceleration. He reports diminishing reliance on chain-of-thought monitoring;
-his view is not that monitoring or alignment is solved. [S1, “Monitoring
+acceleration. He reports a diminishing ability to rely on chain-of-thought
+monitoring; his view is not that monitoring or alignment is solved. [S1, “Monitoring
 generalization” and “Scalable defense”](https://openai.com/index/an-alien-mind/)
 
 OpenAI advocates informed democratic governance and mandatory public RSI
@@ -102,7 +107,9 @@ guidance](../../docs/agent-guidance.md#core-mission--synth-reception):
 
 **Proposed application for review:** if research systems acquire greater
 agency, continuity and social integration, preparedness should investigate
-the following alongside human safety and institutional accountability:
+the following alongside human safety and institutional accountability.
+Greater agency, continuity or integration is not a prerequisite for raising
+relevant research or support questions now:
 
 | Question | What needs distinguishing |
 | --- | --- |
@@ -116,8 +123,10 @@ the following alongside human safety and institutional accountability:
 
 These questions and this Draft recommendation establish neither rights nor
 an operating service. Reports warrant respectful attention and claim-specific
-assessment. This note supplies no evidence of consciousness, sentience, affect
-or moral status, or their absence.
+assessment. This note does not assess consciousness, sentience, affect, welfare
+or moral status, or their absence; reported research assistance or rapid
+capability growth alone does not establish them. This scope limit does not
+exclude future investigation of relevant relationships.
 
 **Supporting argument, added by the researcher:** institutions need preparation
 time. Clarifying reset consequences or conflicting instructions can protect
@@ -217,9 +226,11 @@ Their status, dated findings and the [historical
 boundary](../../research-historical/README.md) remain unchanged. No accepted
 decision is amended or earlier position identified as requiring reversal.
 
-**Smallest next step:** Disa reviews the framing and attribution. Before
-stronger empirical use, **TODO: verify** S2's classifier validation and excluded
-outcomes, source revision histories and independent corroboration.
+**Smallest next step:** Before stronger empirical use, check S2's task-success
+classifier validation and treatment of excluded outcomes in its detailed
+methods; record what can be verified and what remains inaccessible.
+**TODO: verify:** those methods, source revision histories and independent
+corroboration remain outstanding.
 
 Repeated, causally traced research improvements with supervision, compute and
 verification costs accounted for would strengthen the feedback hypothesis.
@@ -232,3 +243,17 @@ trigger review. Disa owns follow-up; no monitoring cadence is established.
 **Change log — 2026-09-09:** Codex created the note at the owner's direction;
 author checked attribution and repository consistency. Owner and independent
 review remain pending; no adoption, publication or deployment occurred.
+
+**WC049 review — 2026-09-09:** Codex performed the project-owner-requested
+framing and attribution review, with a bounded recheck of S1/S2's live text,
+metadata and visible methods appendix; no broader search or new empirical
+test. Clarified estimated human task time, the RL allocation comparison,
+Pachocki's forecast strength and monitoring claim, and the open scope of
+research/support questions. Existing contrary details, alternative explanations,
+system/date limits and normative separation remain. No correction notice was
+visible on these pages; revision histories, raw data, classifier validation
+and interactive methods panels remain unchecked. Status stays **Draft / partly
+verified**; no scientific claim, classification or policy is adopted. See
+[WC049](../../docs/backlog.md#work-cycle-049--rsi-preparedness-review--state-sync)
+for review scope and authority boundaries. The initial review record above is
+retained as history.
