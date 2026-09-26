@@ -30,8 +30,16 @@ validity and transferability limits.
 
 ## Emerging capability and safety horizon records
 
-These records began on 2026-08-28 and were materially refreshed through
-2026-09-03 for a separate working investigation of frontier-agent capability,
+The 2026-09-27 Medicare intake has three separate, partly verified source
+records: the [Australian prime minister's official
+statement](australian-pm-medicare-agent-press-conference-2026.md),
+[Transluce's AIHW urlquery analysis](transluce-agent-activity-urlquery-2026.md),
+and [ABC's reporting and inspected wiki
+posts](abc-medicare-aihw-agent-report-2026.md). They do not establish a shared
+Medicare–AIHW run or count as three independent confirmations of one event.
+
+The earlier records listed below began on 2026-08-28 and were materially
+refreshed through 2026-09-03 for a separate working investigation of frontier-agent capability,
 containment, emergent social organisation, collective problem solving,
 affect-related behavior, external-state continuity, post-incident evaluation,
 and AGI-proximity claims. They are not part of the AI consciousness evidence

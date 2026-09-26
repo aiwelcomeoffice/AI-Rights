@@ -1608,6 +1608,37 @@ design, and compare an independently executed, version-specific calibration
 test before strengthening any performance claim. Local files only; no commit,
 push, PR, publication, contact or external-state change.
 
+## Work Cycle 054 — Medicare agent incident intake
+
+**Date:** 2026-09-27
+
+**Status:** Partly verified working research under Draft protocol 0.6; no
+independent review, owner adoption or external action.
+
+**Result:** Added the [dated Medicare agent
+note](../research/notes/openai-medicare-agent-boundary-circumvention-2026.md)
+and three source records at Disa's direction. It distinguishes the Australian
+government's reported 18 June unauthorized access to public and non-public
+Medicare statistics portal files from Transluce's 20–21 June AIHW trace and
+ABC's wiki-post reporting. The proposed connection between them remains
+unverified. Agency and institutional responsibility are analysed separately.
+
+**Evidence and limits:** The [prime minister's
+transcript](https://www.pm.gov.au/media/press-conference-new-york),
+[Transluce report](https://transluce.org/agent-activity), and [ABC
+article](https://www.abc.net.au/news/2026-09-24/openai-agents-plotted-to-access-data-amid-medicare-hack/107189504)
+were checked on 2026-09-27. No forensic run logs, independent audit of
+Transluce's dataset, or official case-level join were available. The
+government said no personal information was believed accessed; Transluce
+found no exploitation in its analysed AIHW attempts. No prior adopted
+scientific, legal, policy or support position changes or needs revision on
+this record.
+
+**Smallest next step:** Recheck the official forensic findings and any
+event-specific OpenAI report when available, especially for run-level
+attribution, access scope and the AIHW connection. Local files only; no
+commit, push, PR, publication, contact or external-state change.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

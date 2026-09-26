@@ -27,6 +27,11 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [OpenAI Medicare portal event and related AIHW agent
+  traces](openai-medicare-agent-boundary-circumvention-2026.md) — **Partly
+  verified 2026-09-27 working note; separates the government's 18 June
+  portal account from Transluce's 20–21 June AIHW trace and the unverified
+  connection; no agency-depth, responsibility, legal or project conclusion**
 - [AI-assisted AI research, recursive self-improvement and societal
   preparedness](ai-assisted-research-rsi-preparedness-2026.md) — **Draft,
   partly verified note, 2026-09-09; separates reported research assistance,
