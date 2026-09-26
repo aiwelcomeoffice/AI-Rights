@@ -77,6 +77,17 @@ evaluations; the WIRED record concerns a separate experimental product mode.
   pathways and six frictions, not empirical evidence that AGI, ASI, sustained
   recursive improvement, or group agency has been observed**
 
+## Decision-native AI case sources
+
+- [TypeSafe Jev launch post](typesafe-jev-launch-2026.md) — **Partly verified
+  first-party description and developer performance claims, 2026-09-15**
+- [TypeSafe Jev confidence documentation](typesafe-jev-confidence-docs-2026.md)
+  — **Partly verified first-party API semantics, not outcome calibration**
+- [Rafe and Das Jev crash-narrative calibration
+  preprint](rafe-das-jev-crash-narratives-2026.md) — **Partly verified
+  arXiv:2609.24052v1 study of pinned Jev 1.13.0; task-specific raw
+  miscalibration reported, no independent reproduction here**
+
 ## Embodied social AI case records
 
 These records were added on 2026-08-29 for the bounded Moya / embodied social

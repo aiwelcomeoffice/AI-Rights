@@ -138,6 +138,16 @@ publications and source versions through 2026-09-03 and record a separate
 2026-08-27 product-code source required to disambiguate persistence
 terminology.
 
+## Decision-native AI case work
+
+The [Jev decision-native AI intake](notes/jev-decision-native-ai-intake-2026.md)
+adapts a 2026-09-19 early draft into a bounded, partly verified working note.
+It separates a typed decision interface and developer calibration claims from
+one post-launch, task-specific calibration preprint, and keeps decision
+influence, agency, responsibility, safety and subjective-experience questions
+distinct. Its evidence-search cutoff is 2026-09-27; it is not an adopted
+scientific or governance conclusion.
+
 ## Contemporary embodied AI case work
 
 The [Moya / embodied social AI intake](notes/moya-embodied-social-ai-intake-2026.md)

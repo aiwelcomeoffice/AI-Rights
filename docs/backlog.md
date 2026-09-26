@@ -1576,6 +1576,38 @@ scientific classification, methodology, or accepted position follows.
 **Smallest next step:** Review the revised card against the specific Astra
 claims already recorded if that evidence line is taken up again.
 
+## Work Cycle 053 — Jev decision-native AI research intake
+
+**Date:** 2026-09-27
+
+**Status:** User-supplied 2026-09-19 early draft adapted as partly verified
+working research under Draft protocol 0.6; no owner adoption or independent
+review.
+
+**Result:** Added the [Jev decision-native AI
+note](../research/notes/jev-decision-native-ai-intake-2026.md) and three
+source records. The note preserves questions about bounded choice, practical
+control, agency, responsibility and governance. It distinguishes TypeSafe's
+interface and calibration claims from a later preprint's task-specific
+finding that raw Jev 1.13.0 probabilities were miscalibrated in a
+crash-narrative coding workflow. It also separates distribution-derived
+confidence from empirical error rates.
+
+**Evidence and limits:** The [developer launch
+post](https://typesafe.ai/blog/introducing-system-one-models-and-jev),
+[confidence documentation](https://docs.typesafe.ai/confidence), and [Rafe
+and Das v1 preprint](https://arxiv.org/abs/2609.24052) were checked on
+2026-09-27. The preprint is not peer reviewed or reproduced here; its
+observation date and funding/access terms remain to be verified. No broad
+calibration, agency, consciousness, welfare, responsibility, safety,
+governance or support conclusion changed. No earlier adopted position needs
+revision on this record.
+
+**Smallest next step:** Check the preprint's data/code and reference-label
+design, and compare an independently executed, version-specific calibration
+test before strengthening any performance claim. Local files only; no commit,
+push, PR, publication, contact or external-state change.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

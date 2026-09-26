@@ -44,6 +44,13 @@ are preserved, without a status or scientific-conclusion change, in the
   continuity assessments; not a project conclusion and not part of the AI
   consciousness evidence baseline**
 
+## Decision-native AI case intake
+
+- [Jev and decision-native AI](jev-decision-native-ai-intake-2026.md) —
+  **Partly verified working note, 2026-09-27; distinguishes TypeSafe's typed
+  output design and calibration claims from one task-specific preprint result;
+  no agency, experience, welfare or governance classification**
+
 ## Contemporary embodied AI case intake
 
 - [NOETRA and Japan's emerging physical-AI infrastructure](noetra-physical-ai-deployment-context-2026.md)
