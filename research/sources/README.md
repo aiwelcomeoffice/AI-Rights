@@ -70,6 +70,13 @@ evaluations; the WIRED record concerns a separate experimental product mode.
   investigator commentary on the shared corpus; additional social and
   cross-run observations, not an independent evidence line**
 
+## AGI-to-ASI pathway and collective-capability context
+
+- [Genewein et al.: *From AGI to ASI*](genewein-et-al-from-agi-to-asi-2026.md)
+  — **Partly verified v2 conceptual report intake, 2026-09-26; four potential
+  pathways and six frictions, not empirical evidence that AGI, ASI, sustained
+  recursive improvement, or group agency has been observed**
+
 ## Embodied social AI case records
 
 These records were added on 2026-08-29 for the bounded Moya / embodied social

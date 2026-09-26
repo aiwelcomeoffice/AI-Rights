@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-09-09 (WC049). Not an adoption, approval, publication, or live-service
+2026-09-26 (WC050). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,11 +18,12 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC049](docs/backlog.md#work-cycle-049--rsi-preparedness-review--state-sync)
-  records the owner-requested [RSI/preparedness note](research/notes/ai-assisted-research-rsi-preparedness-2026.md)
-  review performed by Codex. The note remains Draft / partly verified; the
-  next bounded check concerns S2's task-success methods. No classification,
-  Draft adoption, new policy or external-action authorization follows.
+- **Latest cycle:** [WC050](docs/backlog.md#work-cycle-050--agi-to-asi-report-intake)
+  records a bounded, partly verified [source intake](research/sources/genewein-et-al-from-agi-to-asi-2026.md)
+  of Google DeepMind's AGI-to-ASI pathway report. It adds conceptual context
+  for collective capability and recursive improvement, without changing the
+  Draft [RSI/preparedness note](research/notes/ai-assisted-research-rsi-preparedness-2026.md)
+  or establishing an empirical transition, new policy or adoption.
 
 Keep this file small: update affected routes/status with their source when
 they change; leave task lists, decisions and Work Cycle history in the backlog.

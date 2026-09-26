@@ -1480,6 +1480,39 @@ Claim/source, status, date, local-link/anchor, full-diff and whitespace checks.
 treatment of excluded outcomes in its detailed methods before stronger
 empirical use; record verified details and access gaps. WC050 is not started.
 
+## Work Cycle 050 — AGI-to-ASI report intake
+
+**Date:** 2026-09-26
+
+**Status:** Disa flagged the report and authorized bounded local judgment.
+Codex prepared a [partly verified source record](../research/sources/genewein-et-al-from-agi-to-asi-2026.md)
+for review; it is working research, not adopted or independently reviewed.
+
+**Result:** Registered arXiv v2 of Google DeepMind authors' *From AGI to ASI*
+as conceptual context for existing recursive-improvement and collective-agent
+questions. The report maps four possible pathways and six frictions; its
+multi-agent group-agency route and transition pace remain hypotheses/open
+questions, not observed AGI, ASI or sustained autonomous RSI. The source
+record separates the report's informal definitions and forecasts from
+empirical findings and from our research interpretation.
+
+**Evidence and limits:** Checked arXiv v2, arXiv version metadata and the
+institutional page; narrow searches found no later reviewed version or
+correction, without establishing absence. No primary study cited by the report
+was independently appraised, no systematic contrary search was performed, and
+no material system was evaluated. Protocol 0.6-draft guided the bounded
+intake. The existing RSI and collective-agent notes retain their own dates,
+findings and review states; no earlier position needs reversal on this record.
+
+**Authority and checks:** No protocol amendment, scientific classification,
+normative or governance adoption, publication or external action. Source,
+date, claim-type, status, local-link and full-diff checks were performed.
+
+**Smallest next step:** Obtain a claim-specific empirical comparison of agent
+groups with matched tasks, compute and human steering before treating the
+collective route as evidence of group-level capability or agency. WC049's
+separate S2 methods check also remains open.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
