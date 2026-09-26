@@ -121,6 +121,9 @@ simulation reuse, not a physical replication.
   repository](ma-dan-asimov-1-train-2026.md) — **Partly verified community
   simulation adaptation; maintainer independence and physical performance not
   verified**
+- [XPENG IRON production-line announcement](xpeng-iron-production-line-2026.md)
+  — **Partly verified first-party manufacturing statement, 2026-09-08;
+  repeat output, mass production and deployment not verified**
 
 ## Cross-model behaviour and evidence-lineage records
 

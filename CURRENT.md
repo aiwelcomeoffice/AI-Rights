@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-09-26 (WC050). Not an adoption, approval, publication, or live-service
+2026-09-26 (WC051). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,12 +18,12 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC050](docs/backlog.md#work-cycle-050--agi-to-asi-report-intake)
-  records a bounded, partly verified [source intake](research/sources/genewein-et-al-from-agi-to-asi-2026.md)
-  of Google DeepMind's AGI-to-ASI pathway report. It adds conceptual context
-  for collective capability and recursive improvement, without changing the
-  Draft [RSI/preparedness note](research/notes/ai-assisted-research-rsi-preparedness-2026.md)
-  or establishing an empirical transition, new policy or adoption.
+- **Latest cycle:** [WC051](docs/backlog.md#work-cycle-051--xpeng-iron-manufacturing-announcement-intake)
+  records a partly verified [XPENG IRON source](research/sources/xpeng-iron-production-line-2026.md)
+  and [short case note](research/notes/xpeng-iron-production-and-deployment-intake-2026.md).
+  The company's reported production-line milestone does not verify repeat
+  output, mass production or deployment. No scientific classification,
+  policy or adoption changed.
 
 Keep this file small: update affected routes/status with their source when
 they change; leave task lists, decisions and Work Cycle history in the backlog.

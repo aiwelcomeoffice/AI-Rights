@@ -1513,6 +1513,40 @@ groups with matched tasks, compute and human steering before treating the
 collective route as evidence of group-level capability or agency. WC049's
 separate S2 methods check also remains open.
 
+## Work Cycle 051 — XPENG IRON manufacturing announcement intake
+
+**Date:** 2026-09-26
+
+**Status:** Disa gave broad discretion for local repo work after flagging the
+IRON news. Codex prepared a bounded [source
+record](../research/sources/xpeng-iron-production-line-2026.md) and [working
+note](../research/notes/xpeng-iron-production-and-deployment-intake-2026.md)
+for owner review; neither is adopted or independently reviewed.
+
+**Result:** XPENG's September 8 release reports commissioned humanoid
+production lines, one line-built IRON walking off, and automation of more than
+80% of “core processes”. The late-2026 mass-production target, internal first
+uses and 2027 launch/deliveries remain plans. The record treats the milestone
+as a company-reported manufacturing development, not verified repeat output,
+commercial deployment, broad autonomy, agency or welfare evidence. It maps
+conditional Synth Reception questions about physical interaction, controls,
+privacy, continuity and accountable human operation.
+
+**Evidence and limits:** Primary XPENG text was checked on 2026-09-26; bounded
+search found dependent reporting but no independent factory/output assessment.
+No throughput, yield, total units, task-control trace, identified deployed
+version or field outcome was available in the reviewed material. Protocol
+0.6-draft guided compact documentary records. No methodology, scientific
+classification, accepted position, protection level or publication status
+changed; no earlier position was identified as requiring review.
+
+**Authority and checks:** Local files only; no commit, push, PR, publication,
+contact or external-state change. Source wording, dates, attribution,
+lineage, status, local links, full diff and whitespace were checked.
+
+**Smallest next step:** Revisit on a correction, independently inspectable
+multi-unit production record, or documented version-specific deployment.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

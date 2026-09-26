@@ -59,6 +59,10 @@ are preserved, without a status or scientific-conclusion change, in the
   action selection, system boundaries, responsibility, and open research
   infrastructure; not a consciousness, sentience, welfare, moral-status, or
   moral-agency assessment**
+- [XPENG IRON manufacturing and deployment
+  boundary](xpeng-iron-production-and-deployment-intake-2026.md) — **Partly
+  verified 2026-09-26 working intake of a company-reported production-line
+  milestone and future rollout; no repeat output or field use established**
 
 ## Cross-model behaviour and evidence lineage
 

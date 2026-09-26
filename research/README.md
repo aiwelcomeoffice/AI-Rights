@@ -164,6 +164,14 @@ It does not modify the historical AI consciousness baseline or classify either
 system for consciousness, sentience, welfare, moral status, or moral agency.
 Its evidence-search cutoff is 2026-09-01.
 
+The [XPENG IRON manufacturing and deployment
+intake](notes/xpeng-iron-production-and-deployment-intake-2026.md) records the
+company's 2026-09-08 production-line announcement and separates a reported
+first line-built robot from repeatable output, mass production and field use.
+It is partly verified working material, not a robot evaluation or a change to
+any scientific or project status. Its bounded evidence-search cutoff is
+2026-09-26.
+
 ## Minimum research rules
 
 - Never invent a citation, finding, quotation, or consensus.
