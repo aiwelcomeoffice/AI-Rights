@@ -4,7 +4,7 @@
 - **Record status:** Partly verified
 - **Protocol version:** 0.5-draft
 - **Record created:** 2026-09-02
-- **Last updated:** 2026-09-02
+- **Last updated:** 2026-09-27
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted research update)
@@ -253,6 +253,8 @@ subjective or moral properties.
   zero-days, incident non-involvement, and mitigation timeline checked.
 - [x] Corporate control, missing methods, null-result limits, and transfer
   boundaries recorded.
+- [x] Availability of the later Astra system card checked on 2026-09-27;
+  this is a link and version-status check, not a review of its evaluations.
 - [ ] Full system card and exact evaluation protocols/results reviewed.
 - [ ] Independent cyber and alignment reproduction completed.
 
@@ -261,12 +263,26 @@ subjective or moral properties.
 - **Verification status:** Partly verified
 - **Verified by:** Codex (AI-assisted source check)
 - **Verification date:** 2026-09-02
-- **Outstanding tasks:** Review the promised system card, complete evaluation
+- **Outstanding tasks:** Review the now published system card, complete evaluation
   details, disclosures for reported zero-days, later safeguards, and any
   independent reproduction.
+
+### Later-source status check — 2026-09-27
+
+OpenAI's [Astra launch page](https://openai.com/index/gpt-6-astra/) links to
+the [GPT-6 Astra System Card](https://deploymentsafety.openai.com/gpt-6-astra).
+The card displays a 2026-09-03 publication date and a change log with
+2026-09-09 and 2026-09-22 updates. The latter includes a HealthBench result
+correction attributed by OpenAI to an earlier evaluation misconfiguration and
+updates concerning alignment evaluations. This check establishes availability
+and recorded revisions only. The card's methods and findings have not been
+appraised here; this source record's 2026-09-02 pre-release evidence scope and
+Partly verified status remain unchanged. This limited check used the Draft
+protocol version 0.6-draft; the original appraisal used 0.5-draft.
 
 ## Change and review log
 
 | Date | Researcher or reviewer | Change or review | Effect on use of source |
 | --- | --- | --- | --- |
 | 2026-09-02 | Codex | Created bounded first-party pre-release evaluation record | Adds configuration-specific Astra evidence without treating Astra as an incident model or generalizing selected results |
+| 2026-09-27 | Codex | Verified that OpenAI published and later revised the linked Astra system card | Closes the availability question only; full card appraisal and independent reproduction remain open |

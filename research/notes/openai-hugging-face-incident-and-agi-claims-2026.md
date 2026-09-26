@@ -4,7 +4,7 @@
 - **Note status:** Partly verified
 - **Protocol version:** 0.2-draft for original appraisal; temporal presentation
   aligned with 0.3-draft; 2026-09-02 through 2026-09-04 updates appraised
-  under 0.5-draft
+  under 0.5-draft; 2026-09-27 source-status check under 0.6-draft
 - **Source records:** [OpenAI technical
   report](../sources/openai-hugging-face-incident-technical-report-2026.md),
   [Hugging Face technical
@@ -25,7 +25,8 @@
   [TIME reporting](../sources/heath-openai-reboot-2026.md)
 - **Source versions used:** Public incident versions rechecked through
   2026-09-03; additional live sources published 2026-08-27 to 2026-09-01 and
-  accessed through 2026-09-03
+  accessed through 2026-09-03; later Astra card availability and revision
+  dates checked on 2026-09-27 without appraising its findings
 - **Research question:** What do the July 2026 incident, material evidence
   published through 2026-09-03, and August 2026 OpenAI leadership statements
   establish about emergent social organisation, collective problem solving,
@@ -35,7 +36,7 @@
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted initial research draft)
 - **Date prepared:** 2026-08-28
-- **Last updated:** 2026-09-04
+- **Last updated:** 2026-09-27
 - **Reviewed by:** Not yet independently reviewed
 
 This is a cross-source investigation note under the [Draft research
@@ -840,8 +841,13 @@ systematic interviews, contemporaneous records, or independent corroboration.
   behind the “80%” and end-of-2026 AGI claims.
 - **TODO: verify** the full extent to which external investigators could audit
   data completeness and selection independently of OpenAI.
-- **TODO: verify** Astra's promised system card, complete evaluation methods,
-  samples, uncertainty, and independent reproduction.
+- **TODO: review** the now published [Astra system
+  card](https://deploymentsafety.openai.com/gpt-6-astra), complete evaluation
+  methods, samples, uncertainty, and independent reproduction. Its availability
+  and 2026-09-09/2026-09-22 revision dates were checked on 2026-09-27; its
+  empirical content was not appraised in this note. The original 2026-09-03
+  cutoff describes sources included in that pass; the card, although dated
+  2026-09-03, was not part of its evidence assessment.
 - **TODO: verify** the exact Codex Persistent mode code revision and any later
   rollout documentation.
 
@@ -854,3 +860,4 @@ systematic interviews, contemporaneous records, or independent corroboration.
 | 2026-09-02 | Codex | Refreshed material through the current cutoff; corrected model/event boundaries; added Astra evaluations, dependent synthesis/commentary, product-mode context, competing explanations, and verification limits | Updates the capability/safety evidence line without changing adopted positions or drawing consciousness, general-Astra-safety, production, or inevitable-loss-of-control conclusions |
 | 2026-09-03 | Codex | Re-examined the incident for organised community, collective problem solving, affect-related observations, July 12 discontinuity, cross-run and cross-model continuity, and the effective system boundary; added Cotra's dependent investigator post | Supports bounded community and operational collective-intelligence interpretations while withholding claims about unified agency, identity persistence, underlying affect, welfare, and unsupported infrastructure scope |
 | 2026-09-04 | Codex | Added a small retrospective workplace-perception vignette supplied by the observer | Records a non-representative, memory-based human-response observation without treating it as evidence about AI cognition, affect, or consciousness |
+| 2026-09-27 | Codex | Checked the later Astra system card's availability and dated revisions against OpenAI's live page | Updates a follow-up trigger only; the note's 2026-09-03 evidence cutoff and substantive findings remain unchanged |

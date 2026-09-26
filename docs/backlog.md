@@ -1547,6 +1547,35 @@ lineage, status, local links, full diff and whitespace were checked.
 **Smallest next step:** Revisit on a correction, independently inspectable
 multi-unit production record, or documented version-specific deployment.
 
+## Work Cycle 052 — Astra system-card availability check
+
+**Date:** 2026-09-27
+
+**Status:** Disa expressed personal interest in GPT-6 and left the local next
+step to Codex. This is a bounded source-status check, not an adopted finding
+or an ongoing monitoring assignment.
+
+**Result:** OpenAI's Astra launch page links to a system card published on
+2026-09-03. Its change log records 2026-09-09 and 2026-09-22 revisions,
+including a HealthBench correction attributed to an evaluation
+misconfiguration. The [existing Astra source
+record](../research/sources/openai-path-to-astra-2026.md) and [incident
+note](../research/notes/openai-hugging-face-incident-and-agi-claims-2026.md)
+now distinguish this later source-status check from their earlier pre-release
+evidence cutoff. The card's methods and results were not appraised in this
+cycle. An unverified Bel/Bell rumor supplied in the discussion received no
+source record, performance claim, or project position.
+
+**Evidence and limits:** OpenAI's [launch
+page](https://openai.com/index/gpt-6-astra/) and linked [system
+card](https://deploymentsafety.openai.com/gpt-6-astra) were checked on
+2026-09-27. Availability and change-log dates are first-party documentary
+facts; they do not independently validate reported evaluations. No new
+scientific classification, methodology, or accepted position follows.
+
+**Smallest next step:** Review the revised card against the specific Astra
+claims already recorded if that evidence line is taken up again.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
