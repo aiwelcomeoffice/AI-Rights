@@ -99,6 +99,19 @@ evaluations; the WIRED record concerns a separate experimental product mode.
   — **Partly verified public commit `258fe5e`; aggregate numbers match the
   paper's rounded figures, while labels and raw predictions are withheld and
   request-level model pinning is unverified**
+- [Li et al. Jev edge-service orchestration
+  preprint](li-et-al-jev-edge-orchestration-2026.md) — **Partly verified
+  arXiv:2609.22753v1 study of a 2026-09-18 service path; faster fresh
+  decisions but lower exact four-field semantic accuracy in its tested
+  comparison, with no calibration or live governance test**
+- [Meng Jev probability-calibration preprint](meng-jev-calibration-audit-2026.md)
+  — **Partly verified 2026-09-24 draft on SST-2 and AG News; calibration differs
+  across tested task and question forms, without reproducing
+  crash-narrative estimates**
+- [Meng Zenodo v1.0.0 calibration archive](meng-jev-calibration-archive-2026.md)
+  — **Partly verified code and per-item output release; selected reported
+  accuracy/ECE point estimates recomputed from saved responses, not fresh Jev
+  API execution**
 
 ## Embodied social AI case records
 

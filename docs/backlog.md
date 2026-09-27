@@ -1673,6 +1673,51 @@ then compare an independently executed, task-matched Jev test before
 strengthening the calibration assessment. Local files only; no commit, push,
 PR, publication, contact or external-state change.
 
+## Work Cycle 056 — Jev service-path and calibration-audit appraisal
+
+**Date:** 2026-09-27
+
+**Status:** Partly verified working research under unadopted Draft protocol
+0.6; author/team self-check only, no independent reviewer or owner adoption.
+
+**Result:** Appraised the previously identified [Li et al. edge-service
+preprint](../research/sources/li-et-al-jev-edge-orchestration-2026.md) and
+updated the [Jev working note](../research/notes/jev-decision-native-ai-intake-2026.md).
+For its 2026-09-18 OpenRouter path, the authors report faster fresh Jev
+decisions than a configured DeepSeek comparator, lower exact four-field
+semantic accuracy, and descriptively similar correct OCR completion. The
+completion counts do not establish noninferiority, and repeated-text caching
+largely removes the full-path latency advantage. The response-reported ID
+`jev-1.13-20260917` must not be equated with the `jev-1.13.0` ID reported by
+Rafe and Das.
+
+A separately authored [Meng calibration
+preprint](../research/sources/meng-jev-calibration-audit-2026.md) and its
+[Zenodo v1.0.0 companion release](../research/sources/meng-jev-calibration-archive-2026.md)
+add a different `jev-1.13.0` evidence line on SST-2 and AG News. The
+archived per-item predictions permit a bounded arithmetic check of the
+reported top-label accuracy and calibration-error figures. Calibration
+differs across these task/form conditions: the SST-2 Choice result is near
+calibrated by the reported measure, while SST-2 Noul and a subset of AG News
+answers show errors. This is adjacent evidence, not a reproduction of the
+crash-narrative paper's weighted positive-class estimate.
+
+**Evidence and limits:** Li et al. is a non-peer-reviewed, one-session
+configured-service study; no author-linked request logs or code were located
+in the bounded check. Meng's paper and public archive provide stronger
+inspectability for its own tasks; archived cache-file modification times are
+not authenticated API execution dates, and recomputing cached predictions is
+not an independent Jev run. Neither study establishes broad calibration,
+safety, agency, consciousness, welfare, responsibility, a governance response,
+or a change to an accepted scientific or project position. No earlier
+accepted position needs review on this record.
+
+**Smallest next step:** Obtain a lawful pair-level release or controlled
+audit for the Rafe–Das human-reference calculation, then seek a separately
+executed, task-matched calibration comparison before strengthening that
+specific result. Disa reviews the local diff; no commit, push, PR,
+publication, contact or external-state change was authorized here.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
