@@ -61,6 +61,9 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Contemporary embodied AI case intake
 
+- [Humanoid robot welfare scoping note](humanoid-robot-welfare-scoping-2026.md) —
+  **Partly verified 2026-09-27 working research; no named humanoid welfare
+  assessment, with proposed test and contrary arguments kept separate.**
 - [NOETRA and Japan's emerging physical-AI infrastructure](noetra-physical-ai-deployment-context-2026.md)
   — **Partly verified deployment-context note, 2026-09-09; separates company,
   model/compute plans and national targets from implementation and system properties**

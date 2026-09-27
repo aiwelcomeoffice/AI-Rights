@@ -113,6 +113,12 @@ evaluations; the WIRED record concerns a separate experimental product mode.
   accuracy/ECE point estimates recomputed from saved responses, not fresh Jev
   API execution**
 
+## Humanoid robot welfare methods and critique
+
+- [Chella: proposed robot-specific evidence program](chella-sentient-ai-robots-agents-2026.md)
+- [Long et al.: empirical AI-welfare research framework](long-et-al-studying-ai-welfare-empirically-2026.md)
+- [Lennon: epistemic critique](lennon-how-seriously-ai-welfare-2026.md)
+
 ## Embodied social AI case records
 
 These records were added on 2026-08-29 for the bounded Moya / embodied social

@@ -160,6 +160,13 @@ an adopted scientific or governance conclusion.
 
 ## Contemporary embodied AI case work
 
+The [humanoid robot welfare scoping note](notes/humanoid-robot-welfare-scoping-2026.md)
+is partly verified working research through 2026-09-27. It compares public
+case records with 2026 methodological arguments and a contrary
+philosophical argument. It reports no direct welfare assessment for a
+named robot and proposes a one-system audit; it changes no scientific
+classification or project status.
+
 The [Moya / embodied social AI intake](notes/moya-embodied-social-ai-intake-2026.md)
 is a bounded, partly verified case study of public material about DroidUp's
 2026 humanoid Moya. It separates public documentation, manufacturer claims,
