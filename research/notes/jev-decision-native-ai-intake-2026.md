@@ -6,7 +6,8 @@
 - **Protocol version:** [0.6-draft](../research-protocol.md), unadopted
 - **Source records / versions:** [TypeSafe launch post, live page](../sources/typesafe-jev-launch-2026.md);
   [TypeSafe confidence documentation, live page](../sources/typesafe-jev-confidence-docs-2026.md);
-  [Rafe and Das, arXiv:2609.24052v1](../sources/rafe-das-jev-crash-narratives-2026.md)
+  [Rafe and Das, arXiv:2609.24052v1](../sources/rafe-das-jev-crash-narratives-2026.md);
+  [companion code/aggregate release, commit 258fe5e](../sources/pozapas-jev-calibration-repository-2026.md)
 - **Research question:** How does a bounded, typed decision interface affect
   practical control, calibration, and accountability, and what evidence would
   be needed to assess agency or other AI properties separately?
@@ -35,10 +36,12 @@ further agency and fairness requirements. These constructs must be assessed
 separately for an identified system boundary.
 
 The assessed public interface is Jev as TypeSafe described it at launch. The
-only empirical calibration result extracted here concerns pinned
-`jev-1.13.0` in one crash-narrative coding workflow. The launch post does not
-name a benchmark checkpoint or experiment date; the calibration preprint does
-not establish an API run date in the passages checked. Release, source,
+only empirical calibration result extracted here concerns one crash-narrative
+coding workflow whose published aggregate reports responses from
+`jev-1.13.0`. The released runner does not demonstrate request-level model
+pinning (see the companion-release audit). The launch post does not name a
+benchmark checkpoint or experiment date; the calibration preprint and public
+release checked here do not establish API execution dates. Release, source,
 access and inclusion dates are not substitutes for observation dates. A
 future Jev version, agent wrapper, tool connection, or deployment can change
 the relevant system boundary and outcomes.
@@ -53,8 +56,10 @@ source discovery, not preregistered. On 2026-09-27, web searches included
 `site:docs.typesafe.ai Jev confidence probabilities choice noul score`,
 `site:arxiv.org 2609.24052 Jev calibration police crash narratives`, and
 `site:arxiv.org 2609.22753 Jev edge service orchestration`. The
-source-page and arXiv version links were then opened directly. English,
-identifiable first-party interface descriptions and original, versioned
+source-page and arXiv version links were then opened directly. A follow-up
+on 2026-09-27 used the preprint's direct repository citation and inspected
+commit `258fe5e`; this release check was added after the initial screening,
+not preregistered. English, identifiable first-party interface descriptions and original, versioned
 empirical studies directly bearing on calibration were eligible; SEO mirrors,
 derivative guides and marketing copy were not treated as independent tests.
 
@@ -62,8 +67,10 @@ The [TypeSafe launch post](../sources/typesafe-jev-launch-2026.md) and
 [documentation](../sources/typesafe-jev-confidence-docs-2026.md) were included
 for company statements and interface semantics. [Rafe and
 Das](../sources/rafe-das-jev-crash-narratives-2026.md) was included for a
-specific post-launch calibration test. Other primary leads surfaced but were
-not appraised here: [Li et al.'s edge-service preprint,
+specific post-launch calibration test; its [companion
+release](../sources/pozapas-jev-calibration-repository-2026.md) was included to
+check data and code availability and reported values. Other primary leads
+surfaced but were not appraised here: [Li et al.'s edge-service preprint,
 arXiv:2609.22753v1](https://arxiv.org/abs/2609.22753) (latency and completion,
 not a general deployment audit) and [Ling et al.'s repository-ecosystem
 preprint, arXiv:2609.30216v1](https://arxiv.org/abs/2609.30216) (public code
@@ -78,14 +85,20 @@ limited and cannot establish that no other studies or deployments exist.
 | --- | --- | --- |
 | What comes out? | TypeSafe's [launch post](../sources/typesafe-jev-launch-2026.md#what-the-source-reports-with-locators) and [documentation](../sources/typesafe-jev-confidence-docs-2026.md#question-and-source-report) describe typed Choice, Score and Noul answers, with distributions or a 0–1 value rather than generated prose. | Direct evidence for the developer's intended interface. It does not reveal all internal operations or show how a downstream system acts. |
 | What is `confidence`? | The [documentation](../sources/typesafe-jev-confidence-docs-2026.md#question-and-source-report) defines Choice/Score `confidence` as a summary of distribution concentration; Noul has no separate confidence field. | A concentrated distribution is not itself an observed accuracy rate. Option probabilities and empirical calibration must be evaluated against appropriate labels. |
-| Are probabilities calibrated? | TypeSafe claims calibration in the [launch post](../sources/typesafe-jev-launch-2026.md#what-the-source-reports-with-locators). [Rafe and Das](../sources/rafe-das-jev-crash-narratives-2026.md#findings-and-contrary-material-with-locators) report mean raw probability 4.8% versus 2.7% observed prevalence in their pooled human reference for `jev-1.13.0`, and improved calibration after task-specific recalibration. | This weighs against an unqualified calibrated-output claim for that tested task. It neither establishes failure on every task nor verifies calibration in another deployment. |
+| Are probabilities calibrated? | TypeSafe claims calibration in the [launch post](../sources/typesafe-jev-launch-2026.md#what-the-source-reports-with-locators). [Rafe and Das](../sources/rafe-das-jev-crash-narratives-2026.md#findings-and-contrary-material-with-locators) report mean raw probability 4.8% versus 2.7% observed prevalence in their pooled human reference for `jev-1.13.0`, and improved calibration after task-specific recalibration. | The public aggregate files contain values that round to these figures, but individual labels and predictions are withheld, so the result was not independently recalculated. The paper's test weighs against an unqualified calibrated-output claim for that task; other tasks and deployments are unassessed. |
 | Does output constraint ensure safety? | TypeSafe reports schema-valid output and selected speed/cost results; its [post](../sources/typesafe-jev-launch-2026.md#what-the-source-reports-with-locators) discloses selected-task and internal-evaluation limits. The [preprint](../sources/rafe-das-jev-crash-narratives-2026.md#findings-and-contrary-material-with-locators) reports a better calibrated generative comparator in its pooled human comparison. | Format validity, semantic correctness, calibration, and safe downstream action are different outcomes. No live governance or remedy system is evaluated here. |
 
-The preprint is a useful countercheck because it tests the model via an
-identified API version and task rather than repeating developer claims. It is
-still a non-peer-reviewed, only partly inspectable study with a smaller selected
-human reference, rare-label uncertainty and a closed model. Its observed
-miscalibration is task-specific, and its calibration maps should not be
+The preprint is a useful countercheck because researchers outside TypeSafe
+report testing the API on an identified task rather than repeating developer
+claims. It is still a non-peer-reviewed, only partly inspectable study with a
+smaller selected human reference, rare-label uncertainty and a closed model.
+Its code release records response model IDs in an aggregate, but the released
+API call does not pass the declared `jev-1.13.0` constant, so request-level
+pinning is unverified. Public regeneration instructions also point to paths
+and withheld inputs that do not support an aggregate-only rerun as written.
+The paper reports that Jev and its human/frontier comparators received
+differently screened versions of the narratives; the effect on their
+comparison was not assessed here. The reported miscalibration is task-specific, and its calibration maps should not be
 transported to another setting. The company post has direct provenance for
 design intent, but a commercial interest and control over its evaluations.
 Neither source is a test of Jev's internal cognition or subjective state.
@@ -130,16 +143,17 @@ be investigated without weakening human rights or safety protections.
 
 | Claim | Type | Present assessment | What could change it |
 | --- | --- | --- | --- |
-| Jev publicly offers bounded typed decisions for software | Developer-documented interface | Supported as TypeSafe's 2026-09-15 description; actual behavior partly corroborated in the pinned preprint | Versioned API traces showing different behavior, or corrected documentation |
-| `jev-1.13.0` raw probabilities are calibrated for the tested crash-narrative task | Empirical performance claim | Evidence weighs against this claim in the tested setup; other tasks are not assessed | Independent reproduction with adjudicated labels and comparable pinned settings; correction or contrary replication |
+| Jev publicly offers bounded typed decisions for software | Developer-documented interface | Supported as TypeSafe's 2026-09-15 description; reported API behavior partly corroborated by the preprint | Versioned API traces showing different behavior, or corrected documentation |
+| Raw probabilities in the reported `jev-1.13.0` responses are calibrated for the tested crash-narrative task | Empirical performance claim | Evidence weighs against this claim in the tested setup; other tasks are not assessed | Independent reproduction with adjudicated labels and comparable versioned settings; correction or contrary replication |
 | A constrained decision interface can produce substantial practical influence | System-level hypothesis | Plausible; no quantified Jev deployment impact established here | Versioned workflow traces showing consequences, interventions, and operator authority |
 | Jev has or lacks consciousness, welfare, broad cognition or moral responsibility | Scientific/philosophical questions | Not assessed by the included methods | System-matched, discriminating evidence and explicit arguments for each defined property |
 
 No earlier project position changes. The smallest next evidence step is to
-appraise the full calibration preprint's data and code release, reference-label
-design and version/run dates, then compare a second task-matched independent
-study. A corrected paper, new checkpoint, independent outcome audit or
-documented consequential deployment should trigger re-review. Repetition of
+obtain a lawfully released pair-level audit table or controlled check for
+judgment-level reproduction, establish API run dates and request-level version
+selection, then compare a second task-matched independent study. A corrected
+paper, new checkpoint, independent outcome audit or documented consequential
+deployment should trigger re-review. Repetition of
 the launch claim or another schema demo would not by itself resolve
 calibration, agency or governance questions.
 
@@ -150,8 +164,11 @@ calibration, agency or governance questions.
   against originals on 2026-09-27.
 - [x] Developer claims, observed study results, researcher interpretation
   and normative proposal kept separate.
-- [ ] **TODO: verify** preprint funding, access terms, exact Jev run dates,
-  public code/aggregate outputs and raw-label numerical results.
+- [x] Public code and aggregate outputs inspected at commit `258fe5e`;
+  published summaries round to the paper's 4.8%, 2.7% and 1.63. This is a
+  transcription/internal-consistency check, not a raw-result reproduction.
+- [ ] **TODO: verify** preprint funding, vendor access terms, exact Jev run
+  dates, request-level version selection and judgment-level numerical results.
 - [ ] **TODO: verify** versioned Jev API behavior, task-specific independent
   calibration and live deployment consequences before stronger claims.
 - [ ] **TODO: verify** later source corrections and obtain independent review
@@ -163,3 +180,10 @@ where later primary evidence warrants it: the categorical “calibrated” label
 is attributed to TypeSafe, and one newer preprint reports task-specific raw
 miscalibration. No protocol, scientific classification, governance position or
 support practice was adopted.
+
+**2026-09-27 — Codex follow-up:** Audited the paper's public companion
+release. Its summary figures match the paper's rounded numbers, while raw
+labels, predictions and request logs remain unavailable. The current note
+now distinguishes returned version IDs from request pinning and records
+release reproducibility and comparator-input limits. No task-specific
+performance claim was strengthened.

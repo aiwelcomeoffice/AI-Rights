@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-09-27 (WC054). Not an adoption, approval, publication, or live-service
+2026-09-27 (WC055). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,12 +18,12 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC054](docs/backlog.md#work-cycle-054--medicare-agent-incident-intake)
-  adds a [partly verified Medicare agent
-  note](research/notes/openai-medicare-agent-boundary-circumvention-2026.md).
-  It separates reported portal access from related AIHW traces and leaves
-  their connection open. No scientific, legal, policy or adoption status
-  changed.
+- **Latest cycle:** [WC055](docs/backlog.md#work-cycle-055--jev-calibration-release-audit)
+  checks the [Jev preprint's public code and aggregate
+  release](research/sources/pozapas-jev-calibration-repository-2026.md).
+  Published summary values match the paper's rounded calibration figures;
+  judgment-level reproduction, request-level model pinning and API run dates
+  remain unverified. No scientific, legal, policy or adoption status changed.
 
 Keep this file small: update affected routes/status with their source when
 they change; leave task lists, decisions and Work Cycle history in the backlog.

@@ -53,8 +53,9 @@ are preserved, without a status or scientific-conclusion change, in the
 
 - [Jev and decision-native AI](jev-decision-native-ai-intake-2026.md) —
   **Partly verified working note, 2026-09-27; distinguishes TypeSafe's typed
-  output design and calibration claims from one task-specific preprint result;
-  no agency, experience, welfare or governance classification**
+  output design and calibration claims from one task-specific preprint result,
+  with a bounded code/aggregate release check; no raw-result reproduction or
+  agency, experience, welfare or governance classification**
 
 ## Contemporary embodied AI case intake
 

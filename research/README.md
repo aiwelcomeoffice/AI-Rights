@@ -143,10 +143,12 @@ terminology.
 The [Jev decision-native AI intake](notes/jev-decision-native-ai-intake-2026.md)
 adapts a 2026-09-19 early draft into a bounded, partly verified working note.
 It separates a typed decision interface and developer calibration claims from
-one post-launch, task-specific calibration preprint, and keeps decision
-influence, agency, responsibility, safety and subjective-experience questions
-distinct. Its evidence-search cutoff is 2026-09-27; it is not an adopted
-scientific or governance conclusion.
+one post-launch, task-specific calibration preprint. A [companion-release
+audit](sources/pozapas-jev-calibration-repository-2026.md) checks the preprint's
+public aggregate values and its reproduction limits without recalculating from
+withheld labels. The note keeps decision influence, agency, responsibility,
+safety and subjective-experience questions distinct. Its evidence-search
+cutoff is 2026-09-27; it is not an adopted scientific or governance conclusion.
 
 ## Contemporary embodied AI case work
 

@@ -9,6 +9,7 @@
 - **Prepared by / review:** Codex, AI-assisted documentary intake / author
   self-check only
 - **Related note:** [NOTE-JEV-001](../notes/jev-decision-native-ai-intake-2026.md)
+- **Companion-release audit:** [SRC-JEV-004](pozapas-jev-calibration-repository-2026.md)
 
 This compact [source-template](_template.md) adaptation records a bounded
 reading of the original preprint. It is not an independent reproduction or an
@@ -25,11 +26,14 @@ endorsement of its crash-safety conclusions.
   2026-09-21; HTML full text and version page accessed 2026-09-27. The version
   page listed v1 only and no withdrawal notice at access; later publication,
   correction and retraction status require renewed checks.
-- **System / version:** Pinned `jev-1.13.0`; the authors say each call also
-  recorded the returned model identifier (§3 and Table 2).
+- **System / version:** The authors report `jev-1.13.0`, and the released
+  aggregate records 195,857 responses with that model ID. The public runner
+  records returned IDs but does not pass its declared `MODEL` constant in the
+  API call; request-level pinning remains unverified (companion audit).
 - **System release/version date:** Not established by the preprint.
-- **Observation/experiment date:** Jev API run dates are not reported in the
-  passages checked. The underlying Texas crash narratives are from 2017–2025;
+- **Observation/experiment date:** Jev API run dates were not identified in
+  the paper or released runner and aggregate reports checked on 2026-09-27.
+  The underlying Texas crash narratives are from 2017–2025;
   that data period is not the model-test date. The 2026-09-21 submission date
   is not a proxy for test time.
 - **Evidence-search inclusion date:** 2026-09-27.
@@ -44,21 +48,27 @@ endorsement of its crash-safety conclusions.
 **Question:** For the authors' crash-narrative coding task, do Jev's returned
 probabilities track reference labels closely enough to support counting and
 selective human review? Include this study as a direct, post-launch test of
-one pinned model version. The bounded selection was made after discovery, not
+one response-reported model version. The bounded selection was made after discovery, not
 preregistered by this project.
 
 The paper reports a 499,500-narrative screen, full 27-question coding of
 195,857 narratives, and comparison with coded fields and 2,416 blinded human
 judgments (§3–4). The authors distinguish agreement with coded administrative
 fields from fidelity to what the narrative says. The human reference is a
-smaller, selected set. The paper lists a public code and aggregate-output
-repository in its data-availability section; the underlying narratives and
-full human-label set were not independently accessed in this intake.
+smaller, selected set. The paper links a public code and aggregate-output
+repository in its data-availability section. A [bounded audit of its 2026-09-23
+commit](pozapas-jev-calibration-repository-2026.md) found the paper's rounded
+calibration values in released summaries, but the underlying narratives, raw
+model outputs and individual human labels are not public. The paper says a
+de-identified pair-level audit table awaits data-owner permission before
+release. Its §3.1 also reports that Jev received owner-redacted narratives,
+whereas the human coders and frontier comparators received additional
+redaction and screening; any effect of this difference was not assessed here.
 
-The byline and affiliation are outside TypeSafe; direct vendor sponsorship,
-funding, model-access terms and publication control were not established by
-this bounded read. The work tests the vendor's API with its own schema and
-labels, but it is not a replication of TypeSafe's exact workflow benchmarks.
+The byline and affiliation are outside TypeSafe; funding, vendor credits,
+model-access terms and publication control were not established by the paper
+or companion materials checked in this bounded read. The work tests
+the vendor's API with its own schema and labels, but it is not a replication of TypeSafe's exact workflow benchmarks.
 
 ## Findings and contrary material, with locators
 
@@ -82,10 +92,10 @@ recalibration maps.
 
 | Dimension | Assessment |
 | --- | --- |
-| Relevance and method | Direct for calibration on one pinned model and task; multiple reference types and stated metrics, but reference selection and labeling limit strength |
-| Replication and robustness | Independent API use reported; raw-label analysis not reproduced here, no cross-version or cross-domain replication established |
+| Relevance and method | Direct for calibration on one task with a reported response model ID; multiple reference types and stated metrics, but reference selection and labeling limit strength |
+| Replication and robustness | Researchers outside TypeSafe report API use; their released aggregates match the paper's rounded values, but raw-label analysis cannot be recomputed from public files and no cross-version or cross-domain replication is established |
 | Discriminating value | Raw probability/prevalence comparison weighs against blanket “already calibrated” wording for this tested case |
-| Conflict and access | Authors outside vendor by listed affiliation; funding and access terms unverified; closed model and partly restricted data limit reproduction |
+| Conflict and access | Authors outside vendor by listed affiliation; funding and vendor access terms unverified; closed model and withheld judgment-level data limit reproduction. Returned model ID is summarized, but request-level pinning and run dates remain unverified |
 | Uncertainty | Material for exact estimates and transfer; less for the narrow report that the authors observed miscalibration in their tested setup |
 
 No method in this study measures Jev's internal cognition, subjective
@@ -96,10 +106,19 @@ does not audit appeal rights or institutional accountability in live use.
 
 - [x] Title, authors, version, abstract, named model, principal calibration
   result, and key limitations checked against arXiv v1 on 2026-09-27.
+- [x] Companion code/aggregate release checked at commit `258fe5e`; published
+  summaries round to the paper's 4.8%, 2.7% and 1.63 (see SRC-JEV-004).
 - [ ] **TODO: verify** full funding and conflict disclosures, run dates,
-  released code and aggregates, underlying labels, and numerical reproduction.
+  request-level model pinning, underlying labels, and numerical reproduction
+  from judgment-level data.
 - [ ] **TODO: verify** later versions, peer review, correction or retraction,
   and whether independent teams reproduce the calibration result.
+
+**2026-09-27 — Codex follow-up:** The source's reported aggregate values were
+located in its public companion release. This checks transcription and
+internal consistency, not the underlying estimates. Source limitations and
+version-selection uncertainty were made explicit; the task-specific finding
+was not strengthened.
 
 **Review trigger:** Source revision, data release, replication, or a new
 version-specific calibration study. No independent review or project adoption

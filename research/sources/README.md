@@ -93,8 +93,12 @@ evaluations; the WIRED record concerns a separate experimental product mode.
   — **Partly verified first-party API semantics, not outcome calibration**
 - [Rafe and Das Jev crash-narrative calibration
   preprint](rafe-das-jev-crash-narratives-2026.md) — **Partly verified
-  arXiv:2609.24052v1 study of pinned Jev 1.13.0; task-specific raw
-  miscalibration reported, no independent reproduction here**
+  arXiv:2609.24052v1 study with reported Jev 1.13.0 responses;
+  task-specific raw miscalibration reported, no independent reproduction**
+- [Jev preprint code and aggregate release](pozapas-jev-calibration-repository-2026.md)
+  — **Partly verified public commit `258fe5e`; aggregate numbers match the
+  paper's rounded figures, while labels and raw predictions are withheld and
+  request-level model pinning is unverified**
 
 ## Embodied social AI case records
 

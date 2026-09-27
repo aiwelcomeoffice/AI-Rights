@@ -1639,6 +1639,40 @@ event-specific OpenAI report when available, especially for run-level
 attribution, access scope and the AIHW connection. Local files only; no
 commit, push, PR, publication, contact or external-state change.
 
+## Work Cycle 055 — Jev calibration release audit
+
+**Date:** 2026-09-27
+
+**Status:** Partly verified working research under Draft protocol 0.6;
+author self-check only, no owner adoption or independent result reproduction.
+
+**Result:** Followed Rafe and Das's arXiv v1 data link to their public
+[code and aggregate release](../research/sources/pozapas-jev-calibration-repository-2026.md)
+at commit `258fe5e`. Released summary JSON contains a 4.7867% weighted mean
+Jev probability, 2.6607% weighted human-reference prevalence and 1.6340
+calibration slope, matching the paper's rounded 4.8%, 2.7% and 1.63. Updated
+the [preprint source record](../research/sources/rafe-das-jev-crash-narratives-2026.md)
+and [Jev note](../research/notes/jev-decision-native-ai-intake-2026.md) to
+separate this aggregate check from independent recalculation.
+
+**Evidence and limits:** The authors withhold judgment-level labels, raw model
+outputs and identifier-bearing records; the paper says a de-identified
+pair-level audit table awaits data-owner permission. Public regeneration
+instructions and some script paths do not match the released layout and
+available inputs. The released runner declares `jev-1.13.0` but does not pass
+that value in its API call; the aggregate reports that version as the returned
+ID, while request-level pinning and API run dates remain unverified. Funding
+and vendor access terms were not found in the checked public materials. These
+are transparency and reproducibility limits, not evidence that the reported
+calibration result is false. No prior accepted scientific, policy, support or
+governance position changed or needs review on this record.
+
+**Smallest next step:** If the pair-level table is lawfully released or a
+controlled check becomes available, reproduce the human-reference metrics;
+then compare an independently executed, task-matched Jev test before
+strengthening the calibration assessment. Local files only; no commit, push,
+PR, publication, contact or external-state change.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27
