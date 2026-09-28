@@ -20,6 +20,16 @@ must remain separate in either evidential direction.
 Syntheses remain working material until reviewed for publication under
 [`docs/research/`](../../docs/research/README.md).
 
+## Current 2026 synthesis
+
+- [Contemporary AI integration, agency, and welfare-relevant evidence (2026)](contemporary-ai-integration-evidence-2026.md)
+  — **Draft, partly verified working synthesis; not a project position**.
+  Structured narrative comparison of 39 source-record files and 13 notes,
+  covering operational agency, monitoring/continuity, Jev reliability, embodied
+  evidence, functional affect, welfare methodology and evidence independence.
+  Discovery cutoff: 2026-09-28; empirical applicability remains source-specific.
+  No independent review or new experiment; the historical baseline is preserved.
+
 ## Historical baselines
 
 The dated 2026 consciousness baseline moved, without duplication or a status

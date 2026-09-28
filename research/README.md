@@ -51,6 +51,9 @@ and does not itself establish any scientific conclusion.
   start with the [notes template](notes/_template.md)
 - [Syntheses](syntheses/README.md) — comparisons across multiple sources;
   start with the [synthesis template](syntheses/_template.md)
+- [2026 contemporary evidence synthesis](syntheses/contemporary-ai-integration-evidence-2026.md)
+  — WC057 Draft, partly verified comparison of the current corpus; seven
+  claim-specific assessments, no new experiment or adopted project position
 
 ## Working method
 

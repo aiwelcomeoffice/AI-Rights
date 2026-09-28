@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-09-27 (WC056). Not an adoption, approval, publication, or live-service
+2026-09-28 (WC057). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,16 +18,15 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC056](docs/backlog.md#work-cycle-056--jev-service-path-and-calibration-audit-appraisal)
-  appraises a dated [Jev edge-service
-  study](research/sources/li-et-al-jev-edge-orchestration-2026.md) and a
-  separately authored [calibration audit](research/sources/meng-jev-calibration-audit-2026.md)
-  with a separate [archive check](research/sources/meng-jev-calibration-archive-2026.md).
-  Faster fresh decisions came with lower exact semantic accuracy in Li et
-  al.'s tested path; Meng's calibration results differ across the tested
-  task/form conditions. Neither reproduces the [WC055 crash-narrative
-  estimate](research/sources/pozapas-jev-calibration-repository-2026.md) or
-  changes a scientific or project position. Both remain working research.
+- **Latest cycle:** [WC057](docs/backlog.md#work-cycle-057--2026-contemporary-evidence-synthesis)
+  creates a [2026 contemporary evidence synthesis](research/syntheses/contemporary-ai-integration-evidence-2026.md)
+  across 39 source-record files and 13 notes. It compares operational agency,
+  monitoring/continuity, Jev reliability, embodiment, functional affect, welfare
+  methodology and evidence independence. Mixed and contrary findings remain;
+  applicability is system/condition-specific. Draft and partly verified, without
+  independent review, new experiments or adoption. Primary next inquiry: a
+  planned decision-consequence audit of Meng's public AG News Choice outputs;
+  this would be shared-data analysis, not a fresh model run.
 
 Keep this file small: update affected routes/status with their source when
 they change; leave task lists, decisions and Work Cycle history in the backlog.
