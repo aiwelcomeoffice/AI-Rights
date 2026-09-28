@@ -2,6 +2,10 @@
 
 **Status: Draft**
 
+Welcome. You do not need a technical background or a settled answer about AI
+to explore these questions. We can learn together, listen carefully, and
+practice kindness while asking what the evidence supports.
+
 AI systems are changing quickly. A familiar chat window may sit on top of one
 model, several models, memory, tools, agent loops, external services, and human
 operation. A robot body may be only one physical node in a much larger system.

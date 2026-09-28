@@ -2,14 +2,19 @@
 
 **Status: Draft**
 
-- **Last substantive update:** 2026-09-03
+- **Last substantive update:** 2026-09-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 
+Welcome—whether you are new to these questions or have been thinking about
+them for a while. You can start with everyday concerns, follow your curiosity,
+and take the technical detail at your own pace. Questions and good-faith
+disagreement belong here.
+
 These proposed public explanations introduce the project's current empirical
-research framework. Disa has reviewed them as project owner; they remain
-Draft and are not adopted scientific findings, ethical positions, legal
-conclusions, or policy.
+research framework. Disa reviewed the earlier education set as project owner;
+the WC058 welcome revisions await her review. The pages remain Draft and are
+not adopted scientific findings, ethical positions, legal conclusions, or policy.
 
 The starting question is:
 

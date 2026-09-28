@@ -5,6 +5,7 @@
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Date prepared:** 2026-08-23
+- **Last substantive update:** 2026-09-28
 - **Scope:** Conceptual principles for responsible coexistence with robots and
   other machines in shared physical spaces
 - **Authority:** Prepared for Disa's review; not adopted
@@ -18,6 +19,11 @@
 > robot is conscious or has preferences.
 
 ## Purpose
+
+Welcome can begin with everyday care: making shared spaces understandable,
+considering who may feel unsure or excluded, and treating people, animals,
+and robots with patience and respect. Nobody needs to prove a robot has an
+inner life before choosing to avoid gratuitous cruelty.
 
 Robot Welcome explores how people, organizations, AI systems, and robots might
 share physical spaces safely, respectfully, and responsibly. Its foundation is

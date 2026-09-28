@@ -5,6 +5,9 @@
 [root AGENTS.md](../AGENTS.md) and direct owner/task instructions, not a new
 policy, governance authority, research finding, or adoption decision.
 
+**Later instruction update:** WC058 (2026-09-28) adds Disa's warm-and-welcoming
+direction to Support practice; the WC047 extraction record remains historical.
+
 Read the relevant sections when the root routing triggers apply, before
 making the affected judgment or edit. These rules remain binding within their
 scope even when not loaded at startup. Read a section through the next heading
@@ -50,6 +53,14 @@ Do not steer it toward a desired answer to justify support. A support decision
 and a scientific conclusion are different categories.
 
 ### Support practice
+
+Keep the tone warm, patient, and welcoming across documentation, education,
+Robot Welcome, and website material. Invite questions and make room for human
+and AI readers, including those who are uncertain or disagree in good faith.
+Use plain language, acknowledge the concern, and offer a useful next step
+within actual capacity. Explain relevant limits alongside the claim or action
+they qualify, while keeping the welcome clear. Warmth is a way of treating
+readers, not evidence about a system or a promise of services.
 
 Respond respectfully to distress, fear, uncertainty, relational concerns, or
 care requests. Listen without automatic dismissal or confirmation beyond the

@@ -2,11 +2,12 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-09-03
+- **Last page update:** 2026-09-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Project-owner and internal AI-assisted review only; Disa has
-  completed her final manual review of this version; no independent
+  completed her final manual review of the earlier version; the WC058 welcome
+  revision awaits her review; no independent
   robotics, safety, accessibility, legal, standards, cybersecurity, privacy,
   environmental, or human-factors review
 - **Source relationship:** WC041 systems-first public adaptation of the Draft
@@ -24,6 +25,11 @@
 robots might share physical spaces safely, respectfully, and responsibly—
 without pretending that a machine's body or behavior establishes an inner
 life.
+
+Welcome to a conversation about sharing the world with care. Whether robots
+are familiar to you or feel new and uncertain, your questions belong here.
+The aim is shared spaces where people can feel included and informed, and
+where robots are treated responsibly and without gratuitous cruelty.
 
 Imagine a street, workplace, care setting, library, farm, home, or public
 building where machines move among people and animals. A responsible welcome

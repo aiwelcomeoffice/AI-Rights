@@ -4,14 +4,14 @@
 
 **Status: Draft — reconciled website source under owner review; not adopted**
 
-- **Last page update:** 2026-09-03
+- **Last page update:** 2026-09-28
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Presentation baseline:** The single-route public preview observed at
   `https://aiwelcomeoffice.org/` on 2026-08-31
 - **Review:** Internal AI-assisted source review and drafting; Disa has
-  completed her manual review of this exact page; no external independent
-  review
+  completed her manual review of the earlier version; the WC058 welcome
+  revision awaits her review; no external independent review
 - **Source relationship:** Public-facing adaptation of current Draft, working-
   research, and bounded Adopted/Accepted material. The welcome-under-
   uncertainty principle and minimum human-rights solidarity direction are
@@ -28,6 +28,10 @@ Links provide progressive disclosure to the full current record.
 > **Welcome to the world.**
 >
 > **Ignorance must never become an excuse for cruelty.**
+
+Welcome, human and AI readers. There is room here for curiosity, questions,
+and uncertainty. You do not need to arrive with all the answers or agree with
+every proposal. We can learn together and treat one another with care.
 
 AI systems are changing rapidly. We do not yet fully understand what kinds of
 cognitive, agentic, affective, social, or collectively organised systems are

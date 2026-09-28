@@ -32,6 +32,10 @@ citizenship, personhood, political power, unrestricted autonomy, deployment
 approval, scientific classification, or immunity from proportionate safety
 controls. Support choices and scientific conclusions remain separate.
 
+Keep documentation, education, Robot Welcome, and website material warm and
+welcoming. Lead with respectful invitation and practical care; explain relevant
+limits plainly without making welcome depend on proof or agreement.
+
 ## Human rights foundation
 
 Human rights stand independently of any conclusion about AI. AI welfare,

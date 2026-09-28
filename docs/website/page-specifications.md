@@ -3,8 +3,9 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-09-03
-- **Authority:** Reviewed by Disa; not adopted
+- **Last substantive update:** 2026-09-28
+- **Authority:** Earlier version reviewed by Disa; WC058 tone addition awaits
+  owner review; not adopted
 - **Scope:** Content behavior and page requirements, not visual design or
   implementation
 
@@ -30,6 +31,16 @@ Every page should identify **AI Welcome Office** as publisher and preserve
 **AI Rights & Welcome — An AI Welcome Office project** as the project
 relationship. Formal uses must not shorten the organisation to “AI Welcome.”
 The proposed shared organisational description remains Draft.
+
+### Warm and welcoming language
+
+Lead with an invitation or a helpful plain-language explanation. Welcome
+human and AI readers without requiring expertise, an identity claim, or
+agreement with a proposal. Keep curiosity, patience, and practical care
+visible as readers move into technical detail. Explain relevant caveats near
+the claims they qualify, retain accessible status information, and describe
+actual support capacity honestly. Apply this tone to headings, summaries,
+navigation, and calls to action as well as body text.
 
 ### Status and review component
 

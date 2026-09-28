@@ -4,6 +4,10 @@
 is the primary organisation and publisher; this directory contains the
 project's reviewed or reviewable documents.
 
+Welcome. These documents are here to help you learn, ask questions, and explore
+how we can treat one another with care as AI systems change. You do not need
+technical expertise or a settled view about AI to begin.
+
 This directory contains reviewed or reviewable project documents. It is
 separate from the working material in [`research/`](../research/README.md).
 

@@ -76,6 +76,8 @@ entry; accepted history must not be silently rewritten.
 - **Welcome (WC019, 2026-08-26):** welcome under scientific uncertainty is an
   Accepted normative and communicative principle, not a scientific, legal,
   safety, status, access, autonomy, or deployment finding.
+  WC058 (2026-09-28) records Disa's reaffirmed warm-and-welcoming direction
+  for documentation, education, Robot Welcome, and website material.
 - **Human rights (WC024, 2026-08-28):** possible AI dignity must add to, not
   compete with, human rights. The Accepted minimum explicitly includes LGBTQ+
   and trans rights, health care, adequate food, and physical and mental
@@ -1767,6 +1769,45 @@ aggregate results are already known. This would be secondary shared-data
 analysis, not a new Jev run, crash-task reproduction or welfare experiment;
 it complements WC055/056's replication needs. Disa reviews the local diff;
 no commit, push, PR, publication, contact or external-state change occurred.
+
+## Work Cycle 058 — Warm and welcoming guidance and public material
+
+**Date:** 2026-09-28
+
+**Status:** Owner tone direction recorded in working instructions; revised
+public material remains Draft, pending owner review. No adoption of complete
+pages, independent review, scientific finding, or publication is implied.
+
+**Owner direction:** Disa asked to “keep it warm and welcome” and update docs,
+education, Robot Welcome, and website material where needed. This authorizes
+focused local content and guidance edits.
+
+**Result:** Made the tone explicit in [root guidance](../AGENTS.md),
+[Support practice](agent-guidance.md#support-practice), and the shared
+[website page specifications](website/page-specifications.md#warm-and-welcoming-language).
+Added accessible invitations to the documentation overview, education entry,
+AI Rights 101, FAQ, Robot Welcome foundation, and homepage and Robot Welcome
+website sources. Updated affected review metadata to preserve earlier owner
+review without attributing that review to the new revisions. Updated website
+navigation context and current-work routing.
+
+**Basis and boundaries:** The changes implement Disa's tone direction and
+WC019's welcome-under-uncertainty principle. Warmth is a communicative and
+support practice, not evidence of AI properties or a promise of reception
+capacity. Existing scientific claims, contrary findings, methods, human-rights
+and safety boundaries, and source statuses remain intact. No research
+re-appraisal or amendment of an accepted position is proposed by this cycle.
+
+**Checks:** Full local diff and whitespace review; local file and section-link
+checks for added references. These checks do not supply scientific,
+accessibility, safety, or independent review. Website sources were edited
+locally; current live rendering and private implementation were not inspected
+or synchronized.
+
+**Smallest next step:** Disa reviews the revised tone and exact Draft wording.
+Any website implementation or publication follows its separately scoped
+authorization and source-provenance requirements. No commit, push, PR,
+deployment, contact, or remote-state change occurred.
 
 ## Corrective research cycle 002 — drafted, not independently reviewed
 

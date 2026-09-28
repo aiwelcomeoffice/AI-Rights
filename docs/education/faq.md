@@ -2,6 +2,9 @@
 
 **Status: Draft**
 
+Questions are welcome here, including the ones you are still finding words
+for. You can read in any order and follow the links when you want more detail.
+
 These answers explain the current Draft approach of AI Rights & Welcome. They
 are not adopted scientific, ethical, legal, or policy conclusions. For a
 longer introduction, start with [AI Rights 101](ai-rights-101.md); for working

@@ -3,15 +3,17 @@
 **Status: Draft**
 
 - **Date prepared:** 2026-08-23
-- **Last substantive update:** 2026-09-03
+- **Last substantive update:** 2026-09-28
 - **Scope:** First-visit experience architecture, source mapping, historical
   route analysis, page safeguards, and eleven website source Drafts; no
   implementation or publication decision
-- **Authority:** Reviewed by Disa; not adopted
+- **Authority:** Earlier material reviewed by Disa; WC058 additions await
+  owner review; not adopted
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa has
-  completed her final manual review; no external independent human or
+  completed her final manual review of the earlier material; WC058 additions
+  await her review; no external independent human or
   separately commissioned independent AI review
 
 This directory prepares a future AI Welcome Office website for its **AI Rights
@@ -52,6 +54,12 @@ work cycle.
 > public repository, and limits interaction to a few educational candidates.
 > Disa has reviewed this direction. No private implementation, publication,
 > or deployment is authorized.
+
+**Warm welcome — 2026-09-28:** Disa reaffirmed a warm and welcoming tone
+across documentation, education, Robot Welcome, and website material. WC058
+adds warmer openings to the homepage and Robot Welcome source and makes the
+tone explicit in the shared page specifications. These local Draft revisions
+await owner review and do not record a live-site update.
 
 ## Deliverables
 
