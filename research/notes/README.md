@@ -27,6 +27,10 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [Weco AIDE²: recursive improvement of a research-agent
+  harness](weco-aide2-recursive-research-agent-improvement-2026.md) — **Partly
+  verified 2026-09-29 working note; bounded harness-improvement and held-out
+  evidence, inconclusive ignition test, no adopted RSI or welfare conclusion**
 - [OpenAI Medicare portal event and related AIHW agent
   traces](openai-medicare-agent-boundary-circumvention-2026.md) — **Partly
   verified 2026-09-27 working note; separates the government's 18 June
