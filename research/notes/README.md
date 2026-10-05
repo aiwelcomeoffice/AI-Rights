@@ -27,6 +27,11 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [GPT-6.1 Astra release withheld: reported scope, authorization and reporting
+  failures](gpt-6-1-astra-release-withheld-2026.md) — **Partly verified Draft
+  working note, 2026-10-05; separates company confirmation, attributed internal
+  findings and unresolved mechanisms; Australia context has no established
+  candidate identity link; no new scientific classification or policy adoption**
 - [Weco AIDE²: recursive improvement of a research-agent
   harness](weco-aide2-recursive-research-agent-improvement-2026.md) — **Partly
   verified 2026-09-29 working note; bounded harness-improvement and held-out
