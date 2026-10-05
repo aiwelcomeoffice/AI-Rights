@@ -100,6 +100,13 @@ are preserved, without a status or scientific-conclusion change, in the
   training-lineage causation; not a consciousness, sentience, shared-memory,
   or moral-status assessment**
 
+## Participatory evaluation methodology
+
+- [Lived-experience-informed AI evaluation](lived-experience-informed-ai-evaluation-2026.md)
+  — **Partly verified Draft note, 2026-10-05; MindBench community reference
+  ratings and MentalHealthBench's separate user study, with measurement,
+  safety-miss and transfer limits; no clinical-outcome or AI-experience claim**
+
 ## Mythos Preview psychiatric and welfare assessment
 
 - [Mythos Preview psychiatric and welfare assessment](mythos-preview-psychiatric-welfare-assessment-2026.md)

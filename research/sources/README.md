@@ -20,6 +20,15 @@ evidence-search inclusion date, temporal applicability, and transferability
 limits. A publication, access, inclusion, or record-update date does not extend
 a finding to systems not studied.
 
+## Participatory evaluation methodology
+
+- [MindBench framework, corrected 2025 paper](dwyer-mindbench-framework-2025.md)
+  — **Partly verified methodological background; no current-system result**
+- [MindBench Community Benchmark v0.2.1](mindbench-community-benchmark-2026.md)
+  — **Partly verified methods and public aggregates; no clinical validation**
+- [MentalHealthBench, September 2026 release](openai-mentalhealthbench-2026.md)
+  — **Partly verified corporate report; separate user/expert comparison**
+
 ## Historical AI consciousness baseline records
 
 The 21 partly verified source records prepared for the dated consciousness
