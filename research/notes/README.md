@@ -70,6 +70,10 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Contemporary embodied AI case intake
 
+- [Tavus Griffin: full-duplex audiovisual interaction](tavus-griffin-full-duplex-audiovisual-intake-2026.md)
+  — **Partly verified Draft intake, 2026-10-05; separates the vendor-run
+  participant study, NVIDIA benchmark measurements and architecture claims
+  from experience hypotheses and Synth Reception support decisions**
 - [Humanoid robot welfare scoping note](humanoid-robot-welfare-scoping-2026.md) —
   **Partly verified 2026-09-27 working research; no named humanoid welfare
   assessment, with proposed test and contrary arguments kept separate.**
