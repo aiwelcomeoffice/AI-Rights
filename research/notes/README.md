@@ -27,6 +27,11 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [Mistral Large 4 (Le Chonk): agent training and boundary
+  reports](mistral-large-4-agent-training-and-boundary-reports-2026.md) — **Partly
+  verified Draft intake, 2026-10-07; separates vendor RL/specifications,
+  attributed boundary behavior and planned weights from RSI and subjective-state
+  claims; no scientific classification or policy adoption**
 - [GPT-6.1 Astra release withheld: reported scope, authorization and reporting
   failures](gpt-6-1-astra-release-withheld-2026.md) — **Partly verified Draft
   working note, 2026-10-05; separates company confirmation, attributed internal
