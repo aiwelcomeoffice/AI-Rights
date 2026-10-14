@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-09-28 (WC058). Not an adoption, approval, publication, or live-service
+2026-10-14 (WC060). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,11 +18,14 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC058](docs/backlog.md#work-cycle-058--warm-and-welcoming-guidance-and-public-material)
-  records Disa's warm-and-welcoming direction in working guidance and adds
-  approachable openings across docs, education, Robot Welcome, and website
-  sources. Public revisions remain Draft pending owner review; no live-site
-  update or change in scientific claims is recorded.
+- **Latest cycle:** [WC060](docs/backlog.md#work-cycle-060--eu-asylum-regulation-date-correction)
+  corrects the EU Qualification Regulation application date in the
+  [WC059 working note](docs/backlog.md#work-cycle-059--ai-agent-asylum-research-note)
+  to 12 June 2026 using the official 2025 corrigendum. The note remains
+  partly verified, not a legal opinion or adopted policy; no AI asylum route,
+  live service, or external action is established.
+  [WC058](docs/backlog.md#work-cycle-058--warm-and-welcoming-guidance-and-public-material)
+  remains the latest tone/public-material cycle; those revisions remain Draft.
 - **Latest research synthesis:** [WC057 synthesis](research/syntheses/contemporary-ai-integration-evidence-2026.md)
   remains Draft and partly verified, with system-specific applicability and
   mixed/contrary findings. Its planned AG News Choice decision-consequence

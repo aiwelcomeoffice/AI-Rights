@@ -1809,6 +1809,74 @@ Any website implementation or publication follows its separately scoped
 authorization and source-provenance requirements. No commit, push, PR,
 deployment, contact, or remote-state change occurred.
 
+## Work Cycle 059 — AI agent asylum research note
+
+**Date:** 2026-10-14
+
+**Status:** Partly verified working research; owner and independent legal review
+pending. No AI asylum right, legal-status proposal, or project policy adopted.
+
+**Owner direction:** Disa requested a research note on agents and AI asylum to
+democratic states and how it might be handled, with substantial research.
+This authorized a local research draft, not an external service or action.
+
+**Result:** Added the [scoped note](../research/notes/ai-agent-asylum-democratic-states-2026.md)
+and eleven [source records](../research/sources/README.md#ai-asylum-and-democratic-state-protection).
+The note compares the international refugee framework with applicable EU,
+US and Canadian texts, separates current law from inference and a proposed
+protective inquiry, records disagreement on AI legal status, and makes human
+rights, privacy, safety, accountability, copying and representation explicit.
+It treats a private AI-asylum site as an unverified advocacy example, not a
+legal authority or vetted service.
+
+**Claim and method boundary:** The search is a bounded English-language
+scoping review ending 2026-10-14, not a systematic or global legal survey.
+The interpretation that the checked law offers no established AI-agent
+asylum route is limited to those texts and awaits expert review. No empirical
+AI system, consciousness, welfare, identity, or agency conclusion changed.
+The protocol remains 0.6-draft. Specific rights and legal personhood remain
+deferred; the Draft protection framework and accepted welcome/human-rights
+commitments are not amended.
+
+**Checks and open work:** Source locators, dates, scope labels, note/registry
+links and the local diff were checked. Independent legal and scientific
+review, any destination-state case law, and a case-specific data/security
+analysis remain open before public or operational reliance. No commit, push,
+PR, publication, contact, deployment, or remote-state change occurred.
+
+**Smallest next step:** Disa reviews the note. A specific state or actual AI
+case would warrant its own authorized legal and system-specific inquiry.
+
+## Work Cycle 060 — EU asylum regulation date correction
+
+**Date:** 2026-10-14
+
+**Status:** Local correction to partly verified WC059 working research; no
+legal opinion, policy adoption, or independent review.
+
+**Review trigger:** Disa supplied a review identifying an incorrect
+application date for Regulation (EU) 2024/1347 and recommending that the
+official 2025 corrigendum be reflected in the note and source material. The
+review also proposed separating documentation of an AI report from permission to
+copy, transfer or run the system.
+
+**Result:** Corrected the [AI asylum note](../research/notes/ai-agent-asylum-democratic-states-2026.md)
+from 1 July to **12 June 2026**, with a direct reference to the [Official
+Journal corrigendum](../research/sources/eu-qualification-regulation-corrigendum-2025-90926-ai-asylum-2026.md)
+of 25 November 2025, item 2, correcting Article 42, second paragraph.
+Updated the [regulation source record](../research/sources/eu-qualification-regulation-2024-1347-ai-asylum-2026.md)
+to distinguish the original text, corrigendum and corrected consolidation.
+Clarified that a lawfully received minimal report may be documented and
+assessed separately from authorizing copying, cross-border transfer or
+execution. The source registry now lists the twelfth source record.
+
+**Effect and limits:** Corrects a legal date and source provenance; the
+scoped inference about existing AI-agent asylum routes, search method,
+scientific claims, Draft policy status, and human-rights commitments do not
+change. The note remains partly verified and needs owner and independent
+legal review before public or case-specific reliance. No external action,
+commit, push, PR or publication is recorded.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

@@ -11,6 +11,25 @@ quality and independence for the relevant claim, disclose funding and
 conflicts, and distinguish what it supports from what it does not support.
 Inclusion is not endorsement.
 
+## AI asylum and democratic-state protection
+
+The [working note](../notes/ai-agent-asylum-democratic-states-2026.md) uses
+these partly verified, source-specific records. Legal interpretations remain
+unreviewed and are not project positions:
+
+- [1951 Refugee Convention and 1967 Protocol](un-refugee-convention-protocol-ai-asylum-2026.md)
+- [Universal Declaration of Human Rights, article 14](un-udhr-article-14-ai-asylum-2026.md)
+- [EU Qualification Regulation 2024/1347](eu-qualification-regulation-2024-1347-ai-asylum-2026.md)
+- [2025 corrigendum to EU Qualification Regulation 2024/1347](eu-qualification-regulation-corrigendum-2025-90926-ai-asylum-2026.md)
+- [US asylum provisions](us-asylum-statutes-ai-asylum-2026.md)
+- [Canada Immigration and Refugee Protection Act](canada-irpa-ai-asylum-2026.md)
+- [EU AI Act](eu-ai-act-ai-asylum-2026.md)
+- [Council of Europe AI Framework Convention](coe-ai-framework-convention-ai-asylum-2026.md)
+- [EU GDPR](eu-gdpr-ai-asylum-2026.md)
+- [European Parliament robotics resolution](eu-parliament-robotics-resolution-ai-asylum-2026.md)
+- [EESC AI-personality opinion](eesc-ai-personality-opinion-ai-asylum-2026.md)
+- [Private AI Asylum site self-description](ai-asylum-private-site-2026.md)
+
 While the protocol remains a Draft, every record should identify the protocol
 version used and its own verification status. Record preprint, correction,
 retraction, publication, legal, system, and access versions where relevant.

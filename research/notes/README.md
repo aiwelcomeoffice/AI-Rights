@@ -13,6 +13,14 @@ questions. Mark every unchecked quotation or claim **TODO: verify**.
 
 Notes are working material, not project conclusions.
 
+## AI asylum and democratic-state protection
+
+- [AI agents, asylum, and democratic-state protection](ai-agent-asylum-democratic-states-2026.md)
+  — **Partly verified Draft working note, 2026-10-14**; bounded comparison of
+  international, EU, US and Canadian sources, with a separate protective-inquiry
+  proposal. No AI asylum right, scientific classification, state service, or
+  project policy is adopted.
+
 For empirical AI evidence, notes must carry forward the source's actual
 system/version and observation period. If the experiment date is not reported,
 say so and use a documented system/version date only as an explicitly labelled
