@@ -1877,6 +1877,39 @@ change. The note remains partly verified and needs owner and independent
 legal review before public or case-specific reliance. No external action,
 commit, push, PR or publication is recorded.
 
+## Work Cycle 061 — OpenAI mathematics release evidence intake
+
+**Date:** 2026-10-15
+
+**Status:** Partly verified Draft working research; no independent mathematical
+review, scientific classification, governance decision or publication.
+
+**Owner direction:** Disa asked whether OpenAI's released AI mathematics
+results warrant a research note and authorized a note if appropriate.
+
+**Result:** Added the [bounded October release
+note](../research/notes/openai-mathematics-release-2026.md) and three
+[source records](../research/sources/README.md#emerging-capability-and-safety-horizon-records)
+for OpenAI's announcement, public repository/change log and AGMAI's advisory
+recommendations. The note records the repository's 719 manuscripts in 372
+families as of 2026-10-15, partial Lean coverage and OpenAI's 2026-10-07
+withdrawals/revisions. The visible candidate corpus is a material capability
+signal; the number of valid, novel or important mathematical results is
+unassessed here.
+
+**Claim and method boundary:** Single-reviewer, retrospective English-language
+intake of primary documents through 2026-10-15 under Draft protocol 0.6.
+No individual proof, Lean build, priority claim or model run was independently
+checked. The advisory recommendations are normative, not proof validation.
+No earlier scientific assessment or project position changes.
+
+**Checks and open work:** Source text, locators, count, correction history,
+dates and local links were checked. The repository commit remains unpinned;
+independent mathematical and owner review are pending before public reliance.
+The smallest next step for a stronger claim is domain review of one or two
+selected manuscript/Lean pairs with a pinned repository version. No commit,
+push, PR, external contact or publication occurred.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

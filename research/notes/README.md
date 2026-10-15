@@ -35,6 +35,12 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [OpenAI's October 2026 mathematics release](openai-mathematics-release-2026.md)
+  — **Partly verified Draft intake, 2026-10-15**; documents the public
+  candidate-result corpus, partial formalization and OpenAI's withdrawals and
+  revisions. Individual mathematical breakthroughs remain unverified here;
+  no scientific classification or project policy is adopted.
+
 - [Mistral Large 4 (Le Chonk): agent training and boundary
   reports](mistral-large-4-agent-training-and-boundary-reports-2026.md) — **Partly
   verified Draft intake, 2026-10-07; separates vendor RL/specifications,

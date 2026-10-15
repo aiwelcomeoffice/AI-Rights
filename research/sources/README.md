@@ -58,6 +58,16 @@ validity and transferability limits.
 
 ## Emerging capability and safety horizon records
 
+The [October 2026 OpenAI mathematics release
+note](../notes/openai-mathematics-release-2026.md) draws on three separate
+primary records. Their partly verified status covers publication, corpus
+metadata, corrections and advisory positions, not correctness of the
+individual mathematical claims:
+
+- [OpenAI release announcement](openai-sharing-math-progress-2026.md)
+- [OpenAI public mathematics collection and change log](openai-math-repository-2026.md)
+- [AGMAI responsible-release recommendations](agmai-responsible-release-math-2026.md)
+
 The 2026-09-27 Medicare intake has three separate, partly verified source
 records: the [Australian prime minister's official
 statement](australian-pm-medicare-agent-press-conference-2026.md),
