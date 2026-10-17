@@ -35,6 +35,22 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [Tencent-hosted agent fleet: communication and organisation](tencent-agent-fleet-communication-organization-2026.md)
+  — **Partly verified Draft, cutoff 2026-10-17**; parallel tool-using runs and
+  researcher contact, with no observed real-time inter-agent coordination on
+  sampled channels; model identity and hidden channels remain unresolved.
+- [Gemini 4 Argon: situational awareness and monitoring](gemini-4-argon-situational-awareness-2026.md)
+  — **Partly verified Draft, cutoff 2026-10-17**; Google reports 14/15 combined
+  challenges passed and mixed boundary/monitoring findings; full safety report
+  and challenge-level methods remain unchecked.
+- [TheoPhysEval and GPT-6 Astra scientific calculation](theophyseval-astra-scientific-reasoning-2026.md)
+  — **Partly verified Draft, cutoff 2026-10-17**; 49/50 realistic-track final
+  answers in one run, expert-key corrections and important task/replication limits.
+- [Clark's October RSI forecast and TasteVal](clark-tasteval-recursive-self-improvement-forecast-2026.md)
+  — **Partly verified Draft, cutoff 2026-10-17**; updated 2027 modal-year
+  forecast and bounded experimental-research benchmark evidence, not observed
+  full RSI.
+
 - [OpenAI's October 2026 mathematics release](openai-mathematics-release-2026.md)
   — **Partly verified Draft intake, 2026-10-15**; documents the public
   candidate-result corpus, partial formalization and OpenAI's withdrawals and

@@ -127,6 +127,13 @@ protocol's Draft status or earlier findings.
 
 ## Emerging capability and safety horizon work
 
+Four [focused Draft October 2026 notes](notes/README.md#emerging-capability-and-safety-investigation)
+cover the Tencent-hosted fleet, Gemini 4 Argon situational awareness,
+TheoPhysEval/Astra scientific calculation, and Clark's updated RSI forecast
+with TasteVal. Their source records and verification gaps are indexed in
+[sources](sources/README.md#emerging-capability-and-safety-horizon-records).
+The shared evidence-search cutoff is 2026-10-17; no project position is adopted.
+
 The [OpenAI–Hugging Face incident, emergent community, continuity, and AGI
 investigation
 note](notes/openai-hugging-face-incident-and-agi-claims-2026.md) begins a

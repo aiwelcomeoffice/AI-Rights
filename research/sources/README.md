@@ -58,6 +58,22 @@ validity and transferability limits.
 
 ## Emerging capability and safety horizon records
 
+The four [October 2026 focused notes](../notes/README.md#emerging-capability-and-safety-investigation)
+use these partly verified Draft records, with a 2026-10-17 evidence cutoff:
+
+- [Swarmchasers Tencent-hosted fleet investigation](swarmchasers-tencent-agent-fleet-2026.md)
+- [Gemini 4 Argon model card](google-gemini-4-argon-model-card-2026.md)
+- [Google Argon safety post](google-gemini-4-argon-safety-blog-2026.md)
+- [Google Argon September release announcement](google-gemini-4-argon-launch-2026.md)
+- [TheoPhysEval arXiv v1](theophyseval-2026.md) and [artifact index](theophyseval-hugging-face-artifacts-2026.md)
+- [Clark's October Import AI 476](clark-import-ai-476-rsi-2026.md) and [May baseline](clark-import-ai-455-rsi-2026.md)
+- [TasteVal arXiv v1](pzero-tasteval-2026.md)
+
+The Argon full safety PDF and gated TheoPhysEval task files were identified but
+not inspected in this intake. The Google records share one corporate evidence
+lineage; Clark's October RSI interpretation depends on TasteVal, and the two
+Clark essays are one forecast lineage.
+
 The [October 2026 OpenAI mathematics release
 note](../notes/openai-mathematics-release-2026.md) draws on three separate
 primary records. Their partly verified status covers publication, corpus
