@@ -1910,6 +1910,33 @@ The smallest next step for a stronger claim is domain review of one or two
 selected manuscript/Lean pairs with a pinned repository version. No commit,
 push, PR, external contact or publication occurred.
 
+## Work Cycle 062 — PHP2Shell evidence intake
+
+**Date:** 2026-10-21
+
+**Status:** Partly verified Draft research; independent security review pending.
+
+**Owner direction:** Disa requested a dated PHP2Shell note covering confirmed
+impact, released fixes, participant contributions, disclosure, capability and
+governance implications, with no exploit instructions or policy changes.
+
+**Result:** Added the [research note](../research/notes/php2shell-ai-assisted-vulnerability-discovery-2026-10-21.md),
+ten source records and research-index links. Primary maintainer, researcher,
+provider and survey material is separated by evidential role. The note retains
+source discrepancies and separates documented outcomes from model attribution,
+interpretation and normative proposals.
+
+**Method and limits:** Bounded English-language documentary intake through
+2026-10-21 under Draft protocol 0.6; no model run or exploit reproduction.
+No existing scientific assessment, instruction, policy or project decision
+changes. Source revisions are unpinned; independent review remains open.
+
+**Checks and next step:** Scoped primary-source paraphrases, dates, locators,
+local links and complete diff checked. The smallest next step for stronger
+attribution is independent review of one dated discovery trajectory and its
+human/model/tool contributions. No commit, push, external contact or
+publication occurred.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

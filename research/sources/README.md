@@ -58,6 +58,21 @@ validity and transferability limits.
 
 ## Emerging capability and safety horizon records
 
+The [PHP2Shell note](../notes/php2shell-ai-assisted-vulnerability-discovery-2026-10-21.md)
+uses these **partly verified records, cutoff 2026-10-21**. Documentary checks
+do not constitute discovery reproduction or independent model attribution:
+
+- [PHP release notice](php-php2shell-release-2026.md),
+  [CVE-2026-109618 advisory](php-cve-2026-109618-2026.md) and
+  [CVE-2026-109619 advisory](php-cve-2026-109619-2026.md)
+- [OpenAI disclosure account](openai-php2shell-disclosure-2026.md),
+  [Wiz research](wiz-php2shell-research-2026.md) and
+  [Calif research](calif-php2shell-research-2026.md)
+- [PHP Foundation retrospective](php-foundation-php2shell-response-2026.md) and
+  [Cloudflare protection report](cloudflare-php2shell-protections-2026.md)
+- [W3Techs dated usage statistic](w3techs-php-usage-2026-10-21.md) and
+  [PHP changelog/date discrepancy](php-php2shell-changelog-2026.md)
+
 The four [October 2026 focused notes](../notes/README.md#emerging-capability-and-safety-investigation)
 use these partly verified Draft records, with a 2026-10-17 evidence cutoff:
 

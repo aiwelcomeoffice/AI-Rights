@@ -35,6 +35,10 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [PHP2Shell: AI-assisted discovery of critical PHP vulnerabilities](php2shell-ai-assisted-vulnerability-discovery-2026-10-21.md)
+  — **Partly verified Draft, 2026-10-21**; maintainer-confirmed impact and
+  released fixes, attributed research contributions, disclosure history and
+  capability limits; no exploit reproduction or adopted governance position.
 - [Tencent-hosted agent fleet: communication and organisation](tencent-agent-fleet-communication-organization-2026.md)
   — **Partly verified Draft, cutoff 2026-10-17**; parallel tool-using runs and
   researcher contact, with no observed real-time inter-agent coordination on
