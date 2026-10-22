@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-10-21 (WC062). Not an adoption, approval, publication, or live-service
+2026-10-22 (WC063). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,7 +18,11 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC062](docs/backlog.md#work-cycle-062--php2shell-evidence-intake)
+- **Latest cycle:** [WC063](docs/backlog.md#work-cycle-063--php2shell-retrospective-compromise-addendum)
+  adds conditional prior-compromise, persistence and key-exposure analysis to
+  the PHP2Shell note, with scoped rechecks through 2026-10-22. It establishes
+  no actual key theft or compromise and changes no policy.
+  [WC062](docs/backlog.md#work-cycle-062--php2shell-evidence-intake)
   adds a partly verified PHP2Shell note on confirmed impact, released fixes,
   research contributions, disclosure and capability limits. It records no
   exploit reproduction or adopted governance position.

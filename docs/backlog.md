@@ -1937,6 +1937,30 @@ attribution is independent review of one dated discovery trajectory and its
 human/model/tool contributions. No commit, push, external contact or
 publication occurred.
 
+## Work Cycle 063 — PHP2Shell retrospective-compromise addendum
+
+**Date:** 2026-10-22
+
+**Status:** Partly verified Draft research; no operational investigation or policy adoption.
+
+**Owner direction:** Disa raised the possibility of earlier backdoors and
+private-key theft and supplied a proposed retrospective-compromise addition.
+
+**Result:** Extended the [PHP2Shell note](../research/notes/php2shell-ai-assisted-vulnerability-discovery-2026-10-21.md#retrospective-compromise-persistence-and-cryptographic-key-exposure)
+with conditional persistence, secret exposure and recovery implications.
+Added one contextual recovery-guidance record, three scoped source-recheck
+logs and index updates. Attack attempts, demonstrations and confirmed
+compromise remain separate; prior exploitation and RSA-key theft are not
+established. The original capability assessment and earlier cutoffs are preserved.
+
+**Checks and limits:** Primary passages and contextual guidance checked;
+local links, whitespace and full diff reviewed. No exploit, host or log
+investigation occurred. This is a bounded extension, not comprehensive
+incident surveillance. The smallest next step for a stronger compromise
+claim is an authorised, evidence-preserving investigation of a defined
+deployment and its key/credential exposure. No existing decision or policy
+changed; no commit, push or publication occurred.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

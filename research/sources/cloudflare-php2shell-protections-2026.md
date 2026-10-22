@@ -2,7 +2,8 @@
 
 - **Record ID / status:** SRC-PHP2SHELL-2026-08; Partly verified Draft
 - **Protocol version:** 0.6-draft
-- **Created / updated / accessed / status checked:** 2026-10-21
+- **Created / initial access / initial status check:** 2026-10-21
+- **Last updated:** 2026-10-22; bounded recheck below
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted research intake)
@@ -30,3 +31,5 @@
 ## Verification and review log
 
 2026-10-21, Codex: checked page identity, accessible passages and scoped paraphrases; documentary verification only. No source exploit or model run executed. **TODO: verify:** deployed coverage and effectiveness with appropriate authorized evidence; distinguish attempts, detections and compromises. Independent security and owner review remain pending.
+
+**2026-10-22 bounded recheck:** Opening paragraphs reporting observed attack traffic and payload mutation were rechecked. This is a provider observation claim, not proof of successful compromise, persistent implants or secret theft. No underlying telemetry, immutable revision or complete change-history comparison was inspected; deployment/effectiveness claims were not independently validated. Other extraction retains its original boundary.

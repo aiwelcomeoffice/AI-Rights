@@ -73,6 +73,11 @@ do not constitute discovery reproduction or independent model attribution:
 - [W3Techs dated usage statistic](w3techs-php-usage-2026-10-21.md) and
   [PHP changelog/date discrepancy](php-php2shell-changelog-2026.md)
 
+The **2026-10-22 bounded addendum** adds [Singapore CSA's contextual
+recovery guidance](singapore-csa-compromise-recovery-context-2025.md) and
+records scoped Wiz, Cloudflare and stale-state advisory rechecks. It does not
+refresh other claims or establish a PHP2Shell compromise or key theft.
+
 The four [October 2026 focused notes](../notes/README.md#emerging-capability-and-safety-investigation)
 use these partly verified Draft records, with a 2026-10-17 evidence cutoff:
 

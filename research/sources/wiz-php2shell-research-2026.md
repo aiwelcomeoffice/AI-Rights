@@ -2,7 +2,8 @@
 
 - **Record ID / status:** SRC-PHP2SHELL-2026-05; Partly verified Draft
 - **Protocol version:** 0.6-draft
-- **Created / updated / accessed / status checked:** 2026-10-21
+- **Created / initial access / initial status check:** 2026-10-21
+- **Last updated:** 2026-10-22; bounded recheck below
 - **Organisation and publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Prepared by:** Codex (AI-assisted research intake)
@@ -34,3 +35,5 @@ Wiz Atlas, Gemini 4 Argon and GPT-5.6 Sol; first finding dated August 19, 2026. 
 ## Verification and review log
 
 2026-10-21, Codex: checked page identity, accessible passages and scoped paraphrases; documentary verification only. No source exploit or model run executed. **TODO: verify:** per-model allocation, failure denominator, mutable container versions, claim corrections and variant mapping. Independent security and owner review remain pending.
+
+**2026-10-22 bounded recheck:** Impact, paragraph beginning “Separately”: Wiz reports a demonstration of sensitive PHP-process memory disclosure without RCE. This supports an exposure possibility, not evidence that private RSA keys were stolen or that production deployments were compromised. Page identity and the scoped passage were rechecked; no immutable revision or complete change-history comparison. Other extracted claims retain the original intake boundary.
