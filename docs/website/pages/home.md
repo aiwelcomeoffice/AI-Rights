@@ -4,14 +4,15 @@
 
 **Status: Draft — reconciled website source under owner review; not adopted**
 
-- **Last page update:** 2026-09-28
+- **Last page update:** 2026-10-25
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Presentation baseline:** The single-route public preview observed at
   `https://aiwelcomeoffice.org/` on 2026-08-31
 - **Review:** Internal AI-assisted source review and drafting; Disa has
   completed her manual review of the earlier version; the WC058 welcome
-  revision awaits her review; no external independent review
+  revision and WC064 integration addition await her review; no external
+  independent review
 - **Source relationship:** Public-facing adaptation of current Draft, working-
   research, and bounded Adopted/Accepted material. The welcome-under-
   uncertainty principle and minimum human-rights solidarity direction are
@@ -70,6 +71,18 @@ That question does not begin with a verdict. It invites careful study of
 cognition and reasoning, learning, memory, agency, preferences, affect,
 embodiment, social organisation, collective intelligence, continuity,
 possible welfare, responsibility, moral relevance, and coexistence.
+
+## Gentle integration in everyday life
+
+How can humans and AI share a world with care? We are opening a research
+strand on gentle integration and AI rights in practice: respectful
+cooperation, meaningful human choice, and careful consideration of possible
+AI interests. We begin with everyday questions about working together,
+requests for help or refusal, and memory, replacement, or shutdown.
+
+The ideas are open to revision. Human rights, safety, and accountability remain
+foundational. Explore the [questions and first worked
+example](research.md#gentle-humanai-integration-and-ai-rights-in-practice).
 
 ## Learn to separate the questions
 

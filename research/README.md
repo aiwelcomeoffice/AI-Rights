@@ -42,6 +42,10 @@ and does not itself establish any scientific conclusion.
   integration map](converging-artificial-system-integration-scope.md) — WC035
   bounded applied-research scope; no literature review, AGI determination, or
   governance framework
+- [Gentle Human–AI Integration and AI Rights in Practice](gentle-human-ai-integration.md)
+  — WC064 Draft research strand and public discussion scope on collaboration,
+  requests for help or refusal, and memory and shutdown; includes a hypothetical
+  worked example, with no empirical findings or adopted rights framework
 - [Historical research boundary](../research-historical/README.md) — dated
   products and pre-2026 empirical targets that remain available to current
   research without becoming default current-system assessments

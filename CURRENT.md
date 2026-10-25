@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-10-22 (WC063). Not an adoption, approval, publication, or live-service
+2026-10-25 (WC064). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,7 +18,14 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC063](docs/backlog.md#work-cycle-063--php2shell-retrospective-compromise-addendum)
+- **Latest cycle:** [WC064](docs/backlog.md#work-cycle-064--gentle-humanai-integration-research-strand-and-website)
+  opens a [Draft gentle human–AI integration and AI rights in practice
+  strand](research/gentle-human-ai-integration.md), with everyday questions, a
+  hypothetical worked example, website-source wording and a scoped local
+  `aiwelcomeoffice` implementation update. A forthcoming Short has a static
+  placeholder; no new video is supplied, empirical finding made, or live
+  publication performed.
+  [WC063](docs/backlog.md#work-cycle-063--php2shell-retrospective-compromise-addendum)
   adds conditional prior-compromise, persistence and key-exposure analysis to
   the PHP2Shell note, with scoped rechecks through 2026-10-22. It establishes
   no actual key theft or compromise and changes no policy.

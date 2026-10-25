@@ -1961,6 +1961,82 @@ claim is an authorised, evidence-preserving investigation of a defined
 deployment and its key/credential exposure. No existing decision or policy
 changed; no commit, push or publication occurred.
 
+## Work Cycle 064 — Gentle human–AI integration research strand and website
+
+**Date:** 2026-10-25
+
+**Status:** Owner-authorized Draft research strand, website-source additions,
+and scoped local implementation in `aiwelcomeoffice`; exact wording awaits
+Disa's review. No empirical findings, adopted rights framework, independent
+review, live publication, or operative consultation are established.
+
+**Owner direction:** Disa asked to add gentle human–AI integration and AI rights
+in practice as a research strand, add it to the website content in this
+repository, and then to the actual `aiwelcomeoffice` website implementation.
+She also requested space for a YouTube Short she will generate later. This
+authorizes the necessary scoped local cross-repository work with unpublished
+Draft input; it supplies no video URL or commit/push instruction.
+
+**Result:** Opened [Gentle Human–AI Integration and AI Rights in
+Practice](../research/gentle-human-ai-integration.md) within the existing
+Adopted applied civic-transition architecture, without amending that
+architecture. The strand defines three starting cases: collaboration,
+requests for help or refusal, and memory/continuity/shutdown. A hypothetical
+request-to-pause example separates observation, interpretation, support,
+accountability, and a proposed review procedure. It is conceptual analysis,
+not an incident report or completed experiment.
+
+Added the strand to the research index, a homepage entry, and a public-facing
+research section with the questions, example, and forthcoming-video wording.
+The private implementation follows these sources on its existing homepage and
+research route, adds the shared navigation link, and gives the existing
+portrait-video component an empty state. That state has no player, external
+request, or invented watch link. Prior supplied videos retain their embeds.
+
+**Provenance and review:** AI-Rights started clean at local base
+`4c94dcf17108ef9302697ef3d4ef8f0f47d5517c`; `aiwelcomeoffice` started clean
+at `1c1c57d838f90fa5b688cd52f364b73f920ca9fb`. These observations do not
+verify either public remote head. The implementation source-state record names
+the authoritative uncommitted Draft inputs and preserves earlier evidence
+and welcome-source revisions. Earlier owner review is not attributed to the
+new wording. No independent scientific, legal, affected-party, or accessibility
+review is claimed.
+
+**Claim and method boundaries:** This is a bounded research/discussion scope;
+it performs no literature search, evidence appraisal, experiment, legal survey,
+or consultation. It uses the relevant Draft protocol 0.6-draft scoping
+guidance without changing the protocol. Actual evidence collection needs its
+own registered question, system, sources, comparators, and applicable review.
+Respectful support does not require scientific classification. Possible AI
+interests, informed consent, identity continuity, moral rights, and legal
+rights remain distinct questions. Human rights, meaningful human choice,
+safety controls, animal/environmental interests, and human/institutional
+accountability remain explicit. Restricted or no integration, contrary and null
+findings, and rejection or revision of a protection are legitimate outcomes.
+No earlier empirical assessment or accepted position requires amendment here.
+
+**Checks:** Complete local diff, source/status, and whitespace review passed
+in both repositories. All 106 local Markdown file/section references in the
+affected research and website entry files resolved. The private site's
+`npm run build` and `npm run check:a11y` passed; generated HTML retained four
+routes, valid unique IDs and assets, and 42 resolving local links. New research
+copy was compared with its authoritative source; existing evidence sections,
+prior video IDs and permissions, dependencies, lockfile, and response headers
+are unchanged. The research placeholder has no iframe or remote resource.
+Loopback browser checks with JavaScript disabled passed on all four routes at
+320, 390, 768, and 1440px without horizontal overflow. Desktop/mobile section
+and video-slot screenshots were inspected. External requests were blocked;
+playback and captions were not assessed. These checks do not establish WCAG
+conformance or independent review. Disposable browser tooling/libraries stayed
+in `/tmp`, and the local preview was stopped after review.
+
+**Smallest next step:** Disa reviews the exact source and implementation diff.
+Before any approved publication, her source commit must be identified by exact
+SHA in the implementation provenance and a corresponding immutable strand link
+added to its source library. She can supply the forthcoming Short for a
+meaning/caption check and later inclusion. No commit, push, deployment, external
+contact, intake channel, or remote-state change occurred in this cycle.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

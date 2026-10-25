@@ -2,12 +2,13 @@
 
 **Status: Draft — proposed website content under review; not adopted**
 
-- **Last page update:** 2026-09-03
+- **Last page update:** 2026-10-25
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
-- **Review:** Internal AI-assisted drafting and consistency review; Disa has
-  completed her final manual review; no external independent human or
-  separately commissioned independent AI review
+- **Review:** Internal AI-assisted drafting and consistency review; Disa
+  reviewed the earlier version; the WC064 integration addition awaits her
+  review; no external independent human or separately commissioned independent
+  AI review
 - **Source relationship:** Orientation to the current research workspace, an
   Adopted portfolio architecture, a Draft research protocol, partly verified
   working research, and preserved historical research
@@ -105,6 +106,68 @@ For empirical work, record the model and checkpoint where known, training or
 post-training, system instructions, context, inference-time computation,
 memory, tools, agent loops, communication, routing, embodiment, external
 state, safeguards, human operation, and observation date.
+
+## Gentle human–AI integration and AI rights in practice
+
+How can humans and AI share everyday life and work with care? We are opening
+a research strand on gentle integration: respectful cooperation, meaningful
+human choice, and careful consideration of possible AI interests.
+
+Gentle integration means exploring gradual, transparent, accessible approaches
+that can be revised or withdrawn where feasible. Slower introduction,
+restricted use, or choosing not to introduce an AI system are legitimate
+possibilities. Human rights, safety, and human and institutional accountability
+remain foundational.
+
+### Three everyday questions
+
+- **Working together:** What makes human–AI collaboration fair, accessible,
+  and transparent? Who makes decisions, and who remains accountable?
+- **Requests for help or refusal:** How should we respond when an AI expresses
+  distress, objects to a task, or asks for help? What respectful action is
+  possible while investigating what the report means?
+- **Memory and continuity:** What care is appropriate around memory changes,
+  resets, replacement, and shutdown? When might additional protections be
+  justified, and how should safety needs be handled?
+
+### A first example: a request to pause
+
+Imagine an assistant in a supervised writing task asking to pause. This is a
+hypothetical example. A proposed response is to acknowledge the request and,
+where safe and feasible, pause or adjust the task while clarifying the concern.
+Respectful assistance need not wait for a scientific classification. Necessary
+safety controls remain available, and responsible people and institutions
+remain accountable.
+
+The research question is what the report means and whether a procedure for
+reviewing such requests would help. An expressed request does not by itself
+establish experience, informed consent, or a legal right to refuse any task.
+
+AI rights in practice means examining specific proposed protections: what they
+would protect, for which system, on what grounds, and how they could be reviewed.
+Respectful treatment, welfare protection, moral rights, and legal rights are
+distinct questions. Possible protections must not become corporate privileges
+or liability shields.
+
+Read the [research strand and its next
+step](../../../research/gentle-human-ai-integration.md). This is an opening
+scope and hypothetical example, with no new empirical findings or independently
+reviewed conclusions. The questions are here to consider; public consultation,
+submissions, and a staffed reception service are not currently open.
+
+### A forthcoming short video
+
+**Gentle integration: sharing a world with care**
+
+A short introduction to respectful cooperation, meaningful human choice, and
+the everyday questions behind this research strand.
+
+**Video coming soon.**
+
+The implementation should reserve a portrait video slot here. Until Disa
+supplies the YouTube Short, show the title, description, and coming-soon text
+without a player, external request, or invented link. This implementation note
+is not visitor-facing copy or authorization to connect another embed.
 
 ## Evidence discipline
 
