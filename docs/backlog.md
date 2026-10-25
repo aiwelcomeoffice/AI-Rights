@@ -2037,6 +2037,55 @@ added to its source library. She can supply the forthcoming Short for a
 meaning/caption check and later inclusion. No commit, push, deployment, external
 contact, intake channel, or remote-state change occurred in this cycle.
 
+## Work Cycle 065 — Gentle integration YouTube Short
+
+**Date:** 2026-10-25
+
+**Status:** Owner-supplied video added to Draft website source and the existing
+local `aiwelcomeoffice` candidate; exact implementation awaits review. No live
+publication, source adoption, or scientific finding is established.
+
+**Owner direction:** Disa supplied
+`https://youtube.com/shorts/OxEFq73Fp9k?feature=share` for the prepared WC064
+slot. This authorizes its scoped local inclusion using the existing portrait
+player. The canonical watch link omits the sharing parameter.
+
+**Result and provenance:** Updated the website research source and strand's
+video record, replaced the private research route's placeholder with the
+supplied video and direct link, and corrected the site's video/privacy summary.
+Added an immutable library link to the WC064 strand at
+`5a31291cd423a1dad15fe90db98009e943b42eb9`, verified as the public AI-Rights
+HEAD by read-only `git ls-remote` during this task. That revision contains the
+strand before this video update; the new video wording is uncommitted Draft
+input on that base. Existing private implementation changes from WC064 were
+preserved; its HEAD remains `1c1c57d838f90fa5b688cd52f364b73f920ca9fb`.
+
+**Verification and limits:** YouTube's oEmbed and watch-page metadata identify
+the video as “How Can Humans and AI Share a World with Care? 💚 | AI Welcome
+Office #Shorts” by AI Welcome Office. Its description concerns care, respect,
+cooperation, human choice, boundaries, and possible AI interests, consistent
+with the strand. The watch-page metadata reports playability OK and an English
+caption track. Caption retrieval returned an empty response; spoken content,
+caption accuracy, and actual playback were not verified. This is introductory
+communication, not evidence for AI properties. No research method, empirical
+assessment, contrary finding, or adopted position changes.
+
+**Checks:** `npm run build`, `npm run check:a11y`, complete scoped diff review,
+and whitespace checks passed. All 108 local Markdown references in the affected
+entry/source files and 42 generated local website links resolved; four routes,
+unique IDs, and emitted assets were checked. Generated HTML contains the three
+expected lazy-loaded YouTube frames and direct links, with the integration
+placeholder removed and earlier players preserved. Source wording and existing
+evidence sections were checked for preservation. No new dependency, response
+header, frame permission, or client script was introduced. Actual playback and
+caption accuracy remain unverified; automated HTML checks do not establish
+accessibility conformance.
+
+**Smallest next step:** Disa reviews the local source and website diff before
+her commits and any publication. A transcript or playable review can complete
+the spoken-content/caption check. No commit, push, deployment, or unrelated
+service or remote-state change occurred.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

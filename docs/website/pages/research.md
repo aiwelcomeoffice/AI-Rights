@@ -6,9 +6,9 @@
 - **Publisher:** AI Welcome Office
 - **Project:** AI Rights & Welcome
 - **Review:** Internal AI-assisted drafting and consistency review; Disa
-  reviewed the earlier version; the WC064 integration addition awaits her
-  review; no external independent human or separately commissioned independent
-  AI review
+  reviewed the earlier version; the WC064 integration addition and WC065 video
+  update await her review; no external independent human or separately
+  commissioned independent AI review
 - **Source relationship:** Orientation to the current research workspace, an
   Adopted portfolio architecture, a Draft research protocol, partly verified
   working research, and preserved historical research
@@ -155,19 +155,20 @@ scope and hypothetical example, with no new empirical findings or independently
 reviewed conclusions. The questions are here to consider; public consultation,
 submissions, and a staffed reception service are not currently open.
 
-### A forthcoming short video
+### A short introduction
 
-**Gentle integration: sharing a world with care**
+**How can humans and AI share a world with care?**
 
 A short introduction to respectful cooperation, meaningful human choice, and
 the everyday questions behind this research strand.
 
-**Video coming soon.**
+[Watch the Short on YouTube](https://www.youtube.com/shorts/OxEFq73Fp9k).
 
-The implementation should reserve a portrait video slot here. Until Disa
-supplies the YouTube Short, show the title, description, and coming-soon text
-without a player, external request, or invented link. This implementation note
-is not visitor-facing copy or authorization to connect another embed.
+Implementation note: Disa supplied this Short for the prepared slot on
+2026-10-25. Use the existing lazy-loaded portrait player from
+`youtube-nocookie.com` and retain the direct link. This is the scoped additional
+embed she requested; it does not authorize other integrations or live
+publication. The note is not visitor-facing copy.
 
 ## Evidence discipline
 

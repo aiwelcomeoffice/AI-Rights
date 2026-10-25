@@ -11,7 +11,8 @@ adopted rights framework**
 - **Owner direction:** Disa requested a research strand on gentle human–AI
   integration and AI rights in practice, website-source content, and a scoped
   local update to the `aiwelcomeoffice` website implementation. She also
-  requested space for a forthcoming YouTube Short; no video URL is supplied.
+  requested space for a YouTube Short and subsequently supplied its link in
+  [WC065](../docs/backlog.md#work-cycle-065--gentle-integration-youtube-short).
 - **Portfolio location:** Active applied civic-transition research within the
   [Adopted portfolio architecture](research-portfolio.md), especially social
   coexistence, conditional protections, workplaces, lifecycle, and accountability
@@ -120,11 +121,15 @@ present the questions in plain language. Readers may consider them without
 agreeing with a proposed answer. Public questions do not imply that a
 consultation, submission channel, or staffed reception service is open.
 
-Reserve a YouTube Short slot titled **Gentle integration: sharing a world with
-care**, with **Video coming soon.** until Disa supplies the video. Do not invent
-a URL or load a player for the placeholder. Any supplied video and captions
-will need a meaning check against the authoritative strand before inclusion;
-creating the slot does not itself authorize an external embed or publication.
+Disa supplied [How can humans and AI share a world with
+care?](https://www.youtube.com/shorts/OxEFq73Fp9k) on 2026-10-25 for the
+prepared portrait-video slot. Its public title and description were checked
+against this strand; YouTube identifies AI Welcome Office as the author and
+advertises an English caption track. The caption-text endpoint returned an
+empty response, so spoken wording and caption accuracy have not been verified.
+The video is introductory communication, not research evidence or an adopted
+rights framework. Its local inclusion uses the existing player configuration;
+it does not authorize live publication or unrelated integrations.
 
 Opening this strand changes no earlier empirical assessment or adopted policy.
 Unresolved issues include how to evaluate possible AI interests, what a
