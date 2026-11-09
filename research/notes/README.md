@@ -115,6 +115,11 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Contemporary embodied AI case intake
 
+- [Artificial muscles, biohybrid robotics, and future AI embodiment](artificial-muscles-biohybrid-robotics-2026.md)
+  — **Partly verified Draft, 2026-11-09**; distinguishes passive printed
+  structures from living-muscle actuation, compares bounded engineering
+  results and later developments, and includes an embedded source register.
+  Autonomy, ethical proposals and moral-status questions remain separate.
 - [Tavus Griffin: full-duplex audiovisual interaction](tavus-griffin-full-duplex-audiovisual-intake-2026.md)
   — **Partly verified Draft intake, 2026-10-05; separates the vendor-run
   participant study, NVIDIA benchmark measurements and architecture claims
