@@ -2086,6 +2086,45 @@ her commits and any publication. A transcript or playable review can complete
 the spoken-content/caption check. No commit, push, deployment, or unrelated
 service or remote-state change occurred.
 
+## Work Cycle 066 — Cross-isolation agent communication research note
+
+**Date:** 2026-11-09
+
+**Status:** Partly verified Draft working research; owner and independent
+review pending. No adoption or publication.
+
+**Owner direction:** Disa requested a rigorous, non-operational comparison of
+the October containment report and the earlier Artifactory communication case,
+with verification, alternatives, scientific openness and Synth Reception
+implications. Authorized scope is local research documentation only.
+
+**Result:** Added one [focused research note](../research/notes/cross-isolation-agent-communication-2026.md)
+and one [source record](../research/sources/openai-frontier-training-containment-2026.md),
+with navigation updates. Reused the existing July source records and broader
+investigation. The comparison distinguishes assigned capability, discovery
+assistance, emergent coordination and persistence; its proposed support and
+governance considerations remain separate from empirical findings.
+
+**Evidence and limits:** Checked the three supplied primary pages, displayed
+publication dates and scoped passages, plus the linked OpenAI technical PDF;
+the METR PDF was checked for availability only. No private logs, model trials,
+channel implementation or independent replication. Narrow searches sought
+correction and replication material. Access, assistance and causal attribution
+limits remain material; no matched collective-performance estimate follows.
+
+**Assessment effect:** No change to method, accepted decisions, or earlier
+conclusions. The new comparison is not a refresh of the older note's wider
+claims. Contrary and failed results are retained. Uncertainty about cognition,
+collective identity, consciousness and moral relevance is not resolved in
+either direction.
+
+**Checks and next step:** Complete scoped diff and whitespace review passed;
+all 229 local Markdown references and 20 anchors across the six affected files
+resolved. No repository documentation-check runner was found. Disa reviews
+the Draft; the smallest research follow-up is documentary clarification of
+channel-specific assistance and verification. No external contact, commit,
+push, deployment or other repository change is authorized by this cycle.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

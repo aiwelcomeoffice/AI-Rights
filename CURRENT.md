@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-10-25 (WC065). Not an adoption, approval, publication, or live-service
+2026-11-09 (WC066). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,7 +18,12 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC065](docs/backlog.md#work-cycle-065--gentle-integration-youtube-short)
+- **Latest cycle:** [WC066](docs/backlog.md#work-cycle-066--cross-isolation-agent-communication-research-note)
+  adds a [partly verified Draft communication comparison](research/notes/cross-isolation-agent-communication-2026.md)
+  and one source record, supplementing the existing Artifactory investigation.
+  No experiment was rerun; earlier assessments and accepted decisions retain
+  their status. Independent and owner review remain pending.
+  [WC065](docs/backlog.md#work-cycle-065--gentle-integration-youtube-short)
   adds Disa's supplied integration Short to the website source and prepared
   local implementation slot. Public title/description were checked; spoken
   wording and caption accuracy remain unverified. No live publication occurred.

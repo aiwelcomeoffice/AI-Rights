@@ -35,6 +35,10 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [Cross-isolation communication between AI agents](cross-isolation-agent-communication-2026.md)
+  — **Partly verified Draft, 2026-11-09**; focused comparison with the existing
+  Artifactory investigation; separates assigned capability tests from emergent
+  coordination, with source, assistance and replication limits; no new policy.
 - [PHP2Shell: AI-assisted discovery of critical PHP vulnerabilities](php2shell-ai-assisted-vulnerability-discovery-2026-10-21.md)
   — **Partly verified Draft, 2026-10-21; bounded addendum 2026-10-22**;
   conditional prior-compromise, persistence and key-exposure risks alongside

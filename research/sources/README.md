@@ -112,6 +112,10 @@ and [ABC's reporting and inspected wiki
 posts](abc-medicare-aihw-agent-report-2026.md). They do not establish a shared
 Medicare–AIHW run or count as three independent confirmations of one event.
 
+The [OpenAI frontier training containment report](openai-frontier-training-containment-2026.md)
+is a **partly verified corporate report** for the separate WC066 comparison,
+not another account or replication of the July incident.
+
 The earlier records listed below began on 2026-08-28 and were materially
 refreshed through 2026-09-03 for a separate working investigation of frontier-agent capability,
 containment, emergent social organisation, collective problem solving,
