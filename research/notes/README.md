@@ -13,6 +13,15 @@ questions. Mark every unchecked quotation or claim **TODO: verify**.
 
 Notes are working material, not project conclusions.
 
+## AI infrastructure governance
+
+- [The Human Vulnerability in AI Infrastructure Governance](human-vulnerability-ai-infrastructure-governance-2026.md)
+  — **Partly verified Draft, 2026-11-10**; Nvidia case study separating the
+  reported chip-distribution and intelligence allegations from public records,
+  denials and unresolved investigations. Examines human oversight, concentrated
+  authority and equitable access; establishes neither guilt nor AI consciousness
+  or rights, and adopts no policy.
+
 ## AI asylum and democratic-state protection
 
 - [AI agents, asylum, and democratic-state protection](ai-agent-asylum-democratic-states-2026.md)

@@ -2167,6 +2167,48 @@ Draft; the smallest follow-up is independent checking of the central source
 extractions and discrepancies before public reliance. Any later experiment,
 contact, expenditure or publication retains its own authorization boundary.
 
+## Work Cycle 068 — Human vulnerability in AI infrastructure governance
+
+**Date:** 2026-11-10
+
+**Status:** Partly verified Draft working research; owner and independent
+review pending. No adoption or publication.
+
+**Owner direction:** Disa requested an evidence-based note on Nvidia, Jensen
+Huang, Alice Huang and the reported distribution network, with explicit
+separation of facts, allegations and speculation and no inference of guilt
+from personal relationships. The objective is to examine how human governance
+failures could undermine safe, accountable and equitable AI development.
+
+**Result:** Added [The Human Vulnerability in AI Infrastructure
+Governance](../research/notes/human-vulnerability-ai-infrastructure-governance-2026.md)
+with 15 embedded source/version records, investigation-status distinctions,
+competing explanations, governance analysis and unresolved questions. Updated
+the notes index and current routing.
+
+**Evidence and limits:** Checked Reuters and AP reporting, Nvidia statements,
+Singapore's clarification, China's denial, a congressional letter, the dated
+US licensing rule and Megaspeed's denial. Espionage and the alleged
+distribution mechanism are not independently established. Original reporting,
+private records and investigation mandates remain incompletely accessible;
+the reported DOJ/BIS transfer requires original/agency verification. The note
+does not infer individual guilt, transaction illegality or a measured national
+AI capability gain.
+
+**Assessment effect:** No earlier finding, accepted decision, scientific
+classification or methodology is amended. The retrospective bounded search
+and embedded-record adaptation of Draft protocol 0.6 are disclosed. Proposed
+safeguards are unadopted; the incident directly establishes nothing about AI
+consciousness or rights. No external action occurred.
+
+**Checks and next step:** Complete scoped diff, source-locator, status and
+whitespace review passed. All 167 local links and 40 fragment targets across
+the four affected files resolved; the note's six tables and 15 sequential
+source records passed structural checks. No repository documentation-check
+runner was found. The smallest follow-up is independent checking of the
+central reporting and investigative records before public reliance; Disa
+reviews the local Draft.
+
 ## Corrective research cycle 002 — drafted, not independently reviewed
 
 **Date:** 2026-08-23; structural follow-up 2026-08-27

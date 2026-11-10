@@ -1,7 +1,7 @@
 # Current work routing
 
 **Status:** Non-authoritative navigation summary; checked against local records
-2026-11-09 (WC067). Not an adoption, approval, publication, or live-service
+2026-11-10 (WC068). Not an adoption, approval, publication, or live-service
 record. Source documents and Disa's scoped instructions control. If this file
 is stale or conflicts with a source, follow the source and correct this summary.
 
@@ -18,7 +18,13 @@ is stale or conflicts with a source, follow the source and correct this summary.
   private `aiwelcomeoffice/aiwelcomeoffice` implements it. Consult the backlog's
   standing rules and the exact approval/source records for such work. This
   summary provides no external-action authorization or live-site verification.
-- **Latest cycle:** [WC067](docs/backlog.md#work-cycle-067--artificial-muscles-and-biohybrid-robotics-research-note)
+- **Latest cycle:** [WC068](docs/backlog.md#work-cycle-068--human-vulnerability-in-ai-infrastructure-governance)
+  adds a [partly verified Draft infrastructure-governance case note](research/notes/human-vulnerability-ai-infrastructure-governance-2026.md)
+  on Nvidia, reported chip distribution and intelligence allegations, and
+  institutional oversight. Espionage and the alleged mechanism remain
+  unestablished here; no guilt finding, policy adoption or publication.
+  Owner and independent review remain pending.
+  [WC067](docs/backlog.md#work-cycle-067--artificial-muscles-and-biohybrid-robotics-research-note)
   adds a [partly verified Draft actuator research note](research/notes/artificial-muscles-biohybrid-robotics-2026.md)
   with embedded source records, engineering comparisons and separate ethical
   proposals. No experiment, adopted classification or publication; owner and
