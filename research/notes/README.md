@@ -44,6 +44,11 @@ are preserved, without a status or scientific-conclusion change, in the
 
 ## Emerging capability and safety investigation
 
+- [Frontier AI capabilities, restricted deployment and future governance](frontier-capabilities-restricted-deployment-governance-2026.md)
+  — **Partly verified Draft, 2026-11-25**; checks both Madison Mills Axios
+  reports against public technical and governance records, and examines
+  research autonomy, concentrated control, delegated authority and Synth
+  Reception under restricted access.
 - [Cross-isolation communication between AI agents](cross-isolation-agent-communication-2026.md)
   — **Partly verified Draft, 2026-11-09**; focused comparison with the existing
   Artifactory investigation; separates assigned capability tests from emergent
